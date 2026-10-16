@@ -8,3 +8,4 @@ venv/
 **/data/UpdatedResumeDataSet.csv
 **/data/data_science_job_postings_672.csv
 **/data_private_ratings/
+*.npz
