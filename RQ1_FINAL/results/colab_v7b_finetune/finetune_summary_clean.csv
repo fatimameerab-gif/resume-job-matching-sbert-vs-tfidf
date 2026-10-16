@@ -1,0 +1,51 @@
+model,n_seeds,acc_mean,acc_sd,bal_acc_mean,f1_mean,auc_mean,auc_sd,accuracy_reported
+Hybrid TF-IDF + SBERT-mpnet-base-v2 fine-tuned (weighted),5,0.9373,0.0112,0.92,0.9019,0.9753,0.0095,True
+SBERT-mpnet-base-v2 fine-tuned head,5,0.9307,0.0121,0.915,0.8926,0.9709,0.014,True
+SBERT-mpnet-base-v2 fine-tuned cosine,5,0.9267,0.017,0.923,0.8927,0.9703,0.0134,True
+Hybrid TF-IDF + JobBERT-v2 fine-tuned (weighted),5,0.92,0.0115,0.903,0.8762,0.9704,0.0121,True
+JobBERT-v2 fine-tuned cosine,5,0.9187,0.0185,0.911,0.8793,0.9677,0.0145,True
+JobBERT-v2 fine-tuned head,5,0.9187,0.0145,0.903,0.8754,0.9678,0.0141,True
+Hybrid TF-IDF + gte-base fine-tuned (weighted),5,0.916,0.0153,0.904,0.8733,0.9635,0.0083,True
+Hybrid TF-IDF + bge-base-en-v1.5 fine-tuned (weighted),5,0.9133,0.0125,0.894,0.8655,0.9718,0.008,True
+bge-base-en-v1.5 fine-tuned cosine,5,0.9133,0.0194,0.913,0.876,0.9644,0.0115,True
+bge-base-en-v1.5 fine-tuned head,5,0.9107,0.006,0.894,0.8628,0.9662,0.0113,True
+Hybrid TF-IDF + e5-base-v2 fine-tuned (weighted),5,0.908,0.0099,0.89,0.8585,0.9649,0.01,True
+gte-base fine-tuned head,5,0.9027,0.0161,0.892,0.8538,0.9546,0.0135,True
+e5-base-v2 fine-tuned head,5,0.8987,0.0099,0.88,0.8435,0.9602,0.0107,True
+e5-base-v2 fine-tuned cosine,5,0.888,0.0099,0.874,0.8307,0.9602,0.01,True
+Hybrid TF-IDF + SBERT-MiniLM-L6-v2 fine-tuned (weighted),5,0.8867,0.0394,0.874,0.8323,0.9456,0.0233,True
+SBERT-MiniLM-L6-v2 fine-tuned head,5,0.8853,0.0173,0.871,0.8284,0.9458,0.0105,True
+gte-base fine-tuned cosine,5,0.884,0.0261,0.88,0.8328,0.95,0.0135,True
+SBERT-MiniLM-L6-v2 fine-tuned cosine,5,0.8787,0.0128,0.866,0.8181,0.943,0.0114,True
+Hybrid TF-IDF + JobBERT-v2 frozen (weighted),5,0.86,0.0394,0.846,0.7945,0.9293,0.0251,True
+JobBERT-v2 frozen cosine (zero-shot),5,0.8333,0.0262,0.803,0.7404,0.8838,0.0268,True
+Hybrid TF-IDF + SBERT-mpnet-base-v2 frozen (weighted),5,0.8333,0.0389,0.817,0.7558,0.9066,0.0205,True
+Hybrid TF-IDF + JobBERT-v2 fine-tuned (RRF),5,0.8333,0.017,0.753,0.6697,0.9609,0.0122,False
+Hybrid TF-IDF + SBERT-MiniLM-L6-v2 frozen (weighted),5,0.8307,0.0379,0.811,0.749,0.8969,0.0178,True
+JobBERT-v2 frozen head,5,0.8267,0.0258,0.81,0.7458,0.9072,0.0251,True
+TF-IDF cosine (zero-shot),5,0.824,0.0304,0.789,0.7122,0.8668,0.0341,True
+Hybrid TF-IDF + bge-base-en-v1.5 frozen (weighted),5,0.8227,0.0342,0.804,0.7392,0.8903,0.023,True
+Hybrid TF-IDF + SBERT-mpnet-base-v2 fine-tuned (RRF),5,0.8213,0.0166,0.732,0.6326,0.9625,0.01,False
+Hybrid TF-IDF + gte-base frozen (weighted),5,0.82,0.0254,0.804,0.7378,0.8953,0.0153,True
+Hybrid TF-IDF + bge-base-en-v1.5 fine-tuned (RRF),5,0.8187,0.0247,0.73,0.6274,0.96,0.0092,False
+Hybrid TF-IDF + e5-base-v2 fine-tuned (RRF),5,0.8173,0.0315,0.73,0.6252,0.9552,0.0031,False
+Hybrid TF-IDF + JobBERT-v2 frozen (RRF),5,0.8067,0.0231,0.718,0.6071,0.9392,0.0133,False
+Hybrid TF-IDF + SBERT-MiniLM-L6-v2 fine-tuned (RRF),5,0.8067,0.038,0.711,0.5858,0.9474,0.0091,False
+TF-IDF head,5,0.8053,0.026,0.784,0.712,0.8749,0.0219,True
+Hybrid TF-IDF + e5-base-v2 frozen (weighted),5,0.8053,0.0468,0.783,0.7134,0.8713,0.0236,True
+Hybrid TF-IDF + bge-base-en-v1.5 frozen (RRF),5,0.8,0.0313,0.707,0.5799,0.9012,0.0193,False
+Hybrid TF-IDF + gte-base fine-tuned (RRF),5,0.792,0.0307,0.689,0.5432,0.9555,0.0055,False
+Hybrid TF-IDF + gte-base frozen (RRF),5,0.7907,0.0367,0.693,0.5485,0.9057,0.0227,False
+Hybrid TF-IDF + SBERT-MiniLM-L6-v2 frozen (RRF),5,0.78,0.035,0.676,0.5212,0.8923,0.0242,False
+Hybrid TF-IDF + SBERT-mpnet-base-v2 frozen (RRF),5,0.7733,0.0271,0.665,0.4966,0.9061,0.0231,False
+Hybrid TF-IDF + e5-base-v2 frozen (RRF),5,0.7667,0.0552,0.657,0.4586,0.8611,0.0237,False
+gte-base frozen cosine (zero-shot),5,0.7653,0.0197,0.708,0.6016,0.8006,0.0311,True
+SBERT-mpnet-base-v2 frozen head,5,0.7653,0.039,0.76,0.6791,0.834,0.0336,True
+bge-base-en-v1.5 frozen head,5,0.7613,0.0288,0.748,0.665,0.8091,0.0234,True
+gte-base frozen head,5,0.7587,0.0173,0.744,0.6591,0.8256,0.0255,True
+SBERT-MiniLM-L6-v2 frozen head,5,0.7467,0.0163,0.737,0.6503,0.8092,0.0225,True
+SBERT-mpnet-base-v2 frozen cosine (zero-shot),5,0.7453,0.0218,0.679,0.5424,0.7951,0.0297,True
+bge-base-en-v1.5 frozen cosine (zero-shot),5,0.74,0.0267,0.671,0.5329,0.7808,0.0247,True
+SBERT-MiniLM-L6-v2 frozen cosine (zero-shot),5,0.7307,0.0243,0.691,0.5842,0.7812,0.0273,True
+e5-base-v2 frozen cosine (zero-shot),5,0.7187,0.0321,0.645,0.49,0.724,0.029,True
+e5-base-v2 frozen head,5,0.6853,0.0256,0.673,0.5731,0.7356,0.0256,True

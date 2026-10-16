@@ -1,0 +1,2 @@
+representation,metric,n_blocks,n_classifiers,friedman_chi2,friedman_p,nemenyi_cd
+bge-base-en-v1.5,mrr,5,8,18.90338164251207,0.008495455868561746,4.695416703894232

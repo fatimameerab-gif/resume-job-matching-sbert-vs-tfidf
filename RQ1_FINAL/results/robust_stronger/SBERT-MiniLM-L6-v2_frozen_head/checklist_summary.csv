@@ -1,0 +1,5 @@
+model,test,n_pairs,n_resumes,passes,pass_rate,ci_lo,ci_hi,pass_rate_fixed_tol_0p02,mean_dscore_z,tolerance
+SBERT-MiniLM-L6-v2 frozen head,DIR_down_foreign,250,135,69,0.276,0.212,0.345,0.276,0.039,sign
+SBERT-MiniLM-L6-v2 frozen head,DIR_up_copy_job,750,135,747,0.996,0.991,1.0,0.996,0.382,sign
+SBERT-MiniLM-L6-v2 frozen head,INV_filler,750,135,597,0.796,0.74,0.848,0.86,0.016,0.1 x SD
+SBERT-MiniLM-L6-v2 frozen head,INV_punct,750,135,405,0.54,0.488,0.594,0.624,0.038,0.1 x SD

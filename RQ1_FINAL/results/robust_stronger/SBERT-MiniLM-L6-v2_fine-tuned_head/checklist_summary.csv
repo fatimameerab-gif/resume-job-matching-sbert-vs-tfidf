@@ -1,0 +1,5 @@
+model,test,n_pairs,n_resumes,passes,pass_rate,ci_lo,ci_hi,pass_rate_fixed_tol_0p02,mean_dscore_z,tolerance
+SBERT-MiniLM-L6-v2 fine-tuned head,DIR_down_foreign,250,135,134,0.536,0.467,0.605,0.536,-0.072,sign
+SBERT-MiniLM-L6-v2 fine-tuned head,DIR_up_copy_job,750,135,747,0.996,0.991,1.0,0.996,0.257,sign
+SBERT-MiniLM-L6-v2 fine-tuned head,INV_filler,750,135,724,0.965,0.949,0.98,0.928,-0.0,0.1 x SD
+SBERT-MiniLM-L6-v2 fine-tuned head,INV_punct,750,135,614,0.819,0.782,0.851,0.711,0.006,0.1 x SD

@@ -1,0 +1,5 @@
+model,test,n_pairs,n_resumes,passes,pass_rate,ci_lo,ci_hi,pass_rate_fixed_tol_0p02,mean_dscore_z,tolerance
+TF-IDF cosine,DIR_down_foreign,250,135,178,0.712,0.649,0.772,0.712,-0.065,sign
+TF-IDF cosine,DIR_up_copy_job,750,135,749,0.999,0.996,1.0,0.999,1.36,sign
+TF-IDF cosine,INV_filler,750,135,701,0.935,0.908,0.957,0.98,0.003,0.1 x SD
+TF-IDF cosine,INV_punct,750,135,729,0.972,0.95,0.99,0.991,-0.008,0.1 x SD

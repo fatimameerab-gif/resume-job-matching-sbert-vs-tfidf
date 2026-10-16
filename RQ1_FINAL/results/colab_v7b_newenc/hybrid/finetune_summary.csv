@@ -1,0 +1,19 @@
+model,n_seeds,acc_mean,acc_sd,bal_acc_mean,f1_mean,auc_mean,auc_sd
+Hybrid TF-IDF + JobBERT-v2 frozen (weighted),5,0.86,0.0394,0.846,0.7945,0.9293,0.0251
+JobBERT-v2 frozen cosine (zero-shot),5,0.8333,0.0262,0.803,0.7404,0.8838,0.0268
+JobBERT-v2 frozen head,5,0.8267,0.0258,0.81,0.7458,0.9072,0.0251
+TF-IDF cosine (zero-shot),5,0.824,0.0304,0.789,0.7122,0.8668,0.0341
+Hybrid TF-IDF + bge-base-en-v1.5 frozen (weighted),5,0.8227,0.0342,0.804,0.7392,0.8903,0.023
+Hybrid TF-IDF + gte-base frozen (weighted),5,0.82,0.0254,0.804,0.7378,0.8953,0.0153
+Hybrid TF-IDF + JobBERT-v2 frozen (RRF),5,0.8067,0.0231,0.718,0.6071,0.9392,0.0133
+Hybrid TF-IDF + e5-base-v2 frozen (weighted),5,0.8053,0.0468,0.783,0.7134,0.8713,0.0236
+TF-IDF head,5,0.8053,0.026,0.784,0.712,0.8749,0.0219
+Hybrid TF-IDF + bge-base-en-v1.5 frozen (RRF),5,0.8,0.0313,0.707,0.5799,0.9012,0.0193
+Hybrid TF-IDF + gte-base frozen (RRF),5,0.7907,0.0367,0.693,0.5485,0.9057,0.0227
+Hybrid TF-IDF + e5-base-v2 frozen (RRF),5,0.7667,0.0552,0.657,0.4586,0.8611,0.0237
+gte-base frozen cosine (zero-shot),5,0.7653,0.0197,0.708,0.6016,0.8006,0.0311
+bge-base-en-v1.5 frozen head,5,0.7613,0.0288,0.748,0.665,0.8091,0.0234
+gte-base frozen head,5,0.7587,0.0173,0.744,0.6591,0.8256,0.0255
+bge-base-en-v1.5 frozen cosine (zero-shot),5,0.74,0.0267,0.671,0.5329,0.7808,0.0247
+e5-base-v2 frozen cosine (zero-shot),5,0.7187,0.0321,0.645,0.49,0.724,0.029
+e5-base-v2 frozen head,5,0.6853,0.0256,0.673,0.5731,0.7356,0.0256

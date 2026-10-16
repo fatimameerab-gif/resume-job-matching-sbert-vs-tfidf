@@ -1,0 +1,747 @@
+seed,resume_id,job_id,label,negative_reason,job_source,resume_category,job_category,resume_family,job_family,resume_words,job_words,who_right,model
+0,5,1093,0,random_other_category,esco,Data Science,Operations Manager,data,business_ops,97,33,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+0,5,1086,0,random_other_category,esco,Data Science,Automation Testing,data,software,97,46,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+0,8,134,1,positive,,Data Science,Data Science,data,data,237,375,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+0,16,680,1,positive,seek_australia,HR,HR,business_ops,business_ops,146,140,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,16,886,0,random_other_category,seek_australia,HR,PMO,business_ops,business_ops,146,596,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,19,698,1,positive,,HR,HR,business_ops,business_ops,99,455,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,22,451,1,positive,,Advocate,Advocate,business_ops,business_ops,20,274,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+0,22,585,0,random_other_category,seek_australia,Advocate,DevOps Engineer,business_ops,software,20,245,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+0,26,451,1,positive,,Advocate,Advocate,business_ops,business_ops,65,274,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,26,1042,0,random_other_category,esco,Advocate,DotNet Developer,business_ops,software,65,17,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+0,26,585,0,random_other_category,seek_australia,Advocate,DevOps Engineer,business_ops,software,65,245,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+0,33,1033,1,positive,,Arts,Arts,other,other,58,65,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,33,1037,0,random_other_category,esco,Arts,Advocate,other,business_ops,58,28,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+0,37,998,1,positive,,Web Designing,Web Designing,software,software,474,267,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+0,40,1062,0,random_other_category,esco,Mechanical Engineer,Database,engineering,software,1267,41,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+0,45,610,0,random_other_category,,Sales,DotNet Developer,business_ops,software,116,184,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,51,729,1,positive,,Health and fitness,Health and fitness,other,other,108,298,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,54,736,1,positive,,Health and fitness,Health and fitness,other,other,249,113,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+0,60,482,0,random_other_category,,Civil Engineer,Business Analyst,engineering,data,367,323,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,61,599,0,random_other_category,,Civil Engineer,DevOps Engineer,engineering,software,91,245,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,71,713,0,random_other_category,,Java Developer,Hadoop,software,software,167,472,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,73,972,0,random_other_category,,Java Developer,Testing,software,software,88,292,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,80,637,0,random_other_category,seek_australia,Business Analyst,ETL Developer,data,software,199,468,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,93,564,0,random_other_category,seek_australia,Automation Testing,Database,software,software,122,207,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,96,667,1,positive,,Electrical Engineering,Electrical Engineering,engineering,engineering,558,200,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,100,908,0,random_other_category,seek_australia,Operations Manager,SAP Developer,business_ops,software,898,108,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,106,1088,1,positive,esco,Python Developer,Python Developer,software,software,428,30,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,106,637,0,random_other_category,seek_australia,Python Developer,ETL Developer,software,software,428,468,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,106,144,0,random_other_category,,Python Developer,Hadoop,software,software,428,345,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,113,599,1,positive,,DevOps Engineer,DevOps Engineer,software,software,554,245,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+0,113,809,0,random_other_category,,DevOps Engineer,Network Security Engineer,software,software,554,366,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,122,871,1,positive,,PMO,PMO,business_ops,business_ops,1075,352,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+0,122,820,0,random_other_category,seek_australia,PMO,Network Security Engineer,business_ops,software,1075,244,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,126,484,0,random_other_category,seek_australia,Database,Business Analyst,software,data,787,184,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,129,1062,1,positive,esco,Database,Database,software,software,484,41,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,129,1017,0,random_other_category,esco,Database,Blockchain,software,software,484,22,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+0,134,1115,0,random_other_category,esco,Database,Python Developer,software,software,261,22,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+0,135,71,1,positive,,Hadoop,Hadoop,software,software,569,492,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,135,692,0,random_other_category,seek_australia,Hadoop,HR,software,business_ops,569,429,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+0,137,714,1,positive,seek_australia,Hadoop,Hadoop,software,software,396,320,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,139,712,1,positive,seek_australia,Hadoop,Hadoop,software,software,908,180,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,139,498,0,random_other_category,,Hadoop,Business Analyst,software,data,908,251,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+0,139,1080,0,random_other_category,esco,Hadoop,Database,software,software,908,18,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+0,151,995,0,random_other_category,,DotNet Developer,Web Designing,software,software,596,291,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,152,618,1,positive,,DotNet Developer,DotNet Developer,software,software,1227,441,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+0,157,1056,1,positive,esco,Blockchain,Blockchain,software,software,475,29,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,163,971,1,positive,,Testing,Testing,software,software,429,591,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,11,624,0,random_other_category,,HR,DotNet Developer,business_ops,software,343,190,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,14,689,1,positive,,HR,HR,business_ops,business_ops,16,275,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,16,588,0,random_other_category,,HR,DevOps Engineer,business_ops,software,146,199,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,19,674,1,positive,,HR,HR,business_ops,business_ops,99,137,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,19,836,0,random_other_category,,HR,Operations Manager,business_ops,business_ops,99,317,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,29,461,1,positive,seek_australia,Advocate,Advocate,business_ops,business_ops,43,330,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,29,19,0,random_other_category,,Advocate,Data Science,business_ops,data,43,523,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,31,684,0,random_other_category,seek_australia,Arts,HR,other,business_ops,131,203,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,33,1029,1,positive,esco,Arts,Arts,other,other,58,60,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,33,445,0,random_other_category,seek_australia,Arts,Advocate,other,business_ops,58,208,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,35,1098,1,positive,esco,Arts,Arts,other,other,152,53,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,35,646,0,random_other_category,,Arts,Electrical Engineering,other,engineering,152,255,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,39,818,0,random_other_category,seek_australia,Web Designing,Network Security Engineer,software,software,442,370,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,40,787,1,positive,,Mechanical Engineer,Mechanical Engineer,engineering,engineering,1267,274,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,51,737,1,positive,,Health and fitness,Health and fitness,other,other,108,218,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,51,123,0,random_other_category,,Health and fitness,Data Science,other,data,108,759,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,53,926,0,random_other_category,,Health and fitness,Sales,other,business_ops,345,236,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,54,449,0,random_other_category,seek_australia,Health and fitness,Advocate,other,business_ops,249,172,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,58,587,0,random_other_category,,Civil Engineer,DevOps Engineer,engineering,software,463,355,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,59,790,0,random_other_category,seek_australia,Civil Engineer,Mechanical Engineer,engineering,engineering,483,229,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,66,769,1,positive,seek_australia,Java Developer,Java Developer,software,software,213,430,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,75,959,0,random_other_category,seek_australia,Business Analyst,Testing,data,software,364,105,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,75,637,0,random_other_category,seek_australia,Business Analyst,ETL Developer,data,software,364,468,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,84,911,1,positive,seek_australia,SAP Developer,SAP Developer,software,software,157,264,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,84,759,0,random_other_category,seek_australia,SAP Developer,Java Developer,software,software,157,275,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,88,824,0,random_other_category,,Automation Testing,Network Security Engineer,software,software,603,410,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,89,1038,1,positive,esco,Automation Testing,Automation Testing,software,software,570,38,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,89,745,0,random_other_category,,Automation Testing,Java Developer,software,software,570,246,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,92,1086,1,positive,esco,Automation Testing,Automation Testing,software,software,653,46,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,94,748,0,random_other_category,,Electrical Engineering,Java Developer,engineering,software,659,214,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,102,871,0,random_other_category,,Operations Manager,PMO,business_ops,business_ops,2059,352,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,103,899,1,positive,seek_australia,Python Developer,Python Developer,software,software,422,282,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,105,102,0,random_other_category,,Python Developer,Data Science,software,data,77,766,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,107,900,1,positive,,Python Developer,Python Developer,software,software,325,82,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,110,592,1,positive,,DevOps Engineer,DevOps Engineer,software,software,245,428,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,110,762,0,random_other_category,seek_australia,DevOps Engineer,Java Developer,software,software,245,650,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,114,592,1,positive,,DevOps Engineer,DevOps Engineer,software,software,551,428,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,114,446,0,random_other_category,seek_australia,DevOps Engineer,Advocate,software,business_ops,551,219,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,114,865,0,random_other_category,,DevOps Engineer,PMO,software,business_ops,551,222,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,117,734,0,random_other_category,seek_australia,Network Security Engineer,Health and fitness,software,other,629,454,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,123,637,0,random_other_category,seek_australia,PMO,ETL Developer,business_ops,software,338,468,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,130,572,1,positive,,Database,Database,software,software,589,293,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,130,640,0,random_other_category,seek_australia,Database,ETL Developer,software,software,589,121,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,145,961,0,random_other_category,seek_australia,ETL Developer,Testing,software,software,730,351,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,147,952,0,random_other_category,,DotNet Developer,Testing,software,software,158,246,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,149,623,1,positive,,DotNet Developer,DotNet Developer,software,software,407,238,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+1,150,961,0,random_other_category,seek_australia,DotNet Developer,Testing,software,software,56,351,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+1,150,770,0,random_other_category,,DotNet Developer,Java Developer,software,software,56,243,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+2,2,249,1,positive,,Data Science,Data Science,data,data,263,148,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+2,3,2,1,positive,,Data Science,Data Science,data,data,939,1371,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+2,6,897,0,random_other_category,seek_australia,Data Science,Python Developer,data,software,212,176,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,12,907,0,random_other_category,seek_australia,HR,SAP Developer,business_ops,software,21,336,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,12,511,0,random_other_category,seek_australia,HR,Civil Engineer,business_ops,engineering,21,293,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,13,677,1,positive,seek_australia,HR,HR,business_ops,business_ops,24,228,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,23,446,1,positive,seek_australia,Advocate,Advocate,business_ops,business_ops,115,219,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+2,24,1022,0,random_other_category,esco,Advocate,Arts,business_ops,other,394,27,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+2,35,1024,0,random_other_category,,Arts,Operations Manager,other,business_ops,152,19,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+2,41,786,1,positive,,Mechanical Engineer,Mechanical Engineer,engineering,engineering,233,256,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,42,798,1,positive,,Mechanical Engineer,Mechanical Engineer,engineering,engineering,78,295,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,44,801,1,positive,,Mechanical Engineer,Mechanical Engineer,engineering,engineering,163,134,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,45,522,0,random_other_category,seek_australia,Sales,Civil Engineer,business_ops,engineering,116,358,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,48,475,0,random_other_category,seek_australia,Sales,Business Analyst,business_ops,data,227,286,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,54,1046,1,positive,esco,Health and fitness,Health and fitness,other,other,249,49,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,64,907,0,random_other_category,seek_australia,Java Developer,SAP Developer,software,software,315,336,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,66,770,1,positive,,Java Developer,Java Developer,software,software,213,243,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+2,77,602,0,random_other_category,,Business Analyst,DevOps Engineer,data,software,878,267,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,79,648,0,random_other_category,,Business Analyst,Electrical Engineering,data,engineering,210,284,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,85,961,0,random_other_category,seek_australia,SAP Developer,Testing,software,software,154,351,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,94,904,0,random_other_category,,Electrical Engineering,SAP Developer,engineering,software,659,133,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,99,510,0,random_other_category,seek_australia,Operations Manager,Civil Engineer,business_ops,engineering,1779,315,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,111,633,0,random_other_category,seek_australia,DevOps Engineer,DotNet Developer,software,software,719,369,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,112,595,1,positive,,DevOps Engineer,DevOps Engineer,software,software,1091,531,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+2,114,579,1,positive,seek_australia,DevOps Engineer,DevOps Engineer,software,software,551,196,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+2,114,865,0,random_other_category,,DevOps Engineer,PMO,software,business_ops,551,222,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,114,912,0,random_other_category,seek_australia,DevOps Engineer,SAP Developer,software,software,551,181,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,115,601,1,positive,,DevOps Engineer,DevOps Engineer,software,software,414,312,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+2,134,834,0,random_other_category,seek_australia,Database,Network Security Engineer,software,software,261,421,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,134,1002,0,random_other_category,seek_australia,Database,Web Designing,software,software,261,490,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,138,637,0,random_other_category,seek_australia,Hadoop,ETL Developer,software,software,480,468,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,139,586,0,random_other_category,,Hadoop,DevOps Engineer,software,software,908,400,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+2,143,1014,1,positive,esco,ETL Developer,ETL Developer,software,software,720,40,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+2,144,875,0,random_other_category,,ETL Developer,PMO,software,business_ops,267,571,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,3,253,1,positive,,Data Science,Data Science,data,data,939,307,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,3,735,0,random_other_category,,Data Science,Health and fitness,data,other,939,509,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,4,30,1,positive,,Data Science,Data Science,data,data,61,799,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,4,1063,0,random_other_category,esco,Data Science,Database,data,software,61,22,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,6,682,0,random_other_category,seek_australia,Data Science,HR,data,business_ops,212,445,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,8,959,0,random_other_category,seek_australia,Data Science,Testing,data,software,237,105,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,24,458,1,positive,,Advocate,Advocate,business_ops,business_ops,394,166,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,24,645,0,random_other_category,seek_australia,Advocate,Electrical Engineering,business_ops,engineering,394,228,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,25,758,0,random_other_category,seek_australia,Advocate,Java Developer,business_ops,software,104,304,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,31,1109,1,positive,esco,Arts,Arts,other,other,131,50,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,31,468,0,random_other_category,seek_australia,Arts,Advocate,other,business_ops,131,387,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,34,1100,1,positive,,Arts,Arts,other,other,91,31,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,34,1086,0,random_other_category,esco,Arts,Automation Testing,other,software,91,46,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,38,979,1,positive,seek_australia,Web Designing,Web Designing,software,software,86,379,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,38,606,0,random_other_category,seek_australia,Web Designing,DotNet Developer,software,software,86,427,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,41,799,1,positive,,Mechanical Engineer,Mechanical Engineer,engineering,engineering,233,102,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,41,1038,0,random_other_category,esco,Mechanical Engineer,Automation Testing,engineering,software,233,38,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,42,1039,1,positive,,Mechanical Engineer,Mechanical Engineer,engineering,engineering,78,28,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,43,1023,1,positive,esco,Mechanical Engineer,Mechanical Engineer,engineering,engineering,281,27,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,47,479,0,random_other_category,seek_australia,Sales,Business Analyst,business_ops,data,492,286,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,51,729,1,positive,,Health and fitness,Health and fitness,other,other,108,298,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,51,562,0,random_other_category,seek_australia,Health and fitness,Database,other,software,108,459,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,67,735,0,random_other_category,,Java Developer,Health and fitness,software,other,129,509,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,72,761,1,positive,,Java Developer,Java Developer,software,software,548,414,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,76,471,1,positive,,Business Analyst,Business Analyst,data,data,264,181,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,76,839,0,random_other_category,,Business Analyst,Operations Manager,data,business_ops,264,530,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,76,205,0,random_other_category,kaggle_672,Business Analyst,Hadoop,data,software,264,515,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,77,452,0,random_other_category,,Business Analyst,Advocate,data,business_ops,878,420,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,77,572,0,random_other_category,,Business Analyst,Database,data,software,878,293,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,82,748,0,random_other_category,,SAP Developer,Java Developer,software,software,1265,214,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,83,596,0,random_other_category,,SAP Developer,DevOps Engineer,software,software,503,285,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,84,474,0,random_other_category,,SAP Developer,Business Analyst,software,data,157,506,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,87,899,0,random_other_category,seek_australia,Automation Testing,Python Developer,software,software,409,282,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,98,642,1,positive,,Electrical Engineering,Electrical Engineering,engineering,engineering,327,241,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,115,578,1,positive,seek_australia,DevOps Engineer,DevOps Engineer,software,software,414,160,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,115,896,0,random_other_category,seek_australia,DevOps Engineer,Python Developer,software,software,414,174,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,115,841,0,random_other_category,,DevOps Engineer,Operations Manager,software,business_ops,414,265,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,125,618,0,random_other_category,,Database,DotNet Developer,software,software,596,441,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,132,1086,0,random_other_category,esco,Database,Automation Testing,software,software,446,46,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,143,640,1,positive,seek_australia,ETL Developer,ETL Developer,software,software,720,121,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,143,1114,0,random_other_category,esco,ETL Developer,Java Developer,software,software,720,22,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,151,613,1,positive,,DotNet Developer,DotNet Developer,software,software,596,286,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,151,105,0,random_other_category,,DotNet Developer,Hadoop,software,software,596,469,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,157,961,0,random_other_category,seek_australia,Blockchain,Testing,software,software,475,351,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,158,778,0,random_other_category,,Blockchain,Mechanical Engineer,software,engineering,308,628,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+3,164,968,1,positive,,Testing,Testing,software,software,98,148,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+3,164,817,0,random_other_category,seek_australia,Testing,Network Security Engineer,software,software,98,435,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,2,91,1,positive,,Data Science,Data Science,data,data,263,29,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,11,594,0,random_other_category,seek_australia,HR,DevOps Engineer,business_ops,software,343,141,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,12,696,1,positive,,HR,HR,business_ops,business_ops,21,438,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,14,905,0,random_other_category,seek_australia,HR,SAP Developer,business_ops,software,16,240,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,16,751,0,random_other_category,seek_australia,HR,Java Developer,business_ops,software,146,463,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,18,674,1,positive,,HR,HR,business_ops,business_ops,123,137,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,18,637,0,random_other_category,seek_australia,HR,ETL Developer,business_ops,software,123,468,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,18,1025,0,random_other_category,esco,HR,Arts,business_ops,other,123,52,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,20,467,1,positive,seek_australia,Advocate,Advocate,business_ops,business_ops,242,137,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,24,666,0,random_other_category,,Advocate,Electrical Engineering,business_ops,engineering,394,152,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,25,1082,0,random_other_category,esco,Advocate,Arts,business_ops,other,104,33,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,26,469,1,positive,seek_australia,Advocate,Advocate,business_ops,business_ops,65,250,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,26,755,0,random_other_category,,Advocate,Java Developer,business_ops,software,65,73,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,26,864,0,random_other_category,,Advocate,Operations Manager,business_ops,business_ops,65,224,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,28,453,1,positive,,Advocate,Advocate,business_ops,business_ops,85,254,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,28,1041,0,random_other_category,esco,Advocate,Python Developer,business_ops,software,85,17,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,29,459,1,positive,,Advocate,Advocate,business_ops,business_ops,43,187,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,29,946,0,random_other_category,,Advocate,Testing,business_ops,software,43,149,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,29,1015,0,random_other_category,,Advocate,Business Analyst,business_ops,data,43,46,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,41,803,1,positive,seek_australia,Mechanical Engineer,Mechanical Engineer,engineering,engineering,233,273,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,45,1047,0,random_other_category,,Sales,Arts,business_ops,other,116,33,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,47,1031,1,positive,,Sales,Sales,business_ops,business_ops,492,30,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,47,56,0,random_other_category,,Sales,Data Science,business_ops,data,492,358,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,48,507,0,random_other_category,,Sales,Civil Engineer,business_ops,engineering,227,194,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,61,746,0,random_other_category,seek_australia,Civil Engineer,Java Developer,engineering,software,91,177,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,76,1044,1,positive,esco,Business Analyst,Business Analyst,data,data,264,56,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,76,889,0,random_other_category,,Business Analyst,PMO,data,business_ops,264,407,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,77,852,0,random_other_category,seek_australia,Business Analyst,Operations Manager,data,business_ops,878,296,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,80,510,0,random_other_category,seek_australia,Business Analyst,Civil Engineer,data,engineering,199,315,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,81,912,1,positive,seek_australia,SAP Developer,SAP Developer,software,software,765,181,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,83,41,0,random_other_category,,SAP Developer,Data Science,software,data,503,606,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,86,904,1,positive,,SAP Developer,SAP Developer,software,software,359,133,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,86,861,0,random_other_category,seek_australia,SAP Developer,Operations Manager,software,business_ops,359,389,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,89,1086,1,positive,esco,Automation Testing,Automation Testing,software,software,570,46,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,89,896,0,random_other_category,seek_australia,Automation Testing,Python Developer,software,software,570,174,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,90,899,0,random_other_category,seek_australia,Automation Testing,Python Developer,software,software,909,282,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,102,651,0,random_other_category,seek_australia,Operations Manager,Electrical Engineering,business_ops,engineering,2059,411,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,108,24,0,random_other_category,,Python Developer,Data Science,software,data,160,826,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,110,587,1,positive,,DevOps Engineer,DevOps Engineer,software,software,245,355,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,110,1057,0,random_other_category,esco,DevOps Engineer,Arts,software,other,245,27,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,113,596,1,positive,,DevOps Engineer,DevOps Engineer,software,software,554,285,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,116,806,1,positive,,Network Security Engineer,Network Security Engineer,software,software,377,420,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,116,757,0,random_other_category,seek_australia,Network Security Engineer,Java Developer,software,software,377,211,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,118,627,0,random_other_category,seek_australia,Network Security Engineer,DotNet Developer,software,software,353,151,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,119,34,0,random_other_category,,Network Security Engineer,Data Science,software,data,462,421,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,121,905,0,random_other_category,seek_australia,PMO,SAP Developer,business_ops,software,704,240,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,132,768,0,random_other_category,seek_australia,Database,Java Developer,software,software,446,460,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,132,682,0,random_other_category,seek_australia,Database,HR,software,business_ops,446,445,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,134,883,0,random_other_category,seek_australia,Database,PMO,software,business_ops,261,592,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,138,1088,0,random_other_category,esco,Hadoop,Python Developer,software,software,480,30,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,139,892,0,random_other_category,,Hadoop,PMO,software,business_ops,908,287,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,140,898,0,random_other_category,,Hadoop,Python Developer,software,software,212,168,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+4,146,640,1,positive,seek_australia,ETL Developer,ETL Developer,software,software,166,121,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,146,1089,0,random_other_category,esco,ETL Developer,DotNet Developer,software,software,166,30,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,152,607,1,positive,seek_australia,DotNet Developer,DotNet Developer,software,software,1227,387,SBERT only,SBERT-MiniLM-L6-v2 frozen head
+4,152,1061,0,random_other_category,esco,DotNet Developer,PMO,software,business_ops,1227,36,TF-IDF only,SBERT-MiniLM-L6-v2 frozen head
+0,5,1093,0,random_other_category,esco,Data Science,Operations Manager,data,business_ops,97,33,SBERT only,SBERT-mpnet-base-v2 frozen head
+0,5,1086,0,random_other_category,esco,Data Science,Automation Testing,data,software,97,46,SBERT only,SBERT-mpnet-base-v2 frozen head
+0,8,134,1,positive,,Data Science,Data Science,data,data,237,375,SBERT only,SBERT-mpnet-base-v2 frozen head
+0,8,567,0,random_other_category,,Data Science,Database,data,software,237,329,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,16,680,1,positive,seek_australia,HR,HR,business_ops,business_ops,146,140,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,16,886,0,random_other_category,seek_australia,HR,PMO,business_ops,business_ops,146,596,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,19,698,1,positive,,HR,HR,business_ops,business_ops,99,455,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,19,597,0,random_other_category,,HR,DevOps Engineer,business_ops,software,99,268,SBERT only,SBERT-mpnet-base-v2 frozen head
+0,22,451,1,positive,,Advocate,Advocate,business_ops,business_ops,20,274,SBERT only,SBERT-mpnet-base-v2 frozen head
+0,22,585,0,random_other_category,seek_australia,Advocate,DevOps Engineer,business_ops,software,20,245,SBERT only,SBERT-mpnet-base-v2 frozen head
+0,24,1120,1,positive,,Advocate,Advocate,business_ops,business_ops,394,36,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,26,1042,0,random_other_category,esco,Advocate,DotNet Developer,business_ops,software,65,17,SBERT only,SBERT-mpnet-base-v2 frozen head
+0,26,585,0,random_other_category,seek_australia,Advocate,DevOps Engineer,business_ops,software,65,245,SBERT only,SBERT-mpnet-base-v2 frozen head
+0,33,1033,1,positive,,Arts,Arts,other,other,58,65,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,33,1037,0,random_other_category,esco,Arts,Advocate,other,business_ops,58,28,SBERT only,SBERT-mpnet-base-v2 frozen head
+0,37,998,1,positive,,Web Designing,Web Designing,software,software,474,267,SBERT only,SBERT-mpnet-base-v2 frozen head
+0,40,1062,0,random_other_category,esco,Mechanical Engineer,Database,engineering,software,1267,41,SBERT only,SBERT-mpnet-base-v2 frozen head
+0,44,805,0,random_other_category,,Mechanical Engineer,Network Security Engineer,engineering,software,163,558,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,45,924,1,positive,,Sales,Sales,business_ops,business_ops,116,179,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,45,610,0,random_other_category,,Sales,DotNet Developer,business_ops,software,116,184,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,54,736,1,positive,,Health and fitness,Health and fitness,other,other,249,113,SBERT only,SBERT-mpnet-base-v2 frozen head
+0,60,808,0,random_other_category,,Civil Engineer,Network Security Engineer,engineering,software,367,179,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,80,637,0,random_other_category,seek_australia,Business Analyst,ETL Developer,data,software,199,468,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,93,564,0,random_other_category,seek_australia,Automation Testing,Database,software,software,122,207,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,96,589,0,random_other_category,seek_australia,Electrical Engineering,DevOps Engineer,engineering,software,558,408,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,100,908,0,random_other_category,seek_australia,Operations Manager,SAP Developer,business_ops,software,898,108,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,106,1088,1,positive,esco,Python Developer,Python Developer,software,software,428,30,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,106,637,0,random_other_category,seek_australia,Python Developer,ETL Developer,software,software,428,468,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,106,144,0,random_other_category,,Python Developer,Hadoop,software,software,428,345,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,107,620,0,random_other_category,seek_australia,Python Developer,DotNet Developer,software,software,325,340,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,113,809,0,random_other_category,,DevOps Engineer,Network Security Engineer,software,software,554,366,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,116,988,0,random_other_category,,Network Security Engineer,Web Designing,software,software,377,173,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,122,871,1,positive,,PMO,PMO,business_ops,business_ops,1075,352,SBERT only,SBERT-mpnet-base-v2 frozen head
+0,125,569,1,positive,seek_australia,Database,Database,software,software,596,98,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,126,484,0,random_other_category,seek_australia,Database,Business Analyst,software,data,787,184,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,129,498,0,random_other_category,,Database,Business Analyst,software,data,484,251,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,129,1017,0,random_other_category,esco,Database,Blockchain,software,software,484,22,SBERT only,SBERT-mpnet-base-v2 frozen head
+0,134,1115,0,random_other_category,esco,Database,Python Developer,software,software,261,22,SBERT only,SBERT-mpnet-base-v2 frozen head
+0,135,71,1,positive,,Hadoop,Hadoop,software,software,569,492,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,135,692,0,random_other_category,seek_australia,Hadoop,HR,software,business_ops,569,429,SBERT only,SBERT-mpnet-base-v2 frozen head
+0,137,714,1,positive,seek_australia,Hadoop,Hadoop,software,software,396,320,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,139,1080,0,random_other_category,esco,Hadoop,Database,software,software,908,18,SBERT only,SBERT-mpnet-base-v2 frozen head
+0,141,771,0,random_other_category,,Hadoop,Java Developer,software,software,741,206,SBERT only,SBERT-mpnet-base-v2 frozen head
+0,150,757,0,random_other_category,seek_australia,DotNet Developer,Java Developer,software,software,56,211,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,151,995,0,random_other_category,,DotNet Developer,Web Designing,software,software,596,291,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,153,643,0,random_other_category,,DotNet Developer,Electrical Engineering,software,engineering,249,265,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,157,1056,1,positive,esco,Blockchain,Blockchain,software,software,475,29,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,163,971,1,positive,,Testing,Testing,software,software,429,591,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,5,331,1,positive,,Data Science,Data Science,data,data,97,305,SBERT only,SBERT-mpnet-base-v2 frozen head
+1,11,566,0,random_other_category,seek_australia,HR,Database,business_ops,software,343,216,SBERT only,SBERT-mpnet-base-v2 frozen head
+1,14,491,0,random_other_category,seek_australia,HR,Business Analyst,business_ops,data,16,397,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,19,674,1,positive,,HR,HR,business_ops,business_ops,99,137,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,19,836,0,random_other_category,,HR,Operations Manager,business_ops,business_ops,99,317,SBERT only,SBERT-mpnet-base-v2 frozen head
+1,29,19,0,random_other_category,,Advocate,Data Science,business_ops,data,43,523,SBERT only,SBERT-mpnet-base-v2 frozen head
+1,33,1029,1,positive,esco,Arts,Arts,other,other,58,60,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,33,445,0,random_other_category,seek_australia,Arts,Advocate,other,business_ops,58,208,SBERT only,SBERT-mpnet-base-v2 frozen head
+1,35,1098,1,positive,esco,Arts,Arts,other,other,152,53,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,39,818,0,random_other_category,seek_australia,Web Designing,Network Security Engineer,software,software,442,370,SBERT only,SBERT-mpnet-base-v2 frozen head
+1,40,787,1,positive,,Mechanical Engineer,Mechanical Engineer,engineering,engineering,1267,274,SBERT only,SBERT-mpnet-base-v2 frozen head
+1,42,794,1,positive,seek_australia,Mechanical Engineer,Mechanical Engineer,engineering,engineering,78,234,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,51,737,1,positive,,Health and fitness,Health and fitness,other,other,108,218,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,51,123,0,random_other_category,,Health and fitness,Data Science,other,data,108,759,SBERT only,SBERT-mpnet-base-v2 frozen head
+1,53,926,0,random_other_category,,Health and fitness,Sales,other,business_ops,345,236,SBERT only,SBERT-mpnet-base-v2 frozen head
+1,54,449,0,random_other_category,seek_australia,Health and fitness,Advocate,other,business_ops,249,172,SBERT only,SBERT-mpnet-base-v2 frozen head
+1,58,587,0,random_other_category,,Civil Engineer,DevOps Engineer,engineering,software,463,355,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,59,790,0,random_other_category,seek_australia,Civil Engineer,Mechanical Engineer,engineering,engineering,483,229,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,66,769,1,positive,seek_australia,Java Developer,Java Developer,software,software,213,430,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,69,760,1,positive,seek_australia,Java Developer,Java Developer,software,software,256,235,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,75,637,0,random_other_category,seek_australia,Business Analyst,ETL Developer,data,software,364,468,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,84,911,1,positive,seek_australia,SAP Developer,SAP Developer,software,software,157,264,SBERT only,SBERT-mpnet-base-v2 frozen head
+1,89,1038,1,positive,esco,Automation Testing,Automation Testing,software,software,570,38,SBERT only,SBERT-mpnet-base-v2 frozen head
+1,89,745,0,random_other_category,,Automation Testing,Java Developer,software,software,570,246,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,94,748,0,random_other_category,,Electrical Engineering,Java Developer,engineering,software,659,214,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,95,491,0,random_other_category,seek_australia,Electrical Engineering,Business Analyst,engineering,data,54,397,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,102,799,0,random_other_category,,Operations Manager,Mechanical Engineer,business_ops,engineering,2059,102,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,102,871,0,random_other_category,,Operations Manager,PMO,business_ops,business_ops,2059,352,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,103,899,1,positive,seek_australia,Python Developer,Python Developer,software,software,422,282,SBERT only,SBERT-mpnet-base-v2 frozen head
+1,107,584,0,random_other_category,,Python Developer,DevOps Engineer,software,software,325,378,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,107,621,0,random_other_category,,Python Developer,DotNet Developer,software,software,325,290,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,110,762,0,random_other_category,seek_australia,DevOps Engineer,Java Developer,software,software,245,650,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,114,592,1,positive,,DevOps Engineer,DevOps Engineer,software,software,551,428,SBERT only,SBERT-mpnet-base-v2 frozen head
+1,114,446,0,random_other_category,seek_australia,DevOps Engineer,Advocate,software,business_ops,551,219,SBERT only,SBERT-mpnet-base-v2 frozen head
+1,117,734,0,random_other_category,seek_australia,Network Security Engineer,Health and fitness,software,other,629,454,SBERT only,SBERT-mpnet-base-v2 frozen head
+1,123,1096,1,positive,esco,PMO,PMO,business_ops,business_ops,338,39,SBERT only,SBERT-mpnet-base-v2 frozen head
+1,123,637,0,random_other_category,seek_australia,PMO,ETL Developer,business_ops,software,338,468,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,130,572,1,positive,,Database,Database,software,software,589,293,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,147,952,0,random_other_category,,DotNet Developer,Testing,software,software,158,246,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,149,623,1,positive,,DotNet Developer,DotNet Developer,software,software,407,238,SBERT only,SBERT-mpnet-base-v2 frozen head
+1,150,961,0,random_other_category,seek_australia,DotNet Developer,Testing,software,software,56,351,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+1,150,770,0,random_other_category,,DotNet Developer,Java Developer,software,software,56,243,SBERT only,SBERT-mpnet-base-v2 frozen head
+2,2,249,1,positive,,Data Science,Data Science,data,data,263,148,SBERT only,SBERT-mpnet-base-v2 frozen head
+2,3,2,1,positive,,Data Science,Data Science,data,data,939,1371,SBERT only,SBERT-mpnet-base-v2 frozen head
+2,6,897,0,random_other_category,seek_australia,Data Science,Python Developer,data,software,212,176,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,12,907,0,random_other_category,seek_australia,HR,SAP Developer,business_ops,software,21,336,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,13,870,0,random_other_category,,HR,PMO,business_ops,business_ops,24,231,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,23,446,1,positive,seek_australia,Advocate,Advocate,business_ops,business_ops,115,219,SBERT only,SBERT-mpnet-base-v2 frozen head
+2,24,1022,0,random_other_category,esco,Advocate,Arts,business_ops,other,394,27,SBERT only,SBERT-mpnet-base-v2 frozen head
+2,35,1024,0,random_other_category,,Arts,Operations Manager,other,business_ops,152,19,SBERT only,SBERT-mpnet-base-v2 frozen head
+2,42,798,1,positive,,Mechanical Engineer,Mechanical Engineer,engineering,engineering,78,295,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,48,475,0,random_other_category,seek_australia,Sales,Business Analyst,business_ops,data,227,286,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,48,943,0,random_other_category,,Sales,Testing,business_ops,software,227,291,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,54,1046,1,positive,esco,Health and fitness,Health and fitness,other,other,249,49,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,64,907,0,random_other_category,seek_australia,Java Developer,SAP Developer,software,software,315,336,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,77,602,0,random_other_category,,Business Analyst,DevOps Engineer,data,software,878,267,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,78,1038,0,random_other_category,esco,Business Analyst,Automation Testing,data,software,1558,38,SBERT only,SBERT-mpnet-base-v2 frozen head
+2,85,961,0,random_other_category,seek_australia,SAP Developer,Testing,software,software,154,351,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,91,1038,1,positive,esco,Automation Testing,Automation Testing,software,software,307,38,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,91,973,0,random_other_category,,Automation Testing,Web Designing,software,software,307,331,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,100,1090,0,random_other_category,,Operations Manager,PMO,business_ops,business_ops,898,74,SBERT only,SBERT-mpnet-base-v2 frozen head
+2,111,633,0,random_other_category,seek_australia,DevOps Engineer,DotNet Developer,software,software,719,369,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,112,595,1,positive,,DevOps Engineer,DevOps Engineer,software,software,1091,531,SBERT only,SBERT-mpnet-base-v2 frozen head
+2,112,499,0,random_other_category,,DevOps Engineer,Business Analyst,software,data,1091,125,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,114,579,1,positive,seek_australia,DevOps Engineer,DevOps Engineer,software,software,551,196,SBERT only,SBERT-mpnet-base-v2 frozen head
+2,114,865,0,random_other_category,,DevOps Engineer,PMO,software,business_ops,551,222,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,114,912,0,random_other_category,seek_australia,DevOps Engineer,SAP Developer,software,software,551,181,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,115,601,1,positive,,DevOps Engineer,DevOps Engineer,software,software,414,312,SBERT only,SBERT-mpnet-base-v2 frozen head
+2,134,834,0,random_other_category,seek_australia,Database,Network Security Engineer,software,software,261,421,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,134,1002,0,random_other_category,seek_australia,Database,Web Designing,software,software,261,490,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,138,637,0,random_other_category,seek_australia,Hadoop,ETL Developer,software,software,480,468,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,141,369,0,random_other_category,,Hadoop,Data Science,software,data,741,257,SBERT only,SBERT-mpnet-base-v2 frozen head
+2,143,1014,1,positive,esco,ETL Developer,ETL Developer,software,software,720,40,SBERT only,SBERT-mpnet-base-v2 frozen head
+2,145,636,1,positive,seek_australia,ETL Developer,ETL Developer,software,software,730,232,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,153,600,0,random_other_category,seek_australia,DotNet Developer,DevOps Engineer,software,software,249,469,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+2,159,841,0,random_other_category,,Testing,Operations Manager,software,business_ops,77,265,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+3,3,253,1,positive,,Data Science,Data Science,data,data,939,307,SBERT only,SBERT-mpnet-base-v2 frozen head
+3,4,30,1,positive,,Data Science,Data Science,data,data,61,799,SBERT only,SBERT-mpnet-base-v2 frozen head
+3,4,1063,0,random_other_category,esco,Data Science,Database,data,software,61,22,SBERT only,SBERT-mpnet-base-v2 frozen head
+3,5,624,0,random_other_category,,Data Science,DotNet Developer,data,software,97,190,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+3,6,682,0,random_other_category,seek_australia,Data Science,HR,data,business_ops,212,445,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+3,8,544,1,positive,,Data Science,Data Science,data,data,237,147,SBERT only,SBERT-mpnet-base-v2 frozen head
+3,8,959,0,random_other_category,seek_australia,Data Science,Testing,data,software,237,105,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+3,14,497,0,random_other_category,,HR,Business Analyst,business_ops,data,16,439,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+3,31,1109,1,positive,esco,Arts,Arts,other,other,131,50,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+3,31,468,0,random_other_category,seek_australia,Arts,Advocate,other,business_ops,131,387,SBERT only,SBERT-mpnet-base-v2 frozen head
+3,34,1100,1,positive,,Arts,Arts,other,other,91,31,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+3,34,1086,0,random_other_category,esco,Arts,Automation Testing,other,software,91,46,SBERT only,SBERT-mpnet-base-v2 frozen head
+3,38,979,1,positive,seek_australia,Web Designing,Web Designing,software,software,86,379,SBERT only,SBERT-mpnet-base-v2 frozen head
+3,40,560,0,random_other_category,seek_australia,Mechanical Engineer,Database,engineering,software,1267,227,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+3,41,1038,0,random_other_category,esco,Mechanical Engineer,Automation Testing,engineering,software,233,38,SBERT only,SBERT-mpnet-base-v2 frozen head
+3,41,902,0,random_other_category,,Mechanical Engineer,SAP Developer,engineering,software,233,235,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+3,42,1039,1,positive,,Mechanical Engineer,Mechanical Engineer,engineering,engineering,78,28,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+3,43,1023,1,positive,esco,Mechanical Engineer,Mechanical Engineer,engineering,engineering,281,27,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+3,51,729,1,positive,,Health and fitness,Health and fitness,other,other,108,298,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+3,51,562,0,random_other_category,seek_australia,Health and fitness,Database,other,software,108,459,SBERT only,SBERT-mpnet-base-v2 frozen head
+3,72,761,1,positive,,Java Developer,Java Developer,software,software,548,414,SBERT only,SBERT-mpnet-base-v2 frozen head
+3,76,471,1,positive,,Business Analyst,Business Analyst,data,data,264,181,SBERT only,SBERT-mpnet-base-v2 frozen head
+3,76,839,0,random_other_category,,Business Analyst,Operations Manager,data,business_ops,264,530,SBERT only,SBERT-mpnet-base-v2 frozen head
+3,76,205,0,random_other_category,kaggle_672,Business Analyst,Hadoop,data,software,264,515,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+3,77,572,0,random_other_category,,Business Analyst,Database,data,software,878,293,SBERT only,SBERT-mpnet-base-v2 frozen head
+3,78,897,0,random_other_category,seek_australia,Business Analyst,Python Developer,data,software,1558,176,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+3,82,748,0,random_other_category,,SAP Developer,Java Developer,software,software,1265,214,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+3,84,904,1,positive,,SAP Developer,SAP Developer,software,software,157,133,SBERT only,SBERT-mpnet-base-v2 frozen head
+3,84,474,0,random_other_category,,SAP Developer,Business Analyst,software,data,157,506,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+3,98,642,1,positive,,Electrical Engineering,Electrical Engineering,engineering,engineering,327,241,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+3,115,578,1,positive,seek_australia,DevOps Engineer,DevOps Engineer,software,software,414,160,SBERT only,SBERT-mpnet-base-v2 frozen head
+3,115,896,0,random_other_category,seek_australia,DevOps Engineer,Python Developer,software,software,414,174,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+3,132,1086,0,random_other_category,esco,Database,Automation Testing,software,software,446,46,SBERT only,SBERT-mpnet-base-v2 frozen head
+3,143,1114,0,random_other_category,esco,ETL Developer,Java Developer,software,software,720,22,SBERT only,SBERT-mpnet-base-v2 frozen head
+3,151,613,1,positive,,DotNet Developer,DotNet Developer,software,software,596,286,SBERT only,SBERT-mpnet-base-v2 frozen head
+3,158,1017,1,positive,esco,Blockchain,Blockchain,software,software,308,22,SBERT only,SBERT-mpnet-base-v2 frozen head
+3,163,962,1,positive,,Testing,Testing,software,software,429,166,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,2,91,1,positive,,Data Science,Data Science,data,data,263,29,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,11,594,0,random_other_category,seek_australia,HR,DevOps Engineer,business_ops,software,343,141,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,12,696,1,positive,,HR,HR,business_ops,business_ops,21,438,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,14,905,0,random_other_category,seek_australia,HR,SAP Developer,business_ops,software,16,240,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,16,751,0,random_other_category,seek_australia,HR,Java Developer,business_ops,software,146,463,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,16,125,0,random_other_category,,HR,Hadoop,business_ops,software,146,623,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,18,637,0,random_other_category,seek_australia,HR,ETL Developer,business_ops,software,123,468,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,18,1025,0,random_other_category,esco,HR,Arts,business_ops,other,123,52,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,19,688,1,positive,,HR,HR,business_ops,business_ops,99,189,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,24,666,0,random_other_category,,Advocate,Electrical Engineering,business_ops,engineering,394,152,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,25,1082,0,random_other_category,esco,Advocate,Arts,business_ops,other,104,33,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,26,755,0,random_other_category,,Advocate,Java Developer,business_ops,software,65,73,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,26,864,0,random_other_category,,Advocate,Operations Manager,business_ops,business_ops,65,224,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,28,494,0,random_other_category,seek_australia,Advocate,Business Analyst,business_ops,data,85,221,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,28,1041,0,random_other_category,esco,Advocate,Python Developer,business_ops,software,85,17,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,29,459,1,positive,,Advocate,Advocate,business_ops,business_ops,43,187,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,29,946,0,random_other_category,,Advocate,Testing,business_ops,software,43,149,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,29,1015,0,random_other_category,,Advocate,Business Analyst,business_ops,data,43,46,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,41,803,1,positive,seek_australia,Mechanical Engineer,Mechanical Engineer,engineering,engineering,233,273,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,41,899,0,random_other_category,seek_australia,Mechanical Engineer,Python Developer,engineering,software,233,282,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,45,941,1,positive,,Sales,Sales,business_ops,business_ops,116,315,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,45,1047,0,random_other_category,,Sales,Arts,business_ops,other,116,33,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,48,1048,1,positive,,Sales,Sales,business_ops,business_ops,227,22,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,48,507,0,random_other_category,,Sales,Civil Engineer,business_ops,engineering,227,194,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,61,746,0,random_other_category,seek_australia,Civil Engineer,Java Developer,engineering,software,91,177,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,74,874,0,random_other_category,,Java Developer,PMO,software,business_ops,243,331,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,77,852,0,random_other_category,seek_australia,Business Analyst,Operations Manager,data,business_ops,878,296,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,80,896,0,random_other_category,seek_australia,Business Analyst,Python Developer,data,software,199,174,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,81,912,1,positive,seek_australia,SAP Developer,SAP Developer,software,software,765,181,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,83,41,0,random_other_category,,SAP Developer,Data Science,software,data,503,606,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,86,904,1,positive,,SAP Developer,SAP Developer,software,software,359,133,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,86,861,0,random_other_category,seek_australia,SAP Developer,Operations Manager,software,business_ops,359,389,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,89,1086,1,positive,esco,Automation Testing,Automation Testing,software,software,570,46,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,89,896,0,random_other_category,seek_australia,Automation Testing,Python Developer,software,software,570,174,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,102,862,1,positive,,Operations Manager,Operations Manager,business_ops,business_ops,2059,271,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,102,639,0,random_other_category,seek_australia,Operations Manager,ETL Developer,business_ops,software,2059,175,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,102,651,0,random_other_category,seek_australia,Operations Manager,Electrical Engineering,business_ops,engineering,2059,411,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,108,1088,1,positive,esco,Python Developer,Python Developer,software,software,160,30,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,108,24,0,random_other_category,,Python Developer,Data Science,software,data,160,826,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,110,587,1,positive,,DevOps Engineer,DevOps Engineer,software,software,245,355,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,110,1057,0,random_other_category,esco,DevOps Engineer,Arts,software,other,245,27,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,113,596,1,positive,,DevOps Engineer,DevOps Engineer,software,software,554,285,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,113,631,0,random_other_category,seek_australia,DevOps Engineer,DotNet Developer,software,software,554,196,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,116,806,1,positive,,Network Security Engineer,Network Security Engineer,software,software,377,420,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,116,757,0,random_other_category,seek_australia,Network Security Engineer,Java Developer,software,software,377,211,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,118,627,0,random_other_category,seek_australia,Network Security Engineer,DotNet Developer,software,software,353,151,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,121,905,0,random_other_category,seek_australia,PMO,SAP Developer,business_ops,software,704,240,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,138,1088,0,random_other_category,esco,Hadoop,Python Developer,software,software,480,30,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,140,898,0,random_other_category,,Hadoop,Python Developer,software,software,212,168,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,146,640,1,positive,seek_australia,ETL Developer,ETL Developer,software,software,166,121,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,146,1089,0,random_other_category,esco,ETL Developer,DotNet Developer,software,software,166,30,SBERT only,SBERT-mpnet-base-v2 frozen head
+4,152,1061,0,random_other_category,esco,DotNet Developer,PMO,software,business_ops,1227,36,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+4,154,914,0,random_other_category,,Blockchain,Sales,software,business_ops,204,444,TF-IDF only,SBERT-mpnet-base-v2 frozen head
+0,5,1093,0,random_other_category,esco,Data Science,Operations Manager,data,business_ops,97,33,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,5,1086,0,random_other_category,esco,Data Science,Automation Testing,data,software,97,46,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,7,899,0,random_other_category,seek_australia,Data Science,Python Developer,data,software,1128,282,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,8,134,1,positive,,Data Science,Data Science,data,data,237,375,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,16,680,1,positive,seek_australia,HR,HR,business_ops,business_ops,146,140,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,19,698,1,positive,,HR,HR,business_ops,business_ops,99,455,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,19,597,0,random_other_category,,HR,DevOps Engineer,business_ops,software,99,268,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,22,451,1,positive,,Advocate,Advocate,business_ops,business_ops,20,274,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,22,585,0,random_other_category,seek_australia,Advocate,DevOps Engineer,business_ops,software,20,245,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,26,1042,0,random_other_category,esco,Advocate,DotNet Developer,business_ops,software,65,17,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,26,585,0,random_other_category,seek_australia,Advocate,DevOps Engineer,business_ops,software,65,245,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,33,1037,0,random_other_category,esco,Arts,Advocate,other,business_ops,58,28,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,37,998,1,positive,,Web Designing,Web Designing,software,software,474,267,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,40,1062,0,random_other_category,esco,Mechanical Engineer,Database,engineering,software,1267,41,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,54,736,1,positive,,Health and fitness,Health and fitness,other,other,249,113,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,98,649,1,positive,seek_australia,Electrical Engineering,Electrical Engineering,engineering,engineering,327,272,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,106,1088,1,positive,esco,Python Developer,Python Developer,software,software,428,30,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,122,871,1,positive,,PMO,PMO,business_ops,business_ops,1075,352,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,129,1017,0,random_other_category,esco,Database,Blockchain,software,software,484,22,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,134,1115,0,random_other_category,esco,Database,Python Developer,software,software,261,22,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,135,692,0,random_other_category,seek_australia,Hadoop,HR,software,business_ops,569,429,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,137,714,1,positive,seek_australia,Hadoop,Hadoop,software,software,396,320,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,139,712,1,positive,seek_australia,Hadoop,Hadoop,software,software,908,180,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,139,498,0,random_other_category,,Hadoop,Business Analyst,software,data,908,251,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,141,771,0,random_other_category,,Hadoop,Java Developer,software,software,741,206,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,148,614,1,positive,,DotNet Developer,DotNet Developer,software,software,83,200,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,148,1001,0,random_other_category,seek_australia,DotNet Developer,Web Designing,software,software,83,295,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,151,995,0,random_other_category,,DotNet Developer,Web Designing,software,software,596,291,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,163,971,1,positive,,Testing,Testing,software,software,429,591,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,5,331,1,positive,,Data Science,Data Science,data,data,97,305,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,11,566,0,random_other_category,seek_australia,HR,Database,business_ops,software,343,216,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,16,672,1,positive,,HR,HR,business_ops,business_ops,146,224,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,16,588,0,random_other_category,,HR,DevOps Engineer,business_ops,software,146,199,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,19,674,1,positive,,HR,HR,business_ops,business_ops,99,137,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,19,836,0,random_other_category,,HR,Operations Manager,business_ops,business_ops,99,317,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,29,19,0,random_other_category,,Advocate,Data Science,business_ops,data,43,523,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,31,1043,1,positive,esco,Arts,Arts,other,other,131,54,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,33,445,0,random_other_category,seek_australia,Arts,Advocate,other,business_ops,58,208,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,35,646,0,random_other_category,,Arts,Electrical Engineering,other,engineering,152,255,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,39,818,0,random_other_category,seek_australia,Web Designing,Network Security Engineer,software,software,442,370,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,40,787,1,positive,,Mechanical Engineer,Mechanical Engineer,engineering,engineering,1267,274,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,51,123,0,random_other_category,,Health and fitness,Data Science,other,data,108,759,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,53,926,0,random_other_category,,Health and fitness,Sales,other,business_ops,345,236,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,54,449,0,random_other_category,seek_australia,Health and fitness,Advocate,other,business_ops,249,172,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,59,790,0,random_other_category,seek_australia,Civil Engineer,Mechanical Engineer,engineering,engineering,483,229,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,75,959,0,random_other_category,seek_australia,Business Analyst,Testing,data,software,364,105,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,78,1086,0,random_other_category,esco,Business Analyst,Automation Testing,data,software,1558,46,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,84,759,0,random_other_category,seek_australia,SAP Developer,Java Developer,software,software,157,275,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,89,1038,1,positive,esco,Automation Testing,Automation Testing,software,software,570,38,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,89,745,0,random_other_category,,Automation Testing,Java Developer,software,software,570,246,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,92,1086,1,positive,esco,Automation Testing,Automation Testing,software,software,653,46,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,102,871,0,random_other_category,,Operations Manager,PMO,business_ops,business_ops,2059,352,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,103,899,1,positive,seek_australia,Python Developer,Python Developer,software,software,422,282,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,103,107,0,random_other_category,,Python Developer,Hadoop,software,software,422,520,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,103,768,0,random_other_category,seek_australia,Python Developer,Java Developer,software,software,422,460,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,105,102,0,random_other_category,,Python Developer,Data Science,software,data,77,766,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,110,592,1,positive,,DevOps Engineer,DevOps Engineer,software,software,245,428,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,110,762,0,random_other_category,seek_australia,DevOps Engineer,Java Developer,software,software,245,650,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,114,592,1,positive,,DevOps Engineer,DevOps Engineer,software,software,551,428,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,114,446,0,random_other_category,seek_australia,DevOps Engineer,Advocate,software,business_ops,551,219,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,114,865,0,random_other_category,,DevOps Engineer,PMO,software,business_ops,551,222,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,117,734,0,random_other_category,seek_australia,Network Security Engineer,Health and fitness,software,other,629,454,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,123,1096,1,positive,esco,PMO,PMO,business_ops,business_ops,338,39,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,130,640,0,random_other_category,seek_australia,Database,ETL Developer,software,software,589,121,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,147,604,1,positive,,DotNet Developer,DotNet Developer,software,software,158,309,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,149,488,0,random_other_category,seek_australia,DotNet Developer,Business Analyst,software,data,407,341,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+1,150,770,0,random_other_category,,DotNet Developer,Java Developer,software,software,56,243,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,2,249,1,positive,,Data Science,Data Science,data,data,263,148,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,3,2,1,positive,,Data Science,Data Science,data,data,939,1371,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,6,182,1,positive,kaggle_672,Data Science,Data Science,data,data,212,313,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,12,907,0,random_other_category,seek_australia,HR,SAP Developer,business_ops,software,21,336,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,23,446,1,positive,seek_australia,Advocate,Advocate,business_ops,business_ops,115,219,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,24,1022,0,random_other_category,esco,Advocate,Arts,business_ops,other,394,27,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,35,1024,0,random_other_category,,Arts,Operations Manager,other,business_ops,152,19,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,44,801,1,positive,,Mechanical Engineer,Mechanical Engineer,engineering,engineering,163,134,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,45,1084,1,positive,,Sales,Sales,business_ops,business_ops,116,22,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,48,1048,1,positive,,Sales,Sales,business_ops,business_ops,227,22,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,48,475,0,random_other_category,seek_australia,Sales,Business Analyst,business_ops,data,227,286,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,54,1046,1,positive,esco,Health and fitness,Health and fitness,other,other,249,49,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,66,770,1,positive,,Java Developer,Java Developer,software,software,213,243,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,77,602,0,random_other_category,,Business Analyst,DevOps Engineer,data,software,878,267,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,78,490,1,positive,seek_australia,Business Analyst,Business Analyst,data,data,1558,257,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,100,1090,0,random_other_category,,Operations Manager,PMO,business_ops,business_ops,898,74,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,111,633,0,random_other_category,seek_australia,DevOps Engineer,DotNet Developer,software,software,719,369,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,112,595,1,positive,,DevOps Engineer,DevOps Engineer,software,software,1091,531,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,114,579,1,positive,seek_australia,DevOps Engineer,DevOps Engineer,software,software,551,196,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,114,865,0,random_other_category,,DevOps Engineer,PMO,software,business_ops,551,222,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,115,601,1,positive,,DevOps Engineer,DevOps Engineer,software,software,414,312,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,138,637,0,random_other_category,seek_australia,Hadoop,ETL Developer,software,software,480,468,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,139,586,0,random_other_category,,Hadoop,DevOps Engineer,software,software,908,400,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,143,1014,1,positive,esco,ETL Developer,ETL Developer,software,software,720,40,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+2,156,1017,1,positive,esco,Blockchain,Blockchain,software,software,178,22,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,3,253,1,positive,,Data Science,Data Science,data,data,939,307,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,4,30,1,positive,,Data Science,Data Science,data,data,61,799,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,24,458,1,positive,,Advocate,Advocate,business_ops,business_ops,394,166,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,31,468,0,random_other_category,seek_australia,Arts,Advocate,other,business_ops,131,387,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,34,1100,1,positive,,Arts,Arts,other,other,91,31,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,34,1086,0,random_other_category,esco,Arts,Automation Testing,other,software,91,46,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,38,979,1,positive,seek_australia,Web Designing,Web Designing,software,software,86,379,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,38,606,0,random_other_category,seek_australia,Web Designing,DotNet Developer,software,software,86,427,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,41,799,1,positive,,Mechanical Engineer,Mechanical Engineer,engineering,engineering,233,102,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,47,734,0,random_other_category,seek_australia,Sales,Health and fitness,business_ops,other,492,454,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,51,562,0,random_other_category,seek_australia,Health and fitness,Database,other,software,108,459,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,65,1040,1,positive,esco,Java Developer,Java Developer,software,software,344,17,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,72,761,1,positive,,Java Developer,Java Developer,software,software,548,414,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,76,471,1,positive,,Business Analyst,Business Analyst,data,data,264,181,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,76,839,0,random_other_category,,Business Analyst,Operations Manager,data,business_ops,264,530,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,77,572,0,random_other_category,,Business Analyst,Database,data,software,878,293,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,84,904,1,positive,,SAP Developer,SAP Developer,software,software,157,133,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,84,1014,0,random_other_category,esco,SAP Developer,ETL Developer,software,software,157,40,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,87,899,0,random_other_category,seek_australia,Automation Testing,Python Developer,software,software,409,282,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,126,1063,1,positive,esco,Database,Database,software,software,787,22,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,132,1086,0,random_other_category,esco,Database,Automation Testing,software,software,446,46,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,143,640,1,positive,seek_australia,ETL Developer,ETL Developer,software,software,720,121,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,151,613,1,positive,,DotNet Developer,DotNet Developer,software,software,596,286,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+3,163,962,1,positive,,Testing,Testing,software,software,429,166,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,11,594,0,random_other_category,seek_australia,HR,DevOps Engineer,business_ops,software,343,141,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,12,696,1,positive,,HR,HR,business_ops,business_ops,21,438,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,12,769,0,random_other_category,seek_australia,HR,Java Developer,business_ops,software,21,430,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,18,674,1,positive,,HR,HR,business_ops,business_ops,123,137,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,18,1025,0,random_other_category,esco,HR,Arts,business_ops,other,123,52,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,24,666,0,random_other_category,,Advocate,Electrical Engineering,business_ops,engineering,394,152,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,25,1082,0,random_other_category,esco,Advocate,Arts,business_ops,other,104,33,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,26,755,0,random_other_category,,Advocate,Java Developer,business_ops,software,65,73,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,26,864,0,random_other_category,,Advocate,Operations Manager,business_ops,business_ops,65,224,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,28,1041,0,random_other_category,esco,Advocate,Python Developer,business_ops,software,85,17,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,29,459,1,positive,,Advocate,Advocate,business_ops,business_ops,43,187,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,29,946,0,random_other_category,,Advocate,Testing,business_ops,software,43,149,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,29,1015,0,random_other_category,,Advocate,Business Analyst,business_ops,data,43,46,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,41,803,1,positive,seek_australia,Mechanical Engineer,Mechanical Engineer,engineering,engineering,233,273,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,45,941,1,positive,,Sales,Sales,business_ops,business_ops,116,315,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,45,1047,0,random_other_category,,Sales,Arts,business_ops,other,116,33,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,48,1048,1,positive,,Sales,Sales,business_ops,business_ops,227,22,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,48,572,0,random_other_category,,Sales,Database,business_ops,software,227,293,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,61,501,1,positive,seek_australia,Civil Engineer,Civil Engineer,engineering,engineering,91,220,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,76,889,0,random_other_category,,Business Analyst,PMO,data,business_ops,264,407,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,77,852,0,random_other_category,seek_australia,Business Analyst,Operations Manager,data,business_ops,878,296,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,81,912,1,positive,seek_australia,SAP Developer,SAP Developer,software,software,765,181,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,81,749,0,random_other_category,,SAP Developer,Java Developer,software,software,765,198,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,83,41,0,random_other_category,,SAP Developer,Data Science,software,data,503,606,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,86,904,1,positive,,SAP Developer,SAP Developer,software,software,359,133,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,89,1086,1,positive,esco,Automation Testing,Automation Testing,software,software,570,46,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,89,896,0,random_other_category,seek_australia,Automation Testing,Python Developer,software,software,570,174,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,102,651,0,random_other_category,seek_australia,Operations Manager,Electrical Engineering,business_ops,engineering,2059,411,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,108,1088,1,positive,esco,Python Developer,Python Developer,software,software,160,30,TF-IDF only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,110,587,1,positive,,DevOps Engineer,DevOps Engineer,software,software,245,355,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,110,1057,0,random_other_category,esco,DevOps Engineer,Arts,software,other,245,27,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,113,596,1,positive,,DevOps Engineer,DevOps Engineer,software,software,554,285,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,116,806,1,positive,,Network Security Engineer,Network Security Engineer,software,software,377,420,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,138,1088,0,random_other_category,esco,Hadoop,Python Developer,software,software,480,30,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,146,640,1,positive,seek_australia,ETL Developer,ETL Developer,software,software,166,121,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,146,1089,0,random_other_category,esco,ETL Developer,DotNet Developer,software,software,166,30,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,152,607,1,positive,seek_australia,DotNet Developer,DotNet Developer,software,software,1227,387,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+4,159,1045,1,positive,,Testing,Testing,software,software,77,61,SBERT only,SBERT-MiniLM-L6-v2 fine-tuned head
+0,5,159,1,positive,,Data Science,Data Science,data,data,97,287,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,5,1093,0,random_other_category,esco,Data Science,Operations Manager,data,business_ops,97,33,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,5,1086,0,random_other_category,esco,Data Science,Automation Testing,data,software,97,46,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,7,899,0,random_other_category,seek_australia,Data Science,Python Developer,data,software,1128,282,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,8,134,1,positive,,Data Science,Data Science,data,data,237,375,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,19,698,1,positive,,HR,HR,business_ops,business_ops,99,455,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+0,19,597,0,random_other_category,,HR,DevOps Engineer,business_ops,software,99,268,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,22,451,1,positive,,Advocate,Advocate,business_ops,business_ops,20,274,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,22,585,0,random_other_category,seek_australia,Advocate,DevOps Engineer,business_ops,software,20,245,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,26,1042,0,random_other_category,esco,Advocate,DotNet Developer,business_ops,software,65,17,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,26,585,0,random_other_category,seek_australia,Advocate,DevOps Engineer,business_ops,software,65,245,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,33,1037,0,random_other_category,esco,Arts,Advocate,other,business_ops,58,28,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,37,998,1,positive,,Web Designing,Web Designing,software,software,474,267,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,40,1062,0,random_other_category,esco,Mechanical Engineer,Database,engineering,software,1267,41,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,54,736,1,positive,,Health and fitness,Health and fitness,other,other,249,113,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,98,649,1,positive,seek_australia,Electrical Engineering,Electrical Engineering,engineering,engineering,327,272,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,107,620,0,random_other_category,seek_australia,Python Developer,DotNet Developer,software,software,325,340,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+0,113,599,1,positive,,DevOps Engineer,DevOps Engineer,software,software,554,245,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,122,871,1,positive,,PMO,PMO,business_ops,business_ops,1075,352,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,122,476,0,random_other_category,seek_australia,PMO,Business Analyst,business_ops,data,1075,230,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,125,569,1,positive,seek_australia,Database,Database,software,software,596,98,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+0,129,1017,0,random_other_category,esco,Database,Blockchain,software,software,484,22,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,134,1115,0,random_other_category,esco,Database,Python Developer,software,software,261,22,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,135,692,0,random_other_category,seek_australia,Hadoop,HR,software,business_ops,569,429,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,139,498,0,random_other_category,,Hadoop,Business Analyst,software,data,908,251,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,139,1080,0,random_other_category,esco,Hadoop,Database,software,software,908,18,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,141,771,0,random_other_category,,Hadoop,Java Developer,software,software,741,206,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,148,614,1,positive,,DotNet Developer,DotNet Developer,software,software,83,200,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,148,1001,0,random_other_category,seek_australia,DotNet Developer,Web Designing,software,software,83,295,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+0,149,45,0,random_other_category,,DotNet Developer,Hadoop,software,software,407,559,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,149,635,0,random_other_category,seek_australia,DotNet Developer,ETL Developer,software,software,407,191,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,151,995,0,random_other_category,,DotNet Developer,Web Designing,software,software,596,291,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+0,152,618,1,positive,,DotNet Developer,DotNet Developer,software,software,1227,441,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+0,163,971,1,positive,,Testing,Testing,software,software,429,591,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+1,5,331,1,positive,,Data Science,Data Science,data,data,97,305,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,11,566,0,random_other_category,seek_australia,HR,Database,business_ops,software,343,216,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,16,588,0,random_other_category,,HR,DevOps Engineer,business_ops,software,146,199,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,19,674,1,positive,,HR,HR,business_ops,business_ops,99,137,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+1,19,836,0,random_other_category,,HR,Operations Manager,business_ops,business_ops,99,317,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,19,1009,0,random_other_category,esco,HR,ETL Developer,business_ops,software,99,28,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+1,29,19,0,random_other_category,,Advocate,Data Science,business_ops,data,43,523,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,31,1043,1,positive,esco,Arts,Arts,other,other,131,54,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,33,445,0,random_other_category,seek_australia,Arts,Advocate,other,business_ops,58,208,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,35,646,0,random_other_category,,Arts,Electrical Engineering,other,engineering,152,255,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,39,818,0,random_other_category,seek_australia,Web Designing,Network Security Engineer,software,software,442,370,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,40,787,1,positive,,Mechanical Engineer,Mechanical Engineer,engineering,engineering,1267,274,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,51,123,0,random_other_category,,Health and fitness,Data Science,other,data,108,759,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,54,449,0,random_other_category,seek_australia,Health and fitness,Advocate,other,business_ops,249,172,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,75,959,0,random_other_category,seek_australia,Business Analyst,Testing,data,software,364,105,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+1,78,474,1,positive,,Business Analyst,Business Analyst,data,data,1558,506,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+1,78,1086,0,random_other_category,esco,Business Analyst,Automation Testing,data,software,1558,46,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+1,84,911,1,positive,seek_australia,SAP Developer,SAP Developer,software,software,157,264,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,84,759,0,random_other_category,seek_australia,SAP Developer,Java Developer,software,software,157,275,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,89,1038,1,positive,esco,Automation Testing,Automation Testing,software,software,570,38,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,92,1086,1,positive,esco,Automation Testing,Automation Testing,software,software,653,46,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,99,444,0,random_other_category,,Operations Manager,Advocate,business_ops,business_ops,1779,286,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,103,899,1,positive,seek_australia,Python Developer,Python Developer,software,software,422,282,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,103,768,0,random_other_category,seek_australia,Python Developer,Java Developer,software,software,422,460,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,105,102,0,random_other_category,,Python Developer,Data Science,software,data,77,766,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,114,592,1,positive,,DevOps Engineer,DevOps Engineer,software,software,551,428,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,114,446,0,random_other_category,seek_australia,DevOps Engineer,Advocate,software,business_ops,551,219,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,117,734,0,random_other_category,seek_australia,Network Security Engineer,Health and fitness,software,other,629,454,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,123,494,0,random_other_category,seek_australia,PMO,Business Analyst,business_ops,data,338,221,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,130,640,0,random_other_category,seek_australia,Database,ETL Developer,software,software,589,121,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,149,623,1,positive,,DotNet Developer,DotNet Developer,software,software,407,238,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+1,149,488,0,random_other_category,seek_australia,DotNet Developer,Business Analyst,software,data,407,341,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+2,2,249,1,positive,,Data Science,Data Science,data,data,263,148,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+2,3,2,1,positive,,Data Science,Data Science,data,data,939,1371,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+2,23,446,1,positive,seek_australia,Advocate,Advocate,business_ops,business_ops,115,219,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+2,24,1022,0,random_other_category,esco,Advocate,Arts,business_ops,other,394,27,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+2,35,1081,1,positive,,Arts,Arts,other,other,152,15,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+2,35,1024,0,random_other_category,,Arts,Operations Manager,other,business_ops,152,19,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+2,45,1084,1,positive,,Sales,Sales,business_ops,business_ops,116,22,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+2,48,1048,1,positive,,Sales,Sales,business_ops,business_ops,227,22,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+2,54,1046,1,positive,esco,Health and fitness,Health and fitness,other,other,249,49,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+2,66,770,1,positive,,Java Developer,Java Developer,software,software,213,243,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+2,78,490,1,positive,seek_australia,Business Analyst,Business Analyst,data,data,1558,257,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+2,99,1090,0,random_other_category,,Operations Manager,PMO,business_ops,business_ops,1779,74,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+2,100,1090,0,random_other_category,,Operations Manager,PMO,business_ops,business_ops,898,74,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+2,111,948,0,random_other_category,,DevOps Engineer,Testing,software,software,719,334,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+2,111,633,0,random_other_category,seek_australia,DevOps Engineer,DotNet Developer,software,software,719,369,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+2,112,595,1,positive,,DevOps Engineer,DevOps Engineer,software,software,1091,531,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+2,140,599,0,random_other_category,,Hadoop,DevOps Engineer,software,software,212,245,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+2,141,1054,0,random_other_category,esco,Hadoop,DotNet Developer,software,software,741,51,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+2,143,1014,1,positive,esco,ETL Developer,ETL Developer,software,software,720,40,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+2,156,1017,1,positive,esco,Blockchain,Blockchain,software,software,178,22,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+2,160,947,1,positive,seek_australia,Testing,Testing,software,software,278,251,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,3,253,1,positive,,Data Science,Data Science,data,data,939,307,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,4,30,1,positive,,Data Science,Data Science,data,data,61,799,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,8,544,1,positive,,Data Science,Data Science,data,data,237,147,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,24,458,1,positive,,Advocate,Advocate,business_ops,business_ops,394,166,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+3,31,468,0,random_other_category,seek_australia,Arts,Advocate,other,business_ops,131,387,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,34,1100,1,positive,,Arts,Arts,other,other,91,31,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+3,34,1086,0,random_other_category,esco,Arts,Automation Testing,other,software,91,46,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,38,979,1,positive,seek_australia,Web Designing,Web Designing,software,software,86,379,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,41,799,1,positive,,Mechanical Engineer,Mechanical Engineer,engineering,engineering,233,102,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+3,41,1038,0,random_other_category,esco,Mechanical Engineer,Automation Testing,engineering,software,233,38,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,47,734,0,random_other_category,seek_australia,Sales,Health and fitness,business_ops,other,492,454,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,51,562,0,random_other_category,seek_australia,Health and fitness,Database,other,software,108,459,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,65,1040,1,positive,esco,Java Developer,Java Developer,software,software,344,17,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,72,761,1,positive,,Java Developer,Java Developer,software,software,548,414,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,76,471,1,positive,,Business Analyst,Business Analyst,data,data,264,181,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,76,839,0,random_other_category,,Business Analyst,Operations Manager,data,business_ops,264,530,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,77,572,0,random_other_category,,Business Analyst,Database,data,software,878,293,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,78,492,1,positive,,Business Analyst,Business Analyst,data,data,1558,294,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+3,84,904,1,positive,,SAP Developer,SAP Developer,software,software,157,133,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,87,899,0,random_other_category,seek_australia,Automation Testing,Python Developer,software,software,409,282,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,126,1063,1,positive,esco,Database,Database,software,software,787,22,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,132,1086,0,random_other_category,esco,Database,Automation Testing,software,software,446,46,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,143,1114,0,random_other_category,esco,ETL Developer,Java Developer,software,software,720,22,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,151,613,1,positive,,DotNet Developer,DotNet Developer,software,software,596,286,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,158,1017,1,positive,esco,Blockchain,Blockchain,software,software,308,22,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+3,163,962,1,positive,,Testing,Testing,software,software,429,166,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+4,11,594,0,random_other_category,seek_australia,HR,DevOps Engineer,business_ops,software,343,141,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,12,696,1,positive,,HR,HR,business_ops,business_ops,21,438,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,12,769,0,random_other_category,seek_australia,HR,Java Developer,business_ops,software,21,430,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,18,1025,0,random_other_category,esco,HR,Arts,business_ops,other,123,52,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,24,666,0,random_other_category,,Advocate,Electrical Engineering,business_ops,engineering,394,152,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,25,1082,0,random_other_category,esco,Advocate,Arts,business_ops,other,104,33,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,26,755,0,random_other_category,,Advocate,Java Developer,business_ops,software,65,73,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,26,864,0,random_other_category,,Advocate,Operations Manager,business_ops,business_ops,65,224,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,28,1041,0,random_other_category,esco,Advocate,Python Developer,business_ops,software,85,17,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,29,946,0,random_other_category,,Advocate,Testing,business_ops,software,43,149,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,29,1015,0,random_other_category,,Advocate,Business Analyst,business_ops,data,43,46,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,41,803,1,positive,seek_australia,Mechanical Engineer,Mechanical Engineer,engineering,engineering,233,273,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,45,941,1,positive,,Sales,Sales,business_ops,business_ops,116,315,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,45,1047,0,random_other_category,,Sales,Arts,business_ops,other,116,33,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,61,501,1,positive,seek_australia,Civil Engineer,Civil Engineer,engineering,engineering,91,220,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,74,1040,1,positive,esco,Java Developer,Java Developer,software,software,243,17,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+4,81,912,1,positive,seek_australia,SAP Developer,SAP Developer,software,software,765,181,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,81,749,0,random_other_category,,SAP Developer,Java Developer,software,software,765,198,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+4,86,904,1,positive,,SAP Developer,SAP Developer,software,software,359,133,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,89,1086,1,positive,esco,Automation Testing,Automation Testing,software,software,570,46,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,102,862,1,positive,,Operations Manager,Operations Manager,business_ops,business_ops,2059,271,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+4,102,651,0,random_other_category,seek_australia,Operations Manager,Electrical Engineering,business_ops,engineering,2059,411,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+4,108,1088,1,positive,esco,Python Developer,Python Developer,software,software,160,30,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+4,108,24,0,random_other_category,,Python Developer,Data Science,software,data,160,826,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+4,110,587,1,positive,,DevOps Engineer,DevOps Engineer,software,software,245,355,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,110,1057,0,random_other_category,esco,DevOps Engineer,Arts,software,other,245,27,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,113,596,1,positive,,DevOps Engineer,DevOps Engineer,software,software,554,285,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,116,806,1,positive,,Network Security Engineer,Network Security Engineer,software,software,377,420,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,138,55,1,positive,,Hadoop,Hadoop,software,software,480,255,TF-IDF only,SBERT-mpnet-base-v2 fine-tuned head
+4,138,1088,0,random_other_category,esco,Hadoop,Python Developer,software,software,480,30,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,146,640,1,positive,seek_australia,ETL Developer,ETL Developer,software,software,166,121,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,146,1089,0,random_other_category,esco,ETL Developer,DotNet Developer,software,software,166,30,SBERT only,SBERT-mpnet-base-v2 fine-tuned head
+4,152,607,1,positive,seek_australia,DotNet Developer,DotNet Developer,software,software,1227,387,SBERT only,SBERT-mpnet-base-v2 fine-tuned head

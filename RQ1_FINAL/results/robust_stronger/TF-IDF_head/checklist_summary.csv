@@ -1,0 +1,5 @@
+model,test,n_pairs,n_resumes,passes,pass_rate,ci_lo,ci_hi,pass_rate_fixed_tol_0p02,mean_dscore_z,tolerance
+TF-IDF head,DIR_down_foreign,250,135,192,0.768,0.713,0.819,0.768,-0.122,sign
+TF-IDF head,DIR_up_copy_job,750,135,749,0.999,0.996,1.0,0.999,0.913,sign
+TF-IDF head,INV_filler,750,135,694,0.925,0.888,0.956,0.967,-0.0,0.1 x SD
+TF-IDF head,INV_punct,750,135,718,0.957,0.922,0.986,0.971,0.003,0.1 x SD

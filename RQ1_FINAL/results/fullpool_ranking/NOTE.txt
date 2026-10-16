@@ -1,0 +1,1 @@
+Candidates = unique pool job texts not used in the seed's training pairs; relevant = same mapped category. About 40% of the pool is Data Science, so P@10 and MAP are easy for Data Science resumes: see per-category columns in per_resume.csv (n_relevant). Seeds share resumes (descriptive SDs). Compare with 3-candidate random: Hit@1 0.333, MRR 0.611.

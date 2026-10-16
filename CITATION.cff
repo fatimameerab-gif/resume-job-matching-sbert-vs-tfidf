@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper."
+title: "Where Does the Benefit of Sentence Encoders Come From in Resume-Job Matching? A Controlled Comparison with TF-IDF"
+type: software
+authors:
+  - family-names: "Fatima"
+    given-names: "Meerab"
+repository-code: "https://github.com/fatimameerab-gif/resume-job-matching-sbert-vs-tfidf"
+license: MIT
+version: "1.0"

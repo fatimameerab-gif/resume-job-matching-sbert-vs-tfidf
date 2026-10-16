@@ -1,0 +1,11 @@
+,JobBERT-v2 fine-tuned head,JobBERT-v2 frozen head,SBERT-MiniLM-L6-v2 fine-tuned head,SBERT-MiniLM-L6-v2 frozen head,SBERT-mpnet-base-v2 fine-tuned head,SBERT-mpnet-base-v2 frozen head,TF-IDF head,bge-base-en-v1.5 frozen head,e5-base-v2 frozen head,gte-base frozen head
+JobBERT-v2 fine-tuned head,1.0,0.0432,0.5915,0.0,1.0,0.0,0.1571,0.0,0.0,0.0
+JobBERT-v2 frozen head,0.0432,1.0,0.9724,0.022,0.0797,0.0338,1.0,0.0988,0.0,0.1887
+SBERT-MiniLM-L6-v2 fine-tuned head,0.5915,0.9724,1.0,0.0002,0.7344,0.0003,0.9993,0.0015,0.0,0.0044
+SBERT-MiniLM-L6-v2 frozen head,0.0,0.022,0.0002,1.0,0.0,1.0,0.004,1.0,0.7176,0.9991
+SBERT-mpnet-base-v2 fine-tuned head,1.0,0.0797,0.7344,0.0,1.0,0.0,0.2508,0.0,0.0,0.0
+SBERT-mpnet-base-v2 frozen head,0.0,0.0338,0.0003,1.0,0.0,1.0,0.0066,1.0,0.6285,0.9998
+TF-IDF head,0.1571,1.0,0.9993,0.004,0.2508,0.0066,1.0,0.024,0.0,0.0547
+bge-base-en-v1.5 frozen head,0.0,0.0988,0.0015,1.0,0.0,1.0,0.024,1.0,0.3732,1.0
+e5-base-v2 frozen head,0.0,0.0,0.0,0.7176,0.0,0.6285,0.0,0.3732,1.0,0.2245
+gte-base frozen head,0.0,0.1887,0.0044,0.9991,0.0,0.9998,0.0547,1.0,0.2245,1.0

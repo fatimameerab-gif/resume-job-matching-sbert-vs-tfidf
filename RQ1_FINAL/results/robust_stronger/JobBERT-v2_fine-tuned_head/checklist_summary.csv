@@ -1,0 +1,5 @@
+model,test,n_pairs,n_resumes,passes,pass_rate,ci_lo,ci_hi,pass_rate_fixed_tol_0p02,mean_dscore_z,tolerance
+JobBERT-v2 fine-tuned head,DIR_down_foreign,250,135,143,0.572,0.506,0.638,0.572,-0.122,sign
+JobBERT-v2 fine-tuned head,DIR_up_copy_job,750,135,692,0.923,0.902,0.943,0.923,0.133,sign
+JobBERT-v2 fine-tuned head,INV_filler,750,135,745,0.993,0.987,0.999,0.971,0.002,0.1 x SD
+JobBERT-v2 fine-tuned head,INV_punct,750,135,669,0.892,0.861,0.921,0.801,0.006,0.1 x SD

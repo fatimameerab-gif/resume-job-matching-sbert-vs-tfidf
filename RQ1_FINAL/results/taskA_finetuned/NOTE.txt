@@ -1,0 +1,3 @@
+Zero-shot transfer of fine-tuned encoders to TalentCLEF 2026 Task A (development set, 10 queries x 472 resumes, human qrels). TalentCLEF Task A has no training set.
+Encoders were fine-tuned on the weak-label training pairs of frozen seeds [0, 1, 2] (script 5 recipe, 3 epochs); no TalentCLEF text or label was used for training.
+Ranking = cosine with chunk pooling. Unit = query (n = 10): intervals are descriptive (t interval over queries), not tests. Fine-tuned rows average the per-query metric over seeds.

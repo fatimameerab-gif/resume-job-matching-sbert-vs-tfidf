@@ -1,0 +1,4 @@
+model,kind,param,side,acc_clean,dacc,dacc_sd,flip,flip_sd,dscore_z,dhit1,dmrr,dmrr_sd,resumes_changed,jobs_changed,n_cells
+SBERT-mpnet-base-v2 fine-tuned head,paraphrase,1.0,both,0.9307,-0.008,0.0119,0.0293,0.0146,0.1058,-0.024,-0.0113,0.0164,0.848,0.895,5
+SBERT-mpnet-base-v2 fine-tuned head,paraphrase,1.0,job_only,0.9307,-0.004,0.006,0.0173,0.0112,0.0524,0.0,0.0007,0.0092,0.0,0.895,5
+SBERT-mpnet-base-v2 fine-tuned head,paraphrase,1.0,resume_only,0.9307,-0.0093,0.0101,0.0253,0.0145,0.0811,-0.028,-0.014,0.0101,0.848,0.0,5

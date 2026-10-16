@@ -1,0 +1,18 @@
+Review 1.1(b): leave-category-out evaluation.  Does the gain of fine-tuning transfer to job/resume categories the model never saw in training?
+
+Design (all choices fixed before looking at results):
+  * the 25 categories are split into 5 folds of 5 categories (random partition, `n_partitions` different partitions with seeds 0..n-1 -> 5 x n_partitions runs).
+  * a fold holds out its 5 categories H completely:
+        TRAIN : resumes with category not in H; each gets 1 positive job (same category) and 2 negatives (random job of another category NOT in H).
+        TEST  : resumes with category in H;     each gets 1 positive job (same category, never seen in training) and 2 negatives (jobs of OTHER held-out categories),
+                so every test job and every test resume belongs to an unseen category and no "seen category => not a match" shortcut exists.
+  * a 20% resume-grouped validation split of the training pairs fixes the decision threshold (balanced accuracy); the test pairs never touch any choice.
+  * models: TF-IDF cosine (zero-shot), TF-IDF head, frozen-encoder cosine and head (embeddings from results/embeddings, CPU), category classifiers (reference: they cannot
+    predict an unseen category by construction), and, with --finetune on a GPU, fine-tuned encoders (cosine and head) trained ONLY on the training pairs of the fold.
+Metrics: AUC, accuracy at the validation threshold, Hit@1 and MRR over the 3 candidates of each resume (random = 0.33 / 0.61), majority-class accuracy = 0.667.
+Outputs: results/leave_category_out/{per_fold.csv, summary.csv, NOTE.txt}   (fine-tuned rows are added when --finetune is used; the file is resumable per fold/model)
+Run CPU part:  python rq1_leave_category_out.py
+Run GPU part:  python rq1_leave_category_out.py --finetune --encoders SBERT-mpnet-base-v2,SBERT-MiniLM-L6-v2,JobBERT-v2     (Colab / Kaggle T4)
+
+Random reference: AUC 0.50, accuracy at a fitted threshold is not comparable to 0.667 majority rate; Hit@1 0.33, MRR 0.61.
+Runs share resumes and jobs across folds/partitions: SDs are descriptive.

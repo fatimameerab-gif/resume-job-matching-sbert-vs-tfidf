@@ -1,0 +1,2 @@
+n,n_weak_pos,n_human_fit,agreement,weak_pos_rated_nofit,weak_neg_rated_fit,kappa_weak_vs_human,n_human_mean_ge_1_5
+240,80,86,0.9,9,15,0.7791,28

@@ -1,0 +1,51 @@
+model,Hit@1,MRR,n_resume_seed,n_seeds
+Hybrid TF-IDF + SBERT-mpnet-base-v2 fine-tuned (weighted),0.956,0.9766666666666667,250,5
+SBERT-mpnet-base-v2 fine-tuned head,0.952,0.9733333333333334,250,5
+SBERT-mpnet-base-v2 fine-tuned cosine,0.948,0.9713333333333334,250,5
+Hybrid TF-IDF + e5-base-v2 fine-tuned (weighted),0.94,0.9686666666666668,250,5
+Hybrid TF-IDF + SBERT-mpnet-base-v2 fine-tuned (RRF),0.94,0.9686666666666667,250,5
+Hybrid TF-IDF + bge-base-en-v1.5 fine-tuned (weighted),0.94,0.968,250,5
+Hybrid TF-IDF + bge-base-en-v1.5 fine-tuned (RRF),0.936,0.966,250,5
+bge-base-en-v1.5 fine-tuned head,0.936,0.966,250,5
+e5-base-v2 fine-tuned head,0.932,0.9653333333333334,250,5
+Hybrid TF-IDF + JobBERT-v2 fine-tuned (RRF),0.936,0.9653333333333334,250,5
+e5-base-v2 fine-tuned cosine,0.932,0.9646666666666668,250,5
+Hybrid TF-IDF + JobBERT-v2 fine-tuned (weighted),0.932,0.964,250,5
+Hybrid TF-IDF + e5-base-v2 fine-tuned (RRF),0.932,0.964,250,5
+JobBERT-v2 fine-tuned cosine,0.932,0.9633333333333334,250,5
+JobBERT-v2 fine-tuned head,0.932,0.9633333333333334,250,5
+Hybrid TF-IDF + gte-base fine-tuned (weighted),0.924,0.9606666666666668,250,5
+Hybrid TF-IDF + gte-base fine-tuned (RRF),0.92,0.9586666666666668,250,5
+bge-base-en-v1.5 fine-tuned cosine,0.92,0.958,250,5
+gte-base fine-tuned head,0.908,0.952,250,5
+gte-base fine-tuned cosine,0.904,0.95,250,5
+Hybrid TF-IDF + SBERT-MiniLM-L6-v2 fine-tuned (weighted),0.9,0.948,250,5
+Hybrid TF-IDF + JobBERT-v2 frozen (weighted),0.9,0.9473333333333334,250,5
+Hybrid TF-IDF + SBERT-MiniLM-L6-v2 fine-tuned (RRF),0.896,0.946,250,5
+Hybrid TF-IDF + JobBERT-v2 frozen (RRF),0.892,0.9426666666666667,250,5
+SBERT-MiniLM-L6-v2 fine-tuned cosine,0.888,0.9393333333333334,250,5
+SBERT-MiniLM-L6-v2 fine-tuned head,0.888,0.9393333333333334,250,5
+JobBERT-v2 frozen head,0.848,0.92,250,5
+TF-IDF cosine (zero-shot),0.858,0.9185333333333333,250,5
+Hybrid TF-IDF + SBERT-mpnet-base-v2 frozen (weighted),0.84,0.914,250,5
+Hybrid TF-IDF + gte-base frozen (weighted),0.836,0.9126666666666667,250,5
+Hybrid TF-IDF + SBERT-mpnet-base-v2 frozen (RRF),0.836,0.912,250,5
+Hybrid TF-IDF + gte-base frozen (RRF),0.832,0.9106666666666666,250,5
+Hybrid TF-IDF + bge-base-en-v1.5 frozen (weighted),0.832,0.9086666666666667,250,5
+Hybrid TF-IDF + bge-base-en-v1.5 frozen (RRF),0.832,0.9086666666666666,250,5
+Hybrid TF-IDF + SBERT-MiniLM-L6-v2 frozen (weighted),0.824,0.9066666666666667,250,5
+JobBERT-v2 frozen cosine (zero-shot),0.82,0.9046666666666667,250,5
+Hybrid TF-IDF + SBERT-MiniLM-L6-v2 frozen (RRF),0.812,0.9006666666666667,250,5
+Hybrid TF-IDF + e5-base-v2 frozen (weighted),0.808,0.8953333333333334,250,5
+Hybrid TF-IDF + e5-base-v2 frozen (RRF),0.804,0.8906666666666667,250,5
+TF-IDF head,0.792,0.89,250,5
+gte-base frozen head,0.784,0.8826666666666667,250,5
+SBERT-mpnet-base-v2 frozen head,0.764,0.8706666666666667,250,5
+gte-base frozen cosine (zero-shot),0.76,0.8673333333333333,250,5
+SBERT-MiniLM-L6-v2 frozen head,0.752,0.8646666666666666,250,5
+bge-base-en-v1.5 frozen head,0.748,0.8606666666666666,250,5
+SBERT-mpnet-base-v2 frozen cosine (zero-shot),0.728,0.8466666666666668,250,5
+SBERT-MiniLM-L6-v2 frozen cosine (zero-shot),0.7,0.8353333333333333,250,5
+bge-base-en-v1.5 frozen cosine (zero-shot),0.7,0.834,250,5
+e5-base-v2 frozen head,0.644,0.804,250,5
+e5-base-v2 frozen cosine (zero-shot),0.64,0.8,250,5

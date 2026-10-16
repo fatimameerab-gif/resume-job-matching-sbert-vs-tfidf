@@ -1,0 +1,13 @@
+resume_category,job_category,label,predicted_tfidf,resume_text,job_text
+DevOps Engineer,DevOps Engineer,1,0,,
+Operations Manager,DevOps Engineer,0,1,,
+HR,Network Security Engineer,0,1,,
+SAP Developer,Java Developer,0,1,,
+Advocate,SAP Developer,0,1,,
+Advocate,Advocate,1,0,,
+HR,HR,1,0,,
+ETL Developer,ETL Developer,1,0,,
+Advocate,Automation Testing,0,1,,
+Health and fitness,Health and fitness,1,0,,
+Advocate,HR,0,1,,
+Web Designing,Java Developer,0,1,,

@@ -1,0 +1,9 @@
+representation,metric,classifier,mean_rank,mean_metric
+SBERT-mpnet-base-v2,auc,CosineThreshold,6.6,0.79508
+SBERT-mpnet-base-v2,auc,GradientBoosting,7.4,0.7736000000000001
+SBERT-mpnet-base-v2,auc,LR,2.2,0.85144
+SBERT-mpnet-base-v2,auc,LinearSVM,3.2,0.84952
+SBERT-mpnet-base-v2,auc,MLP,6.0,0.8114399999999999
+SBERT-mpnet-base-v2,auc,RBF-SVM,1.8,0.8542799999999999
+SBERT-mpnet-base-v2,auc,RandomForest,5.8,0.8123000000000001
+SBERT-mpnet-base-v2,auc,kNN,3.0,0.84626

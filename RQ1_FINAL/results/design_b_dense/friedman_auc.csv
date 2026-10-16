@@ -1,0 +1,2 @@
+metric,friedman_chi2,p,n_splits,n_models,mean_ranks
+auc,157.32676568657178,2.666805426599819e-29,20,10,"{'JobBERT-v2 fine-tuned head': np.float64(1.8), 'JobBERT-v2 frozen head': np.float64(4.4), 'SBERT-MiniLM-L6-v2 fine-tuned head': np.float64(2.95), 'SBERT-MiniLM-L6-v2 frozen head': np.float64(8.15), 'SBERT-mpnet-base-v2 fine-tuned head': np.float64(1.75), 'SBERT-mpnet-base-v2 frozen head': np.float64(7.2), 'TF-IDF head': np.float64(4.3), 'bge-base-en-v1.5 frozen head': np.float64(7.78), 'e5-base-v2 frozen head': np.float64(9.75), 'gte-base frozen head': np.float64(6.92)}"

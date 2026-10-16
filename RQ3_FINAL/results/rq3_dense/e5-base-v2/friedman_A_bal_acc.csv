@@ -1,0 +1,2 @@
+representation,metric,n_blocks,n_classifiers,friedman_chi2,friedman_p,nemenyi_cd
+e5-base-v2,bal_acc,5,8,13.914425427872873,0.05272448157753731,4.695416703894232

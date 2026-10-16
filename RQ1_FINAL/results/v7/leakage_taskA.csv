@@ -1,0 +1,2 @@
+dataset,n_queries,n_resume_ids,n_unique_job_texts,n_unique_resume_texts,duplicate_job_texts_as_queries,duplicate_resume_texts,note
+taskA_en,10,472,10,472,0,0,Leave-one-query-out trains on other queries' pairs. The same resume document appears in every fold (paired with a different query). qrels are positive-only; unjudged pairs are treated as negatives.

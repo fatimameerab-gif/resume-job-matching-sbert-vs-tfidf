@@ -1,0 +1,4 @@
+model,kind,param,side,acc_clean,dacc,dacc_sd,flip,flip_sd,dscore_z,dhit1,dmrr,dmrr_sd,resumes_changed,jobs_changed,n_cells
+JobBERT-v2 frozen head,paraphrase,1.0,both,0.8267,-0.0147,0.0056,0.0627,0.0167,0.1455,-0.004,-0.0033,0.017,0.848,0.895,5
+JobBERT-v2 frozen head,paraphrase,1.0,job_only,0.8267,0.004,0.0153,0.0387,0.0087,0.0927,0.016,0.008,0.0126,0.0,0.895,5
+JobBERT-v2 frozen head,paraphrase,1.0,resume_only,0.8267,0.0013,0.0145,0.0387,0.0238,0.1012,-0.012,-0.0073,0.0195,0.848,0.0,5

@@ -1,0 +1,9 @@
+model,who_right,resume_words,job_words
+SBERT-MiniLM-L6-v2 fine-tuned head,SBERT only,249.0,219.0
+SBERT-MiniLM-L6-v2 fine-tuned head,TF-IDF only,394.0,246.0
+SBERT-MiniLM-L6-v2 frozen head,SBERT only,262.0,221.5
+SBERT-MiniLM-L6-v2 frozen head,TF-IDF only,294.5,285.5
+SBERT-mpnet-base-v2 fine-tuned head,SBERT only,264.0,220.5
+SBERT-mpnet-base-v2 fine-tuned head,TF-IDF only,411.5,226.5
+SBERT-mpnet-base-v2 frozen head,SBERT only,262.0,201.0
+SBERT-mpnet-base-v2 frozen head,TF-IDF only,261.0,243.5

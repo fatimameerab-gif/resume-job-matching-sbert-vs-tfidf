@@ -1,0 +1,4 @@
+Head ablation: heads trained on random-negative train pairs, frozen encoders, truncation, no tuning.
+Cross-encoder is a zero-shot (MS MARCO) re-ranker, not trained on this task; it is a reference point only.
+Name swap: prepends a first+last name to each test resume; a synthetic probe, not a fairness audit. Report the name lists. group_gap is a score-shift gap between name groups; compare with seed noise.
+Efficiency numbers depend on the GPU/CPU used; state the hardware in the paper.

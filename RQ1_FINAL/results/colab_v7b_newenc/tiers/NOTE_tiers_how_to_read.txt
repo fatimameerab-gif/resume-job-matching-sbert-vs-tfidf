@@ -1,0 +1,8 @@
+Heads were trained ONLY on 'random_other_category' and tested on every tier. Encoders: SBERT-MiniLM-L6-v2: chunking ON -- 891/1281 distinct texts were split (2.15 pieces per text on average) | SBERT-mpnet-base-v2: chunking ON -- 578/1281 distinct texts were split (1.58 pieces per text on average) | e5-base-v2: chunking ON -- 376/1281 distinct texts were split (1.33 pieces per text on average) | bge-base-en-v1.5: chunking ON -- 373/1281 distinct texts were split (1.33 pieces per text on average) | gte-base: chunking ON -- 373/1281 distinct texts were split (1.33 pieces per text on average) | JobBERT-v2: chunking ON -- 373/1281 distinct texts were split (1.33 pieces per text on average) | GloVe-avg-300d: chunking ON -- 0/1281 distinct texts were split (1.00 pieces per text on average)
+Read tier difficulty from zeroshot_cos_auc. A model's own hard[<model>] tier is biased AGAINST it: compare models on
+hard tiers they did NOT mine, and on hard[consensus]. full_acc/full_auc on mined tiers can still contain a job-identity
+effect; job_prior_auc (computed against the training set used) shows whether it is learnable.
+hard[consensus] weights every model equally (blocks scaled by 1/sqrt(within-resume cosine spread)); cosine spreads: [0.039, 0.108, 0.105, 0.029, 0.057, 0.024, 0.124, 0.058]
+hard[consensus_family] gives TF-IDF and the dense encoders HALF of the weight each (use this one as the fair shared tier;
+plain hard[consensus] has 1 TF-IDF vs several dense models and leans against the dense family).
+Rows where the cosine head disagrees with zero-shot AUC (sign flip): 0

@@ -1,0 +1,241 @@
+item_id,resume_id,job_id,resume_category,job_category,label,split,job_source,rater1_score,rater2_score,human_mean,human_fit_binary
+A001,135,907,Hadoop,SAP Developer,0,val,seek_australia,0,0,0.0,0
+A002,15,859,HR,Operations Manager,0,test,seek_australia,0,0,0.0,0
+A003,105,1088,Python Developer,Python Developer,1,train,esco,1,1,1.0,1
+A004,91,1093,Automation Testing,Operations Manager,0,train,esco,0,0,0.0,0
+A005,84,456,SAP Developer,Advocate,0,test,seek_australia,0,0,0.0,0
+A006,101,965,Operations Manager,Testing,0,val,seek_australia,0,0,0.0,0
+A007,81,999,SAP Developer,Web Designing,0,train,seek_australia,1,1,1.0,1
+A008,101,1093,Operations Manager,Operations Manager,1,val,esco,2,2,2.0,1
+A009,33,1053,Arts,Python Developer,0,train,esco,0,0,0.0,0
+A010,26,1038,Advocate,Automation Testing,0,test,esco,0,0,0.0,0
+A011,152,619,DotNet Developer,DotNet Developer,1,train,seek_australia,1,1,1.0,1
+A012,55,1049,Health and fitness,Arts,0,test,esco,0,0,0.0,0
+A013,48,1043,Sales,Arts,0,train,esco,0,0,0.0,0
+A014,20,481,Advocate,Business Analyst,0,train,seek_australia,0,0,0.0,0
+A015,4,466,Data Science,Advocate,0,train,seek_australia,0,0,0.0,0
+A016,26,901,Advocate,SAP Developer,0,test,seek_australia,0,0,0.0,0
+A017,30,886,Arts,PMO,0,val,seek_australia,0,0,0.0,0
+A018,128,711,Database,Hadoop,0,train,seek_australia,1,1,1.0,1
+A019,43,475,Mechanical Engineer,Business Analyst,0,train,seek_australia,0,0,0.0,0
+A020,71,1017,Java Developer,Blockchain,0,train,esco,1,0,0.5,0
+A021,54,768,Health and fitness,Java Developer,0,train,seek_australia,0,0,0.0,0
+A022,28,909,Advocate,SAP Developer,0,train,seek_australia,0,0,0.0,0
+A023,75,479,Business Analyst,Business Analyst,1,val,seek_australia,2,2,2.0,1
+A024,37,600,Web Designing,DevOps Engineer,0,train,seek_australia,0,0,0.0,0
+A025,2,777,Data Science,Mechanical Engineer,0,val,seek_australia,0,0,0.0,0
+A026,58,211,Civil Engineer,Data Science,0,train,kaggle_672,0,0,0.0,0
+A027,7,357,Data Science,Data Science,1,train,kaggle_672,1,1,1.0,1
+A028,84,1009,SAP Developer,ETL Developer,0,test,esco,0,0,0.0,0
+A029,47,931,Sales,Sales,1,train,seek_australia,2,2,2.0,1
+A030,66,774,Java Developer,Java Developer,1,train,seek_australia,1,1,1.0,1
+A031,145,636,ETL Developer,ETL Developer,1,train,seek_australia,1,1,1.0,1
+A032,22,1032,Advocate,Operations Manager,0,val,esco,0,0,0.0,0
+A033,134,455,Database,Advocate,0,train,seek_australia,0,0,0.0,0
+A034,1,63,Data Science,Data Science,1,train,kaggle_672,1,1,1.0,1
+A035,78,783,Business Analyst,Mechanical Engineer,0,test,seek_australia,0,0,0.0,0
+A036,92,260,Automation Testing,Hadoop,0,train,kaggle_672,0,1,0.5,0
+A037,35,446,Arts,Advocate,0,train,seek_australia,0,0,0.0,0
+A038,108,1038,Python Developer,Automation Testing,0,val,esco,0,0,0.0,0
+A039,105,568,Python Developer,Database,0,train,seek_australia,0,0,0.0,0
+A040,107,1115,Python Developer,Python Developer,1,train,esco,2,2,2.0,1
+A041,38,980,Web Designing,Web Designing,1,train,seek_australia,2,2,2.0,1
+A042,95,705,Electrical Engineering,Hadoop,0,test,seek_australia,0,0,0.0,0
+A043,100,1032,Operations Manager,Operations Manager,1,test,esco,1,1,1.0,1
+A044,70,609,Java Developer,DotNet Developer,0,train,seek_australia,1,0,0.5,0
+A045,141,93,Hadoop,Hadoop,1,train,kaggle_672,1,1,1.0,1
+A046,39,1086,Web Designing,Automation Testing,0,train,esco,0,0,0.0,0
+A047,160,1004,Testing,Arts,0,train,esco,0,0,0.0,0
+A048,68,917,Java Developer,Sales,0,val,seek_australia,0,0,0.0,0
+A049,50,733,Health and fitness,Health and fitness,1,train,seek_australia,2,2,2.0,1
+A050,120,834,Network Security Engineer,Network Security Engineer,1,train,seek_australia,1,1,1.0,1
+A051,151,605,DotNet Developer,DotNet Developer,1,train,seek_australia,2,2,2.0,1
+A052,99,849,Operations Manager,Operations Manager,1,train,seek_australia,1,1,1.0,1
+A053,42,455,Mechanical Engineer,Advocate,0,val,seek_australia,0,0,0.0,0
+A054,42,794,Mechanical Engineer,Mechanical Engineer,1,val,seek_australia,1,1,1.0,1
+A055,125,967,Database,Testing,0,train,seek_australia,0,0,0.0,0
+A056,162,449,Testing,Advocate,0,val,seek_australia,0,0,0.0,0
+A057,27,1098,Advocate,Arts,0,train,esco,0,0,0.0,0
+A058,59,1009,Civil Engineer,ETL Developer,0,train,esco,0,0,0.0,0
+A059,120,739,Network Security Engineer,Health and fitness,0,train,seek_australia,0,0,0.0,0
+A060,102,861,Operations Manager,Operations Manager,1,train,seek_australia,1,0,0.5,0
+A061,95,1069,Electrical Engineering,Electrical Engineering,1,test,esco,1,2,1.5,1
+A062,153,477,DotNet Developer,Business Analyst,0,train,seek_australia,0,1,0.5,0
+A063,34,291,Arts,Hadoop,0,train,kaggle_672,0,0,0.0,0
+A064,60,569,Civil Engineer,Database,0,test,seek_australia,0,0,0.0,0
+A065,74,766,Java Developer,Java Developer,1,train,seek_australia,1,1,1.0,1
+A066,106,751,Python Developer,Java Developer,0,train,seek_australia,1,1,1.0,1
+A067,37,967,Web Designing,Testing,0,train,seek_australia,0,0,0.0,0
+A068,140,701,Hadoop,Hadoop,1,test,seek_australia,1,1,1.0,1
+A069,72,714,Java Developer,Hadoop,0,train,seek_australia,0,0,0.0,0
+A070,146,1056,ETL Developer,Blockchain,0,test,esco,0,0,0.0,0
+A071,119,573,Network Security Engineer,Database,0,test,seek_australia,0,0,0.0,0
+A072,110,589,DevOps Engineer,DevOps Engineer,1,train,seek_australia,1,1,1.0,1
+A073,87,636,Automation Testing,ETL Developer,0,train,seek_australia,0,0,0.0,0
+A074,52,1063,Health and fitness,Database,0,train,esco,0,0,0.0,0
+A075,90,1086,Automation Testing,Automation Testing,1,val,esco,1,1,1.0,1
+A076,42,619,Mechanical Engineer,DotNet Developer,0,val,seek_australia,0,0,0.0,0
+A077,79,1121,Business Analyst,Business Analyst,1,train,esco,2,2,2.0,1
+A078,142,1017,ETL Developer,Blockchain,0,test,esco,0,0,0.0,0
+A079,138,390,Hadoop,Hadoop,1,train,kaggle_672,2,2,2.0,1
+A080,96,649,Electrical Engineering,Electrical Engineering,1,train,seek_australia,1,1,1.0,1
+A081,154,287,Blockchain,Hadoop,0,train,kaggle_672,0,0,0.0,0
+A082,100,606,Operations Manager,DotNet Developer,0,test,seek_australia,0,0,0.0,0
+A083,58,495,Civil Engineer,Business Analyst,0,train,seek_australia,0,0,0.0,0
+A084,128,1080,Database,Database,1,train,esco,2,1,1.5,1
+A085,24,441,Advocate,Advocate,1,test,seek_australia,1,1,1.0,1
+A086,159,899,Testing,Python Developer,0,train,seek_australia,0,0,0.0,0
+A087,115,463,DevOps Engineer,Advocate,0,train,seek_australia,0,0,0.0,0
+A088,36,686,Web Designing,HR,0,test,seek_australia,0,0,0.0,0
+A089,56,1063,Civil Engineer,Database,0,val,esco,0,0,0.0,0
+A090,48,1041,Sales,Python Developer,0,train,esco,0,0,0.0,0
+A091,88,897,Automation Testing,Python Developer,0,train,seek_australia,0,0,0.0,0
+A092,109,1093,DevOps Engineer,Operations Manager,0,val,esco,0,1,0.5,0
+A093,82,679,SAP Developer,HR,0,test,seek_australia,0,0,0.0,0
+A094,86,827,SAP Developer,Network Security Engineer,0,train,seek_australia,0,0,0.0,0
+A095,4,711,Data Science,Hadoop,0,train,seek_australia,1,1,1.0,1
+A096,88,1038,Automation Testing,Automation Testing,1,train,esco,2,2,2.0,1
+A097,161,1095,Testing,Testing,1,train,esco,2,2,2.0,1
+A098,77,884,Business Analyst,PMO,0,train,seek_australia,1,1,1.0,1
+A099,130,564,Database,Database,1,train,seek_australia,1,1,1.0,1
+A100,91,1038,Automation Testing,Automation Testing,1,train,esco,0,0,0.0,0
+A101,28,589,Advocate,DevOps Engineer,0,train,seek_australia,0,0,0.0,0
+A102,59,413,Civil Engineer,Hadoop,0,train,kaggle_672,0,0,0.0,0
+A103,139,702,Hadoop,Hadoop,1,train,seek_australia,2,2,2.0,1
+A104,140,938,Hadoop,Sales,0,test,seek_australia,0,0,0.0,0
+A105,158,1056,Blockchain,Blockchain,1,train,esco,1,1,1.0,1
+A106,146,1001,ETL Developer,Web Designing,0,test,seek_australia,0,0,0.0,0
+A107,8,581,Data Science,DevOps Engineer,0,train,seek_australia,0,0,0.0,0
+A108,67,1071,Java Developer,Testing,0,val,esco,0,0,0.0,0
+A109,99,1038,Operations Manager,Automation Testing,0,train,esco,0,0,0.0,0
+A110,102,700,Operations Manager,HR,0,train,seek_australia,0,0,0.0,0
+A111,137,714,Hadoop,Hadoop,1,train,seek_australia,1,1,1.0,1
+A112,114,1109,DevOps Engineer,Arts,0,train,esco,0,0,0.0,0
+A113,155,1038,Blockchain,Automation Testing,0,train,esco,0,0,0.0,0
+A114,37,979,Web Designing,Web Designing,1,train,seek_australia,1,1,1.0,1
+A115,106,1115,Python Developer,Python Developer,1,train,esco,2,2,2.0,1
+A116,69,750,Java Developer,Java Developer,1,train,seek_australia,1,1,1.0,1
+A117,72,773,Java Developer,Java Developer,1,train,seek_australia,1,1,1.0,1
+A118,130,1056,Database,Blockchain,0,train,esco,0,0,0.0,0
+A119,124,903,Database,SAP Developer,0,train,seek_australia,0,1,0.5,0
+A120,64,773,Java Developer,Java Developer,1,train,seek_australia,1,1,1.0,1
+A121,163,1086,Testing,Automation Testing,0,train,esco,0,0,0.0,0
+A122,5,1115,Data Science,Python Developer,0,train,esco,1,1,1.0,1
+A123,104,897,Python Developer,Python Developer,1,test,seek_australia,1,1,1.0,1
+A124,66,895,Java Developer,Python Developer,0,train,seek_australia,1,1,1.0,1
+A125,6,974,Data Science,Web Designing,0,train,seek_australia,0,0,0.0,0
+A126,126,1043,Database,Arts,0,train,esco,0,0,0.0,0
+A127,10,579,HR,DevOps Engineer,0,train,seek_australia,0,0,0.0,0
+A128,152,788,DotNet Developer,Mechanical Engineer,0,train,seek_australia,0,0,0.0,0
+A129,64,1038,Java Developer,Automation Testing,0,train,esco,0,0,0.0,0
+A130,147,566,DotNet Developer,Database,0,train,seek_australia,0,1,0.5,0
+A131,21,682,Advocate,HR,0,train,seek_australia,0,0,0.0,0
+A132,163,472,Testing,Business Analyst,0,train,seek_australia,0,0,0.0,0
+A133,127,710,Database,Hadoop,0,train,seek_australia,0,1,0.5,0
+A134,112,594,DevOps Engineer,DevOps Engineer,1,test,seek_australia,1,1,1.0,1
+A135,107,942,Python Developer,Sales,0,train,seek_australia,0,0,0.0,0
+A136,143,639,ETL Developer,ETL Developer,1,train,seek_australia,2,2,2.0,1
+A137,33,1022,Arts,Arts,1,train,esco,1,0,0.5,0
+A138,98,650,Electrical Engineering,Electrical Engineering,1,train,seek_australia,1,0,0.5,0
+A139,112,631,DevOps Engineer,DotNet Developer,0,test,seek_australia,1,1,1.0,1
+A140,44,802,Mechanical Engineer,Mechanical Engineer,1,train,seek_australia,2,2,2.0,1
+A141,22,1049,Advocate,Arts,0,val,esco,0,0,0.0,0
+A142,44,823,Mechanical Engineer,Network Security Engineer,0,train,seek_australia,0,0,0.0,0
+A143,90,165,Automation Testing,Hadoop,0,val,kaggle_672,0,0,0.0,0
+A144,66,858,Java Developer,Operations Manager,0,train,seek_australia,0,0,0.0,0
+A145,73,605,Java Developer,DotNet Developer,0,train,seek_australia,0,0,0.0,0
+A146,120,661,Network Security Engineer,Electrical Engineering,0,train,seek_australia,0,0,0.0,0
+A147,65,790,Java Developer,Mechanical Engineer,0,train,seek_australia,0,0,0.0,0
+A148,23,440,Advocate,Advocate,1,train,seek_australia,1,1,1.0,1
+A149,49,1003,Sales,HR,0,train,esco,0,1,0.5,0
+A150,59,508,Civil Engineer,Civil Engineer,1,train,seek_australia,2,2,2.0,1
+A151,148,607,DotNet Developer,DotNet Developer,1,train,seek_australia,2,2,2.0,1
+A152,3,420,Data Science,Data Science,1,train,kaggle_672,1,1,1.0,1
+A153,13,186,HR,Hadoop,0,train,kaggle_672,0,0,0.0,0
+A154,132,1056,Database,Blockchain,0,test,esco,0,0,0.0,0
+A155,130,908,Database,SAP Developer,0,train,seek_australia,0,0,0.0,0
+A156,97,670,Electrical Engineering,Electrical Engineering,1,test,seek_australia,1,1,1.0,1
+A157,143,1005,ETL Developer,Testing,0,train,esco,0,1,0.5,0
+A158,139,468,Hadoop,Advocate,0,train,seek_australia,0,0,0.0,0
+A159,9,951,Data Science,Testing,0,val,seek_australia,0,0,0.0,0
+A160,69,1054,Java Developer,DotNet Developer,0,train,esco,1,1,1.0,1
+A161,51,1118,Health and fitness,Health and fitness,1,test,esco,2,2,2.0,1
+A162,38,821,Web Designing,Network Security Engineer,0,train,seek_australia,0,0,0.0,0
+A163,123,878,PMO,PMO,1,train,seek_australia,1,2,1.5,1
+A164,57,528,Civil Engineer,Civil Engineer,1,train,seek_australia,2,2,2.0,1
+A165,124,1038,Database,Automation Testing,0,train,esco,0,0,0.0,0
+A166,103,885,Python Developer,PMO,0,train,seek_australia,0,0,0.0,0
+A167,144,634,ETL Developer,ETL Developer,1,train,seek_australia,1,1,1.0,1
+A168,133,573,Database,Database,1,val,seek_australia,1,1,1.0,1
+A169,100,585,Operations Manager,DevOps Engineer,0,test,seek_australia,0,0,0.0,0
+A170,74,1058,Java Developer,Civil Engineer,0,train,esco,0,0,0.0,0
+A171,71,772,Java Developer,Java Developer,1,train,seek_australia,1,2,1.5,1
+A172,25,758,Advocate,Java Developer,0,train,seek_australia,0,0,0.0,0
+A173,78,743,Business Analyst,Health and fitness,0,test,seek_australia,0,0,0.0,0
+A174,50,324,Health and fitness,Data Science,0,train,kaggle_672,0,0,0.0,0
+A175,28,457,Advocate,Advocate,1,train,seek_australia,1,1,1.0,1
+A176,65,654,Java Developer,Electrical Engineering,0,train,seek_australia,0,0,0.0,0
+A177,140,326,Hadoop,Data Science,0,test,kaggle_672,1,1,1.0,1
+A178,75,1061,Business Analyst,PMO,0,val,esco,1,1,1.0,1
+A179,115,243,DevOps Engineer,Data Science,0,train,kaggle_672,0,0,0.0,0
+A180,138,834,Hadoop,Network Security Engineer,0,train,seek_australia,0,0,0.0,0
+A181,118,822,Network Security Engineer,Network Security Engineer,1,val,seek_australia,1,1,1.0,1
+A182,119,744,Network Security Engineer,Health and fitness,0,test,seek_australia,0,0,0.0,0
+A183,53,668,Health and fitness,Electrical Engineering,0,train,seek_australia,0,0,0.0,0
+A184,145,817,ETL Developer,Network Security Engineer,0,train,seek_australia,0,0,0.0,0
+A185,136,393,Hadoop,Hadoop,1,val,kaggle_672,2,2,2.0,1
+A186,25,620,Advocate,DotNet Developer,0,train,seek_australia,0,0,0.0,0
+A187,35,1022,Arts,Arts,1,train,esco,0,0,0.0,0
+A188,81,477,SAP Developer,Business Analyst,0,train,seek_australia,0,0,0.0,0
+A189,148,712,DotNet Developer,Hadoop,0,train,seek_australia,0,0,0.0,0
+A190,127,668,Database,Electrical Engineering,0,train,seek_australia,0,0,0.0,0
+A191,14,791,HR,Mechanical Engineer,0,train,seek_australia,0,0,0.0,0
+A192,136,1083,Hadoop,Mechanical Engineer,0,val,esco,0,0,0.0,0
+A193,94,639,Electrical Engineering,ETL Developer,0,train,seek_australia,0,0,0.0,0
+A194,145,734,ETL Developer,Health and fitness,0,train,seek_australia,0,0,0.0,0
+A195,77,491,Business Analyst,Business Analyst,1,train,seek_australia,2,2,2.0,1
+A196,86,895,SAP Developer,Python Developer,0,train,seek_australia,0,0,0.0,0
+A197,72,441,Java Developer,Advocate,0,train,seek_australia,0,0,0.0,0
+A198,29,450,Advocate,Advocate,1,val,seek_australia,1,1,1.0,1
+A199,76,981,Business Analyst,Web Designing,0,val,seek_australia,0,0,0.0,0
+A200,83,906,SAP Developer,SAP Developer,1,train,seek_australia,1,1,1.0,1
+A201,129,647,Database,Electrical Engineering,0,train,seek_australia,0,0,0.0,0
+A202,3,1086,Data Science,Automation Testing,0,train,esco,0,0,0.0,0
+A203,157,996,Blockchain,Web Designing,0,test,seek_australia,1,1,1.0,1
+A204,122,888,PMO,PMO,1,train,seek_australia,2,2,2.0,1
+A205,135,714,Hadoop,Hadoop,1,val,seek_australia,1,1,1.0,1
+A206,20,469,Advocate,Advocate,1,train,seek_australia,1,1,1.0,1
+A207,9,262,Data Science,Data Science,1,val,kaggle_672,1,1,1.0,1
+A208,82,766,SAP Developer,Java Developer,0,test,seek_australia,0,0,0.0,0
+A209,1,1014,Data Science,ETL Developer,0,train,esco,1,1,1.0,1
+A210,73,1087,Java Developer,Java Developer,1,train,esco,1,1,1.0,1
+A211,117,1013,Network Security Engineer,Network Security Engineer,1,train,esco,1,0,0.5,0
+A212,62,747,Java Developer,Java Developer,1,train,seek_australia,1,1,1.0,1
+A213,17,993,HR,Web Designing,0,train,seek_australia,0,0,0.0,0
+A214,104,617,Python Developer,DotNet Developer,0,test,seek_australia,1,1,1.0,1
+A215,142,797,ETL Developer,Mechanical Engineer,0,test,seek_australia,0,0,0.0,0
+A216,61,1038,Civil Engineer,Automation Testing,0,train,esco,0,0,0.0,0
+A217,23,857,Advocate,Operations Manager,0,train,seek_australia,0,0,0.0,0
+A218,2,543,Data Science,Data Science,1,val,seek_australia,1,0,0.5,0
+A219,149,677,DotNet Developer,HR,0,train,seek_australia,0,0,0.0,0
+A220,96,911,Electrical Engineering,SAP Developer,0,train,seek_australia,0,0,0.0,0
+A221,131,980,Database,Web Designing,0,val,seek_australia,0,0,0.0,0
+A222,83,687,SAP Developer,HR,0,train,seek_australia,0,0,0.0,0
+A223,131,883,Database,PMO,0,val,seek_australia,0,0,0.0,0
+A224,18,927,HR,Sales,0,val,seek_australia,0,0,0.0,0
+A225,38,1107,Web Designing,Civil Engineer,0,train,esco,0,0,0.0,0
+A226,123,514,PMO,Civil Engineer,0,train,seek_australia,0,0,0.0,0
+A227,113,739,DevOps Engineer,Health and fitness,0,train,seek_australia,0,0,0.0,0
+A228,20,1017,Advocate,Blockchain,0,train,esco,0,0,0.0,0
+A229,17,691,HR,HR,1,train,seek_australia,1,1,1.0,1
+A230,6,208,Data Science,Data Science,1,train,kaggle_672,1,1,1.0,1
+A231,39,981,Web Designing,Web Designing,1,train,seek_australia,2,1,1.5,1
+A232,5,534,Data Science,Data Science,1,train,seek_australia,0,0,0.0,0
+A233,86,910,SAP Developer,SAP Developer,1,train,seek_australia,2,2,2.0,1
+A234,89,1038,Automation Testing,Automation Testing,1,train,esco,0,0,0.0,0
+A235,22,447,Advocate,Advocate,1,val,seek_australia,1,1,1.0,1
+A236,47,895,Sales,Python Developer,0,train,seek_australia,0,0,0.0,0
+A237,23,644,Advocate,Electrical Engineering,0,train,seek_australia,0,0,0.0,0
+A238,29,581,Advocate,DevOps Engineer,0,val,seek_australia,0,0,0.0,0
+A239,53,977,Health and fitness,Web Designing,0,train,seek_australia,0,0,0.0,0
+A240,63,1053,Java Developer,Python Developer,0,train,esco,1,1,1.0,1

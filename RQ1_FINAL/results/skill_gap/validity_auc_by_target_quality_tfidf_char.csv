@@ -1,0 +1,3 @@
+quality,exact_cov,mean_best_sim,cov_tau0.5
+approx,0.6304,0.701,0.6687
+direct,0.7336,0.7203,0.7484

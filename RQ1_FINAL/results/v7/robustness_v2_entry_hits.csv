@@ -1,0 +1,69 @@
+direction,term,n
+full_to_abbr,database,262
+full_to_abbr,machine learning,117
+full_to_abbr,javascript,111
+abbr_to_full,aws,79
+abbr_to_full,etl,63
+abbr_to_full,api,59
+abbr_to_full,bi,43
+abbr_to_full,qa,35
+abbr_to_full,js,33
+abbr_to_full,ms office,31
+abbr_to_full,erp,31
+abbr_to_full,ci,30
+abbr_to_full,plc,28
+full_to_abbr,quality assurance,28
+abbr_to_full,db,25
+abbr_to_full,crm,22
+abbr_to_full,ai,21
+abbr_to_full,sdlc,18
+full_to_abbr,deep learning,18
+full_to_abbr,continuous integration,18
+full_to_abbr,business intelligence,18
+abbr_to_full,rdbms,17
+abbr_to_full,nlp,16
+abbr_to_full,mis,16
+abbr_to_full,vpn,16
+abbr_to_full,ml,16
+full_to_abbr,microsoft office,14
+abbr_to_full,ui,12
+full_to_abbr,tensorflow,11
+full_to_abbr,postgresql,11
+abbr_to_full,scada,9
+abbr_to_full,ms excel,9
+full_to_abbr,artificial intelligence,9
+full_to_abbr,amazon web services,9
+abbr_to_full,dbms,8
+abbr_to_full,kpi,8
+abbr_to_full,svm,7
+abbr_to_full,cad,7
+abbr_to_full,hvac,7
+abbr_to_full,gcp,6
+abbr_to_full,ms word,6
+abbr_to_full,iot,5
+full_to_abbr,microsoft word,5
+full_to_abbr,natural language processing,5
+full_to_abbr,kubernetes,5
+full_to_abbr,user experience,5
+abbr_to_full,sklearn,4
+abbr_to_full,oop,4
+abbr_to_full,b2b,4
+full_to_abbr,microsoft excel,4
+full_to_abbr,database management system,4
+full_to_abbr,software development life cycle,4
+abbr_to_full,roi,3
+abbr_to_full,postgres,3
+abbr_to_full,ux,3
+full_to_abbr,user interface,3
+full_to_abbr,customer relationship management,3
+abbr_to_full,gui,2
+abbr_to_full,seo,2
+full_to_abbr,support vector machine,2
+full_to_abbr,object oriented programming,2
+full_to_abbr,enterprise resource planning,2
+full_to_abbr,google cloud platform,2
+abbr_to_full,tf,1
+abbr_to_full,cnn,1
+full_to_abbr,internet of things,1
+full_to_abbr,return on investment,1
+full_to_abbr,extract transform load,1

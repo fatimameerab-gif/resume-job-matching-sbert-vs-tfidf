@@ -1,0 +1,5 @@
+source_file,row,accuracy,model,why_different
+results/diagnostic_baselines.csv,cosine_only,0.8266666666666667,TF-IDF cosine threshold tuned on val split (threshold=0.06),Binary threshold sweep; boundary chosen for val-F1. NOT a trained LR classifier. 0.8533 > 0.800 because the tuned threshold exploits class imbalance differently than balanced LR.
+results/rq1_feature_ablation_table.csv,TF-IDF feature_mode=cos_only,0.8133333333333334,LogisticRegression on single cosine feature (1-d input),LR fits decision boundary on training labels; better than the threshold-tuned version (0.8667 > 0.8533). Neither uses |u-v|.
+results/diagnostic_baselines.csv,full_pair_tfidf_lr,0.84,"LogisticRegression on [|u-v|, cos] (absdiff_cos mode, 3001-d)",Adding 3000-d |u-v| to cos HURTS at n=116 training pairs (high-dim noise; LR cannot regularise). 0.800 < 0.8667: absdiff_cos worse than cos_only.
+results/rq1_feature_ablation_table.csv,TF-IDF feature_mode=absdiff_cos,0.84,"LogisticRegression on [|u-v|, cos] -- same model as full_pair_tfidf_lr",Matches full_pair_tfidf_lr (0.8400 == 0.8400). Cross-check confirms both CSVs use the same frozen pairs file.

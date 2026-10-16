@@ -1,0 +1,9 @@
+representation,metric,classifier,mean_rank,mean_metric
+JobBERT-v2,bal_acc,CosineThreshold,7.2,0.8019999999999999
+JobBERT-v2,bal_acc,GradientBoosting,6.8,0.8140000000000001
+JobBERT-v2,bal_acc,LR,4.0,0.843
+JobBERT-v2,bal_acc,LinearSVM,2.4,0.851
+JobBERT-v2,bal_acc,MLP,4.6,0.8379999999999999
+JobBERT-v2,bal_acc,RBF-SVM,3.1,0.8469999999999999
+JobBERT-v2,bal_acc,RandomForest,5.9,0.825
+JobBERT-v2,bal_acc,kNN,2.0,0.8639999999999999

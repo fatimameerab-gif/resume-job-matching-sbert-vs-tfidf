@@ -1,0 +1,7 @@
+rep_a,rep_b,n_disagree,pct_disagree
+tfidf,lsa,20,26.7
+tfidf,bm25,28,37.3
+tfidf,static-word2vec-local-100d,38,50.7
+lsa,bm25,28,37.3
+lsa,static-word2vec-local-100d,32,42.7
+bm25,static-word2vec-local-100d,36,48.0

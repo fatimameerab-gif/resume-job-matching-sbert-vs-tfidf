@@ -1,0 +1,6 @@
+seed,n_train_resumes,n_train_jobs,cats_in_train_resumes,cats_in_train_jobs,test_pairs,test_pairs_with_unseen_resume_cat,test_pairs_with_unseen_job_cat
+0,116,256,24,25,150,21,0
+1,116,259,25,25,150,0,0
+2,116,250,25,25,150,0,0
+3,116,263,25,25,150,0,0
+4,116,255,25,25,150,0,0

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+# raw third-party texts and private annotation sheets must never be committed
+**/data/UpdatedResumeDataSet.csv
+**/data/data_science_job_postings_672.csv
+**/data_private_ratings/

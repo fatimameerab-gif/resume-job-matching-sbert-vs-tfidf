@@ -1,0 +1,5 @@
+model,test,n_pairs,n_resumes,passes,pass_rate,ci_lo,ci_hi,pass_rate_fixed_tol_0p02,mean_dscore_z,tolerance
+JobBERT-v2 frozen head,DIR_down_foreign,250,135,119,0.476,0.41,0.541,0.476,-0.035,sign
+JobBERT-v2 frozen head,DIR_up_copy_job,750,135,747,0.996,0.991,1.0,0.996,0.374,sign
+JobBERT-v2 frozen head,INV_filler,750,135,684,0.912,0.869,0.948,0.889,0.029,0.1 x SD
+JobBERT-v2 frozen head,INV_punct,750,135,524,0.699,0.65,0.746,0.616,0.017,0.1 x SD

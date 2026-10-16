@@ -1,0 +1,3361 @@
+item_id,fold,model,score
+A005,0,TF-IDF head,0.337407
+A009,0,TF-IDF head,0.448937
+A012,0,TF-IDF head,0.398194
+A027,0,TF-IDF head,0.799314
+A028,0,TF-IDF head,0.351666
+A029,0,TF-IDF head,0.870468
+A030,0,TF-IDF head,0.358303
+A045,0,TF-IDF head,0.598193
+A048,0,TF-IDF head,0.400764
+A050,0,TF-IDF head,0.608501
+A057,0,TF-IDF head,0.346881
+A059,0,TF-IDF head,0.501892
+A068,0,TF-IDF head,0.665501
+A069,0,TF-IDF head,0.297526
+A071,0,TF-IDF head,0.369787
+A073,0,TF-IDF head,0.329252
+A086,0,TF-IDF head,0.344689
+A098,0,TF-IDF head,0.50256
+A104,0,TF-IDF head,0.405648
+A116,0,TF-IDF head,0.579266
+A117,0,TF-IDF head,0.45608
+A124,0,TF-IDF head,0.338483
+A126,0,TF-IDF head,0.465471
+A131,0,TF-IDF head,0.434933
+A136,0,TF-IDF head,0.776842
+A137,0,TF-IDF head,0.464603
+A144,0,TF-IDF head,0.261496
+A146,0,TF-IDF head,0.311233
+A157,0,TF-IDF head,0.443365
+A159,0,TF-IDF head,0.299331
+A160,0,TF-IDF head,0.41338
+A161,0,TF-IDF head,0.467103
+A163,0,TF-IDF head,0.622721
+A164,0,TF-IDF head,0.739662
+A167,0,TF-IDF head,0.522355
+A177,0,TF-IDF head,0.507162
+A181,0,TF-IDF head,0.537183
+A182,0,TF-IDF head,0.397559
+A195,0,TF-IDF head,0.668266
+A197,0,TF-IDF head,0.370506
+A200,0,TF-IDF head,0.57641
+A203,0,TF-IDF head,0.508209
+A207,0,TF-IDF head,0.851382
+A213,0,TF-IDF head,0.382652
+A222,0,TF-IDF head,0.411187
+A226,0,TF-IDF head,0.466785
+A229,0,TF-IDF head,0.589892
+A236,0,TF-IDF head,0.375082
+A005,0,TF-IDF cosine,0.0
+A009,0,TF-IDF cosine,0.0
+A012,0,TF-IDF cosine,0.0
+A027,0,TF-IDF cosine,0.311213
+A028,0,TF-IDF cosine,0.0115
+A029,0,TF-IDF cosine,0.41869
+A030,0,TF-IDF cosine,0.05905
+A045,0,TF-IDF cosine,0.214917
+A048,0,TF-IDF cosine,0.0128
+A050,0,TF-IDF cosine,0.204902
+A057,0,TF-IDF cosine,0.004906
+A059,0,TF-IDF cosine,0.025754
+A068,0,TF-IDF cosine,0.26642
+A069,0,TF-IDF cosine,0.027409
+A071,0,TF-IDF cosine,0.078284
+A073,0,TF-IDF cosine,0.029305
+A086,0,TF-IDF cosine,0.008359
+A098,0,TF-IDF cosine,0.128504
+A104,0,TF-IDF cosine,0.016403
+A116,0,TF-IDF cosine,0.11027
+A117,0,TF-IDF cosine,0.081725
+A124,0,TF-IDF cosine,0.059239
+A126,0,TF-IDF cosine,0.02736
+A131,0,TF-IDF cosine,0.010274
+A136,0,TF-IDF cosine,0.317683
+A137,0,TF-IDF cosine,0.0
+A144,0,TF-IDF cosine,0.002908
+A146,0,TF-IDF cosine,0.03372
+A157,0,TF-IDF cosine,0.0425
+A159,0,TF-IDF cosine,0.030697
+A160,0,TF-IDF cosine,0.045767
+A161,0,TF-IDF cosine,0.0
+A163,0,TF-IDF cosine,0.131608
+A164,0,TF-IDF cosine,0.302873
+A167,0,TF-IDF cosine,0.1568
+A177,0,TF-IDF cosine,0.105224
+A181,0,TF-IDF cosine,0.122671
+A182,0,TF-IDF cosine,0.007195
+A195,0,TF-IDF cosine,0.204965
+A197,0,TF-IDF cosine,0.014993
+A200,0,TF-IDF cosine,0.203555
+A203,0,TF-IDF cosine,0.056763
+A207,0,TF-IDF cosine,0.372305
+A213,0,TF-IDF cosine,0.00251
+A222,0,TF-IDF cosine,0.043218
+A226,0,TF-IDF cosine,0.046257
+A229,0,TF-IDF cosine,0.100632
+A236,0,TF-IDF cosine,0.042493
+A005,0,SBERT-MiniLM-L6-v2 frozen head,0.297033
+A009,0,SBERT-MiniLM-L6-v2 frozen head,0.119103
+A012,0,SBERT-MiniLM-L6-v2 frozen head,0.193401
+A027,0,SBERT-MiniLM-L6-v2 frozen head,0.750839
+A028,0,SBERT-MiniLM-L6-v2 frozen head,0.342077
+A029,0,SBERT-MiniLM-L6-v2 frozen head,0.801835
+A030,0,SBERT-MiniLM-L6-v2 frozen head,0.533429
+A045,0,SBERT-MiniLM-L6-v2 frozen head,0.624451
+A048,0,SBERT-MiniLM-L6-v2 frozen head,0.263535
+A050,0,SBERT-MiniLM-L6-v2 frozen head,0.698979
+A057,0,SBERT-MiniLM-L6-v2 frozen head,0.15277
+A059,0,SBERT-MiniLM-L6-v2 frozen head,0.292644
+A068,0,SBERT-MiniLM-L6-v2 frozen head,0.835271
+A069,0,SBERT-MiniLM-L6-v2 frozen head,0.443514
+A071,0,SBERT-MiniLM-L6-v2 frozen head,0.44678
+A073,0,SBERT-MiniLM-L6-v2 frozen head,0.47359
+A086,0,SBERT-MiniLM-L6-v2 frozen head,0.514478
+A098,0,SBERT-MiniLM-L6-v2 frozen head,0.668939
+A104,0,SBERT-MiniLM-L6-v2 frozen head,0.457244
+A116,0,SBERT-MiniLM-L6-v2 frozen head,0.564072
+A117,0,SBERT-MiniLM-L6-v2 frozen head,0.716107
+A124,0,SBERT-MiniLM-L6-v2 frozen head,0.349898
+A126,0,SBERT-MiniLM-L6-v2 frozen head,0.127735
+A131,0,SBERT-MiniLM-L6-v2 frozen head,0.334074
+A136,0,SBERT-MiniLM-L6-v2 frozen head,0.8269
+A137,0,SBERT-MiniLM-L6-v2 frozen head,0.270507
+A144,0,SBERT-MiniLM-L6-v2 frozen head,0.299812
+A146,0,SBERT-MiniLM-L6-v2 frozen head,0.43279
+A157,0,SBERT-MiniLM-L6-v2 frozen head,0.480228
+A159,0,SBERT-MiniLM-L6-v2 frozen head,0.457227
+A160,0,SBERT-MiniLM-L6-v2 frozen head,0.309885
+A161,0,SBERT-MiniLM-L6-v2 frozen head,0.504759
+A163,0,SBERT-MiniLM-L6-v2 frozen head,0.746797
+A164,0,SBERT-MiniLM-L6-v2 frozen head,0.597847
+A167,0,SBERT-MiniLM-L6-v2 frozen head,0.715862
+A177,0,SBERT-MiniLM-L6-v2 frozen head,0.714568
+A181,0,SBERT-MiniLM-L6-v2 frozen head,0.563765
+A182,0,SBERT-MiniLM-L6-v2 frozen head,0.203877
+A195,0,SBERT-MiniLM-L6-v2 frozen head,0.839112
+A197,0,SBERT-MiniLM-L6-v2 frozen head,0.214354
+A200,0,SBERT-MiniLM-L6-v2 frozen head,0.609895
+A203,0,SBERT-MiniLM-L6-v2 frozen head,0.455292
+A207,0,SBERT-MiniLM-L6-v2 frozen head,0.674091
+A213,0,SBERT-MiniLM-L6-v2 frozen head,0.435139
+A222,0,SBERT-MiniLM-L6-v2 frozen head,0.306469
+A226,0,SBERT-MiniLM-L6-v2 frozen head,0.419246
+A229,0,SBERT-MiniLM-L6-v2 frozen head,0.550642
+A236,0,SBERT-MiniLM-L6-v2 frozen head,0.455775
+A005,0,SBERT-MiniLM-L6-v2 frozen cosine,0.248948
+A009,0,SBERT-MiniLM-L6-v2 frozen cosine,0.009542
+A012,0,SBERT-MiniLM-L6-v2 frozen cosine,0.026983
+A027,0,SBERT-MiniLM-L6-v2 frozen cosine,0.631671
+A028,0,SBERT-MiniLM-L6-v2 frozen cosine,0.241988
+A029,0,SBERT-MiniLM-L6-v2 frozen cosine,0.647164
+A030,0,SBERT-MiniLM-L6-v2 frozen cosine,0.422215
+A045,0,SBERT-MiniLM-L6-v2 frozen cosine,0.501144
+A048,0,SBERT-MiniLM-L6-v2 frozen cosine,0.248201
+A050,0,SBERT-MiniLM-L6-v2 frozen cosine,0.579536
+A057,0,SBERT-MiniLM-L6-v2 frozen cosine,0.092688
+A059,0,SBERT-MiniLM-L6-v2 frozen cosine,0.226898
+A068,0,SBERT-MiniLM-L6-v2 frozen cosine,0.715873
+A069,0,SBERT-MiniLM-L6-v2 frozen cosine,0.406953
+A071,0,SBERT-MiniLM-L6-v2 frozen cosine,0.42633
+A073,0,SBERT-MiniLM-L6-v2 frozen cosine,0.418168
+A086,0,SBERT-MiniLM-L6-v2 frozen cosine,0.383167
+A098,0,SBERT-MiniLM-L6-v2 frozen cosine,0.547687
+A104,0,SBERT-MiniLM-L6-v2 frozen cosine,0.3792
+A116,0,SBERT-MiniLM-L6-v2 frozen cosine,0.436979
+A117,0,SBERT-MiniLM-L6-v2 frozen cosine,0.56823
+A124,0,SBERT-MiniLM-L6-v2 frozen cosine,0.223715
+A126,0,SBERT-MiniLM-L6-v2 frozen cosine,0.048762
+A131,0,SBERT-MiniLM-L6-v2 frozen cosine,0.325383
+A136,0,SBERT-MiniLM-L6-v2 frozen cosine,0.669338
+A137,0,SBERT-MiniLM-L6-v2 frozen cosine,0.143895
+A144,0,SBERT-MiniLM-L6-v2 frozen cosine,0.208979
+A146,0,SBERT-MiniLM-L6-v2 frozen cosine,0.384174
+A157,0,SBERT-MiniLM-L6-v2 frozen cosine,0.377361
+A159,0,SBERT-MiniLM-L6-v2 frozen cosine,0.386232
+A160,0,SBERT-MiniLM-L6-v2 frozen cosine,0.239682
+A161,0,SBERT-MiniLM-L6-v2 frozen cosine,0.383767
+A163,0,SBERT-MiniLM-L6-v2 frozen cosine,0.608794
+A164,0,SBERT-MiniLM-L6-v2 frozen cosine,0.524402
+A167,0,SBERT-MiniLM-L6-v2 frozen cosine,0.579394
+A177,0,SBERT-MiniLM-L6-v2 frozen cosine,0.550873
+A181,0,SBERT-MiniLM-L6-v2 frozen cosine,0.513904
+A182,0,SBERT-MiniLM-L6-v2 frozen cosine,0.134186
+A195,0,SBERT-MiniLM-L6-v2 frozen cosine,0.701738
+A197,0,SBERT-MiniLM-L6-v2 frozen cosine,0.198631
+A200,0,SBERT-MiniLM-L6-v2 frozen cosine,0.483934
+A203,0,SBERT-MiniLM-L6-v2 frozen cosine,0.328447
+A207,0,SBERT-MiniLM-L6-v2 frozen cosine,0.486153
+A213,0,SBERT-MiniLM-L6-v2 frozen cosine,0.368615
+A222,0,SBERT-MiniLM-L6-v2 frozen cosine,0.299928
+A226,0,SBERT-MiniLM-L6-v2 frozen cosine,0.351567
+A229,0,SBERT-MiniLM-L6-v2 frozen cosine,0.403489
+A236,0,SBERT-MiniLM-L6-v2 frozen cosine,0.337485
+A005,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.064687
+A009,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.025235
+A012,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.151904
+A027,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.978259
+A028,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.358584
+A029,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.984846
+A030,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.668081
+A045,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.810774
+A048,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.052219
+A050,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.928125
+A057,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.153601
+A059,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.093444
+A068,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.978047
+A069,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.042471
+A071,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.058869
+A073,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.058172
+A086,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.168653
+A098,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.649939
+A104,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.05424
+A116,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.899274
+A117,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.837314
+A124,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.295728
+A126,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.028875
+A131,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.228166
+A136,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.978977
+A137,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.832447
+A144,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.047907
+A146,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.183551
+A157,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.31431
+A159,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.14027
+A160,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.378575
+A161,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.943927
+A163,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.653644
+A164,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.971269
+A167,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.88037
+A177,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.78787
+A181,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.650668
+A182,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.035531
+A195,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.895764
+A197,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.072553
+A200,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.639577
+A203,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.473941
+A207,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.973594
+A213,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.14512
+A222,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.041339
+A226,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.046781
+A229,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.73212
+A236,0,SBERT-MiniLM-L6-v2 fine-tuned head,0.0587
+A005,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.054918
+A009,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.092942
+A012,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.11307
+A027,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.787689
+A028,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.286142
+A029,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.821705
+A030,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.441638
+A045,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.52963
+A048,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.003573
+A050,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.661793
+A057,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.15649
+A059,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.081155
+A068,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.787201
+A069,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.009103
+A071,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.039431
+A073,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.044156
+A086,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.170733
+A098,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.440171
+A104,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.011266
+A116,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.611697
+A117,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.562982
+A124,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.224678
+A126,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.050251
+A131,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.221697
+A136,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.793611
+A137,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.55428
+A144,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.013257
+A146,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.207245
+A157,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.284582
+A159,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.155692
+A160,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.319523
+A161,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.679939
+A163,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.451587
+A164,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.755415
+A167,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.600283
+A177,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.521201
+A181,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.443553
+A182,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.063453
+A195,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.620163
+A197,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.052615
+A200,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.448823
+A203,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.333058
+A207,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.767524
+A213,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.163546
+A222,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.004678
+A226,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.014023
+A229,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.485073
+A236,0,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.013524
+A005,0,SBERT-mpnet-base-v2 frozen head,0.274473
+A009,0,SBERT-mpnet-base-v2 frozen head,0.107011
+A012,0,SBERT-mpnet-base-v2 frozen head,0.09652
+A027,0,SBERT-mpnet-base-v2 frozen head,0.689227
+A028,0,SBERT-mpnet-base-v2 frozen head,0.374267
+A029,0,SBERT-mpnet-base-v2 frozen head,0.859803
+A030,0,SBERT-mpnet-base-v2 frozen head,0.241596
+A045,0,SBERT-mpnet-base-v2 frozen head,0.650529
+A048,0,SBERT-mpnet-base-v2 frozen head,0.280459
+A050,0,SBERT-mpnet-base-v2 frozen head,0.65085
+A057,0,SBERT-mpnet-base-v2 frozen head,0.218662
+A059,0,SBERT-mpnet-base-v2 frozen head,0.22223
+A068,0,SBERT-mpnet-base-v2 frozen head,0.845786
+A069,0,SBERT-mpnet-base-v2 frozen head,0.442706
+A071,0,SBERT-mpnet-base-v2 frozen head,0.420774
+A073,0,SBERT-mpnet-base-v2 frozen head,0.633974
+A086,0,SBERT-mpnet-base-v2 frozen head,0.514031
+A098,0,SBERT-mpnet-base-v2 frozen head,0.675725
+A104,0,SBERT-mpnet-base-v2 frozen head,0.43387
+A116,0,SBERT-mpnet-base-v2 frozen head,0.389931
+A117,0,SBERT-mpnet-base-v2 frozen head,0.601603
+A124,0,SBERT-mpnet-base-v2 frozen head,0.239361
+A126,0,SBERT-mpnet-base-v2 frozen head,0.148769
+A131,0,SBERT-mpnet-base-v2 frozen head,0.51013
+A136,0,SBERT-mpnet-base-v2 frozen head,0.779345
+A137,0,SBERT-mpnet-base-v2 frozen head,0.316617
+A144,0,SBERT-mpnet-base-v2 frozen head,0.154114
+A146,0,SBERT-mpnet-base-v2 frozen head,0.401213
+A157,0,SBERT-mpnet-base-v2 frozen head,0.367442
+A159,0,SBERT-mpnet-base-v2 frozen head,0.500969
+A160,0,SBERT-mpnet-base-v2 frozen head,0.242662
+A161,0,SBERT-mpnet-base-v2 frozen head,0.495262
+A163,0,SBERT-mpnet-base-v2 frozen head,0.773224
+A164,0,SBERT-mpnet-base-v2 frozen head,0.742628
+A167,0,SBERT-mpnet-base-v2 frozen head,0.646258
+A177,0,SBERT-mpnet-base-v2 frozen head,0.674659
+A181,0,SBERT-mpnet-base-v2 frozen head,0.711269
+A182,0,SBERT-mpnet-base-v2 frozen head,0.132683
+A195,0,SBERT-mpnet-base-v2 frozen head,0.782583
+A197,0,SBERT-mpnet-base-v2 frozen head,0.26444
+A200,0,SBERT-mpnet-base-v2 frozen head,0.611091
+A203,0,SBERT-mpnet-base-v2 frozen head,0.505684
+A207,0,SBERT-mpnet-base-v2 frozen head,0.524925
+A213,0,SBERT-mpnet-base-v2 frozen head,0.412304
+A222,0,SBERT-mpnet-base-v2 frozen head,0.267131
+A226,0,SBERT-mpnet-base-v2 frozen head,0.500833
+A229,0,SBERT-mpnet-base-v2 frozen head,0.452973
+A236,0,SBERT-mpnet-base-v2 frozen head,0.439295
+A005,0,SBERT-mpnet-base-v2 frozen cosine,0.278189
+A009,0,SBERT-mpnet-base-v2 frozen cosine,0.051143
+A012,0,SBERT-mpnet-base-v2 frozen cosine,0.024822
+A027,0,SBERT-mpnet-base-v2 frozen cosine,0.573042
+A028,0,SBERT-mpnet-base-v2 frozen cosine,0.309065
+A029,0,SBERT-mpnet-base-v2 frozen cosine,0.703008
+A030,0,SBERT-mpnet-base-v2 frozen cosine,0.258158
+A045,0,SBERT-mpnet-base-v2 frozen cosine,0.561887
+A048,0,SBERT-mpnet-base-v2 frozen cosine,0.279944
+A050,0,SBERT-mpnet-base-v2 frozen cosine,0.531153
+A057,0,SBERT-mpnet-base-v2 frozen cosine,0.196113
+A059,0,SBERT-mpnet-base-v2 frozen cosine,0.206863
+A068,0,SBERT-mpnet-base-v2 frozen cosine,0.740564
+A069,0,SBERT-mpnet-base-v2 frozen cosine,0.417181
+A071,0,SBERT-mpnet-base-v2 frozen cosine,0.392789
+A073,0,SBERT-mpnet-base-v2 frozen cosine,0.534523
+A086,0,SBERT-mpnet-base-v2 frozen cosine,0.405289
+A098,0,SBERT-mpnet-base-v2 frozen cosine,0.563158
+A104,0,SBERT-mpnet-base-v2 frozen cosine,0.411785
+A116,0,SBERT-mpnet-base-v2 frozen cosine,0.355533
+A117,0,SBERT-mpnet-base-v2 frozen cosine,0.492474
+A124,0,SBERT-mpnet-base-v2 frozen cosine,0.175182
+A126,0,SBERT-mpnet-base-v2 frozen cosine,0.163685
+A131,0,SBERT-mpnet-base-v2 frozen cosine,0.427229
+A136,0,SBERT-mpnet-base-v2 frozen cosine,0.667369
+A137,0,SBERT-mpnet-base-v2 frozen cosine,0.186905
+A144,0,SBERT-mpnet-base-v2 frozen cosine,0.186924
+A146,0,SBERT-mpnet-base-v2 frozen cosine,0.381478
+A157,0,SBERT-mpnet-base-v2 frozen cosine,0.312402
+A159,0,SBERT-mpnet-base-v2 frozen cosine,0.45541
+A160,0,SBERT-mpnet-base-v2 frozen cosine,0.206389
+A161,0,SBERT-mpnet-base-v2 frozen cosine,0.416783
+A163,0,SBERT-mpnet-base-v2 frozen cosine,0.640021
+A164,0,SBERT-mpnet-base-v2 frozen cosine,0.577936
+A167,0,SBERT-mpnet-base-v2 frozen cosine,0.553888
+A177,0,SBERT-mpnet-base-v2 frozen cosine,0.546574
+A181,0,SBERT-mpnet-base-v2 frozen cosine,0.592812
+A182,0,SBERT-mpnet-base-v2 frozen cosine,0.122778
+A195,0,SBERT-mpnet-base-v2 frozen cosine,0.65942
+A197,0,SBERT-mpnet-base-v2 frozen cosine,0.225422
+A200,0,SBERT-mpnet-base-v2 frozen cosine,0.547787
+A203,0,SBERT-mpnet-base-v2 frozen cosine,0.382852
+A207,0,SBERT-mpnet-base-v2 frozen cosine,0.441207
+A213,0,SBERT-mpnet-base-v2 frozen cosine,0.363368
+A222,0,SBERT-mpnet-base-v2 frozen cosine,0.283765
+A226,0,SBERT-mpnet-base-v2 frozen cosine,0.434176
+A229,0,SBERT-mpnet-base-v2 frozen cosine,0.383839
+A236,0,SBERT-mpnet-base-v2 frozen cosine,0.370671
+A005,0,SBERT-mpnet-base-v2 fine-tuned head,0.030363
+A009,0,SBERT-mpnet-base-v2 fine-tuned head,0.028422
+A012,0,SBERT-mpnet-base-v2 fine-tuned head,0.099928
+A027,0,SBERT-mpnet-base-v2 fine-tuned head,0.887128
+A028,0,SBERT-mpnet-base-v2 fine-tuned head,0.124084
+A029,0,SBERT-mpnet-base-v2 fine-tuned head,0.990994
+A030,0,SBERT-mpnet-base-v2 fine-tuned head,0.748353
+A045,0,SBERT-mpnet-base-v2 fine-tuned head,0.928844
+A048,0,SBERT-mpnet-base-v2 fine-tuned head,0.028023
+A050,0,SBERT-mpnet-base-v2 fine-tuned head,0.917504
+A057,0,SBERT-mpnet-base-v2 fine-tuned head,0.06772
+A059,0,SBERT-mpnet-base-v2 fine-tuned head,0.063468
+A068,0,SBERT-mpnet-base-v2 fine-tuned head,0.981046
+A069,0,SBERT-mpnet-base-v2 fine-tuned head,0.017751
+A071,0,SBERT-mpnet-base-v2 fine-tuned head,0.046558
+A073,0,SBERT-mpnet-base-v2 fine-tuned head,0.034693
+A086,0,SBERT-mpnet-base-v2 fine-tuned head,0.062585
+A098,0,SBERT-mpnet-base-v2 fine-tuned head,0.58029
+A104,0,SBERT-mpnet-base-v2 fine-tuned head,0.021701
+A116,0,SBERT-mpnet-base-v2 fine-tuned head,0.97015
+A117,0,SBERT-mpnet-base-v2 fine-tuned head,0.925419
+A124,0,SBERT-mpnet-base-v2 fine-tuned head,0.196593
+A126,0,SBERT-mpnet-base-v2 fine-tuned head,0.047474
+A131,0,SBERT-mpnet-base-v2 fine-tuned head,0.245618
+A136,0,SBERT-mpnet-base-v2 fine-tuned head,0.97953
+A137,0,SBERT-mpnet-base-v2 fine-tuned head,0.932046
+A144,0,SBERT-mpnet-base-v2 fine-tuned head,0.018918
+A146,0,SBERT-mpnet-base-v2 fine-tuned head,0.284631
+A157,0,SBERT-mpnet-base-v2 fine-tuned head,0.099633
+A159,0,SBERT-mpnet-base-v2 fine-tuned head,0.024837
+A160,0,SBERT-mpnet-base-v2 fine-tuned head,0.429361
+A161,0,SBERT-mpnet-base-v2 fine-tuned head,0.905609
+A163,0,SBERT-mpnet-base-v2 fine-tuned head,0.852232
+A164,0,SBERT-mpnet-base-v2 fine-tuned head,0.989894
+A167,0,SBERT-mpnet-base-v2 fine-tuned head,0.81994
+A177,0,SBERT-mpnet-base-v2 fine-tuned head,0.811888
+A181,0,SBERT-mpnet-base-v2 fine-tuned head,0.921223
+A182,0,SBERT-mpnet-base-v2 fine-tuned head,0.046123
+A195,0,SBERT-mpnet-base-v2 fine-tuned head,0.904051
+A197,0,SBERT-mpnet-base-v2 fine-tuned head,0.042449
+A200,0,SBERT-mpnet-base-v2 fine-tuned head,0.978787
+A203,0,SBERT-mpnet-base-v2 fine-tuned head,0.124972
+A207,0,SBERT-mpnet-base-v2 fine-tuned head,0.990797
+A213,0,SBERT-mpnet-base-v2 fine-tuned head,0.047857
+A222,0,SBERT-mpnet-base-v2 fine-tuned head,0.044515
+A226,0,SBERT-mpnet-base-v2 fine-tuned head,0.022686
+A229,0,SBERT-mpnet-base-v2 fine-tuned head,0.961271
+A236,0,SBERT-mpnet-base-v2 fine-tuned head,0.024978
+A005,0,SBERT-mpnet-base-v2 fine-tuned cosine,-0.016532
+A009,0,SBERT-mpnet-base-v2 fine-tuned cosine,-0.043776
+A012,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.119554
+A027,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.669708
+A028,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.180924
+A029,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.93541
+A030,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.559953
+A045,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.73546
+A048,0,SBERT-mpnet-base-v2 fine-tuned cosine,-0.03381
+A050,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.716768
+A057,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.087306
+A059,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.054648
+A068,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.875153
+A069,0,SBERT-mpnet-base-v2 fine-tuned cosine,-0.079704
+A071,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.034695
+A073,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.009108
+A086,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.077698
+A098,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.461229
+A104,0,SBERT-mpnet-base-v2 fine-tuned cosine,-0.071894
+A116,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.831465
+A117,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.722035
+A124,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.242333
+A126,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.032858
+A131,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.258068
+A136,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.867374
+A137,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.739221
+A144,0,SBERT-mpnet-base-v2 fine-tuned cosine,-0.096019
+A146,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.31551
+A157,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.157671
+A159,0,SBERT-mpnet-base-v2 fine-tuned cosine,-0.040786
+A160,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.386128
+A161,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.693783
+A163,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.638484
+A164,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.92615
+A167,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.612466
+A177,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.607097
+A181,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.721967
+A182,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.012972
+A195,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.702948
+A197,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.018267
+A200,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.866564
+A203,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.160554
+A207,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.933676
+A213,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.021255
+A222,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.012424
+A226,0,SBERT-mpnet-base-v2 fine-tuned cosine,-0.078835
+A229,0,SBERT-mpnet-base-v2 fine-tuned cosine,0.802359
+A236,0,SBERT-mpnet-base-v2 fine-tuned cosine,-0.064544
+A005,0,JobBERT-v2 frozen head,0.148043
+A009,0,JobBERT-v2 frozen head,0.058633
+A012,0,JobBERT-v2 frozen head,0.072304
+A027,0,JobBERT-v2 frozen head,0.940556
+A028,0,JobBERT-v2 frozen head,0.484305
+A029,0,JobBERT-v2 frozen head,0.887773
+A030,0,JobBERT-v2 frozen head,0.636373
+A045,0,JobBERT-v2 frozen head,0.913173
+A048,0,JobBERT-v2 frozen head,0.076168
+A050,0,JobBERT-v2 frozen head,0.912868
+A057,0,JobBERT-v2 frozen head,0.173997
+A059,0,JobBERT-v2 frozen head,0.159002
+A068,0,JobBERT-v2 frozen head,0.922039
+A069,0,JobBERT-v2 frozen head,0.303661
+A071,0,JobBERT-v2 frozen head,0.459522
+A073,0,JobBERT-v2 frozen head,0.533968
+A086,0,JobBERT-v2 frozen head,0.222084
+A098,0,JobBERT-v2 frozen head,0.560193
+A104,0,JobBERT-v2 frozen head,0.146502
+A116,0,JobBERT-v2 frozen head,0.595052
+A117,0,JobBERT-v2 frozen head,0.927356
+A124,0,JobBERT-v2 frozen head,0.580665
+A126,0,JobBERT-v2 frozen head,0.124911
+A131,0,JobBERT-v2 frozen head,0.10654
+A136,0,JobBERT-v2 frozen head,0.956932
+A137,0,JobBERT-v2 frozen head,0.642376
+A144,0,JobBERT-v2 frozen head,0.225258
+A146,0,JobBERT-v2 frozen head,0.347973
+A157,0,JobBERT-v2 frozen head,0.260815
+A159,0,JobBERT-v2 frozen head,0.218424
+A160,0,JobBERT-v2 frozen head,0.624556
+A161,0,JobBERT-v2 frozen head,0.624082
+A163,0,JobBERT-v2 frozen head,0.83185
+A164,0,JobBERT-v2 frozen head,0.861451
+A167,0,JobBERT-v2 frozen head,0.85413
+A177,0,JobBERT-v2 frozen head,0.623602
+A181,0,JobBERT-v2 frozen head,0.912377
+A182,0,JobBERT-v2 frozen head,0.093936
+A195,0,JobBERT-v2 frozen head,0.90333
+A197,0,JobBERT-v2 frozen head,0.118581
+A200,0,JobBERT-v2 frozen head,0.833788
+A203,0,JobBERT-v2 frozen head,0.69864
+A207,0,JobBERT-v2 frozen head,0.867966
+A213,0,JobBERT-v2 frozen head,0.126973
+A222,0,JobBERT-v2 frozen head,0.140818
+A226,0,JobBERT-v2 frozen head,0.160783
+A229,0,JobBERT-v2 frozen head,0.457179
+A236,0,JobBERT-v2 frozen head,0.148596
+A005,0,JobBERT-v2 frozen cosine,0.177351
+A009,0,JobBERT-v2 frozen cosine,-0.034316
+A012,0,JobBERT-v2 frozen cosine,-0.004948
+A027,0,JobBERT-v2 frozen cosine,0.75741
+A028,0,JobBERT-v2 frozen cosine,0.380105
+A029,0,JobBERT-v2 frozen cosine,0.66557
+A030,0,JobBERT-v2 frozen cosine,0.450793
+A045,0,JobBERT-v2 frozen cosine,0.709682
+A048,0,JobBERT-v2 frozen cosine,0.064964
+A050,0,JobBERT-v2 frozen cosine,0.707513
+A057,0,JobBERT-v2 frozen cosine,0.128204
+A059,0,JobBERT-v2 frozen cosine,0.137723
+A068,0,JobBERT-v2 frozen cosine,0.742502
+A069,0,JobBERT-v2 frozen cosine,0.309303
+A071,0,JobBERT-v2 frozen cosine,0.415707
+A073,0,JobBERT-v2 frozen cosine,0.454428
+A086,0,JobBERT-v2 frozen cosine,0.263037
+A098,0,JobBERT-v2 frozen cosine,0.453167
+A104,0,JobBERT-v2 frozen cosine,0.180823
+A116,0,JobBERT-v2 frozen cosine,0.433857
+A117,0,JobBERT-v2 frozen cosine,0.740847
+A124,0,JobBERT-v2 frozen cosine,0.438547
+A126,0,JobBERT-v2 frozen cosine,0.116106
+A131,0,JobBERT-v2 frozen cosine,0.060096
+A136,0,JobBERT-v2 frozen cosine,0.788104
+A137,0,JobBERT-v2 frozen cosine,0.424678
+A144,0,JobBERT-v2 frozen cosine,0.178996
+A146,0,JobBERT-v2 frozen cosine,0.323654
+A157,0,JobBERT-v2 frozen cosine,0.22568
+A159,0,JobBERT-v2 frozen cosine,0.214608
+A160,0,JobBERT-v2 frozen cosine,0.429362
+A161,0,JobBERT-v2 frozen cosine,0.453106
+A163,0,JobBERT-v2 frozen cosine,0.614039
+A164,0,JobBERT-v2 frozen cosine,0.632029
+A167,0,JobBERT-v2 frozen cosine,0.643136
+A177,0,JobBERT-v2 frozen cosine,0.482208
+A181,0,JobBERT-v2 frozen cosine,0.703829
+A182,0,JobBERT-v2 frozen cosine,0.058744
+A195,0,JobBERT-v2 frozen cosine,0.695308
+A197,0,JobBERT-v2 frozen cosine,0.130055
+A200,0,JobBERT-v2 frozen cosine,0.64197
+A203,0,JobBERT-v2 frozen cosine,0.520149
+A207,0,JobBERT-v2 frozen cosine,0.641052
+A213,0,JobBERT-v2 frozen cosine,0.111777
+A222,0,JobBERT-v2 frozen cosine,0.160119
+A226,0,JobBERT-v2 frozen cosine,0.157885
+A229,0,JobBERT-v2 frozen cosine,0.335371
+A236,0,JobBERT-v2 frozen cosine,0.17638
+A005,0,JobBERT-v2 fine-tuned head,0.028631
+A009,0,JobBERT-v2 fine-tuned head,0.028601
+A012,0,JobBERT-v2 fine-tuned head,0.140858
+A027,0,JobBERT-v2 fine-tuned head,0.947675
+A028,0,JobBERT-v2 fine-tuned head,0.248214
+A029,0,JobBERT-v2 fine-tuned head,0.976928
+A030,0,JobBERT-v2 fine-tuned head,0.76312
+A045,0,JobBERT-v2 fine-tuned head,0.973639
+A048,0,JobBERT-v2 fine-tuned head,0.037925
+A050,0,JobBERT-v2 fine-tuned head,0.977693
+A057,0,JobBERT-v2 fine-tuned head,0.177575
+A059,0,JobBERT-v2 fine-tuned head,0.043475
+A068,0,JobBERT-v2 fine-tuned head,0.982686
+A069,0,JobBERT-v2 fine-tuned head,0.019301
+A071,0,JobBERT-v2 fine-tuned head,0.100559
+A073,0,JobBERT-v2 fine-tuned head,0.018255
+A086,0,JobBERT-v2 fine-tuned head,0.02831
+A098,0,JobBERT-v2 fine-tuned head,0.131948
+A104,0,JobBERT-v2 fine-tuned head,0.027235
+A116,0,JobBERT-v2 fine-tuned head,0.987669
+A117,0,JobBERT-v2 fine-tuned head,0.980613
+A124,0,JobBERT-v2 fine-tuned head,0.29758
+A126,0,JobBERT-v2 fine-tuned head,0.040394
+A131,0,JobBERT-v2 fine-tuned head,0.057695
+A136,0,JobBERT-v2 fine-tuned head,0.98506
+A137,0,JobBERT-v2 fine-tuned head,0.941097
+A144,0,JobBERT-v2 fine-tuned head,0.051533
+A146,0,JobBERT-v2 fine-tuned head,0.14201
+A157,0,JobBERT-v2 fine-tuned head,0.043683
+A159,0,JobBERT-v2 fine-tuned head,0.020357
+A160,0,JobBERT-v2 fine-tuned head,0.734714
+A161,0,JobBERT-v2 fine-tuned head,0.926907
+A163,0,JobBERT-v2 fine-tuned head,0.845326
+A164,0,JobBERT-v2 fine-tuned head,0.990429
+A167,0,JobBERT-v2 fine-tuned head,0.953303
+A177,0,JobBERT-v2 fine-tuned head,0.782839
+A181,0,JobBERT-v2 fine-tuned head,0.981478
+A182,0,JobBERT-v2 fine-tuned head,0.027427
+A195,0,JobBERT-v2 fine-tuned head,0.861647
+A197,0,JobBERT-v2 fine-tuned head,0.049494
+A200,0,JobBERT-v2 fine-tuned head,0.975411
+A203,0,JobBERT-v2 fine-tuned head,0.490139
+A207,0,JobBERT-v2 fine-tuned head,0.991934
+A213,0,JobBERT-v2 fine-tuned head,0.045033
+A222,0,JobBERT-v2 fine-tuned head,0.031261
+A226,0,JobBERT-v2 fine-tuned head,0.044535
+A229,0,JobBERT-v2 fine-tuned head,0.945498
+A236,0,JobBERT-v2 fine-tuned head,0.035032
+A005,0,JobBERT-v2 fine-tuned cosine,-0.026965
+A009,0,JobBERT-v2 fine-tuned cosine,-0.03638
+A012,0,JobBERT-v2 fine-tuned cosine,0.199454
+A027,0,JobBERT-v2 fine-tuned cosine,0.770801
+A028,0,JobBERT-v2 fine-tuned cosine,0.285896
+A029,0,JobBERT-v2 fine-tuned cosine,0.852622
+A030,0,JobBERT-v2 fine-tuned cosine,0.573377
+A045,0,JobBERT-v2 fine-tuned cosine,0.844748
+A048,0,JobBERT-v2 fine-tuned cosine,-0.005536
+A050,0,JobBERT-v2 fine-tuned cosine,0.857257
+A057,0,JobBERT-v2 fine-tuned cosine,0.227947
+A059,0,JobBERT-v2 fine-tuned cosine,0.012142
+A068,0,JobBERT-v2 fine-tuned cosine,0.88304
+A069,0,JobBERT-v2 fine-tuned cosine,-0.079998
+A071,0,JobBERT-v2 fine-tuned cosine,0.157262
+A073,0,JobBERT-v2 fine-tuned cosine,-0.092465
+A086,0,JobBERT-v2 fine-tuned cosine,-0.027756
+A098,0,JobBERT-v2 fine-tuned cosine,0.17771
+A104,0,JobBERT-v2 fine-tuned cosine,-0.039213
+A116,0,JobBERT-v2 fine-tuned cosine,0.914131
+A117,0,JobBERT-v2 fine-tuned cosine,0.871268
+A124,0,JobBERT-v2 fine-tuned cosine,0.325794
+A126,0,JobBERT-v2 fine-tuned cosine,0.01623
+A131,0,JobBERT-v2 fine-tuned cosine,0.059738
+A136,0,JobBERT-v2 fine-tuned cosine,0.896141
+A137,0,JobBERT-v2 fine-tuned cosine,0.75236
+A144,0,JobBERT-v2 fine-tuned cosine,0.034204
+A146,0,JobBERT-v2 fine-tuned cosine,0.206301
+A157,0,JobBERT-v2 fine-tuned cosine,0.022732
+A159,0,JobBERT-v2 fine-tuned cosine,-0.079758
+A160,0,JobBERT-v2 fine-tuned cosine,0.554279
+A161,0,JobBERT-v2 fine-tuned cosine,0.73551
+A163,0,JobBERT-v2 fine-tuned cosine,0.641266
+A164,0,JobBERT-v2 fine-tuned cosine,0.936114
+A167,0,JobBERT-v2 fine-tuned cosine,0.783642
+A177,0,JobBERT-v2 fine-tuned cosine,0.587073
+A181,0,JobBERT-v2 fine-tuned cosine,0.873079
+A182,0,JobBERT-v2 fine-tuned cosine,-0.027824
+A195,0,JobBERT-v2 fine-tuned cosine,0.661287
+A197,0,JobBERT-v2 fine-tuned cosine,0.035504
+A200,0,JobBERT-v2 fine-tuned cosine,0.854283
+A203,0,JobBERT-v2 fine-tuned cosine,0.431973
+A207,0,JobBERT-v2 fine-tuned cosine,0.944985
+A213,0,JobBERT-v2 fine-tuned cosine,0.014606
+A222,0,JobBERT-v2 fine-tuned cosine,-0.030258
+A226,0,JobBERT-v2 fine-tuned cosine,0.02102
+A229,0,JobBERT-v2 fine-tuned cosine,0.767438
+A236,0,JobBERT-v2 fine-tuned cosine,-0.003186
+A010,1,TF-IDF head,0.500441
+A013,1,TF-IDF head,0.327445
+A015,1,TF-IDF head,0.350051
+A016,1,TF-IDF head,0.538695
+A021,1,TF-IDF head,0.50557
+A022,1,TF-IDF head,0.365201
+A024,1,TF-IDF head,0.389855
+A041,1,TF-IDF head,0.605803
+A047,1,TF-IDF head,0.341421
+A055,1,TF-IDF head,0.397653
+A060,1,TF-IDF head,0.547732
+A062,1,TF-IDF head,0.382953
+A063,1,TF-IDF head,0.278403
+A065,1,TF-IDF head,0.502579
+A067,1,TF-IDF head,0.436348
+A070,1,TF-IDF head,0.331622
+A079,1,TF-IDF head,0.574279
+A080,1,TF-IDF head,0.52602
+A087,1,TF-IDF head,0.407789
+A090,1,TF-IDF head,0.490903
+A091,1,TF-IDF head,0.316786
+A092,1,TF-IDF head,0.461615
+A095,1,TF-IDF head,0.508218
+A096,1,TF-IDF head,0.789006
+A101,1,TF-IDF head,0.430789
+A106,1,TF-IDF head,0.387571
+A110,1,TF-IDF head,0.542363
+A113,1,TF-IDF head,0.348736
+A114,1,TF-IDF head,0.443137
+A125,1,TF-IDF head,0.359672
+A151,1,TF-IDF head,0.512346
+A156,1,TF-IDF head,0.571624
+A162,1,TF-IDF head,0.372333
+A168,1,TF-IDF head,0.77328
+A170,1,TF-IDF head,0.333505
+A172,1,TF-IDF head,0.406385
+A175,1,TF-IDF head,0.670519
+A179,1,TF-IDF head,0.318594
+A180,1,TF-IDF head,0.356937
+A186,1,TF-IDF head,0.328094
+A189,1,TF-IDF head,0.286321
+A191,1,TF-IDF head,0.313227
+A193,1,TF-IDF head,0.250297
+A216,1,TF-IDF head,0.350627
+A219,1,TF-IDF head,0.310698
+A220,1,TF-IDF head,0.295867
+A225,1,TF-IDF head,0.310981
+A230,1,TF-IDF head,0.541208
+A010,1,TF-IDF cosine,0.00782
+A013,1,TF-IDF cosine,0.010342
+A015,1,TF-IDF cosine,0.004375
+A016,1,TF-IDF cosine,0.0
+A021,1,TF-IDF cosine,0.104871
+A022,1,TF-IDF cosine,0.022214
+A024,1,TF-IDF cosine,0.037496
+A041,1,TF-IDF cosine,0.128795
+A047,1,TF-IDF cosine,0.0
+A055,1,TF-IDF cosine,0.01434
+A060,1,TF-IDF cosine,0.16414
+A062,1,TF-IDF cosine,0.047123
+A063,1,TF-IDF cosine,0.019876
+A065,1,TF-IDF cosine,0.068254
+A067,1,TF-IDF cosine,0.041302
+A070,1,TF-IDF cosine,0.009538
+A079,1,TF-IDF cosine,0.209023
+A080,1,TF-IDF cosine,0.179463
+A087,1,TF-IDF cosine,0.027528
+A090,1,TF-IDF cosine,0.009046
+A091,1,TF-IDF cosine,0.038945
+A092,1,TF-IDF cosine,0.040692
+A095,1,TF-IDF cosine,0.050359
+A096,1,TF-IDF cosine,0.339888
+A101,1,TF-IDF cosine,0.023946
+A106,1,TF-IDF cosine,0.031599
+A110,1,TF-IDF cosine,0.058435
+A113,1,TF-IDF cosine,0.054138
+A114,1,TF-IDF cosine,0.09958
+A125,1,TF-IDF cosine,0.046911
+A151,1,TF-IDF cosine,0.051086
+A156,1,TF-IDF cosine,0.20234
+A162,1,TF-IDF cosine,0.011231
+A168,1,TF-IDF cosine,0.296544
+A170,1,TF-IDF cosine,0.004883
+A172,1,TF-IDF cosine,0.0
+A175,1,TF-IDF cosine,0.098927
+A179,1,TF-IDF cosine,0.054813
+A180,1,TF-IDF cosine,0.06498
+A186,1,TF-IDF cosine,0.010298
+A189,1,TF-IDF cosine,0.01018
+A191,1,TF-IDF cosine,0.013591
+A193,1,TF-IDF cosine,0.06465
+A216,1,TF-IDF cosine,0.038581
+A219,1,TF-IDF cosine,0.025803
+A220,1,TF-IDF cosine,0.019665
+A225,1,TF-IDF cosine,0.009004
+A230,1,TF-IDF cosine,0.146296
+A010,1,SBERT-MiniLM-L6-v2 frozen head,0.255627
+A013,1,SBERT-MiniLM-L6-v2 frozen head,0.196158
+A015,1,SBERT-MiniLM-L6-v2 frozen head,0.23048
+A016,1,SBERT-MiniLM-L6-v2 frozen head,0.284613
+A021,1,SBERT-MiniLM-L6-v2 frozen head,0.386632
+A022,1,SBERT-MiniLM-L6-v2 frozen head,0.446465
+A024,1,SBERT-MiniLM-L6-v2 frozen head,0.395627
+A041,1,SBERT-MiniLM-L6-v2 frozen head,0.635115
+A047,1,SBERT-MiniLM-L6-v2 frozen head,0.151182
+A055,1,SBERT-MiniLM-L6-v2 frozen head,0.3616
+A060,1,SBERT-MiniLM-L6-v2 frozen head,0.549457
+A062,1,SBERT-MiniLM-L6-v2 frozen head,0.395637
+A063,1,SBERT-MiniLM-L6-v2 frozen head,0.190262
+A065,1,SBERT-MiniLM-L6-v2 frozen head,0.468889
+A067,1,SBERT-MiniLM-L6-v2 frozen head,0.556348
+A070,1,SBERT-MiniLM-L6-v2 frozen head,0.327625
+A079,1,SBERT-MiniLM-L6-v2 frozen head,0.634586
+A080,1,SBERT-MiniLM-L6-v2 frozen head,0.588296
+A087,1,SBERT-MiniLM-L6-v2 frozen head,0.528194
+A090,1,SBERT-MiniLM-L6-v2 frozen head,0.2477
+A091,1,SBERT-MiniLM-L6-v2 frozen head,0.494536
+A092,1,SBERT-MiniLM-L6-v2 frozen head,0.302792
+A095,1,SBERT-MiniLM-L6-v2 frozen head,0.551395
+A096,1,SBERT-MiniLM-L6-v2 frozen head,0.599097
+A101,1,SBERT-MiniLM-L6-v2 frozen head,0.378359
+A106,1,SBERT-MiniLM-L6-v2 frozen head,0.568585
+A110,1,SBERT-MiniLM-L6-v2 frozen head,0.431063
+A113,1,SBERT-MiniLM-L6-v2 frozen head,0.242207
+A114,1,SBERT-MiniLM-L6-v2 frozen head,0.528271
+A125,1,SBERT-MiniLM-L6-v2 frozen head,0.508728
+A151,1,SBERT-MiniLM-L6-v2 frozen head,0.634615
+A156,1,SBERT-MiniLM-L6-v2 frozen head,0.670905
+A162,1,SBERT-MiniLM-L6-v2 frozen head,0.460461
+A168,1,SBERT-MiniLM-L6-v2 frozen head,0.737314
+A170,1,SBERT-MiniLM-L6-v2 frozen head,0.285349
+A172,1,SBERT-MiniLM-L6-v2 frozen head,0.456902
+A175,1,SBERT-MiniLM-L6-v2 frozen head,0.37246
+A179,1,SBERT-MiniLM-L6-v2 frozen head,0.497631
+A180,1,SBERT-MiniLM-L6-v2 frozen head,0.491796
+A186,1,SBERT-MiniLM-L6-v2 frozen head,0.256912
+A189,1,SBERT-MiniLM-L6-v2 frozen head,0.302894
+A191,1,SBERT-MiniLM-L6-v2 frozen head,0.464781
+A193,1,SBERT-MiniLM-L6-v2 frozen head,0.450706
+A216,1,SBERT-MiniLM-L6-v2 frozen head,0.47869
+A219,1,SBERT-MiniLM-L6-v2 frozen head,0.380467
+A220,1,SBERT-MiniLM-L6-v2 frozen head,0.475564
+A225,1,SBERT-MiniLM-L6-v2 frozen head,0.27373
+A230,1,SBERT-MiniLM-L6-v2 frozen head,0.655831
+A010,1,SBERT-MiniLM-L6-v2 frozen cosine,0.141965
+A013,1,SBERT-MiniLM-L6-v2 frozen cosine,0.128694
+A015,1,SBERT-MiniLM-L6-v2 frozen cosine,0.22176
+A016,1,SBERT-MiniLM-L6-v2 frozen cosine,0.251035
+A021,1,SBERT-MiniLM-L6-v2 frozen cosine,0.377296
+A022,1,SBERT-MiniLM-L6-v2 frozen cosine,0.340832
+A024,1,SBERT-MiniLM-L6-v2 frozen cosine,0.331567
+A041,1,SBERT-MiniLM-L6-v2 frozen cosine,0.463899
+A047,1,SBERT-MiniLM-L6-v2 frozen cosine,0.04686
+A055,1,SBERT-MiniLM-L6-v2 frozen cosine,0.360655
+A060,1,SBERT-MiniLM-L6-v2 frozen cosine,0.479978
+A062,1,SBERT-MiniLM-L6-v2 frozen cosine,0.390003
+A063,1,SBERT-MiniLM-L6-v2 frozen cosine,0.201763
+A065,1,SBERT-MiniLM-L6-v2 frozen cosine,0.353749
+A067,1,SBERT-MiniLM-L6-v2 frozen cosine,0.405112
+A070,1,SBERT-MiniLM-L6-v2 frozen cosine,0.220195
+A079,1,SBERT-MiniLM-L6-v2 frozen cosine,0.511146
+A080,1,SBERT-MiniLM-L6-v2 frozen cosine,0.455188
+A087,1,SBERT-MiniLM-L6-v2 frozen cosine,0.423633
+A090,1,SBERT-MiniLM-L6-v2 frozen cosine,0.077312
+A091,1,SBERT-MiniLM-L6-v2 frozen cosine,0.4047
+A092,1,SBERT-MiniLM-L6-v2 frozen cosine,0.278549
+A095,1,SBERT-MiniLM-L6-v2 frozen cosine,0.450747
+A096,1,SBERT-MiniLM-L6-v2 frozen cosine,0.454425
+A101,1,SBERT-MiniLM-L6-v2 frozen cosine,0.292449
+A106,1,SBERT-MiniLM-L6-v2 frozen cosine,0.448579
+A110,1,SBERT-MiniLM-L6-v2 frozen cosine,0.345681
+A113,1,SBERT-MiniLM-L6-v2 frozen cosine,0.151757
+A114,1,SBERT-MiniLM-L6-v2 frozen cosine,0.395161
+A125,1,SBERT-MiniLM-L6-v2 frozen cosine,0.414636
+A151,1,SBERT-MiniLM-L6-v2 frozen cosine,0.535326
+A156,1,SBERT-MiniLM-L6-v2 frozen cosine,0.508146
+A162,1,SBERT-MiniLM-L6-v2 frozen cosine,0.417533
+A168,1,SBERT-MiniLM-L6-v2 frozen cosine,0.625168
+A170,1,SBERT-MiniLM-L6-v2 frozen cosine,0.214925
+A172,1,SBERT-MiniLM-L6-v2 frozen cosine,0.447822
+A175,1,SBERT-MiniLM-L6-v2 frozen cosine,0.365816
+A179,1,SBERT-MiniLM-L6-v2 frozen cosine,0.389004
+A180,1,SBERT-MiniLM-L6-v2 frozen cosine,0.467253
+A186,1,SBERT-MiniLM-L6-v2 frozen cosine,0.201064
+A189,1,SBERT-MiniLM-L6-v2 frozen cosine,0.272251
+A191,1,SBERT-MiniLM-L6-v2 frozen cosine,0.36093
+A193,1,SBERT-MiniLM-L6-v2 frozen cosine,0.369842
+A216,1,SBERT-MiniLM-L6-v2 frozen cosine,0.291506
+A219,1,SBERT-MiniLM-L6-v2 frozen cosine,0.343906
+A220,1,SBERT-MiniLM-L6-v2 frozen cosine,0.411551
+A225,1,SBERT-MiniLM-L6-v2 frozen cosine,0.184215
+A230,1,SBERT-MiniLM-L6-v2 frozen cosine,0.497495
+A010,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.037502
+A013,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.112901
+A015,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.044412
+A016,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.111558
+A021,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.050742
+A022,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.126171
+A024,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.091301
+A041,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.867392
+A047,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.051763
+A055,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.087119
+A060,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.118761
+A062,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.210041
+A063,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.050296
+A065,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.058729
+A067,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.137893
+A070,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.081649
+A079,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.935625
+A080,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.923021
+A087,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.103982
+A090,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.043784
+A091,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.097456
+A092,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.067695
+A095,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.920358
+A096,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.881414
+A101,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.156784
+A106,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.12806
+A110,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.151606
+A113,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.041016
+A114,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.463698
+A125,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.054087
+A151,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.941179
+A156,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.971485
+A162,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.074692
+A168,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.977134
+A170,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.028638
+A172,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.078608
+A175,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.887887
+A179,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.066039
+A180,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.201849
+A186,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.037582
+A189,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.172687
+A191,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.111876
+A193,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.031527
+A216,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.579983
+A219,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.04374
+A220,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.101858
+A225,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.10623
+A230,1,SBERT-MiniLM-L6-v2 fine-tuned head,0.815727
+A010,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.009841
+A013,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.12217
+A015,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.006081
+A016,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.1508
+A021,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.019479
+A022,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.143704
+A024,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.096888
+A041,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.59871
+A047,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.041207
+A055,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.098466
+A060,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.167266
+A062,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.21665
+A063,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.043343
+A065,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.047145
+A067,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.137715
+A070,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.087845
+A079,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.678347
+A080,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.657
+A087,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.108335
+A090,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.01746
+A091,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.095755
+A092,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.05148
+A095,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.652103
+A096,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.611099
+A101,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.165032
+A106,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.164591
+A110,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.187139
+A113,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.041431
+A114,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.350387
+A125,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.020887
+A151,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.68422
+A156,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.773952
+A162,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.078185
+A168,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.796484
+A170,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.058563
+A172,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.085412
+A175,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.617482
+A179,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.047233
+A180,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.21832
+A186,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.011087
+A189,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.177408
+A191,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.139997
+A193,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.029901
+A216,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.412092
+A219,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.014468
+A220,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.13557
+A225,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.105482
+A230,1,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.550079
+A010,1,SBERT-mpnet-base-v2 frozen head,0.205654
+A013,1,SBERT-mpnet-base-v2 frozen head,0.162037
+A015,1,SBERT-mpnet-base-v2 frozen head,0.211866
+A016,1,SBERT-mpnet-base-v2 frozen head,0.247381
+A021,1,SBERT-mpnet-base-v2 frozen head,0.40216
+A022,1,SBERT-mpnet-base-v2 frozen head,0.517223
+A024,1,SBERT-mpnet-base-v2 frozen head,0.368598
+A041,1,SBERT-mpnet-base-v2 frozen head,0.704676
+A047,1,SBERT-mpnet-base-v2 frozen head,0.129305
+A055,1,SBERT-mpnet-base-v2 frozen head,0.33619
+A060,1,SBERT-mpnet-base-v2 frozen head,0.517642
+A062,1,SBERT-mpnet-base-v2 frozen head,0.646519
+A063,1,SBERT-mpnet-base-v2 frozen head,0.265609
+A065,1,SBERT-mpnet-base-v2 frozen head,0.566457
+A067,1,SBERT-mpnet-base-v2 frozen head,0.464954
+A070,1,SBERT-mpnet-base-v2 frozen head,0.18535
+A079,1,SBERT-mpnet-base-v2 frozen head,0.53101
+A080,1,SBERT-mpnet-base-v2 frozen head,0.644431
+A087,1,SBERT-mpnet-base-v2 frozen head,0.474353
+A090,1,SBERT-mpnet-base-v2 frozen head,0.261038
+A091,1,SBERT-mpnet-base-v2 frozen head,0.545809
+A092,1,SBERT-mpnet-base-v2 frozen head,0.1804
+A095,1,SBERT-mpnet-base-v2 frozen head,0.552718
+A096,1,SBERT-mpnet-base-v2 frozen head,0.610728
+A101,1,SBERT-mpnet-base-v2 frozen head,0.477538
+A106,1,SBERT-mpnet-base-v2 frozen head,0.629996
+A110,1,SBERT-mpnet-base-v2 frozen head,0.441097
+A113,1,SBERT-mpnet-base-v2 frozen head,0.265992
+A114,1,SBERT-mpnet-base-v2 frozen head,0.505741
+A125,1,SBERT-mpnet-base-v2 frozen head,0.58603
+A151,1,SBERT-mpnet-base-v2 frozen head,0.582217
+A156,1,SBERT-mpnet-base-v2 frozen head,0.608436
+A162,1,SBERT-mpnet-base-v2 frozen head,0.435012
+A168,1,SBERT-mpnet-base-v2 frozen head,0.789321
+A170,1,SBERT-mpnet-base-v2 frozen head,0.310459
+A172,1,SBERT-mpnet-base-v2 frozen head,0.421303
+A175,1,SBERT-mpnet-base-v2 frozen head,0.668656
+A179,1,SBERT-mpnet-base-v2 frozen head,0.510031
+A180,1,SBERT-mpnet-base-v2 frozen head,0.507119
+A186,1,SBERT-mpnet-base-v2 frozen head,0.255741
+A189,1,SBERT-mpnet-base-v2 frozen head,0.381762
+A191,1,SBERT-mpnet-base-v2 frozen head,0.360752
+A193,1,SBERT-mpnet-base-v2 frozen head,0.486138
+A216,1,SBERT-mpnet-base-v2 frozen head,0.276337
+A219,1,SBERT-mpnet-base-v2 frozen head,0.311106
+A220,1,SBERT-mpnet-base-v2 frozen head,0.31371
+A225,1,SBERT-mpnet-base-v2 frozen head,0.170083
+A230,1,SBERT-mpnet-base-v2 frozen head,0.749794
+A010,1,SBERT-mpnet-base-v2 frozen cosine,0.092731
+A013,1,SBERT-mpnet-base-v2 frozen cosine,0.125095
+A015,1,SBERT-mpnet-base-v2 frozen cosine,0.2339
+A016,1,SBERT-mpnet-base-v2 frozen cosine,0.257904
+A021,1,SBERT-mpnet-base-v2 frozen cosine,0.390179
+A022,1,SBERT-mpnet-base-v2 frozen cosine,0.490027
+A024,1,SBERT-mpnet-base-v2 frozen cosine,0.306615
+A041,1,SBERT-mpnet-base-v2 frozen cosine,0.585867
+A047,1,SBERT-mpnet-base-v2 frozen cosine,0.039289
+A055,1,SBERT-mpnet-base-v2 frozen cosine,0.364552
+A060,1,SBERT-mpnet-base-v2 frozen cosine,0.428984
+A062,1,SBERT-mpnet-base-v2 frozen cosine,0.526396
+A063,1,SBERT-mpnet-base-v2 frozen cosine,0.310938
+A065,1,SBERT-mpnet-base-v2 frozen cosine,0.498437
+A067,1,SBERT-mpnet-base-v2 frozen cosine,0.359787
+A070,1,SBERT-mpnet-base-v2 frozen cosine,0.110698
+A079,1,SBERT-mpnet-base-v2 frozen cosine,0.475013
+A080,1,SBERT-mpnet-base-v2 frozen cosine,0.538681
+A087,1,SBERT-mpnet-base-v2 frozen cosine,0.457626
+A090,1,SBERT-mpnet-base-v2 frozen cosine,0.189319
+A091,1,SBERT-mpnet-base-v2 frozen cosine,0.475566
+A092,1,SBERT-mpnet-base-v2 frozen cosine,0.211421
+A095,1,SBERT-mpnet-base-v2 frozen cosine,0.507761
+A096,1,SBERT-mpnet-base-v2 frozen cosine,0.4662
+A101,1,SBERT-mpnet-base-v2 frozen cosine,0.432603
+A106,1,SBERT-mpnet-base-v2 frozen cosine,0.542182
+A110,1,SBERT-mpnet-base-v2 frozen cosine,0.383232
+A113,1,SBERT-mpnet-base-v2 frozen cosine,0.218135
+A114,1,SBERT-mpnet-base-v2 frozen cosine,0.429546
+A125,1,SBERT-mpnet-base-v2 frozen cosine,0.517408
+A151,1,SBERT-mpnet-base-v2 frozen cosine,0.448717
+A156,1,SBERT-mpnet-base-v2 frozen cosine,0.538455
+A162,1,SBERT-mpnet-base-v2 frozen cosine,0.419408
+A168,1,SBERT-mpnet-base-v2 frozen cosine,0.685113
+A170,1,SBERT-mpnet-base-v2 frozen cosine,0.316016
+A172,1,SBERT-mpnet-base-v2 frozen cosine,0.39087
+A175,1,SBERT-mpnet-base-v2 frozen cosine,0.55986
+A179,1,SBERT-mpnet-base-v2 frozen cosine,0.494646
+A180,1,SBERT-mpnet-base-v2 frozen cosine,0.49756
+A186,1,SBERT-mpnet-base-v2 frozen cosine,0.258009
+A189,1,SBERT-mpnet-base-v2 frozen cosine,0.323232
+A191,1,SBERT-mpnet-base-v2 frozen cosine,0.336481
+A193,1,SBERT-mpnet-base-v2 frozen cosine,0.424243
+A216,1,SBERT-mpnet-base-v2 frozen cosine,0.190417
+A219,1,SBERT-mpnet-base-v2 frozen cosine,0.298496
+A220,1,SBERT-mpnet-base-v2 frozen cosine,0.350266
+A225,1,SBERT-mpnet-base-v2 frozen cosine,0.139703
+A230,1,SBERT-mpnet-base-v2 frozen cosine,0.612408
+A010,1,SBERT-mpnet-base-v2 fine-tuned head,0.033789
+A013,1,SBERT-mpnet-base-v2 fine-tuned head,0.050966
+A015,1,SBERT-mpnet-base-v2 fine-tuned head,0.022447
+A016,1,SBERT-mpnet-base-v2 fine-tuned head,0.054379
+A021,1,SBERT-mpnet-base-v2 fine-tuned head,0.031437
+A022,1,SBERT-mpnet-base-v2 fine-tuned head,0.025335
+A024,1,SBERT-mpnet-base-v2 fine-tuned head,0.153933
+A041,1,SBERT-mpnet-base-v2 fine-tuned head,0.961387
+A047,1,SBERT-mpnet-base-v2 fine-tuned head,0.027885
+A055,1,SBERT-mpnet-base-v2 fine-tuned head,0.059822
+A060,1,SBERT-mpnet-base-v2 fine-tuned head,0.07086
+A062,1,SBERT-mpnet-base-v2 fine-tuned head,0.235567
+A063,1,SBERT-mpnet-base-v2 fine-tuned head,0.033073
+A065,1,SBERT-mpnet-base-v2 fine-tuned head,0.185617
+A067,1,SBERT-mpnet-base-v2 fine-tuned head,0.10958
+A070,1,SBERT-mpnet-base-v2 fine-tuned head,0.052687
+A079,1,SBERT-mpnet-base-v2 fine-tuned head,0.92638
+A080,1,SBERT-mpnet-base-v2 fine-tuned head,0.939414
+A087,1,SBERT-mpnet-base-v2 fine-tuned head,0.087093
+A090,1,SBERT-mpnet-base-v2 fine-tuned head,0.032365
+A091,1,SBERT-mpnet-base-v2 fine-tuned head,0.279003
+A092,1,SBERT-mpnet-base-v2 fine-tuned head,0.139944
+A095,1,SBERT-mpnet-base-v2 fine-tuned head,0.965987
+A096,1,SBERT-mpnet-base-v2 fine-tuned head,0.904842
+A101,1,SBERT-mpnet-base-v2 fine-tuned head,0.045242
+A106,1,SBERT-mpnet-base-v2 fine-tuned head,0.16276
+A110,1,SBERT-mpnet-base-v2 fine-tuned head,0.141878
+A113,1,SBERT-mpnet-base-v2 fine-tuned head,0.022999
+A114,1,SBERT-mpnet-base-v2 fine-tuned head,0.43374
+A125,1,SBERT-mpnet-base-v2 fine-tuned head,0.057467
+A151,1,SBERT-mpnet-base-v2 fine-tuned head,0.967233
+A156,1,SBERT-mpnet-base-v2 fine-tuned head,0.92302
+A162,1,SBERT-mpnet-base-v2 fine-tuned head,0.029941
+A168,1,SBERT-mpnet-base-v2 fine-tuned head,0.983656
+A170,1,SBERT-mpnet-base-v2 fine-tuned head,0.033018
+A172,1,SBERT-mpnet-base-v2 fine-tuned head,0.049633
+A175,1,SBERT-mpnet-base-v2 fine-tuned head,0.987195
+A179,1,SBERT-mpnet-base-v2 fine-tuned head,0.039613
+A180,1,SBERT-mpnet-base-v2 fine-tuned head,0.02289
+A186,1,SBERT-mpnet-base-v2 fine-tuned head,0.031385
+A189,1,SBERT-mpnet-base-v2 fine-tuned head,0.035587
+A191,1,SBERT-mpnet-base-v2 fine-tuned head,0.030349
+A193,1,SBERT-mpnet-base-v2 fine-tuned head,0.031465
+A216,1,SBERT-mpnet-base-v2 fine-tuned head,0.070596
+A219,1,SBERT-mpnet-base-v2 fine-tuned head,0.036213
+A220,1,SBERT-mpnet-base-v2 fine-tuned head,0.025998
+A225,1,SBERT-mpnet-base-v2 fine-tuned head,0.033913
+A230,1,SBERT-mpnet-base-v2 fine-tuned head,0.970184
+A010,1,SBERT-mpnet-base-v2 fine-tuned cosine,-0.024799
+A013,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.035721
+A015,1,SBERT-mpnet-base-v2 fine-tuned cosine,-0.071237
+A016,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.042357
+A021,1,SBERT-mpnet-base-v2 fine-tuned cosine,-0.046416
+A022,1,SBERT-mpnet-base-v2 fine-tuned cosine,-0.063946
+A024,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.196234
+A041,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.817775
+A047,1,SBERT-mpnet-base-v2 fine-tuned cosine,-0.066874
+A055,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.067431
+A060,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.096092
+A062,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.289657
+A063,1,SBERT-mpnet-base-v2 fine-tuned cosine,-0.018452
+A065,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.240274
+A067,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.136384
+A070,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.04503
+A079,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.74873
+A080,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.764261
+A087,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.077002
+A090,1,SBERT-mpnet-base-v2 fine-tuned cosine,-0.026785
+A091,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.323511
+A092,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.200959
+A095,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.831993
+A096,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.710169
+A101,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.02022
+A106,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.236275
+A110,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.186534
+A113,1,SBERT-mpnet-base-v2 fine-tuned cosine,-0.088711
+A114,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.396604
+A125,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.052899
+A151,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.833907
+A156,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.737359
+A162,1,SBERT-mpnet-base-v2 fine-tuned cosine,-0.046524
+A168,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.899753
+A170,1,SBERT-mpnet-base-v2 fine-tuned cosine,-0.014101
+A172,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.039286
+A175,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.922465
+A179,1,SBERT-mpnet-base-v2 fine-tuned cosine,-0.001747
+A180,1,SBERT-mpnet-base-v2 fine-tuned cosine,-0.046023
+A186,1,SBERT-mpnet-base-v2 fine-tuned cosine,-0.040088
+A189,1,SBERT-mpnet-base-v2 fine-tuned cosine,-0.001944
+A191,1,SBERT-mpnet-base-v2 fine-tuned cosine,-0.013527
+A193,1,SBERT-mpnet-base-v2 fine-tuned cosine,-0.015082
+A216,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.093184
+A219,1,SBERT-mpnet-base-v2 fine-tuned cosine,-0.0243
+A220,1,SBERT-mpnet-base-v2 fine-tuned cosine,-0.034412
+A225,1,SBERT-mpnet-base-v2 fine-tuned cosine,-0.009397
+A230,1,SBERT-mpnet-base-v2 fine-tuned cosine,0.837734
+A010,1,JobBERT-v2 frozen head,0.118162
+A013,1,JobBERT-v2 frozen head,0.144854
+A015,1,JobBERT-v2 frozen head,0.190204
+A016,1,JobBERT-v2 frozen head,0.138094
+A021,1,JobBERT-v2 frozen head,0.16972
+A022,1,JobBERT-v2 frozen head,0.130992
+A024,1,JobBERT-v2 frozen head,0.425708
+A041,1,JobBERT-v2 frozen head,0.847001
+A047,1,JobBERT-v2 frozen head,0.15997
+A055,1,JobBERT-v2 frozen head,0.295843
+A060,1,JobBERT-v2 frozen head,0.381825
+A062,1,JobBERT-v2 frozen head,0.728743
+A063,1,JobBERT-v2 frozen head,0.170953
+A065,1,JobBERT-v2 frozen head,0.678772
+A067,1,JobBERT-v2 frozen head,0.544714
+A070,1,JobBERT-v2 frozen head,0.353882
+A079,1,JobBERT-v2 frozen head,0.871225
+A080,1,JobBERT-v2 frozen head,0.836638
+A087,1,JobBERT-v2 frozen head,0.326603
+A090,1,JobBERT-v2 frozen head,0.137648
+A091,1,JobBERT-v2 frozen head,0.364019
+A092,1,JobBERT-v2 frozen head,0.110284
+A095,1,JobBERT-v2 frozen head,0.748042
+A096,1,JobBERT-v2 frozen head,0.805776
+A101,1,JobBERT-v2 frozen head,0.134587
+A106,1,JobBERT-v2 frozen head,0.385983
+A110,1,JobBERT-v2 frozen head,0.237125
+A113,1,JobBERT-v2 frozen head,0.191944
+A114,1,JobBERT-v2 frozen head,0.463635
+A125,1,JobBERT-v2 frozen head,0.326853
+A151,1,JobBERT-v2 frozen head,0.732365
+A156,1,JobBERT-v2 frozen head,0.88353
+A162,1,JobBERT-v2 frozen head,0.161401
+A168,1,JobBERT-v2 frozen head,0.940719
+A170,1,JobBERT-v2 frozen head,0.132175
+A172,1,JobBERT-v2 frozen head,0.113779
+A175,1,JobBERT-v2 frozen head,0.666788
+A179,1,JobBERT-v2 frozen head,0.368396
+A180,1,JobBERT-v2 frozen head,0.349444
+A186,1,JobBERT-v2 frozen head,0.136449
+A189,1,JobBERT-v2 frozen head,0.271712
+A191,1,JobBERT-v2 frozen head,0.143624
+A193,1,JobBERT-v2 frozen head,0.195498
+A216,1,JobBERT-v2 frozen head,0.180103
+A219,1,JobBERT-v2 frozen head,0.181236
+A220,1,JobBERT-v2 frozen head,0.240438
+A225,1,JobBERT-v2 frozen head,0.183639
+A230,1,JobBERT-v2 frozen head,0.918524
+A010,1,JobBERT-v2 frozen cosine,0.064721
+A013,1,JobBERT-v2 frozen cosine,0.093932
+A015,1,JobBERT-v2 frozen cosine,0.149196
+A016,1,JobBERT-v2 frozen cosine,0.089078
+A021,1,JobBERT-v2 frozen cosine,0.173471
+A022,1,JobBERT-v2 frozen cosine,0.108547
+A024,1,JobBERT-v2 frozen cosine,0.345919
+A041,1,JobBERT-v2 frozen cosine,0.641892
+A047,1,JobBERT-v2 frozen cosine,0.123802
+A055,1,JobBERT-v2 frozen cosine,0.29601
+A060,1,JobBERT-v2 frozen cosine,0.332904
+A062,1,JobBERT-v2 frozen cosine,0.554292
+A063,1,JobBERT-v2 frozen cosine,0.147898
+A065,1,JobBERT-v2 frozen cosine,0.504975
+A067,1,JobBERT-v2 frozen cosine,0.400017
+A070,1,JobBERT-v2 frozen cosine,0.290887
+A079,1,JobBERT-v2 frozen cosine,0.678459
+A080,1,JobBERT-v2 frozen cosine,0.638391
+A087,1,JobBERT-v2 frozen cosine,0.301656
+A090,1,JobBERT-v2 frozen cosine,0.084512
+A091,1,JobBERT-v2 frozen cosine,0.35485
+A092,1,JobBERT-v2 frozen cosine,0.078466
+A095,1,JobBERT-v2 frozen cosine,0.527615
+A096,1,JobBERT-v2 frozen cosine,0.582319
+A101,1,JobBERT-v2 frozen cosine,0.11983
+A106,1,JobBERT-v2 frozen cosine,0.340074
+A110,1,JobBERT-v2 frozen cosine,0.244651
+A113,1,JobBERT-v2 frozen cosine,0.172708
+A114,1,JobBERT-v2 frozen cosine,0.375848
+A125,1,JobBERT-v2 frozen cosine,0.351225
+A151,1,JobBERT-v2 frozen cosine,0.548357
+A156,1,JobBERT-v2 frozen cosine,0.678212
+A162,1,JobBERT-v2 frozen cosine,0.187803
+A168,1,JobBERT-v2 frozen cosine,0.765492
+A170,1,JobBERT-v2 frozen cosine,0.117136
+A172,1,JobBERT-v2 frozen cosine,0.084382
+A175,1,JobBERT-v2 frozen cosine,0.457044
+A179,1,JobBERT-v2 frozen cosine,0.333148
+A180,1,JobBERT-v2 frozen cosine,0.355216
+A186,1,JobBERT-v2 frozen cosine,0.129433
+A189,1,JobBERT-v2 frozen cosine,0.233142
+A191,1,JobBERT-v2 frozen cosine,0.081963
+A193,1,JobBERT-v2 frozen cosine,0.258205
+A216,1,JobBERT-v2 frozen cosine,0.155084
+A219,1,JobBERT-v2 frozen cosine,0.162131
+A220,1,JobBERT-v2 frozen cosine,0.271371
+A225,1,JobBERT-v2 frozen cosine,0.239435
+A230,1,JobBERT-v2 frozen cosine,0.740023
+A010,1,JobBERT-v2 fine-tuned head,0.024696
+A013,1,JobBERT-v2 fine-tuned head,0.095288
+A015,1,JobBERT-v2 fine-tuned head,0.050075
+A016,1,JobBERT-v2 fine-tuned head,0.032965
+A021,1,JobBERT-v2 fine-tuned head,0.022463
+A022,1,JobBERT-v2 fine-tuned head,0.057471
+A024,1,JobBERT-v2 fine-tuned head,0.039983
+A041,1,JobBERT-v2 fine-tuned head,0.985713
+A047,1,JobBERT-v2 fine-tuned head,0.059975
+A055,1,JobBERT-v2 fine-tuned head,0.079421
+A060,1,JobBERT-v2 fine-tuned head,0.096099
+A062,1,JobBERT-v2 fine-tuned head,0.415347
+A063,1,JobBERT-v2 fine-tuned head,0.018456
+A065,1,JobBERT-v2 fine-tuned head,0.56207
+A067,1,JobBERT-v2 fine-tuned head,0.073207
+A070,1,JobBERT-v2 fine-tuned head,0.036991
+A079,1,JobBERT-v2 fine-tuned head,0.951452
+A080,1,JobBERT-v2 fine-tuned head,0.957824
+A087,1,JobBERT-v2 fine-tuned head,0.053126
+A090,1,JobBERT-v2 fine-tuned head,0.024347
+A091,1,JobBERT-v2 fine-tuned head,0.093375
+A092,1,JobBERT-v2 fine-tuned head,0.12201
+A095,1,JobBERT-v2 fine-tuned head,0.888475
+A096,1,JobBERT-v2 fine-tuned head,0.922629
+A101,1,JobBERT-v2 fine-tuned head,0.026551
+A106,1,JobBERT-v2 fine-tuned head,0.047374
+A110,1,JobBERT-v2 fine-tuned head,0.044868
+A113,1,JobBERT-v2 fine-tuned head,0.048669
+A114,1,JobBERT-v2 fine-tuned head,0.237544
+A125,1,JobBERT-v2 fine-tuned head,0.069624
+A151,1,JobBERT-v2 fine-tuned head,0.961267
+A156,1,JobBERT-v2 fine-tuned head,0.94791
+A162,1,JobBERT-v2 fine-tuned head,0.032229
+A168,1,JobBERT-v2 fine-tuned head,0.988821
+A170,1,JobBERT-v2 fine-tuned head,0.021897
+A172,1,JobBERT-v2 fine-tuned head,0.027121
+A175,1,JobBERT-v2 fine-tuned head,0.968677
+A179,1,JobBERT-v2 fine-tuned head,0.025621
+A180,1,JobBERT-v2 fine-tuned head,0.020085
+A186,1,JobBERT-v2 fine-tuned head,0.023157
+A189,1,JobBERT-v2 fine-tuned head,0.014802
+A191,1,JobBERT-v2 fine-tuned head,0.038388
+A193,1,JobBERT-v2 fine-tuned head,0.032069
+A216,1,JobBERT-v2 fine-tuned head,0.049625
+A219,1,JobBERT-v2 fine-tuned head,0.046309
+A220,1,JobBERT-v2 fine-tuned head,0.023859
+A225,1,JobBERT-v2 fine-tuned head,0.053245
+A230,1,JobBERT-v2 fine-tuned head,0.974351
+A010,1,JobBERT-v2 fine-tuned cosine,-0.060644
+A013,1,JobBERT-v2 fine-tuned cosine,0.139061
+A015,1,JobBERT-v2 fine-tuned cosine,0.055602
+A016,1,JobBERT-v2 fine-tuned cosine,-0.010166
+A021,1,JobBERT-v2 fine-tuned cosine,-0.077592
+A022,1,JobBERT-v2 fine-tuned cosine,0.068658
+A024,1,JobBERT-v2 fine-tuned cosine,-0.010724
+A041,1,JobBERT-v2 fine-tuned cosine,0.920335
+A047,1,JobBERT-v2 fine-tuned cosine,0.081148
+A055,1,JobBERT-v2 fine-tuned cosine,0.109572
+A060,1,JobBERT-v2 fine-tuned cosine,0.140901
+A062,1,JobBERT-v2 fine-tuned cosine,0.408096
+A063,1,JobBERT-v2 fine-tuned cosine,-0.090132
+A065,1,JobBERT-v2 fine-tuned cosine,0.485273
+A067,1,JobBERT-v2 fine-tuned cosine,0.095234
+A070,1,JobBERT-v2 fine-tuned cosine,0.011904
+A079,1,JobBERT-v2 fine-tuned cosine,0.806342
+A080,1,JobBERT-v2 fine-tuned cosine,0.8175
+A087,1,JobBERT-v2 fine-tuned cosine,0.042742
+A090,1,JobBERT-v2 fine-tuned cosine,-0.053817
+A091,1,JobBERT-v2 fine-tuned cosine,0.136304
+A092,1,JobBERT-v2 fine-tuned cosine,0.172355
+A095,1,JobBERT-v2 fine-tuned cosine,0.705213
+A096,1,JobBERT-v2 fine-tuned cosine,0.74411
+A101,1,JobBERT-v2 fine-tuned cosine,-0.038991
+A106,1,JobBERT-v2 fine-tuned cosine,0.047293
+A110,1,JobBERT-v2 fine-tuned cosine,0.03455
+A113,1,JobBERT-v2 fine-tuned cosine,0.036641
+A114,1,JobBERT-v2 fine-tuned cosine,0.278787
+A125,1,JobBERT-v2 fine-tuned cosine,0.099792
+A151,1,JobBERT-v2 fine-tuned cosine,0.826993
+A156,1,JobBERT-v2 fine-tuned cosine,0.794392
+A162,1,JobBERT-v2 fine-tuned cosine,-0.02709
+A168,1,JobBERT-v2 fine-tuned cosine,0.93999
+A170,1,JobBERT-v2 fine-tuned cosine,-0.064531
+A172,1,JobBERT-v2 fine-tuned cosine,-0.035751
+A175,1,JobBERT-v2 fine-tuned cosine,0.848693
+A179,1,JobBERT-v2 fine-tuned cosine,-0.048642
+A180,1,JobBERT-v2 fine-tuned cosine,-0.066821
+A186,1,JobBERT-v2 fine-tuned cosine,-0.07395
+A189,1,JobBERT-v2 fine-tuned cosine,-0.104649
+A191,1,JobBERT-v2 fine-tuned cosine,0.017333
+A193,1,JobBERT-v2 fine-tuned cosine,-0.000631
+A216,1,JobBERT-v2 fine-tuned cosine,0.044171
+A219,1,JobBERT-v2 fine-tuned cosine,0.030558
+A220,1,JobBERT-v2 fine-tuned cosine,-0.056111
+A225,1,JobBERT-v2 fine-tuned cosine,0.052402
+A230,1,JobBERT-v2 fine-tuned cosine,0.871936
+A003,2,TF-IDF head,0.434005
+A014,2,TF-IDF head,0.390105
+A019,2,TF-IDF head,0.391556
+A023,2,TF-IDF head,0.607877
+A026,2,TF-IDF head,0.236228
+A032,2,TF-IDF head,0.412004
+A034,2,TF-IDF head,0.431415
+A036,2,TF-IDF head,0.273328
+A039,2,TF-IDF head,0.378848
+A042,2,TF-IDF head,0.300146
+A044,2,TF-IDF head,0.462107
+A051,2,TF-IDF head,0.630688
+A053,2,TF-IDF head,0.291737
+A054,2,TF-IDF head,0.807183
+A061,2,TF-IDF head,0.873976
+A075,2,TF-IDF head,0.580724
+A076,2,TF-IDF head,0.265242
+A083,2,TF-IDF head,0.305549
+A089,2,TF-IDF head,0.147608
+A105,2,TF-IDF head,0.479931
+A108,2,TF-IDF head,0.453521
+A112,2,TF-IDF head,0.413677
+A119,2,TF-IDF head,0.46557
+A122,2,TF-IDF head,0.525907
+A123,2,TF-IDF head,0.64456
+A127,2,TF-IDF head,0.367367
+A133,2,TF-IDF head,0.452512
+A141,2,TF-IDF head,0.416645
+A143,2,TF-IDF head,0.225424
+A147,2,TF-IDF head,0.314501
+A154,2,TF-IDF head,0.335453
+A165,2,TF-IDF head,0.350158
+A176,2,TF-IDF head,0.277985
+A178,2,TF-IDF head,0.416878
+A185,2,TF-IDF head,0.582927
+A190,2,TF-IDF head,0.305103
+A192,2,TF-IDF head,0.358458
+A198,2,TF-IDF head,0.560694
+A199,2,TF-IDF head,0.43413
+A206,2,TF-IDF head,0.466278
+A209,2,TF-IDF head,0.464201
+A214,2,TF-IDF head,0.294487
+A224,2,TF-IDF head,0.337801
+A228,2,TF-IDF head,0.322238
+A232,2,TF-IDF head,0.585116
+A235,2,TF-IDF head,0.79339
+A238,2,TF-IDF head,0.574635
+A240,2,TF-IDF head,0.290325
+A003,2,TF-IDF cosine,0.0
+A014,2,TF-IDF cosine,0.010416
+A019,2,TF-IDF cosine,0.042969
+A023,2,TF-IDF cosine,0.123715
+A026,2,TF-IDF cosine,0.031418
+A032,2,TF-IDF cosine,0.0
+A034,2,TF-IDF cosine,0.05207
+A036,2,TF-IDF cosine,0.047518
+A039,2,TF-IDF cosine,0.044713
+A042,2,TF-IDF cosine,0.0129
+A044,2,TF-IDF cosine,0.050375
+A051,2,TF-IDF cosine,0.25086
+A053,2,TF-IDF cosine,0.0
+A054,2,TF-IDF cosine,0.32966
+A061,2,TF-IDF cosine,0.416246
+A075,2,TF-IDF cosine,0.192465
+A076,2,TF-IDF cosine,0.002738
+A083,2,TF-IDF cosine,0.051449
+A089,2,TF-IDF cosine,0.0
+A105,2,TF-IDF cosine,0.123881
+A108,2,TF-IDF cosine,0.006375
+A112,2,TF-IDF cosine,0.033109
+A119,2,TF-IDF cosine,0.035138
+A122,2,TF-IDF cosine,0.0
+A123,2,TF-IDF cosine,0.21075
+A127,2,TF-IDF cosine,0.001195
+A133,2,TF-IDF cosine,0.051041
+A141,2,TF-IDF cosine,0.0
+A143,2,TF-IDF cosine,0.060091
+A147,2,TF-IDF cosine,0.064628
+A154,2,TF-IDF cosine,0.022734
+A165,2,TF-IDF cosine,0.036595
+A176,2,TF-IDF cosine,0.032553
+A178,2,TF-IDF cosine,0.021451
+A185,2,TF-IDF cosine,0.08616
+A190,2,TF-IDF cosine,0.033406
+A192,2,TF-IDF cosine,0.009604
+A198,2,TF-IDF cosine,0.045079
+A199,2,TF-IDF cosine,0.023952
+A206,2,TF-IDF cosine,0.06089
+A209,2,TF-IDF cosine,0.044491
+A214,2,TF-IDF cosine,0.035497
+A224,2,TF-IDF cosine,0.034845
+A228,2,TF-IDF cosine,0.0
+A232,2,TF-IDF cosine,0.043912
+A235,2,TF-IDF cosine,0.244368
+A238,2,TF-IDF cosine,0.006064
+A240,2,TF-IDF cosine,0.010796
+A003,2,SBERT-MiniLM-L6-v2 frozen head,0.308234
+A014,2,SBERT-MiniLM-L6-v2 frozen head,0.304734
+A019,2,SBERT-MiniLM-L6-v2 frozen head,0.464911
+A023,2,SBERT-MiniLM-L6-v2 frozen head,0.591634
+A026,2,SBERT-MiniLM-L6-v2 frozen head,0.193528
+A032,2,SBERT-MiniLM-L6-v2 frozen head,0.085975
+A034,2,SBERT-MiniLM-L6-v2 frozen head,0.435892
+A036,2,SBERT-MiniLM-L6-v2 frozen head,0.523535
+A039,2,SBERT-MiniLM-L6-v2 frozen head,0.49745
+A042,2,SBERT-MiniLM-L6-v2 frozen head,0.284505
+A044,2,SBERT-MiniLM-L6-v2 frozen head,0.66001
+A051,2,SBERT-MiniLM-L6-v2 frozen head,0.761008
+A053,2,SBERT-MiniLM-L6-v2 frozen head,0.169972
+A054,2,SBERT-MiniLM-L6-v2 frozen head,0.527767
+A061,2,SBERT-MiniLM-L6-v2 frozen head,0.481177
+A075,2,SBERT-MiniLM-L6-v2 frozen head,0.493576
+A076,2,SBERT-MiniLM-L6-v2 frozen head,0.292349
+A083,2,SBERT-MiniLM-L6-v2 frozen head,0.555339
+A089,2,SBERT-MiniLM-L6-v2 frozen head,0.266245
+A105,2,SBERT-MiniLM-L6-v2 frozen head,0.382837
+A108,2,SBERT-MiniLM-L6-v2 frozen head,0.225727
+A112,2,SBERT-MiniLM-L6-v2 frozen head,0.13369
+A119,2,SBERT-MiniLM-L6-v2 frozen head,0.690751
+A122,2,SBERT-MiniLM-L6-v2 frozen head,0.376028
+A123,2,SBERT-MiniLM-L6-v2 frozen head,0.746688
+A127,2,SBERT-MiniLM-L6-v2 frozen head,0.27799
+A133,2,SBERT-MiniLM-L6-v2 frozen head,0.56068
+A141,2,SBERT-MiniLM-L6-v2 frozen head,0.134158
+A143,2,SBERT-MiniLM-L6-v2 frozen head,0.458958
+A147,2,SBERT-MiniLM-L6-v2 frozen head,0.249029
+A154,2,SBERT-MiniLM-L6-v2 frozen head,0.261339
+A165,2,SBERT-MiniLM-L6-v2 frozen head,0.224679
+A176,2,SBERT-MiniLM-L6-v2 frozen head,0.209298
+A178,2,SBERT-MiniLM-L6-v2 frozen head,0.441259
+A185,2,SBERT-MiniLM-L6-v2 frozen head,0.729534
+A190,2,SBERT-MiniLM-L6-v2 frozen head,0.226111
+A192,2,SBERT-MiniLM-L6-v2 frozen head,0.130807
+A198,2,SBERT-MiniLM-L6-v2 frozen head,0.386521
+A199,2,SBERT-MiniLM-L6-v2 frozen head,0.495995
+A206,2,SBERT-MiniLM-L6-v2 frozen head,0.469371
+A209,2,SBERT-MiniLM-L6-v2 frozen head,0.24261
+A214,2,SBERT-MiniLM-L6-v2 frozen head,0.455764
+A224,2,SBERT-MiniLM-L6-v2 frozen head,0.487711
+A228,2,SBERT-MiniLM-L6-v2 frozen head,0.169738
+A232,2,SBERT-MiniLM-L6-v2 frozen head,0.49395
+A235,2,SBERT-MiniLM-L6-v2 frozen head,0.378568
+A238,2,SBERT-MiniLM-L6-v2 frozen head,0.347546
+A240,2,SBERT-MiniLM-L6-v2 frozen head,0.337905
+A003,2,SBERT-MiniLM-L6-v2 frozen cosine,0.199371
+A014,2,SBERT-MiniLM-L6-v2 frozen cosine,0.316547
+A019,2,SBERT-MiniLM-L6-v2 frozen cosine,0.359216
+A023,2,SBERT-MiniLM-L6-v2 frozen cosine,0.455019
+A026,2,SBERT-MiniLM-L6-v2 frozen cosine,0.291682
+A032,2,SBERT-MiniLM-L6-v2 frozen cosine,0.043491
+A034,2,SBERT-MiniLM-L6-v2 frozen cosine,0.390496
+A036,2,SBERT-MiniLM-L6-v2 frozen cosine,0.439616
+A039,2,SBERT-MiniLM-L6-v2 frozen cosine,0.378526
+A042,2,SBERT-MiniLM-L6-v2 frozen cosine,0.353676
+A044,2,SBERT-MiniLM-L6-v2 frozen cosine,0.488153
+A051,2,SBERT-MiniLM-L6-v2 frozen cosine,0.617814
+A053,2,SBERT-MiniLM-L6-v2 frozen cosine,0.146652
+A054,2,SBERT-MiniLM-L6-v2 frozen cosine,0.388497
+A061,2,SBERT-MiniLM-L6-v2 frozen cosine,0.426467
+A075,2,SBERT-MiniLM-L6-v2 frozen cosine,0.393999
+A076,2,SBERT-MiniLM-L6-v2 frozen cosine,0.270568
+A083,2,SBERT-MiniLM-L6-v2 frozen cosine,0.506261
+A089,2,SBERT-MiniLM-L6-v2 frozen cosine,0.20574
+A105,2,SBERT-MiniLM-L6-v2 frozen cosine,0.306779
+A108,2,SBERT-MiniLM-L6-v2 frozen cosine,0.203443
+A112,2,SBERT-MiniLM-L6-v2 frozen cosine,0.095156
+A119,2,SBERT-MiniLM-L6-v2 frozen cosine,0.563691
+A122,2,SBERT-MiniLM-L6-v2 frozen cosine,0.285847
+A123,2,SBERT-MiniLM-L6-v2 frozen cosine,0.657698
+A127,2,SBERT-MiniLM-L6-v2 frozen cosine,0.314471
+A133,2,SBERT-MiniLM-L6-v2 frozen cosine,0.450749
+A141,2,SBERT-MiniLM-L6-v2 frozen cosine,0.043919
+A143,2,SBERT-MiniLM-L6-v2 frozen cosine,0.40574
+A147,2,SBERT-MiniLM-L6-v2 frozen cosine,0.344768
+A154,2,SBERT-MiniLM-L6-v2 frozen cosine,0.243908
+A165,2,SBERT-MiniLM-L6-v2 frozen cosine,0.166393
+A176,2,SBERT-MiniLM-L6-v2 frozen cosine,0.227306
+A178,2,SBERT-MiniLM-L6-v2 frozen cosine,0.363467
+A185,2,SBERT-MiniLM-L6-v2 frozen cosine,0.56982
+A190,2,SBERT-MiniLM-L6-v2 frozen cosine,0.239296
+A192,2,SBERT-MiniLM-L6-v2 frozen cosine,0.099648
+A198,2,SBERT-MiniLM-L6-v2 frozen cosine,0.305887
+A199,2,SBERT-MiniLM-L6-v2 frozen cosine,0.400585
+A206,2,SBERT-MiniLM-L6-v2 frozen cosine,0.417692
+A209,2,SBERT-MiniLM-L6-v2 frozen cosine,0.211965
+A214,2,SBERT-MiniLM-L6-v2 frozen cosine,0.378399
+A224,2,SBERT-MiniLM-L6-v2 frozen cosine,0.42963
+A228,2,SBERT-MiniLM-L6-v2 frozen cosine,0.113162
+A232,2,SBERT-MiniLM-L6-v2 frozen cosine,0.404569
+A235,2,SBERT-MiniLM-L6-v2 frozen cosine,0.291375
+A238,2,SBERT-MiniLM-L6-v2 frozen cosine,0.276562
+A240,2,SBERT-MiniLM-L6-v2 frozen cosine,0.223318
+A003,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.070486
+A014,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.091375
+A019,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.060626
+A023,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.936007
+A026,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.030636
+A032,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.065166
+A034,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.452776
+A036,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.161638
+A039,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.3968
+A042,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.028712
+A044,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.555584
+A051,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.962404
+A053,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.049195
+A054,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.956063
+A061,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.8972
+A075,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.418493
+A076,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.082305
+A083,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.110571
+A089,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.054497
+A105,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.401684
+A108,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.067988
+A112,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.059296
+A119,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.616462
+A122,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.163285
+A123,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.961087
+A127,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.065649
+A133,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.677522
+A141,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.140956
+A143,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.34414
+A147,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.095351
+A154,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.112212
+A165,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.081618
+A176,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.061619
+A178,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.262374
+A185,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.940165
+A190,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.045468
+A192,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.016338
+A198,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.812668
+A199,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.069155
+A206,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.958653
+A209,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.426406
+A214,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.259615
+A224,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.230862
+A228,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.071511
+A232,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.629063
+A235,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.734403
+A238,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.162825
+A240,2,SBERT-MiniLM-L6-v2 fine-tuned head,0.414439
+A003,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.04878
+A014,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.145799
+A019,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.048064
+A023,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.695962
+A026,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.041803
+A032,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.027426
+A034,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.337822
+A036,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.183748
+A039,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.316867
+A042,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.036683
+A044,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.424373
+A051,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.771785
+A053,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.026839
+A054,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.753687
+A061,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.654866
+A075,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.33264
+A076,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.060402
+A083,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.141543
+A089,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.04344
+A105,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.332438
+A108,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.05874
+A112,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.039143
+A119,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.46556
+A122,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.181157
+A123,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.762658
+A127,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.053142
+A133,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.453234
+A141,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.127879
+A143,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.306866
+A147,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.114271
+A154,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.11599
+A165,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.071745
+A176,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.030756
+A178,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.242404
+A185,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.693819
+A190,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.014591
+A192,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.129005
+A198,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.562929
+A199,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.040993
+A206,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.742641
+A209,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.323891
+A214,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.229634
+A224,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.231158
+A228,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.06028
+A232,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.439434
+A235,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.492993
+A238,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.197517
+A240,2,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.339568
+A003,2,SBERT-mpnet-base-v2 frozen head,0.297961
+A014,2,SBERT-mpnet-base-v2 frozen head,0.443841
+A019,2,SBERT-mpnet-base-v2 frozen head,0.332906
+A023,2,SBERT-mpnet-base-v2 frozen head,0.604681
+A026,2,SBERT-mpnet-base-v2 frozen head,0.279746
+A032,2,SBERT-mpnet-base-v2 frozen head,0.186506
+A034,2,SBERT-mpnet-base-v2 frozen head,0.605363
+A036,2,SBERT-mpnet-base-v2 frozen head,0.331936
+A039,2,SBERT-mpnet-base-v2 frozen head,0.410159
+A042,2,SBERT-mpnet-base-v2 frozen head,0.570894
+A044,2,SBERT-mpnet-base-v2 frozen head,0.556513
+A051,2,SBERT-mpnet-base-v2 frozen head,0.652678
+A053,2,SBERT-mpnet-base-v2 frozen head,0.208599
+A054,2,SBERT-mpnet-base-v2 frozen head,0.363231
+A061,2,SBERT-mpnet-base-v2 frozen head,0.569466
+A075,2,SBERT-mpnet-base-v2 frozen head,0.530336
+A076,2,SBERT-mpnet-base-v2 frozen head,0.178625
+A083,2,SBERT-mpnet-base-v2 frozen head,0.606023
+A089,2,SBERT-mpnet-base-v2 frozen head,0.232988
+A105,2,SBERT-mpnet-base-v2 frozen head,0.419425
+A108,2,SBERT-mpnet-base-v2 frozen head,0.154855
+A112,2,SBERT-mpnet-base-v2 frozen head,0.147862
+A119,2,SBERT-mpnet-base-v2 frozen head,0.576853
+A122,2,SBERT-mpnet-base-v2 frozen head,0.353484
+A123,2,SBERT-mpnet-base-v2 frozen head,0.814665
+A127,2,SBERT-mpnet-base-v2 frozen head,0.351318
+A133,2,SBERT-mpnet-base-v2 frozen head,0.544804
+A141,2,SBERT-mpnet-base-v2 frozen head,0.143644
+A143,2,SBERT-mpnet-base-v2 frozen head,0.468281
+A147,2,SBERT-mpnet-base-v2 frozen head,0.368996
+A154,2,SBERT-mpnet-base-v2 frozen head,0.182469
+A165,2,SBERT-mpnet-base-v2 frozen head,0.306073
+A176,2,SBERT-mpnet-base-v2 frozen head,0.293196
+A178,2,SBERT-mpnet-base-v2 frozen head,0.451594
+A185,2,SBERT-mpnet-base-v2 frozen head,0.728959
+A190,2,SBERT-mpnet-base-v2 frozen head,0.243827
+A192,2,SBERT-mpnet-base-v2 frozen head,0.170665
+A198,2,SBERT-mpnet-base-v2 frozen head,0.43035
+A199,2,SBERT-mpnet-base-v2 frozen head,0.377965
+A206,2,SBERT-mpnet-base-v2 frozen head,0.628721
+A209,2,SBERT-mpnet-base-v2 frozen head,0.290196
+A214,2,SBERT-mpnet-base-v2 frozen head,0.475852
+A224,2,SBERT-mpnet-base-v2 frozen head,0.463105
+A228,2,SBERT-mpnet-base-v2 frozen head,0.196601
+A232,2,SBERT-mpnet-base-v2 frozen head,0.434228
+A235,2,SBERT-mpnet-base-v2 frozen head,0.658169
+A238,2,SBERT-mpnet-base-v2 frozen head,0.327878
+A240,2,SBERT-mpnet-base-v2 frozen head,0.309755
+A003,2,SBERT-mpnet-base-v2 frozen cosine,0.298785
+A014,2,SBERT-mpnet-base-v2 frozen cosine,0.430278
+A019,2,SBERT-mpnet-base-v2 frozen cosine,0.336571
+A023,2,SBERT-mpnet-base-v2 frozen cosine,0.498225
+A026,2,SBERT-mpnet-base-v2 frozen cosine,0.329909
+A032,2,SBERT-mpnet-base-v2 frozen cosine,0.109807
+A034,2,SBERT-mpnet-base-v2 frozen cosine,0.525016
+A036,2,SBERT-mpnet-base-v2 frozen cosine,0.377881
+A039,2,SBERT-mpnet-base-v2 frozen cosine,0.395653
+A042,2,SBERT-mpnet-base-v2 frozen cosine,0.480565
+A044,2,SBERT-mpnet-base-v2 frozen cosine,0.48771
+A051,2,SBERT-mpnet-base-v2 frozen cosine,0.526812
+A053,2,SBERT-mpnet-base-v2 frozen cosine,0.145071
+A054,2,SBERT-mpnet-base-v2 frozen cosine,0.340359
+A061,2,SBERT-mpnet-base-v2 frozen cosine,0.424959
+A075,2,SBERT-mpnet-base-v2 frozen cosine,0.465169
+A076,2,SBERT-mpnet-base-v2 frozen cosine,0.156109
+A083,2,SBERT-mpnet-base-v2 frozen cosine,0.521229
+A089,2,SBERT-mpnet-base-v2 frozen cosine,0.231145
+A105,2,SBERT-mpnet-base-v2 frozen cosine,0.352124
+A108,2,SBERT-mpnet-base-v2 frozen cosine,0.139863
+A112,2,SBERT-mpnet-base-v2 frozen cosine,0.170928
+A119,2,SBERT-mpnet-base-v2 frozen cosine,0.52872
+A122,2,SBERT-mpnet-base-v2 frozen cosine,0.243094
+A123,2,SBERT-mpnet-base-v2 frozen cosine,0.68956
+A127,2,SBERT-mpnet-base-v2 frozen cosine,0.338715
+A133,2,SBERT-mpnet-base-v2 frozen cosine,0.450469
+A141,2,SBERT-mpnet-base-v2 frozen cosine,0.087628
+A143,2,SBERT-mpnet-base-v2 frozen cosine,0.432437
+A147,2,SBERT-mpnet-base-v2 frozen cosine,0.363092
+A154,2,SBERT-mpnet-base-v2 frozen cosine,0.228862
+A165,2,SBERT-mpnet-base-v2 frozen cosine,0.283835
+A176,2,SBERT-mpnet-base-v2 frozen cosine,0.341463
+A178,2,SBERT-mpnet-base-v2 frozen cosine,0.422083
+A185,2,SBERT-mpnet-base-v2 frozen cosine,0.640638
+A190,2,SBERT-mpnet-base-v2 frozen cosine,0.2936
+A192,2,SBERT-mpnet-base-v2 frozen cosine,0.186081
+A198,2,SBERT-mpnet-base-v2 frozen cosine,0.347088
+A199,2,SBERT-mpnet-base-v2 frozen cosine,0.430046
+A206,2,SBERT-mpnet-base-v2 frozen cosine,0.530203
+A209,2,SBERT-mpnet-base-v2 frozen cosine,0.276741
+A214,2,SBERT-mpnet-base-v2 frozen cosine,0.4361
+A224,2,SBERT-mpnet-base-v2 frozen cosine,0.443704
+A228,2,SBERT-mpnet-base-v2 frozen cosine,0.176007
+A232,2,SBERT-mpnet-base-v2 frozen cosine,0.414521
+A235,2,SBERT-mpnet-base-v2 frozen cosine,0.538163
+A238,2,SBERT-mpnet-base-v2 frozen cosine,0.307866
+A240,2,SBERT-mpnet-base-v2 frozen cosine,0.275038
+A003,2,SBERT-mpnet-base-v2 fine-tuned head,0.091708
+A014,2,SBERT-mpnet-base-v2 fine-tuned head,0.040806
+A019,2,SBERT-mpnet-base-v2 fine-tuned head,0.019496
+A023,2,SBERT-mpnet-base-v2 fine-tuned head,0.974181
+A026,2,SBERT-mpnet-base-v2 fine-tuned head,0.041824
+A032,2,SBERT-mpnet-base-v2 fine-tuned head,0.022119
+A034,2,SBERT-mpnet-base-v2 fine-tuned head,0.891162
+A036,2,SBERT-mpnet-base-v2 fine-tuned head,0.088552
+A039,2,SBERT-mpnet-base-v2 fine-tuned head,0.225015
+A042,2,SBERT-mpnet-base-v2 fine-tuned head,0.033282
+A044,2,SBERT-mpnet-base-v2 fine-tuned head,0.189164
+A051,2,SBERT-mpnet-base-v2 fine-tuned head,0.982309
+A053,2,SBERT-mpnet-base-v2 fine-tuned head,0.061863
+A054,2,SBERT-mpnet-base-v2 fine-tuned head,0.981319
+A061,2,SBERT-mpnet-base-v2 fine-tuned head,0.941016
+A075,2,SBERT-mpnet-base-v2 fine-tuned head,0.407593
+A076,2,SBERT-mpnet-base-v2 fine-tuned head,0.045776
+A083,2,SBERT-mpnet-base-v2 fine-tuned head,0.05252
+A089,2,SBERT-mpnet-base-v2 fine-tuned head,0.063021
+A105,2,SBERT-mpnet-base-v2 fine-tuned head,0.498449
+A108,2,SBERT-mpnet-base-v2 fine-tuned head,0.056253
+A112,2,SBERT-mpnet-base-v2 fine-tuned head,0.039237
+A119,2,SBERT-mpnet-base-v2 fine-tuned head,0.072001
+A122,2,SBERT-mpnet-base-v2 fine-tuned head,0.062756
+A123,2,SBERT-mpnet-base-v2 fine-tuned head,0.988402
+A127,2,SBERT-mpnet-base-v2 fine-tuned head,0.033111
+A133,2,SBERT-mpnet-base-v2 fine-tuned head,0.407871
+A141,2,SBERT-mpnet-base-v2 fine-tuned head,0.0546
+A143,2,SBERT-mpnet-base-v2 fine-tuned head,0.085474
+A147,2,SBERT-mpnet-base-v2 fine-tuned head,0.069121
+A154,2,SBERT-mpnet-base-v2 fine-tuned head,0.053539
+A165,2,SBERT-mpnet-base-v2 fine-tuned head,0.055402
+A176,2,SBERT-mpnet-base-v2 fine-tuned head,0.035309
+A178,2,SBERT-mpnet-base-v2 fine-tuned head,0.077593
+A185,2,SBERT-mpnet-base-v2 fine-tuned head,0.866786
+A190,2,SBERT-mpnet-base-v2 fine-tuned head,0.037177
+A192,2,SBERT-mpnet-base-v2 fine-tuned head,0.037941
+A198,2,SBERT-mpnet-base-v2 fine-tuned head,0.958281
+A199,2,SBERT-mpnet-base-v2 fine-tuned head,0.084718
+A206,2,SBERT-mpnet-base-v2 fine-tuned head,0.98541
+A209,2,SBERT-mpnet-base-v2 fine-tuned head,0.865762
+A214,2,SBERT-mpnet-base-v2 fine-tuned head,0.12061
+A224,2,SBERT-mpnet-base-v2 fine-tuned head,0.058261
+A228,2,SBERT-mpnet-base-v2 fine-tuned head,0.060709
+A232,2,SBERT-mpnet-base-v2 fine-tuned head,0.928396
+A235,2,SBERT-mpnet-base-v2 fine-tuned head,0.960833
+A238,2,SBERT-mpnet-base-v2 fine-tuned head,0.030806
+A240,2,SBERT-mpnet-base-v2 fine-tuned head,0.289104
+A003,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.109936
+A014,2,SBERT-mpnet-base-v2 fine-tuned cosine,-0.013792
+A019,2,SBERT-mpnet-base-v2 fine-tuned cosine,-0.115822
+A023,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.841552
+A026,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.013259
+A032,2,SBERT-mpnet-base-v2 fine-tuned cosine,-0.082315
+A034,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.681255
+A036,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.10857
+A039,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.252296
+A042,2,SBERT-mpnet-base-v2 fine-tuned cosine,-0.042232
+A044,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.236526
+A051,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.884151
+A053,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.046398
+A054,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.87117
+A061,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.75778
+A075,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.346801
+A076,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.010655
+A083,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.04563
+A089,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.060671
+A105,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.421883
+A108,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.032994
+A112,2,SBERT-mpnet-base-v2 fine-tuned cosine,-0.018695
+A119,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.102358
+A122,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.057512
+A123,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.921497
+A127,2,SBERT-mpnet-base-v2 fine-tuned cosine,-0.056437
+A133,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.368696
+A141,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.041474
+A143,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.097027
+A147,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.084504
+A154,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.037532
+A165,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.046887
+A176,2,SBERT-mpnet-base-v2 fine-tuned cosine,-0.029279
+A178,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.093017
+A185,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.659328
+A190,2,SBERT-mpnet-base-v2 fine-tuned cosine,-0.016669
+A192,2,SBERT-mpnet-base-v2 fine-tuned cosine,-0.017551
+A198,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.793112
+A199,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.106667
+A206,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.897287
+A209,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.650124
+A214,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.142222
+A224,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.037821
+A228,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.039422
+A232,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.730724
+A235,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.805198
+A238,2,SBERT-mpnet-base-v2 fine-tuned cosine,-0.049168
+A240,2,SBERT-mpnet-base-v2 fine-tuned cosine,0.275762
+A003,2,JobBERT-v2 frozen head,0.477503
+A014,2,JobBERT-v2 frozen head,0.215851
+A019,2,JobBERT-v2 frozen head,0.243185
+A023,2,JobBERT-v2 frozen head,0.89733
+A026,2,JobBERT-v2 frozen head,0.118369
+A032,2,JobBERT-v2 frozen head,0.076832
+A034,2,JobBERT-v2 frozen head,0.742379
+A036,2,JobBERT-v2 frozen head,0.339263
+A039,2,JobBERT-v2 frozen head,0.313098
+A042,2,JobBERT-v2 frozen head,0.120352
+A044,2,JobBERT-v2 frozen head,0.554343
+A051,2,JobBERT-v2 frozen head,0.960456
+A053,2,JobBERT-v2 frozen head,0.209463
+A054,2,JobBERT-v2 frozen head,0.568101
+A061,2,JobBERT-v2 frozen head,0.621786
+A075,2,JobBERT-v2 frozen head,0.71713
+A076,2,JobBERT-v2 frozen head,0.115578
+A083,2,JobBERT-v2 frozen head,0.285995
+A089,2,JobBERT-v2 frozen head,0.075924
+A105,2,JobBERT-v2 frozen head,0.62704
+A108,2,JobBERT-v2 frozen head,0.239238
+A112,2,JobBERT-v2 frozen head,0.234933
+A119,2,JobBERT-v2 frozen head,0.547815
+A122,2,JobBERT-v2 frozen head,0.322623
+A123,2,JobBERT-v2 frozen head,0.829656
+A127,2,JobBERT-v2 frozen head,0.090679
+A133,2,JobBERT-v2 frozen head,0.352068
+A141,2,JobBERT-v2 frozen head,0.180611
+A143,2,JobBERT-v2 frozen head,0.424934
+A147,2,JobBERT-v2 frozen head,0.221342
+A154,2,JobBERT-v2 frozen head,0.303088
+A165,2,JobBERT-v2 frozen head,0.316917
+A176,2,JobBERT-v2 frozen head,0.200159
+A178,2,JobBERT-v2 frozen head,0.375005
+A185,2,JobBERT-v2 frozen head,0.897632
+A190,2,JobBERT-v2 frozen head,0.322307
+A192,2,JobBERT-v2 frozen head,0.103302
+A198,2,JobBERT-v2 frozen head,0.578682
+A199,2,JobBERT-v2 frozen head,0.373263
+A206,2,JobBERT-v2 frozen head,0.707234
+A209,2,JobBERT-v2 frozen head,0.530076
+A214,2,JobBERT-v2 frozen head,0.515156
+A224,2,JobBERT-v2 frozen head,0.197225
+A228,2,JobBERT-v2 frozen head,0.124231
+A232,2,JobBERT-v2 frozen head,0.315631
+A235,2,JobBERT-v2 frozen head,0.380282
+A238,2,JobBERT-v2 frozen head,0.089724
+A240,2,JobBERT-v2 frozen head,0.534491
+A003,2,JobBERT-v2 frozen cosine,0.387453
+A014,2,JobBERT-v2 frozen cosine,0.236244
+A019,2,JobBERT-v2 frozen cosine,0.22662
+A023,2,JobBERT-v2 frozen cosine,0.683418
+A026,2,JobBERT-v2 frozen cosine,0.163392
+A032,2,JobBERT-v2 frozen cosine,0.000572
+A034,2,JobBERT-v2 frozen cosine,0.548946
+A036,2,JobBERT-v2 frozen cosine,0.329574
+A039,2,JobBERT-v2 frozen cosine,0.28692
+A042,2,JobBERT-v2 frozen cosine,0.102818
+A044,2,JobBERT-v2 frozen cosine,0.419116
+A051,2,JobBERT-v2 frozen cosine,0.828082
+A053,2,JobBERT-v2 frozen cosine,0.173814
+A054,2,JobBERT-v2 frozen cosine,0.440798
+A061,2,JobBERT-v2 frozen cosine,0.474293
+A075,2,JobBERT-v2 frozen cosine,0.514795
+A076,2,JobBERT-v2 frozen cosine,0.075011
+A083,2,JobBERT-v2 frozen cosine,0.312837
+A089,2,JobBERT-v2 frozen cosine,0.068352
+A105,2,JobBERT-v2 frozen cosine,0.461138
+A108,2,JobBERT-v2 frozen cosine,0.199263
+A112,2,JobBERT-v2 frozen cosine,0.216492
+A119,2,JobBERT-v2 frozen cosine,0.414607
+A122,2,JobBERT-v2 frozen cosine,0.285684
+A123,2,JobBERT-v2 frozen cosine,0.61213
+A127,2,JobBERT-v2 frozen cosine,0.083356
+A133,2,JobBERT-v2 frozen cosine,0.28125
+A141,2,JobBERT-v2 frozen cosine,0.156939
+A143,2,JobBERT-v2 frozen cosine,0.371395
+A147,2,JobBERT-v2 frozen cosine,0.262735
+A154,2,JobBERT-v2 frozen cosine,0.269023
+A165,2,JobBERT-v2 frozen cosine,0.285153
+A176,2,JobBERT-v2 frozen cosine,0.22373
+A178,2,JobBERT-v2 frozen cosine,0.324062
+A185,2,JobBERT-v2 frozen cosine,0.696416
+A190,2,JobBERT-v2 frozen cosine,0.303854
+A192,2,JobBERT-v2 frozen cosine,0.102834
+A198,2,JobBERT-v2 frozen cosine,0.379572
+A199,2,JobBERT-v2 frozen cosine,0.35091
+A206,2,JobBERT-v2 frozen cosine,0.510544
+A209,2,JobBERT-v2 frozen cosine,0.388121
+A214,2,JobBERT-v2 frozen cosine,0.390108
+A224,2,JobBERT-v2 frozen cosine,0.188664
+A228,2,JobBERT-v2 frozen cosine,0.099727
+A232,2,JobBERT-v2 frozen cosine,0.257631
+A235,2,JobBERT-v2 frozen cosine,0.297751
+A238,2,JobBERT-v2 frozen cosine,0.054422
+A240,2,JobBERT-v2 frozen cosine,0.388595
+A003,2,JobBERT-v2 fine-tuned head,0.131407
+A014,2,JobBERT-v2 fine-tuned head,0.060509
+A019,2,JobBERT-v2 fine-tuned head,0.039392
+A023,2,JobBERT-v2 fine-tuned head,0.981106
+A026,2,JobBERT-v2 fine-tuned head,0.02631
+A032,2,JobBERT-v2 fine-tuned head,0.042945
+A034,2,JobBERT-v2 fine-tuned head,0.822765
+A036,2,JobBERT-v2 fine-tuned head,0.08448
+A039,2,JobBERT-v2 fine-tuned head,0.051616
+A042,2,JobBERT-v2 fine-tuned head,0.04006
+A044,2,JobBERT-v2 fine-tuned head,0.190525
+A051,2,JobBERT-v2 fine-tuned head,0.99138
+A053,2,JobBERT-v2 fine-tuned head,0.09486
+A054,2,JobBERT-v2 fine-tuned head,0.935612
+A061,2,JobBERT-v2 fine-tuned head,0.950452
+A075,2,JobBERT-v2 fine-tuned head,0.495979
+A076,2,JobBERT-v2 fine-tuned head,0.034441
+A083,2,JobBERT-v2 fine-tuned head,0.016226
+A089,2,JobBERT-v2 fine-tuned head,0.040218
+A105,2,JobBERT-v2 fine-tuned head,0.351855
+A108,2,JobBERT-v2 fine-tuned head,0.042833
+A112,2,JobBERT-v2 fine-tuned head,0.085095
+A119,2,JobBERT-v2 fine-tuned head,0.03109
+A122,2,JobBERT-v2 fine-tuned head,0.114442
+A123,2,JobBERT-v2 fine-tuned head,0.977294
+A127,2,JobBERT-v2 fine-tuned head,0.03524
+A133,2,JobBERT-v2 fine-tuned head,0.092979
+A141,2,JobBERT-v2 fine-tuned head,0.121238
+A143,2,JobBERT-v2 fine-tuned head,0.054659
+A147,2,JobBERT-v2 fine-tuned head,0.032243
+A154,2,JobBERT-v2 fine-tuned head,0.069012
+A165,2,JobBERT-v2 fine-tuned head,0.05059
+A176,2,JobBERT-v2 fine-tuned head,0.032404
+A178,2,JobBERT-v2 fine-tuned head,0.103994
+A185,2,JobBERT-v2 fine-tuned head,0.935568
+A190,2,JobBERT-v2 fine-tuned head,0.073446
+A192,2,JobBERT-v2 fine-tuned head,0.046427
+A198,2,JobBERT-v2 fine-tuned head,0.960683
+A199,2,JobBERT-v2 fine-tuned head,0.061818
+A206,2,JobBERT-v2 fine-tuned head,0.987169
+A209,2,JobBERT-v2 fine-tuned head,0.762196
+A214,2,JobBERT-v2 fine-tuned head,0.198017
+A224,2,JobBERT-v2 fine-tuned head,0.045662
+A228,2,JobBERT-v2 fine-tuned head,0.077444
+A232,2,JobBERT-v2 fine-tuned head,0.73262
+A235,2,JobBERT-v2 fine-tuned head,0.966419
+A238,2,JobBERT-v2 fine-tuned head,0.028895
+A240,2,JobBERT-v2 fine-tuned head,0.439079
+A003,2,JobBERT-v2 fine-tuned cosine,0.198124
+A014,2,JobBERT-v2 fine-tuned cosine,0.076012
+A019,2,JobBERT-v2 fine-tuned cosine,0.001809
+A023,2,JobBERT-v2 fine-tuned cosine,0.879105
+A026,2,JobBERT-v2 fine-tuned cosine,-0.028273
+A032,2,JobBERT-v2 fine-tuned cosine,0.008811
+A034,2,JobBERT-v2 fine-tuned cosine,0.630301
+A036,2,JobBERT-v2 fine-tuned cosine,0.123336
+A039,2,JobBERT-v2 fine-tuned cosine,0.050775
+A042,2,JobBERT-v2 fine-tuned cosine,0.005819
+A044,2,JobBERT-v2 fine-tuned cosine,0.248805
+A051,2,JobBERT-v2 fine-tuned cosine,0.943823
+A053,2,JobBERT-v2 fine-tuned cosine,0.125118
+A054,2,JobBERT-v2 fine-tuned cosine,0.760479
+A061,2,JobBERT-v2 fine-tuned cosine,0.785872
+A075,2,JobBERT-v2 fine-tuned cosine,0.436477
+A076,2,JobBERT-v2 fine-tuned cosine,-0.008396
+A083,2,JobBERT-v2 fine-tuned cosine,-0.108637
+A089,2,JobBERT-v2 fine-tuned cosine,0.024977
+A105,2,JobBERT-v2 fine-tuned cosine,0.351165
+A108,2,JobBERT-v2 fine-tuned cosine,0.013525
+A112,2,JobBERT-v2 fine-tuned cosine,0.120793
+A119,2,JobBERT-v2 fine-tuned cosine,-0.010517
+A122,2,JobBERT-v2 fine-tuned cosine,0.181233
+A123,2,JobBERT-v2 fine-tuned cosine,0.865624
+A127,2,JobBERT-v2 fine-tuned cosine,-0.010386
+A133,2,JobBERT-v2 fine-tuned cosine,0.150274
+A141,2,JobBERT-v2 fine-tuned cosine,0.173713
+A143,2,JobBERT-v2 fine-tuned cosine,0.057816
+A147,2,JobBERT-v2 fine-tuned cosine,-0.012321
+A154,2,JobBERT-v2 fine-tuned cosine,0.087189
+A165,2,JobBERT-v2 fine-tuned cosine,0.044235
+A176,2,JobBERT-v2 fine-tuned cosine,-0.018043
+A178,2,JobBERT-v2 fine-tuned cosine,0.163312
+A185,2,JobBERT-v2 fine-tuned cosine,0.752573
+A190,2,JobBERT-v2 fine-tuned cosine,0.09032
+A192,2,JobBERT-v2 fine-tuned cosine,0.03997
+A198,2,JobBERT-v2 fine-tuned cosine,0.808242
+A199,2,JobBERT-v2 fine-tuned cosine,0.074553
+A206,2,JobBERT-v2 fine-tuned cosine,0.914419
+A209,2,JobBERT-v2 fine-tuned cosine,0.587682
+A214,2,JobBERT-v2 fine-tuned cosine,0.261695
+A224,2,JobBERT-v2 fine-tuned cosine,0.023245
+A228,2,JobBERT-v2 fine-tuned cosine,0.098752
+A232,2,JobBERT-v2 fine-tuned cosine,0.552234
+A235,2,JobBERT-v2 fine-tuned cosine,0.824453
+A238,2,JobBERT-v2 fine-tuned cosine,-0.01987
+A240,2,JobBERT-v2 fine-tuned cosine,0.398151
+A004,3,TF-IDF head,0.391212
+A011,3,TF-IDF head,0.43782
+A018,3,TF-IDF head,0.419473
+A020,3,TF-IDF head,0.346749
+A035,3,TF-IDF head,0.388183
+A037,3,TF-IDF head,0.586645
+A038,3,TF-IDF head,0.254337
+A052,3,TF-IDF head,0.67931
+A056,3,TF-IDF head,0.505064
+A064,3,TF-IDF head,0.427202
+A066,3,TF-IDF head,0.400153
+A072,3,TF-IDF head,0.466029
+A074,3,TF-IDF head,0.285425
+A078,3,TF-IDF head,0.32189
+A081,3,TF-IDF head,0.367959
+A084,3,TF-IDF head,0.738011
+A088,3,TF-IDF head,0.40369
+A094,3,TF-IDF head,0.36228
+A099,3,TF-IDF head,0.476462
+A100,3,TF-IDF head,0.456534
+A103,3,TF-IDF head,0.655231
+A107,3,TF-IDF head,0.488029
+A109,3,TF-IDF head,0.34435
+A115,3,TF-IDF head,0.465271
+A118,3,TF-IDF head,0.379579
+A121,3,TF-IDF head,0.385523
+A128,3,TF-IDF head,0.281321
+A132,3,TF-IDF head,0.426824
+A134,3,TF-IDF head,0.41269
+A138,3,TF-IDF head,0.634196
+A139,3,TF-IDF head,0.438105
+A148,3,TF-IDF head,0.611471
+A153,3,TF-IDF head,0.282315
+A155,3,TF-IDF head,0.48767
+A158,3,TF-IDF head,0.396837
+A171,3,TF-IDF head,0.686418
+A173,3,TF-IDF head,0.314017
+A187,3,TF-IDF head,0.388261
+A196,3,TF-IDF head,0.423003
+A201,3,TF-IDF head,0.423216
+A211,3,TF-IDF head,0.693606
+A215,3,TF-IDF head,0.224996
+A217,3,TF-IDF head,0.492259
+A221,3,TF-IDF head,0.40202
+A223,3,TF-IDF head,0.394774
+A227,3,TF-IDF head,0.499187
+A233,3,TF-IDF head,0.403733
+A237,3,TF-IDF head,0.499314
+A004,3,TF-IDF cosine,0.016579
+A011,3,TF-IDF cosine,0.075135
+A018,3,TF-IDF cosine,0.037974
+A020,3,TF-IDF cosine,0.042845
+A035,3,TF-IDF cosine,0.114813
+A037,3,TF-IDF cosine,0.050202
+A038,3,TF-IDF cosine,0.014917
+A052,3,TF-IDF cosine,0.225259
+A056,3,TF-IDF cosine,0.04557
+A064,3,TF-IDF cosine,0.008904
+A066,3,TF-IDF cosine,0.0497
+A072,3,TF-IDF cosine,0.03862
+A074,3,TF-IDF cosine,0.0
+A078,3,TF-IDF cosine,0.036497
+A081,3,TF-IDF cosine,0.052721
+A084,3,TF-IDF cosine,0.185551
+A088,3,TF-IDF cosine,0.021635
+A094,3,TF-IDF cosine,0.071653
+A099,3,TF-IDF cosine,0.114566
+A100,3,TF-IDF cosine,0.125773
+A103,3,TF-IDF cosine,0.156144
+A107,3,TF-IDF cosine,0.064113
+A109,3,TF-IDF cosine,0.056932
+A115,3,TF-IDF cosine,0.037821
+A118,3,TF-IDF cosine,0.01744
+A121,3,TF-IDF cosine,0.023879
+A128,3,TF-IDF cosine,0.060824
+A132,3,TF-IDF cosine,0.035663
+A134,3,TF-IDF cosine,0.109692
+A138,3,TF-IDF cosine,0.186451
+A139,3,TF-IDF cosine,0.178862
+A148,3,TF-IDF cosine,0.058199
+A153,3,TF-IDF cosine,0.010983
+A155,3,TF-IDF cosine,0.032553
+A158,3,TF-IDF cosine,0.037602
+A171,3,TF-IDF cosine,0.212828
+A173,3,TF-IDF cosine,0.037418
+A187,3,TF-IDF cosine,0.0
+A196,3,TF-IDF cosine,0.056604
+A201,3,TF-IDF cosine,0.023463
+A211,3,TF-IDF cosine,0.177827
+A215,3,TF-IDF cosine,0.011274
+A217,3,TF-IDF cosine,0.00218
+A221,3,TF-IDF cosine,0.049839
+A223,3,TF-IDF cosine,0.051056
+A227,3,TF-IDF cosine,0.070191
+A233,3,TF-IDF cosine,0.155429
+A237,3,TF-IDF cosine,0.013255
+A004,3,SBERT-MiniLM-L6-v2 frozen head,0.217637
+A011,3,SBERT-MiniLM-L6-v2 frozen head,0.577349
+A018,3,SBERT-MiniLM-L6-v2 frozen head,0.380138
+A020,3,SBERT-MiniLM-L6-v2 frozen head,0.31003
+A035,3,SBERT-MiniLM-L6-v2 frozen head,0.47486
+A037,3,SBERT-MiniLM-L6-v2 frozen head,0.514199
+A038,3,SBERT-MiniLM-L6-v2 frozen head,0.420149
+A052,3,SBERT-MiniLM-L6-v2 frozen head,0.649537
+A056,3,SBERT-MiniLM-L6-v2 frozen head,0.467847
+A064,3,SBERT-MiniLM-L6-v2 frozen head,0.336587
+A066,3,SBERT-MiniLM-L6-v2 frozen head,0.564052
+A072,3,SBERT-MiniLM-L6-v2 frozen head,0.569057
+A074,3,SBERT-MiniLM-L6-v2 frozen head,0.166184
+A078,3,SBERT-MiniLM-L6-v2 frozen head,0.410137
+A081,3,SBERT-MiniLM-L6-v2 frozen head,0.566095
+A084,3,SBERT-MiniLM-L6-v2 frozen head,0.484527
+A088,3,SBERT-MiniLM-L6-v2 frozen head,0.321779
+A094,3,SBERT-MiniLM-L6-v2 frozen head,0.517264
+A099,3,SBERT-MiniLM-L6-v2 frozen head,0.584247
+A100,3,SBERT-MiniLM-L6-v2 frozen head,0.569746
+A103,3,SBERT-MiniLM-L6-v2 frozen head,0.778568
+A107,3,SBERT-MiniLM-L6-v2 frozen head,0.499131
+A109,3,SBERT-MiniLM-L6-v2 frozen head,0.36761
+A115,3,SBERT-MiniLM-L6-v2 frozen head,0.511049
+A118,3,SBERT-MiniLM-L6-v2 frozen head,0.21046
+A121,3,SBERT-MiniLM-L6-v2 frozen head,0.287841
+A128,3,SBERT-MiniLM-L6-v2 frozen head,0.415564
+A132,3,SBERT-MiniLM-L6-v2 frozen head,0.346685
+A134,3,SBERT-MiniLM-L6-v2 frozen head,0.602121
+A138,3,SBERT-MiniLM-L6-v2 frozen head,0.478953
+A139,3,SBERT-MiniLM-L6-v2 frozen head,0.584879
+A148,3,SBERT-MiniLM-L6-v2 frozen head,0.65358
+A153,3,SBERT-MiniLM-L6-v2 frozen head,0.326757
+A155,3,SBERT-MiniLM-L6-v2 frozen head,0.443849
+A158,3,SBERT-MiniLM-L6-v2 frozen head,0.243928
+A171,3,SBERT-MiniLM-L6-v2 frozen head,0.796882
+A173,3,SBERT-MiniLM-L6-v2 frozen head,0.1904
+A187,3,SBERT-MiniLM-L6-v2 frozen head,0.246799
+A196,3,SBERT-MiniLM-L6-v2 frozen head,0.473875
+A201,3,SBERT-MiniLM-L6-v2 frozen head,0.270269
+A211,3,SBERT-MiniLM-L6-v2 frozen head,0.570625
+A215,3,SBERT-MiniLM-L6-v2 frozen head,0.343664
+A217,3,SBERT-MiniLM-L6-v2 frozen head,0.236767
+A221,3,SBERT-MiniLM-L6-v2 frozen head,0.259132
+A223,3,SBERT-MiniLM-L6-v2 frozen head,0.599378
+A227,3,SBERT-MiniLM-L6-v2 frozen head,0.343261
+A233,3,SBERT-MiniLM-L6-v2 frozen head,0.779763
+A237,3,SBERT-MiniLM-L6-v2 frozen head,0.295407
+A004,3,SBERT-MiniLM-L6-v2 frozen cosine,0.13728
+A011,3,SBERT-MiniLM-L6-v2 frozen cosine,0.467529
+A018,3,SBERT-MiniLM-L6-v2 frozen cosine,0.335952
+A020,3,SBERT-MiniLM-L6-v2 frozen cosine,0.24202
+A035,3,SBERT-MiniLM-L6-v2 frozen cosine,0.439301
+A037,3,SBERT-MiniLM-L6-v2 frozen cosine,0.373343
+A038,3,SBERT-MiniLM-L6-v2 frozen cosine,0.294924
+A052,3,SBERT-MiniLM-L6-v2 frozen cosine,0.560963
+A056,3,SBERT-MiniLM-L6-v2 frozen cosine,0.354253
+A064,3,SBERT-MiniLM-L6-v2 frozen cosine,0.311683
+A066,3,SBERT-MiniLM-L6-v2 frozen cosine,0.452517
+A072,3,SBERT-MiniLM-L6-v2 frozen cosine,0.431869
+A074,3,SBERT-MiniLM-L6-v2 frozen cosine,0.103256
+A078,3,SBERT-MiniLM-L6-v2 frozen cosine,0.278207
+A081,3,SBERT-MiniLM-L6-v2 frozen cosine,0.456546
+A084,3,SBERT-MiniLM-L6-v2 frozen cosine,0.391001
+A088,3,SBERT-MiniLM-L6-v2 frozen cosine,0.299356
+A094,3,SBERT-MiniLM-L6-v2 frozen cosine,0.480416
+A099,3,SBERT-MiniLM-L6-v2 frozen cosine,0.491364
+A100,3,SBERT-MiniLM-L6-v2 frozen cosine,0.388649
+A103,3,SBERT-MiniLM-L6-v2 frozen cosine,0.642718
+A107,3,SBERT-MiniLM-L6-v2 frozen cosine,0.342086
+A109,3,SBERT-MiniLM-L6-v2 frozen cosine,0.262019
+A115,3,SBERT-MiniLM-L6-v2 frozen cosine,0.333212
+A118,3,SBERT-MiniLM-L6-v2 frozen cosine,0.123914
+A121,3,SBERT-MiniLM-L6-v2 frozen cosine,0.180374
+A128,3,SBERT-MiniLM-L6-v2 frozen cosine,0.397448
+A132,3,SBERT-MiniLM-L6-v2 frozen cosine,0.326373
+A134,3,SBERT-MiniLM-L6-v2 frozen cosine,0.508383
+A138,3,SBERT-MiniLM-L6-v2 frozen cosine,0.434683
+A139,3,SBERT-MiniLM-L6-v2 frozen cosine,0.494528
+A148,3,SBERT-MiniLM-L6-v2 frozen cosine,0.48671
+A153,3,SBERT-MiniLM-L6-v2 frozen cosine,0.319498
+A155,3,SBERT-MiniLM-L6-v2 frozen cosine,0.395201
+A158,3,SBERT-MiniLM-L6-v2 frozen cosine,0.193851
+A171,3,SBERT-MiniLM-L6-v2 frozen cosine,0.649193
+A173,3,SBERT-MiniLM-L6-v2 frozen cosine,0.148747
+A187,3,SBERT-MiniLM-L6-v2 frozen cosine,0.074241
+A196,3,SBERT-MiniLM-L6-v2 frozen cosine,0.408955
+A201,3,SBERT-MiniLM-L6-v2 frozen cosine,0.196041
+A211,3,SBERT-MiniLM-L6-v2 frozen cosine,0.390052
+A215,3,SBERT-MiniLM-L6-v2 frozen cosine,0.278295
+A217,3,SBERT-MiniLM-L6-v2 frozen cosine,0.25293
+A221,3,SBERT-MiniLM-L6-v2 frozen cosine,0.241988
+A223,3,SBERT-MiniLM-L6-v2 frozen cosine,0.503653
+A227,3,SBERT-MiniLM-L6-v2 frozen cosine,0.353832
+A233,3,SBERT-MiniLM-L6-v2 frozen cosine,0.613353
+A237,3,SBERT-MiniLM-L6-v2 frozen cosine,0.275672
+A004,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.036989
+A011,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.622321
+A018,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.311638
+A020,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.128486
+A035,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.076066
+A037,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.381368
+A038,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.204519
+A052,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.657829
+A056,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.11788
+A064,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.03638
+A066,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.428323
+A072,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.631596
+A074,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.025345
+A078,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.104172
+A081,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.184398
+A084,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.777862
+A088,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.082557
+A094,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.112189
+A099,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.884007
+A100,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.731787
+A103,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.968095
+A107,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.046764
+A109,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.134281
+A115,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.426184
+A118,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.081492
+A121,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.199246
+A128,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.037771
+A132,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.091041
+A134,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.348804
+A138,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.786515
+A139,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.680289
+A148,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.897646
+A153,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.045362
+A155,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.563946
+A158,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.044334
+A171,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.989771
+A173,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.050014
+A187,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.769256
+A196,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.134778
+A201,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.020101
+A211,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.713086
+A215,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.052899
+A217,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.069424
+A221,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.013806
+A223,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.261372
+A227,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.271166
+A233,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.847421
+A237,3,SBERT-MiniLM-L6-v2 fine-tuned head,0.081433
+A004,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.048504
+A011,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.418807
+A018,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.293532
+A020,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.150332
+A035,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.094648
+A037,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.350667
+A038,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.20651
+A052,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.481314
+A056,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.129623
+A064,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.022749
+A066,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.324589
+A072,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.416151
+A074,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.085542
+A078,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.094904
+A081,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.191039
+A084,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.525616
+A088,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.068553
+A094,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.126637
+A099,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.617505
+A100,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.511511
+A103,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.767017
+A107,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.01145
+A109,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.127301
+A115,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.321236
+A118,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.063563
+A121,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.195226
+A128,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.014934
+A132,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.087699
+A134,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.306079
+A138,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.551344
+A139,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.478807
+A148,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.63043
+A153,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.001186
+A155,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.411422
+A158,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.000276
+A171,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.872119
+A173,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.030509
+A187,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.50441
+A196,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.149119
+A201,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.118186
+A211,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.456316
+A215,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.017987
+A217,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.077311
+A221,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.140955
+A223,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.213973
+A227,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.264699
+A233,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.57634
+A237,3,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.082132
+A004,3,SBERT-mpnet-base-v2 frozen head,0.184593
+A011,3,SBERT-mpnet-base-v2 frozen head,0.629418
+A018,3,SBERT-mpnet-base-v2 frozen head,0.425016
+A020,3,SBERT-mpnet-base-v2 frozen head,0.337445
+A035,3,SBERT-mpnet-base-v2 frozen head,0.515426
+A037,3,SBERT-mpnet-base-v2 frozen head,0.535922
+A038,3,SBERT-mpnet-base-v2 frozen head,0.281625
+A052,3,SBERT-mpnet-base-v2 frozen head,0.571422
+A056,3,SBERT-mpnet-base-v2 frozen head,0.286022
+A064,3,SBERT-mpnet-base-v2 frozen head,0.365643
+A066,3,SBERT-mpnet-base-v2 frozen head,0.574657
+A072,3,SBERT-mpnet-base-v2 frozen head,0.611083
+A074,3,SBERT-mpnet-base-v2 frozen head,0.163169
+A078,3,SBERT-mpnet-base-v2 frozen head,0.221088
+A081,3,SBERT-mpnet-base-v2 frozen head,0.544933
+A084,3,SBERT-mpnet-base-v2 frozen head,0.440077
+A088,3,SBERT-mpnet-base-v2 frozen head,0.216323
+A094,3,SBERT-mpnet-base-v2 frozen head,0.55459
+A099,3,SBERT-mpnet-base-v2 frozen head,0.633414
+A100,3,SBERT-mpnet-base-v2 frozen head,0.484729
+A103,3,SBERT-mpnet-base-v2 frozen head,0.683355
+A107,3,SBERT-mpnet-base-v2 frozen head,0.664695
+A109,3,SBERT-mpnet-base-v2 frozen head,0.388241
+A115,3,SBERT-mpnet-base-v2 frozen head,0.282706
+A118,3,SBERT-mpnet-base-v2 frozen head,0.171282
+A121,3,SBERT-mpnet-base-v2 frozen head,0.400651
+A128,3,SBERT-mpnet-base-v2 frozen head,0.342825
+A132,3,SBERT-mpnet-base-v2 frozen head,0.34149
+A134,3,SBERT-mpnet-base-v2 frozen head,0.528053
+A138,3,SBERT-mpnet-base-v2 frozen head,0.468775
+A139,3,SBERT-mpnet-base-v2 frozen head,0.604591
+A148,3,SBERT-mpnet-base-v2 frozen head,0.70645
+A153,3,SBERT-mpnet-base-v2 frozen head,0.436953
+A155,3,SBERT-mpnet-base-v2 frozen head,0.373648
+A158,3,SBERT-mpnet-base-v2 frozen head,0.227824
+A171,3,SBERT-mpnet-base-v2 frozen head,0.689555
+A173,3,SBERT-mpnet-base-v2 frozen head,0.167783
+A187,3,SBERT-mpnet-base-v2 frozen head,0.440148
+A196,3,SBERT-mpnet-base-v2 frozen head,0.606677
+A201,3,SBERT-mpnet-base-v2 frozen head,0.254454
+A211,3,SBERT-mpnet-base-v2 frozen head,0.473086
+A215,3,SBERT-mpnet-base-v2 frozen head,0.244008
+A217,3,SBERT-mpnet-base-v2 frozen head,0.507365
+A221,3,SBERT-mpnet-base-v2 frozen head,0.240869
+A223,3,SBERT-mpnet-base-v2 frozen head,0.536838
+A227,3,SBERT-mpnet-base-v2 frozen head,0.28206
+A233,3,SBERT-mpnet-base-v2 frozen head,0.822401
+A237,3,SBERT-mpnet-base-v2 frozen head,0.383813
+A004,3,SBERT-mpnet-base-v2 frozen cosine,0.140989
+A011,3,SBERT-mpnet-base-v2 frozen cosine,0.530365
+A018,3,SBERT-mpnet-base-v2 frozen cosine,0.404936
+A020,3,SBERT-mpnet-base-v2 frozen cosine,0.311581
+A035,3,SBERT-mpnet-base-v2 frozen cosine,0.548373
+A037,3,SBERT-mpnet-base-v2 frozen cosine,0.395063
+A038,3,SBERT-mpnet-base-v2 frozen cosine,0.212941
+A052,3,SBERT-mpnet-base-v2 frozen cosine,0.541519
+A056,3,SBERT-mpnet-base-v2 frozen cosine,0.255315
+A064,3,SBERT-mpnet-base-v2 frozen cosine,0.354268
+A066,3,SBERT-mpnet-base-v2 frozen cosine,0.43708
+A072,3,SBERT-mpnet-base-v2 frozen cosine,0.499829
+A074,3,SBERT-mpnet-base-v2 frozen cosine,0.101601
+A078,3,SBERT-mpnet-base-v2 frozen cosine,0.222878
+A081,3,SBERT-mpnet-base-v2 frozen cosine,0.477223
+A084,3,SBERT-mpnet-base-v2 frozen cosine,0.437828
+A088,3,SBERT-mpnet-base-v2 frozen cosine,0.163091
+A094,3,SBERT-mpnet-base-v2 frozen cosine,0.543306
+A099,3,SBERT-mpnet-base-v2 frozen cosine,0.546888
+A100,3,SBERT-mpnet-base-v2 frozen cosine,0.330681
+A103,3,SBERT-mpnet-base-v2 frozen cosine,0.56802
+A107,3,SBERT-mpnet-base-v2 frozen cosine,0.492742
+A109,3,SBERT-mpnet-base-v2 frozen cosine,0.28576
+A115,3,SBERT-mpnet-base-v2 frozen cosine,0.276402
+A118,3,SBERT-mpnet-base-v2 frozen cosine,0.197879
+A121,3,SBERT-mpnet-base-v2 frozen cosine,0.246085
+A128,3,SBERT-mpnet-base-v2 frozen cosine,0.37584
+A132,3,SBERT-mpnet-base-v2 frozen cosine,0.319302
+A134,3,SBERT-mpnet-base-v2 frozen cosine,0.495511
+A138,3,SBERT-mpnet-base-v2 frozen cosine,0.390875
+A139,3,SBERT-mpnet-base-v2 frozen cosine,0.546017
+A148,3,SBERT-mpnet-base-v2 frozen cosine,0.578865
+A153,3,SBERT-mpnet-base-v2 frozen cosine,0.382332
+A155,3,SBERT-mpnet-base-v2 frozen cosine,0.408617
+A158,3,SBERT-mpnet-base-v2 frozen cosine,0.162909
+A171,3,SBERT-mpnet-base-v2 frozen cosine,0.542307
+A173,3,SBERT-mpnet-base-v2 frozen cosine,0.159455
+A187,3,SBERT-mpnet-base-v2 frozen cosine,0.291615
+A196,3,SBERT-mpnet-base-v2 frozen cosine,0.503173
+A201,3,SBERT-mpnet-base-v2 frozen cosine,0.251542
+A211,3,SBERT-mpnet-base-v2 frozen cosine,0.404027
+A215,3,SBERT-mpnet-base-v2 frozen cosine,0.253104
+A217,3,SBERT-mpnet-base-v2 frozen cosine,0.445446
+A221,3,SBERT-mpnet-base-v2 frozen cosine,0.3124
+A223,3,SBERT-mpnet-base-v2 frozen cosine,0.474909
+A227,3,SBERT-mpnet-base-v2 frozen cosine,0.2891
+A233,3,SBERT-mpnet-base-v2 frozen cosine,0.727314
+A237,3,SBERT-mpnet-base-v2 frozen cosine,0.380271
+A004,3,SBERT-mpnet-base-v2 fine-tuned head,0.017249
+A011,3,SBERT-mpnet-base-v2 fine-tuned head,0.94112
+A018,3,SBERT-mpnet-base-v2 fine-tuned head,0.295712
+A020,3,SBERT-mpnet-base-v2 fine-tuned head,0.047971
+A035,3,SBERT-mpnet-base-v2 fine-tuned head,0.072935
+A037,3,SBERT-mpnet-base-v2 fine-tuned head,0.109486
+A038,3,SBERT-mpnet-base-v2 fine-tuned head,0.035588
+A052,3,SBERT-mpnet-base-v2 fine-tuned head,0.829513
+A056,3,SBERT-mpnet-base-v2 fine-tuned head,0.056401
+A064,3,SBERT-mpnet-base-v2 fine-tuned head,0.029873
+A066,3,SBERT-mpnet-base-v2 fine-tuned head,0.302855
+A072,3,SBERT-mpnet-base-v2 fine-tuned head,0.357281
+A074,3,SBERT-mpnet-base-v2 fine-tuned head,0.024388
+A078,3,SBERT-mpnet-base-v2 fine-tuned head,0.040047
+A081,3,SBERT-mpnet-base-v2 fine-tuned head,0.089775
+A084,3,SBERT-mpnet-base-v2 fine-tuned head,0.927797
+A088,3,SBERT-mpnet-base-v2 fine-tuned head,0.054433
+A094,3,SBERT-mpnet-base-v2 fine-tuned head,0.099104
+A099,3,SBERT-mpnet-base-v2 fine-tuned head,0.915371
+A100,3,SBERT-mpnet-base-v2 fine-tuned head,0.321839
+A103,3,SBERT-mpnet-base-v2 fine-tuned head,0.956802
+A107,3,SBERT-mpnet-base-v2 fine-tuned head,0.03561
+A109,3,SBERT-mpnet-base-v2 fine-tuned head,0.256948
+A115,3,SBERT-mpnet-base-v2 fine-tuned head,0.372087
+A118,3,SBERT-mpnet-base-v2 fine-tuned head,0.062301
+A121,3,SBERT-mpnet-base-v2 fine-tuned head,0.240216
+A128,3,SBERT-mpnet-base-v2 fine-tuned head,0.027807
+A132,3,SBERT-mpnet-base-v2 fine-tuned head,0.038308
+A134,3,SBERT-mpnet-base-v2 fine-tuned head,0.100236
+A138,3,SBERT-mpnet-base-v2 fine-tuned head,0.90128
+A139,3,SBERT-mpnet-base-v2 fine-tuned head,0.834603
+A148,3,SBERT-mpnet-base-v2 fine-tuned head,0.981906
+A153,3,SBERT-mpnet-base-v2 fine-tuned head,0.019438
+A155,3,SBERT-mpnet-base-v2 fine-tuned head,0.12524
+A158,3,SBERT-mpnet-base-v2 fine-tuned head,0.02825
+A171,3,SBERT-mpnet-base-v2 fine-tuned head,0.991665
+A173,3,SBERT-mpnet-base-v2 fine-tuned head,0.052601
+A187,3,SBERT-mpnet-base-v2 fine-tuned head,0.936011
+A196,3,SBERT-mpnet-base-v2 fine-tuned head,0.054018
+A201,3,SBERT-mpnet-base-v2 fine-tuned head,0.018495
+A211,3,SBERT-mpnet-base-v2 fine-tuned head,0.847447
+A215,3,SBERT-mpnet-base-v2 fine-tuned head,0.028428
+A217,3,SBERT-mpnet-base-v2 fine-tuned head,0.026215
+A221,3,SBERT-mpnet-base-v2 fine-tuned head,0.030269
+A223,3,SBERT-mpnet-base-v2 fine-tuned head,0.11989
+A227,3,SBERT-mpnet-base-v2 fine-tuned head,0.039006
+A233,3,SBERT-mpnet-base-v2 fine-tuned head,0.98995
+A237,3,SBERT-mpnet-base-v2 fine-tuned head,0.062997
+A004,3,SBERT-mpnet-base-v2 fine-tuned cosine,-0.140885
+A011,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.779799
+A018,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.331452
+A020,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.041655
+A035,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.106591
+A037,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.171519
+A038,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.013297
+A052,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.643865
+A056,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.0557
+A064,3,SBERT-mpnet-base-v2 fine-tuned cosine,-0.026223
+A066,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.331115
+A072,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.36349
+A074,3,SBERT-mpnet-base-v2 fine-tuned cosine,-0.067175
+A078,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.004401
+A081,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.143798
+A084,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.754466
+A088,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.039757
+A094,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.140834
+A099,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.739198
+A100,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.338777
+A103,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.819165
+A107,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.011718
+A109,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.29301
+A115,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.373481
+A118,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.064499
+A121,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.269969
+A128,3,SBERT-mpnet-base-v2 fine-tuned cosine,-0.037109
+A132,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.001207
+A134,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.13467
+A138,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.712367
+A139,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.650794
+A148,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.898101
+A153,3,SBERT-mpnet-base-v2 fine-tuned cosine,-0.098328
+A155,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.192024
+A158,3,SBERT-mpnet-base-v2 fine-tuned cosine,-0.027352
+A171,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.960874
+A173,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.044622
+A187,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.769656
+A196,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.068809
+A201,3,SBERT-mpnet-base-v2 fine-tuned cosine,-0.096718
+A211,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.655401
+A215,3,SBERT-mpnet-base-v2 fine-tuned cosine,-0.016168
+A217,3,SBERT-mpnet-base-v2 fine-tuned cosine,-0.040347
+A221,3,SBERT-mpnet-base-v2 fine-tuned cosine,-0.012511
+A223,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.169355
+A227,3,SBERT-mpnet-base-v2 fine-tuned cosine,-0.002509
+A233,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.947659
+A237,3,SBERT-mpnet-base-v2 fine-tuned cosine,0.074553
+A004,3,JobBERT-v2 frozen head,0.120628
+A011,3,JobBERT-v2 frozen head,0.818899
+A018,3,JobBERT-v2 frozen head,0.415096
+A020,3,JobBERT-v2 frozen head,0.518014
+A035,3,JobBERT-v2 frozen head,0.264206
+A037,3,JobBERT-v2 frozen head,0.264639
+A038,3,JobBERT-v2 frozen head,0.282295
+A052,3,JobBERT-v2 frozen head,0.797471
+A056,3,JobBERT-v2 frozen head,0.139297
+A064,3,JobBERT-v2 frozen head,0.088957
+A066,3,JobBERT-v2 frozen head,0.710921
+A072,3,JobBERT-v2 frozen head,0.777836
+A074,3,JobBERT-v2 frozen head,0.085056
+A078,3,JobBERT-v2 frozen head,0.254363
+A081,3,JobBERT-v2 frozen head,0.604029
+A084,3,JobBERT-v2 frozen head,0.781635
+A088,3,JobBERT-v2 frozen head,0.199021
+A094,3,JobBERT-v2 frozen head,0.527455
+A099,3,JobBERT-v2 frozen head,0.710441
+A100,3,JobBERT-v2 frozen head,0.650293
+A103,3,JobBERT-v2 frozen head,0.915541
+A107,3,JobBERT-v2 frozen head,0.389789
+A109,3,JobBERT-v2 frozen head,0.179561
+A115,3,JobBERT-v2 frozen head,0.487166
+A118,3,JobBERT-v2 frozen head,0.257713
+A121,3,JobBERT-v2 frozen head,0.296962
+A128,3,JobBERT-v2 frozen head,0.144044
+A132,3,JobBERT-v2 frozen head,0.380689
+A134,3,JobBERT-v2 frozen head,0.706806
+A138,3,JobBERT-v2 frozen head,0.587013
+A139,3,JobBERT-v2 frozen head,0.795251
+A148,3,JobBERT-v2 frozen head,0.597023
+A153,3,JobBERT-v2 frozen head,0.270706
+A155,3,JobBERT-v2 frozen head,0.339613
+A158,3,JobBERT-v2 frozen head,0.14924
+A171,3,JobBERT-v2 frozen head,0.93835
+A173,3,JobBERT-v2 frozen head,0.099626
+A187,3,JobBERT-v2 frozen head,0.499198
+A196,3,JobBERT-v2 frozen head,0.403377
+A201,3,JobBERT-v2 frozen head,0.144118
+A211,3,JobBERT-v2 frozen head,0.536822
+A215,3,JobBERT-v2 frozen head,0.099503
+A217,3,JobBERT-v2 frozen head,0.1134
+A221,3,JobBERT-v2 frozen head,0.27161
+A223,3,JobBERT-v2 frozen head,0.262158
+A227,3,JobBERT-v2 frozen head,0.295785
+A233,3,JobBERT-v2 frozen head,0.859529
+A237,3,JobBERT-v2 frozen head,0.242628
+A004,3,JobBERT-v2 frozen cosine,0.087209
+A011,3,JobBERT-v2 frozen cosine,0.612887
+A018,3,JobBERT-v2 frozen cosine,0.361964
+A020,3,JobBERT-v2 frozen cosine,0.350073
+A035,3,JobBERT-v2 frozen cosine,0.305193
+A037,3,JobBERT-v2 frozen cosine,0.172784
+A038,3,JobBERT-v2 frozen cosine,0.260399
+A052,3,JobBERT-v2 frozen cosine,0.604872
+A056,3,JobBERT-v2 frozen cosine,0.141917
+A064,3,JobBERT-v2 frozen cosine,0.035633
+A066,3,JobBERT-v2 frozen cosine,0.553592
+A072,3,JobBERT-v2 frozen cosine,0.572808
+A074,3,JobBERT-v2 frozen cosine,-0.00528
+A078,3,JobBERT-v2 frozen cosine,0.211375
+A081,3,JobBERT-v2 frozen cosine,0.479769
+A084,3,JobBERT-v2 frozen cosine,0.557482
+A088,3,JobBERT-v2 frozen cosine,0.140924
+A094,3,JobBERT-v2 frozen cosine,0.44092
+A099,3,JobBERT-v2 frozen cosine,0.549107
+A100,3,JobBERT-v2 frozen cosine,0.472888
+A103,3,JobBERT-v2 frozen cosine,0.725698
+A107,3,JobBERT-v2 frozen cosine,0.305491
+A109,3,JobBERT-v2 frozen cosine,0.112598
+A115,3,JobBERT-v2 frozen cosine,0.373255
+A118,3,JobBERT-v2 frozen cosine,0.247489
+A121,3,JobBERT-v2 frozen cosine,0.293831
+A128,3,JobBERT-v2 frozen cosine,0.18911
+A132,3,JobBERT-v2 frozen cosine,0.304507
+A134,3,JobBERT-v2 frozen cosine,0.556974
+A138,3,JobBERT-v2 frozen cosine,0.427191
+A139,3,JobBERT-v2 frozen cosine,0.613307
+A148,3,JobBERT-v2 frozen cosine,0.432047
+A153,3,JobBERT-v2 frozen cosine,0.212909
+A155,3,JobBERT-v2 frozen cosine,0.326514
+A158,3,JobBERT-v2 frozen cosine,0.179083
+A171,3,JobBERT-v2 frozen cosine,0.780339
+A173,3,JobBERT-v2 frozen cosine,0.099473
+A187,3,JobBERT-v2 frozen cosine,0.345527
+A196,3,JobBERT-v2 frozen cosine,0.344963
+A201,3,JobBERT-v2 frozen cosine,0.186802
+A211,3,JobBERT-v2 frozen cosine,0.396877
+A215,3,JobBERT-v2 frozen cosine,0.09571
+A217,3,JobBERT-v2 frozen cosine,0.060606
+A221,3,JobBERT-v2 frozen cosine,0.273047
+A223,3,JobBERT-v2 frozen cosine,0.270057
+A227,3,JobBERT-v2 frozen cosine,0.280769
+A233,3,JobBERT-v2 frozen cosine,0.667912
+A237,3,JobBERT-v2 frozen cosine,0.226005
+A004,3,JobBERT-v2 fine-tuned head,0.043534
+A011,3,JobBERT-v2 fine-tuned head,0.981915
+A018,3,JobBERT-v2 fine-tuned head,0.180149
+A020,3,JobBERT-v2 fine-tuned head,0.125881
+A035,3,JobBERT-v2 fine-tuned head,0.054752
+A037,3,JobBERT-v2 fine-tuned head,0.249423
+A038,3,JobBERT-v2 fine-tuned head,0.076696
+A052,3,JobBERT-v2 fine-tuned head,0.742684
+A056,3,JobBERT-v2 fine-tuned head,0.042713
+A064,3,JobBERT-v2 fine-tuned head,0.037502
+A066,3,JobBERT-v2 fine-tuned head,0.334463
+A072,3,JobBERT-v2 fine-tuned head,0.794084
+A074,3,JobBERT-v2 fine-tuned head,0.044163
+A078,3,JobBERT-v2 fine-tuned head,0.053892
+A081,3,JobBERT-v2 fine-tuned head,0.077862
+A084,3,JobBERT-v2 fine-tuned head,0.939829
+A088,3,JobBERT-v2 fine-tuned head,0.038507
+A094,3,JobBERT-v2 fine-tuned head,0.132779
+A099,3,JobBERT-v2 fine-tuned head,0.905532
+A100,3,JobBERT-v2 fine-tuned head,0.486516
+A103,3,JobBERT-v2 fine-tuned head,0.971967
+A107,3,JobBERT-v2 fine-tuned head,0.039007
+A109,3,JobBERT-v2 fine-tuned head,0.035314
+A115,3,JobBERT-v2 fine-tuned head,0.412018
+A118,3,JobBERT-v2 fine-tuned head,0.078662
+A121,3,JobBERT-v2 fine-tuned head,0.136797
+A128,3,JobBERT-v2 fine-tuned head,0.027322
+A132,3,JobBERT-v2 fine-tuned head,0.083221
+A134,3,JobBERT-v2 fine-tuned head,0.198943
+A138,3,JobBERT-v2 fine-tuned head,0.729245
+A139,3,JobBERT-v2 fine-tuned head,0.80566
+A148,3,JobBERT-v2 fine-tuned head,0.981913
+A153,3,JobBERT-v2 fine-tuned head,0.024685
+A155,3,JobBERT-v2 fine-tuned head,0.059395
+A158,3,JobBERT-v2 fine-tuned head,0.032919
+A171,3,JobBERT-v2 fine-tuned head,0.991583
+A173,3,JobBERT-v2 fine-tuned head,0.025259
+A187,3,JobBERT-v2 fine-tuned head,0.833737
+A196,3,JobBERT-v2 fine-tuned head,0.065137
+A201,3,JobBERT-v2 fine-tuned head,0.032969
+A211,3,JobBERT-v2 fine-tuned head,0.154367
+A215,3,JobBERT-v2 fine-tuned head,0.01885
+A217,3,JobBERT-v2 fine-tuned head,0.044513
+A221,3,JobBERT-v2 fine-tuned head,0.04953
+A223,3,JobBERT-v2 fine-tuned head,0.057965
+A227,3,JobBERT-v2 fine-tuned head,0.052884
+A233,3,JobBERT-v2 fine-tuned head,0.973111
+A237,3,JobBERT-v2 fine-tuned head,0.060961
+A004,3,JobBERT-v2 fine-tuned cosine,-0.001772
+A011,3,JobBERT-v2 fine-tuned cosine,0.912967
+A018,3,JobBERT-v2 fine-tuned cosine,0.246781
+A020,3,JobBERT-v2 fine-tuned cosine,0.179326
+A035,3,JobBERT-v2 fine-tuned cosine,0.076249
+A037,3,JobBERT-v2 fine-tuned cosine,0.302179
+A038,3,JobBERT-v2 fine-tuned cosine,0.105323
+A052,3,JobBERT-v2 fine-tuned cosine,0.589543
+A056,3,JobBERT-v2 fine-tuned cosine,0.019884
+A064,3,JobBERT-v2 fine-tuned cosine,-0.000721
+A066,3,JobBERT-v2 fine-tuned cosine,0.353675
+A072,3,JobBERT-v2 fine-tuned cosine,0.629303
+A074,3,JobBERT-v2 fine-tuned cosine,0.031166
+A078,3,JobBERT-v2 fine-tuned cosine,0.041444
+A081,3,JobBERT-v2 fine-tuned cosine,0.102637
+A084,3,JobBERT-v2 fine-tuned cosine,0.787458
+A088,3,JobBERT-v2 fine-tuned cosine,-0.006834
+A094,3,JobBERT-v2 fine-tuned cosine,0.206786
+A099,3,JobBERT-v2 fine-tuned cosine,0.73497
+A100,3,JobBERT-v2 fine-tuned cosine,0.453663
+A103,3,JobBERT-v2 fine-tuned cosine,0.875402
+A107,3,JobBERT-v2 fine-tuned cosine,0.014703
+A109,3,JobBERT-v2 fine-tuned cosine,-0.031479
+A115,3,JobBERT-v2 fine-tuned cosine,0.401004
+A118,3,JobBERT-v2 fine-tuned cosine,0.095565
+A121,3,JobBERT-v2 fine-tuned cosine,0.196666
+A128,3,JobBERT-v2 fine-tuned cosine,-0.043024
+A132,3,JobBERT-v2 fine-tuned cosine,0.122507
+A134,3,JobBERT-v2 fine-tuned cosine,0.259023
+A138,3,JobBERT-v2 fine-tuned cosine,0.573214
+A139,3,JobBERT-v2 fine-tuned cosine,0.6319
+A148,3,JobBERT-v2 fine-tuned cosine,0.913523
+A153,3,JobBERT-v2 fine-tuned cosine,-0.044997
+A155,3,JobBERT-v2 fine-tuned cosine,0.064774
+A158,3,JobBERT-v2 fine-tuned cosine,0.001936
+A171,3,JobBERT-v2 fine-tuned cosine,0.970251
+A173,3,JobBERT-v2 fine-tuned cosine,-0.052409
+A187,3,JobBERT-v2 fine-tuned cosine,0.657272
+A196,3,JobBERT-v2 fine-tuned cosine,0.090726
+A201,3,JobBERT-v2 fine-tuned cosine,-0.0308
+A211,3,JobBERT-v2 fine-tuned cosine,0.221297
+A215,3,JobBERT-v2 fine-tuned cosine,-0.105584
+A217,3,JobBERT-v2 fine-tuned cosine,0.031964
+A221,3,JobBERT-v2 fine-tuned cosine,0.040746
+A223,3,JobBERT-v2 fine-tuned cosine,0.064742
+A227,3,JobBERT-v2 fine-tuned cosine,0.049587
+A233,3,JobBERT-v2 fine-tuned cosine,0.874249
+A237,3,JobBERT-v2 fine-tuned cosine,0.066541
+A001,4,TF-IDF head,0.326249
+A002,4,TF-IDF head,0.333318
+A006,4,TF-IDF head,0.404011
+A007,4,TF-IDF head,0.357234
+A008,4,TF-IDF head,0.629502
+A017,4,TF-IDF head,0.432592
+A025,4,TF-IDF head,0.336719
+A031,4,TF-IDF head,0.595961
+A033,4,TF-IDF head,0.369074
+A040,4,TF-IDF head,0.392336
+A043,4,TF-IDF head,0.675443
+A046,4,TF-IDF head,0.388944
+A049,4,TF-IDF head,0.882231
+A058,4,TF-IDF head,0.219498
+A077,4,TF-IDF head,0.455637
+A082,4,TF-IDF head,0.416923
+A085,4,TF-IDF head,0.50808
+A093,4,TF-IDF head,0.243475
+A097,4,TF-IDF head,0.547506
+A102,4,TF-IDF head,0.276011
+A111,4,TF-IDF head,0.483638
+A120,4,TF-IDF head,0.481533
+A129,4,TF-IDF head,0.421751
+A130,4,TF-IDF head,0.498725
+A135,4,TF-IDF head,0.348769
+A140,4,TF-IDF head,0.683778
+A142,4,TF-IDF head,0.235069
+A145,4,TF-IDF head,0.500534
+A149,4,TF-IDF head,0.458481
+A150,4,TF-IDF head,0.668375
+A152,4,TF-IDF head,0.491124
+A166,4,TF-IDF head,0.375634
+A169,4,TF-IDF head,0.497411
+A174,4,TF-IDF head,0.430107
+A183,4,TF-IDF head,0.296826
+A184,4,TF-IDF head,0.30375
+A188,4,TF-IDF head,0.300889
+A194,4,TF-IDF head,0.288259
+A202,4,TF-IDF head,0.303081
+A204,4,TF-IDF head,0.651226
+A205,4,TF-IDF head,0.46508
+A208,4,TF-IDF head,0.362261
+A210,4,TF-IDF head,0.453852
+A212,4,TF-IDF head,0.543209
+A218,4,TF-IDF head,0.328311
+A231,4,TF-IDF head,0.479066
+A234,4,TF-IDF head,0.460491
+A239,4,TF-IDF head,0.353581
+A001,4,TF-IDF cosine,0.023414
+A002,4,TF-IDF cosine,0.004128
+A006,4,TF-IDF cosine,0.10188
+A007,4,TF-IDF cosine,0.074813
+A008,4,TF-IDF cosine,0.175249
+A017,4,TF-IDF cosine,0.029224
+A025,4,TF-IDF cosine,0.03258
+A031,4,TF-IDF cosine,0.185651
+A033,4,TF-IDF cosine,0.042048
+A040,4,TF-IDF cosine,0.023671
+A043,4,TF-IDF cosine,0.184175
+A046,4,TF-IDF cosine,0.024596
+A049,4,TF-IDF cosine,0.403239
+A058,4,TF-IDF cosine,0.009244
+A077,4,TF-IDF cosine,0.042067
+A082,4,TF-IDF cosine,0.116951
+A085,4,TF-IDF cosine,0.120314
+A093,4,TF-IDF cosine,0.033254
+A097,4,TF-IDF cosine,0.150243
+A102,4,TF-IDF cosine,0.042982
+A111,4,TF-IDF cosine,0.116429
+A120,4,TF-IDF cosine,0.141253
+A129,4,TF-IDF cosine,0.092607
+A130,4,TF-IDF cosine,0.015016
+A135,4,TF-IDF cosine,0.006543
+A140,4,TF-IDF cosine,0.195746
+A142,4,TF-IDF cosine,0.01379
+A145,4,TF-IDF cosine,0.078867
+A149,4,TF-IDF cosine,0.018747
+A150,4,TF-IDF cosine,0.196347
+A152,4,TF-IDF cosine,0.1911
+A166,4,TF-IDF cosine,0.059878
+A169,4,TF-IDF cosine,0.119799
+A174,4,TF-IDF cosine,0.024456
+A183,4,TF-IDF cosine,0.028968
+A184,4,TF-IDF cosine,0.086914
+A188,4,TF-IDF cosine,0.061104
+A194,4,TF-IDF cosine,0.029859
+A202,4,TF-IDF cosine,0.064991
+A204,4,TF-IDF cosine,0.202629
+A205,4,TF-IDF cosine,0.0943
+A208,4,TF-IDF cosine,0.055771
+A210,4,TF-IDF cosine,0.0
+A212,4,TF-IDF cosine,0.140268
+A218,4,TF-IDF cosine,0.051638
+A231,4,TF-IDF cosine,0.04523
+A234,4,TF-IDF cosine,0.190949
+A239,4,TF-IDF cosine,0.040559
+A001,4,SBERT-MiniLM-L6-v2 frozen head,0.310418
+A002,4,SBERT-MiniLM-L6-v2 frozen head,0.363888
+A006,4,SBERT-MiniLM-L6-v2 frozen head,0.477188
+A007,4,SBERT-MiniLM-L6-v2 frozen head,0.633711
+A008,4,SBERT-MiniLM-L6-v2 frozen head,0.580643
+A017,4,SBERT-MiniLM-L6-v2 frozen head,0.599104
+A025,4,SBERT-MiniLM-L6-v2 frozen head,0.610517
+A031,4,SBERT-MiniLM-L6-v2 frozen head,0.684163
+A033,4,SBERT-MiniLM-L6-v2 frozen head,0.43655
+A040,4,SBERT-MiniLM-L6-v2 frozen head,0.41954
+A043,4,SBERT-MiniLM-L6-v2 frozen head,0.472268
+A046,4,SBERT-MiniLM-L6-v2 frozen head,0.360124
+A049,4,SBERT-MiniLM-L6-v2 frozen head,0.694221
+A058,4,SBERT-MiniLM-L6-v2 frozen head,0.366121
+A077,4,SBERT-MiniLM-L6-v2 frozen head,0.631237
+A082,4,SBERT-MiniLM-L6-v2 frozen head,0.66892
+A085,4,SBERT-MiniLM-L6-v2 frozen head,0.678216
+A093,4,SBERT-MiniLM-L6-v2 frozen head,0.255995
+A097,4,SBERT-MiniLM-L6-v2 frozen head,0.525088
+A102,4,SBERT-MiniLM-L6-v2 frozen head,0.250098
+A111,4,SBERT-MiniLM-L6-v2 frozen head,0.43005
+A120,4,SBERT-MiniLM-L6-v2 frozen head,0.819952
+A129,4,SBERT-MiniLM-L6-v2 frozen head,0.521293
+A130,4,SBERT-MiniLM-L6-v2 frozen head,0.319053
+A135,4,SBERT-MiniLM-L6-v2 frozen head,0.41668
+A140,4,SBERT-MiniLM-L6-v2 frozen head,0.577547
+A142,4,SBERT-MiniLM-L6-v2 frozen head,0.245041
+A145,4,SBERT-MiniLM-L6-v2 frozen head,0.721268
+A149,4,SBERT-MiniLM-L6-v2 frozen head,0.472033
+A150,4,SBERT-MiniLM-L6-v2 frozen head,0.786513
+A152,4,SBERT-MiniLM-L6-v2 frozen head,0.652211
+A166,4,SBERT-MiniLM-L6-v2 frozen head,0.519227
+A169,4,SBERT-MiniLM-L6-v2 frozen head,0.650977
+A174,4,SBERT-MiniLM-L6-v2 frozen head,0.310435
+A183,4,SBERT-MiniLM-L6-v2 frozen head,0.244153
+A184,4,SBERT-MiniLM-L6-v2 frozen head,0.52806
+A188,4,SBERT-MiniLM-L6-v2 frozen head,0.454315
+A194,4,SBERT-MiniLM-L6-v2 frozen head,0.153773
+A202,4,SBERT-MiniLM-L6-v2 frozen head,0.317274
+A204,4,SBERT-MiniLM-L6-v2 frozen head,0.825477
+A205,4,SBERT-MiniLM-L6-v2 frozen head,0.40412
+A208,4,SBERT-MiniLM-L6-v2 frozen head,0.526914
+A210,4,SBERT-MiniLM-L6-v2 frozen head,0.286306
+A212,4,SBERT-MiniLM-L6-v2 frozen head,0.678866
+A218,4,SBERT-MiniLM-L6-v2 frozen head,0.420879
+A231,4,SBERT-MiniLM-L6-v2 frozen head,0.642109
+A234,4,SBERT-MiniLM-L6-v2 frozen head,0.53302
+A239,4,SBERT-MiniLM-L6-v2 frozen head,0.23753
+A001,4,SBERT-MiniLM-L6-v2 frozen cosine,0.299684
+A002,4,SBERT-MiniLM-L6-v2 frozen cosine,0.351973
+A006,4,SBERT-MiniLM-L6-v2 frozen cosine,0.422296
+A007,4,SBERT-MiniLM-L6-v2 frozen cosine,0.513194
+A008,4,SBERT-MiniLM-L6-v2 frozen cosine,0.478626
+A017,4,SBERT-MiniLM-L6-v2 frozen cosine,0.438467
+A025,4,SBERT-MiniLM-L6-v2 frozen cosine,0.508642
+A031,4,SBERT-MiniLM-L6-v2 frozen cosine,0.535461
+A033,4,SBERT-MiniLM-L6-v2 frozen cosine,0.366647
+A040,4,SBERT-MiniLM-L6-v2 frozen cosine,0.274081
+A043,4,SBERT-MiniLM-L6-v2 frozen cosine,0.350016
+A046,4,SBERT-MiniLM-L6-v2 frozen cosine,0.272862
+A049,4,SBERT-MiniLM-L6-v2 frozen cosine,0.494162
+A058,4,SBERT-MiniLM-L6-v2 frozen cosine,0.289572
+A077,4,SBERT-MiniLM-L6-v2 frozen cosine,0.473103
+A082,4,SBERT-MiniLM-L6-v2 frozen cosine,0.522949
+A085,4,SBERT-MiniLM-L6-v2 frozen cosine,0.54348
+A093,4,SBERT-MiniLM-L6-v2 frozen cosine,0.287152
+A097,4,SBERT-MiniLM-L6-v2 frozen cosine,0.37244
+A102,4,SBERT-MiniLM-L6-v2 frozen cosine,0.281461
+A111,4,SBERT-MiniLM-L6-v2 frozen cosine,0.407797
+A120,4,SBERT-MiniLM-L6-v2 frozen cosine,0.641136
+A129,4,SBERT-MiniLM-L6-v2 frozen cosine,0.388425
+A130,4,SBERT-MiniLM-L6-v2 frozen cosine,0.305208
+A135,4,SBERT-MiniLM-L6-v2 frozen cosine,0.296843
+A140,4,SBERT-MiniLM-L6-v2 frozen cosine,0.473396
+A142,4,SBERT-MiniLM-L6-v2 frozen cosine,0.256412
+A145,4,SBERT-MiniLM-L6-v2 frozen cosine,0.562077
+A149,4,SBERT-MiniLM-L6-v2 frozen cosine,0.312563
+A150,4,SBERT-MiniLM-L6-v2 frozen cosine,0.610801
+A152,4,SBERT-MiniLM-L6-v2 frozen cosine,0.528887
+A166,4,SBERT-MiniLM-L6-v2 frozen cosine,0.417518
+A169,4,SBERT-MiniLM-L6-v2 frozen cosine,0.54319
+A174,4,SBERT-MiniLM-L6-v2 frozen cosine,0.332035
+A183,4,SBERT-MiniLM-L6-v2 frozen cosine,0.239912
+A184,4,SBERT-MiniLM-L6-v2 frozen cosine,0.478045
+A188,4,SBERT-MiniLM-L6-v2 frozen cosine,0.399719
+A194,4,SBERT-MiniLM-L6-v2 frozen cosine,0.175516
+A202,4,SBERT-MiniLM-L6-v2 frozen cosine,0.290832
+A204,4,SBERT-MiniLM-L6-v2 frozen cosine,0.657316
+A205,4,SBERT-MiniLM-L6-v2 frozen cosine,0.39228
+A208,4,SBERT-MiniLM-L6-v2 frozen cosine,0.428734
+A210,4,SBERT-MiniLM-L6-v2 frozen cosine,0.184214
+A212,4,SBERT-MiniLM-L6-v2 frozen cosine,0.509336
+A218,4,SBERT-MiniLM-L6-v2 frozen cosine,0.338384
+A231,4,SBERT-MiniLM-L6-v2 frozen cosine,0.51116
+A234,4,SBERT-MiniLM-L6-v2 frozen cosine,0.421038
+A239,4,SBERT-MiniLM-L6-v2 frozen cosine,0.245621
+A001,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.081147
+A002,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.559179
+A006,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.110994
+A007,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.379364
+A008,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.848455
+A017,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.460647
+A025,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.133616
+A031,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.947581
+A033,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.062334
+A040,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.203077
+A043,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.620103
+A046,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.1022
+A049,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.990739
+A058,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.048025
+A077,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.933156
+A082,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.2462
+A085,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.975675
+A093,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.119378
+A097,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.792442
+A102,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.021406
+A111,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.370304
+A120,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.963145
+A129,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.129973
+A130,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.214352
+A135,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.185266
+A140,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.938883
+A142,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.036961
+A145,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.437718
+A149,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.607582
+A150,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.964231
+A152,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.933815
+A166,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.101434
+A169,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.321424
+A174,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.151591
+A183,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.179888
+A184,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.061643
+A188,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.136255
+A194,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.024474
+A202,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.094789
+A204,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.925708
+A205,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.320024
+A208,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.096128
+A210,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.124906
+A212,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.975137
+A218,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.326399
+A231,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.900138
+A234,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.453249
+A239,4,SBERT-MiniLM-L6-v2 fine-tuned head,0.061235
+A001,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.085138
+A002,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.420965
+A006,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.124636
+A007,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.345898
+A008,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.57328
+A017,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.350461
+A025,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.140524
+A031,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.697122
+A033,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.071039
+A040,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.204004
+A043,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.442689
+A046,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.093287
+A049,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.889594
+A058,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.03411
+A077,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.68432
+A082,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.256916
+A085,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.794629
+A093,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.148657
+A097,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.536568
+A102,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.07588
+A111,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.33347
+A120,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.742767
+A129,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.131137
+A130,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.20183
+A135,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.181079
+A140,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.695619
+A142,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.021349
+A145,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.353941
+A149,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.428247
+A150,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.75837
+A152,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.678761
+A166,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.096507
+A169,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.302066
+A174,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.169539
+A183,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.153899
+A184,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.066132
+A188,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.141081
+A194,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,-0.055301
+A202,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.087238
+A204,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.688641
+A205,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.303669
+A208,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.107922
+A210,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.130047
+A212,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.784907
+A218,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.278069
+A231,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.629273
+A234,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.374328
+A239,4,SBERT-MiniLM-L6-v2 fine-tuned cosine,0.031779
+A001,4,SBERT-mpnet-base-v2 frozen head,0.251758
+A002,4,SBERT-mpnet-base-v2 frozen head,0.41378
+A006,4,SBERT-mpnet-base-v2 frozen head,0.574687
+A007,4,SBERT-mpnet-base-v2 frozen head,0.640358
+A008,4,SBERT-mpnet-base-v2 frozen head,0.448176
+A017,4,SBERT-mpnet-base-v2 frozen head,0.511303
+A025,4,SBERT-mpnet-base-v2 frozen head,0.277994
+A031,4,SBERT-mpnet-base-v2 frozen head,0.367282
+A033,4,SBERT-mpnet-base-v2 frozen head,0.46118
+A040,4,SBERT-mpnet-base-v2 frozen head,0.379776
+A043,4,SBERT-mpnet-base-v2 frozen head,0.507885
+A046,4,SBERT-mpnet-base-v2 frozen head,0.280594
+A049,4,SBERT-mpnet-base-v2 frozen head,0.805005
+A058,4,SBERT-mpnet-base-v2 frozen head,0.241808
+A077,4,SBERT-mpnet-base-v2 frozen head,0.722944
+A082,4,SBERT-mpnet-base-v2 frozen head,0.586234
+A085,4,SBERT-mpnet-base-v2 frozen head,0.82903
+A093,4,SBERT-mpnet-base-v2 frozen head,0.299945
+A097,4,SBERT-mpnet-base-v2 frozen head,0.384423
+A102,4,SBERT-mpnet-base-v2 frozen head,0.260435
+A111,4,SBERT-mpnet-base-v2 frozen head,0.291347
+A120,4,SBERT-mpnet-base-v2 frozen head,0.731827
+A129,4,SBERT-mpnet-base-v2 frozen head,0.439217
+A130,4,SBERT-mpnet-base-v2 frozen head,0.52133
+A135,4,SBERT-mpnet-base-v2 frozen head,0.49223
+A140,4,SBERT-mpnet-base-v2 frozen head,0.651779
+A142,4,SBERT-mpnet-base-v2 frozen head,0.420775
+A145,4,SBERT-mpnet-base-v2 frozen head,0.760285
+A149,4,SBERT-mpnet-base-v2 frozen head,0.482101
+A150,4,SBERT-mpnet-base-v2 frozen head,0.721509
+A152,4,SBERT-mpnet-base-v2 frozen head,0.605025
+A166,4,SBERT-mpnet-base-v2 frozen head,0.473531
+A169,4,SBERT-mpnet-base-v2 frozen head,0.605643
+A174,4,SBERT-mpnet-base-v2 frozen head,0.349565
+A183,4,SBERT-mpnet-base-v2 frozen head,0.409057
+A184,4,SBERT-mpnet-base-v2 frozen head,0.469777
+A188,4,SBERT-mpnet-base-v2 frozen head,0.50765
+A194,4,SBERT-mpnet-base-v2 frozen head,0.159897
+A202,4,SBERT-mpnet-base-v2 frozen head,0.297531
+A204,4,SBERT-mpnet-base-v2 frozen head,0.811831
+A205,4,SBERT-mpnet-base-v2 frozen head,0.357798
+A208,4,SBERT-mpnet-base-v2 frozen head,0.367086
+A210,4,SBERT-mpnet-base-v2 frozen head,0.362219
+A212,4,SBERT-mpnet-base-v2 frozen head,0.683085
+A218,4,SBERT-mpnet-base-v2 frozen head,0.433722
+A231,4,SBERT-mpnet-base-v2 frozen head,0.615507
+A234,4,SBERT-mpnet-base-v2 frozen head,0.498615
+A239,4,SBERT-mpnet-base-v2 frozen head,0.353702
+A001,4,SBERT-mpnet-base-v2 frozen cosine,0.288627
+A002,4,SBERT-mpnet-base-v2 frozen cosine,0.374519
+A006,4,SBERT-mpnet-base-v2 frozen cosine,0.493248
+A007,4,SBERT-mpnet-base-v2 frozen cosine,0.539304
+A008,4,SBERT-mpnet-base-v2 frozen cosine,0.407116
+A017,4,SBERT-mpnet-base-v2 frozen cosine,0.412782
+A025,4,SBERT-mpnet-base-v2 frozen cosine,0.303726
+A031,4,SBERT-mpnet-base-v2 frozen cosine,0.360639
+A033,4,SBERT-mpnet-base-v2 frozen cosine,0.40457
+A040,4,SBERT-mpnet-base-v2 frozen cosine,0.23919
+A043,4,SBERT-mpnet-base-v2 frozen cosine,0.406913
+A046,4,SBERT-mpnet-base-v2 frozen cosine,0.195428
+A049,4,SBERT-mpnet-base-v2 frozen cosine,0.662161
+A058,4,SBERT-mpnet-base-v2 frozen cosine,0.260394
+A077,4,SBERT-mpnet-base-v2 frozen cosine,0.566143
+A082,4,SBERT-mpnet-base-v2 frozen cosine,0.54444
+A085,4,SBERT-mpnet-base-v2 frozen cosine,0.650004
+A093,4,SBERT-mpnet-base-v2 frozen cosine,0.286329
+A097,4,SBERT-mpnet-base-v2 frozen cosine,0.289919
+A102,4,SBERT-mpnet-base-v2 frozen cosine,0.302668
+A111,4,SBERT-mpnet-base-v2 frozen cosine,0.317737
+A120,4,SBERT-mpnet-base-v2 frozen cosine,0.630951
+A129,4,SBERT-mpnet-base-v2 frozen cosine,0.34314
+A130,4,SBERT-mpnet-base-v2 frozen cosine,0.483943
+A135,4,SBERT-mpnet-base-v2 frozen cosine,0.382147
+A140,4,SBERT-mpnet-base-v2 frozen cosine,0.515193
+A142,4,SBERT-mpnet-base-v2 frozen cosine,0.398276
+A145,4,SBERT-mpnet-base-v2 frozen cosine,0.608077
+A149,4,SBERT-mpnet-base-v2 frozen cosine,0.357199
+A150,4,SBERT-mpnet-base-v2 frozen cosine,0.581489
+A152,4,SBERT-mpnet-base-v2 frozen cosine,0.543474
+A166,4,SBERT-mpnet-base-v2 frozen cosine,0.423738
+A169,4,SBERT-mpnet-base-v2 frozen cosine,0.488177
+A174,4,SBERT-mpnet-base-v2 frozen cosine,0.374023
+A183,4,SBERT-mpnet-base-v2 frozen cosine,0.380088
+A184,4,SBERT-mpnet-base-v2 frozen cosine,0.469176
+A188,4,SBERT-mpnet-base-v2 frozen cosine,0.438427
+A194,4,SBERT-mpnet-base-v2 frozen cosine,0.165055
+A202,4,SBERT-mpnet-base-v2 frozen cosine,0.262607
+A204,4,SBERT-mpnet-base-v2 frozen cosine,0.700448
+A205,4,SBERT-mpnet-base-v2 frozen cosine,0.358315
+A208,4,SBERT-mpnet-base-v2 frozen cosine,0.352198
+A210,4,SBERT-mpnet-base-v2 frozen cosine,0.293933
+A212,4,SBERT-mpnet-base-v2 frozen cosine,0.514984
+A218,4,SBERT-mpnet-base-v2 frozen cosine,0.375331
+A231,4,SBERT-mpnet-base-v2 frozen cosine,0.520157
+A234,4,SBERT-mpnet-base-v2 frozen cosine,0.406142
+A239,4,SBERT-mpnet-base-v2 frozen cosine,0.353091
+A001,4,SBERT-mpnet-base-v2 fine-tuned head,0.167846
+A002,4,SBERT-mpnet-base-v2 fine-tuned head,0.213805
+A006,4,SBERT-mpnet-base-v2 fine-tuned head,0.083675
+A007,4,SBERT-mpnet-base-v2 fine-tuned head,0.439439
+A008,4,SBERT-mpnet-base-v2 fine-tuned head,0.829823
+A017,4,SBERT-mpnet-base-v2 fine-tuned head,0.278209
+A025,4,SBERT-mpnet-base-v2 fine-tuned head,0.053941
+A031,4,SBERT-mpnet-base-v2 fine-tuned head,0.72702
+A033,4,SBERT-mpnet-base-v2 fine-tuned head,0.02983
+A040,4,SBERT-mpnet-base-v2 fine-tuned head,0.520744
+A043,4,SBERT-mpnet-base-v2 fine-tuned head,0.833101
+A046,4,SBERT-mpnet-base-v2 fine-tuned head,0.039362
+A049,4,SBERT-mpnet-base-v2 fine-tuned head,0.977558
+A058,4,SBERT-mpnet-base-v2 fine-tuned head,0.029901
+A077,4,SBERT-mpnet-base-v2 fine-tuned head,0.969181
+A082,4,SBERT-mpnet-base-v2 fine-tuned head,0.059
+A085,4,SBERT-mpnet-base-v2 fine-tuned head,0.986103
+A093,4,SBERT-mpnet-base-v2 fine-tuned head,0.071492
+A097,4,SBERT-mpnet-base-v2 fine-tuned head,0.925503
+A102,4,SBERT-mpnet-base-v2 fine-tuned head,0.023877
+A111,4,SBERT-mpnet-base-v2 fine-tuned head,0.39625
+A120,4,SBERT-mpnet-base-v2 fine-tuned head,0.984165
+A129,4,SBERT-mpnet-base-v2 fine-tuned head,0.051877
+A130,4,SBERT-mpnet-base-v2 fine-tuned head,0.044451
+A135,4,SBERT-mpnet-base-v2 fine-tuned head,0.04448
+A140,4,SBERT-mpnet-base-v2 fine-tuned head,0.977346
+A142,4,SBERT-mpnet-base-v2 fine-tuned head,0.041633
+A145,4,SBERT-mpnet-base-v2 fine-tuned head,0.097409
+A149,4,SBERT-mpnet-base-v2 fine-tuned head,0.299882
+A150,4,SBERT-mpnet-base-v2 fine-tuned head,0.856814
+A152,4,SBERT-mpnet-base-v2 fine-tuned head,0.881836
+A166,4,SBERT-mpnet-base-v2 fine-tuned head,0.061479
+A169,4,SBERT-mpnet-base-v2 fine-tuned head,0.329203
+A174,4,SBERT-mpnet-base-v2 fine-tuned head,0.053259
+A183,4,SBERT-mpnet-base-v2 fine-tuned head,0.150514
+A184,4,SBERT-mpnet-base-v2 fine-tuned head,0.140256
+A188,4,SBERT-mpnet-base-v2 fine-tuned head,0.202423
+A194,4,SBERT-mpnet-base-v2 fine-tuned head,0.027818
+A202,4,SBERT-mpnet-base-v2 fine-tuned head,0.04754
+A204,4,SBERT-mpnet-base-v2 fine-tuned head,0.879715
+A205,4,SBERT-mpnet-base-v2 fine-tuned head,0.302373
+A208,4,SBERT-mpnet-base-v2 fine-tuned head,0.165269
+A210,4,SBERT-mpnet-base-v2 fine-tuned head,0.183928
+A212,4,SBERT-mpnet-base-v2 fine-tuned head,0.986089
+A218,4,SBERT-mpnet-base-v2 fine-tuned head,0.710343
+A231,4,SBERT-mpnet-base-v2 fine-tuned head,0.875839
+A234,4,SBERT-mpnet-base-v2 fine-tuned head,0.428416
+A239,4,SBERT-mpnet-base-v2 fine-tuned head,0.040818
+A001,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.210183
+A002,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.245928
+A006,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.087714
+A007,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.399922
+A008,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.639262
+A017,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.297562
+A025,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.057401
+A031,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.555881
+A033,4,SBERT-mpnet-base-v2 fine-tuned cosine,-0.026358
+A040,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.438888
+A043,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.631032
+A046,4,SBERT-mpnet-base-v2 fine-tuned cosine,-0.024286
+A049,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.874123
+A058,4,SBERT-mpnet-base-v2 fine-tuned cosine,-0.041906
+A077,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.839192
+A082,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.056152
+A085,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.917226
+A093,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.064257
+A097,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.743704
+A102,4,SBERT-mpnet-base-v2 fine-tuned cosine,-0.073911
+A111,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.38064
+A120,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.909464
+A129,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.022705
+A130,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.015725
+A135,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.007666
+A140,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.871444
+A142,4,SBERT-mpnet-base-v2 fine-tuned cosine,-0.003241
+A145,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.125851
+A149,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.31103
+A150,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.655761
+A152,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.690468
+A166,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.066732
+A169,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.335452
+A174,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.027085
+A183,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.183954
+A184,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.204795
+A188,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.253842
+A194,4,SBERT-mpnet-base-v2 fine-tuned cosine,-0.059682
+A202,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.035711
+A204,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.673202
+A205,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.323004
+A208,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.214273
+A210,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.220828
+A212,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.920991
+A218,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.557126
+A231,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.673013
+A234,4,SBERT-mpnet-base-v2 fine-tuned cosine,0.401801
+A239,4,SBERT-mpnet-base-v2 fine-tuned cosine,-0.007477
+A001,4,JobBERT-v2 frozen head,0.404408
+A002,4,JobBERT-v2 frozen head,0.217181
+A006,4,JobBERT-v2 frozen head,0.313408
+A007,4,JobBERT-v2 frozen head,0.626653
+A008,4,JobBERT-v2 frozen head,0.585776
+A017,4,JobBERT-v2 frozen head,0.471212
+A025,4,JobBERT-v2 frozen head,0.335912
+A031,4,JobBERT-v2 frozen head,0.794318
+A033,4,JobBERT-v2 frozen head,0.095681
+A040,4,JobBERT-v2 frozen head,0.620332
+A043,4,JobBERT-v2 frozen head,0.25604
+A046,4,JobBERT-v2 frozen head,0.342
+A049,4,JobBERT-v2 frozen head,0.945241
+A058,4,JobBERT-v2 frozen head,0.088073
+A077,4,JobBERT-v2 frozen head,0.735208
+A082,4,JobBERT-v2 frozen head,0.51002
+A085,4,JobBERT-v2 frozen head,0.792777
+A093,4,JobBERT-v2 frozen head,0.099322
+A097,4,JobBERT-v2 frozen head,0.72155
+A102,4,JobBERT-v2 frozen head,0.182165
+A111,4,JobBERT-v2 frozen head,0.500194
+A120,4,JobBERT-v2 frozen head,0.928632
+A129,4,JobBERT-v2 frozen head,0.342519
+A130,4,JobBERT-v2 frozen head,0.372919
+A135,4,JobBERT-v2 frozen head,0.422703
+A140,4,JobBERT-v2 frozen head,0.85705
+A142,4,JobBERT-v2 frozen head,0.183883
+A145,4,JobBERT-v2 frozen head,0.862138
+A149,4,JobBERT-v2 frozen head,0.13296
+A150,4,JobBERT-v2 frozen head,0.91007
+A152,4,JobBERT-v2 frozen head,0.870405
+A166,4,JobBERT-v2 frozen head,0.282975
+A169,4,JobBERT-v2 frozen head,0.638577
+A174,4,JobBERT-v2 frozen head,0.164118
+A183,4,JobBERT-v2 frozen head,0.209766
+A184,4,JobBERT-v2 frozen head,0.337761
+A188,4,JobBERT-v2 frozen head,0.433868
+A194,4,JobBERT-v2 frozen head,0.150578
+A202,4,JobBERT-v2 frozen head,0.261728
+A204,4,JobBERT-v2 frozen head,0.854409
+A205,4,JobBERT-v2 frozen head,0.497603
+A208,4,JobBERT-v2 frozen head,0.420991
+A210,4,JobBERT-v2 frozen head,0.528067
+A212,4,JobBERT-v2 frozen head,0.471762
+A218,4,JobBERT-v2 frozen head,0.312948
+A231,4,JobBERT-v2 frozen head,0.754583
+A234,4,JobBERT-v2 frozen head,0.568069
+A239,4,JobBERT-v2 frozen head,0.097999
+A001,4,JobBERT-v2 frozen cosine,0.346021
+A002,4,JobBERT-v2 frozen cosine,0.189253
+A006,4,JobBERT-v2 frozen cosine,0.289486
+A007,4,JobBERT-v2 frozen cosine,0.478924
+A008,4,JobBERT-v2 frozen cosine,0.426324
+A017,4,JobBERT-v2 frozen cosine,0.326683
+A025,4,JobBERT-v2 frozen cosine,0.293729
+A031,4,JobBERT-v2 frozen cosine,0.566448
+A033,4,JobBERT-v2 frozen cosine,0.103411
+A040,4,JobBERT-v2 frozen cosine,0.40766
+A043,4,JobBERT-v2 frozen cosine,0.244728
+A046,4,JobBERT-v2 frozen cosine,0.320646
+A049,4,JobBERT-v2 frozen cosine,0.747801
+A058,4,JobBERT-v2 frozen cosine,0.097229
+A077,4,JobBERT-v2 frozen cosine,0.511357
+A082,4,JobBERT-v2 frozen cosine,0.410657
+A085,4,JobBERT-v2 frozen cosine,0.574037
+A093,4,JobBERT-v2 frozen cosine,0.065288
+A097,4,JobBERT-v2 frozen cosine,0.515608
+A102,4,JobBERT-v2 frozen cosine,0.22056
+A111,4,JobBERT-v2 frozen cosine,0.401107
+A120,4,JobBERT-v2 frozen cosine,0.739518
+A129,4,JobBERT-v2 frozen cosine,0.30484
+A130,4,JobBERT-v2 frozen cosine,0.334681
+A135,4,JobBERT-v2 frozen cosine,0.351679
+A140,4,JobBERT-v2 frozen cosine,0.630437
+A142,4,JobBERT-v2 frozen cosine,0.191243
+A145,4,JobBERT-v2 frozen cosine,0.618003
+A149,4,JobBERT-v2 frozen cosine,0.07317
+A150,4,JobBERT-v2 frozen cosine,0.70935
+A152,4,JobBERT-v2 frozen cosine,0.667139
+A166,4,JobBERT-v2 frozen cosine,0.298287
+A169,4,JobBERT-v2 frozen cosine,0.45774
+A174,4,JobBERT-v2 frozen cosine,0.135747
+A183,4,JobBERT-v2 frozen cosine,0.204132
+A184,4,JobBERT-v2 frozen cosine,0.339402
+A188,4,JobBERT-v2 frozen cosine,0.354176
+A194,4,JobBERT-v2 frozen cosine,0.156937
+A202,4,JobBERT-v2 frozen cosine,0.269551
+A204,4,JobBERT-v2 frozen cosine,0.637057
+A205,4,JobBERT-v2 frozen cosine,0.391019
+A208,4,JobBERT-v2 frozen cosine,0.39233
+A210,4,JobBERT-v2 frozen cosine,0.408413
+A212,4,JobBERT-v2 frozen cosine,0.373399
+A218,4,JobBERT-v2 frozen cosine,0.275169
+A231,4,JobBERT-v2 frozen cosine,0.543154
+A234,4,JobBERT-v2 frozen cosine,0.435832
+A239,4,JobBERT-v2 frozen cosine,0.087507
+A001,4,JobBERT-v2 fine-tuned head,0.204161
+A002,4,JobBERT-v2 fine-tuned head,0.407549
+A006,4,JobBERT-v2 fine-tuned head,0.075969
+A007,4,JobBERT-v2 fine-tuned head,0.222947
+A008,4,JobBERT-v2 fine-tuned head,0.810683
+A017,4,JobBERT-v2 fine-tuned head,0.298968
+A025,4,JobBERT-v2 fine-tuned head,0.082867
+A031,4,JobBERT-v2 fine-tuned head,0.68307
+A033,4,JobBERT-v2 fine-tuned head,0.03424
+A040,4,JobBERT-v2 fine-tuned head,0.424978
+A043,4,JobBERT-v2 fine-tuned head,0.480246
+A046,4,JobBERT-v2 fine-tuned head,0.049828
+A049,4,JobBERT-v2 fine-tuned head,0.984982
+A058,4,JobBERT-v2 fine-tuned head,0.03854
+A077,4,JobBERT-v2 fine-tuned head,0.981673
+A082,4,JobBERT-v2 fine-tuned head,0.02286
+A085,4,JobBERT-v2 fine-tuned head,0.97441
+A093,4,JobBERT-v2 fine-tuned head,0.066306
+A097,4,JobBERT-v2 fine-tuned head,0.907236
+A102,4,JobBERT-v2 fine-tuned head,0.042211
+A111,4,JobBERT-v2 fine-tuned head,0.195074
+A120,4,JobBERT-v2 fine-tuned head,0.979442
+A129,4,JobBERT-v2 fine-tuned head,0.062555
+A130,4,JobBERT-v2 fine-tuned head,0.11695
+A135,4,JobBERT-v2 fine-tuned head,0.051542
+A140,4,JobBERT-v2 fine-tuned head,0.991062
+A142,4,JobBERT-v2 fine-tuned head,0.033979
+A145,4,JobBERT-v2 fine-tuned head,0.039722
+A149,4,JobBERT-v2 fine-tuned head,0.290162
+A150,4,JobBERT-v2 fine-tuned head,0.954524
+A152,4,JobBERT-v2 fine-tuned head,0.929306
+A166,4,JobBERT-v2 fine-tuned head,0.039548
+A169,4,JobBERT-v2 fine-tuned head,0.394947
+A174,4,JobBERT-v2 fine-tuned head,0.081106
+A183,4,JobBERT-v2 fine-tuned head,0.042126
+A184,4,JobBERT-v2 fine-tuned head,0.048217
+A188,4,JobBERT-v2 fine-tuned head,0.108032
+A194,4,JobBERT-v2 fine-tuned head,0.031041
+A202,4,JobBERT-v2 fine-tuned head,0.068139
+A204,4,JobBERT-v2 fine-tuned head,0.576946
+A205,4,JobBERT-v2 fine-tuned head,0.211324
+A208,4,JobBERT-v2 fine-tuned head,0.15887
+A210,4,JobBERT-v2 fine-tuned head,0.127297
+A212,4,JobBERT-v2 fine-tuned head,0.985888
+A218,4,JobBERT-v2 fine-tuned head,0.386908
+A231,4,JobBERT-v2 fine-tuned head,0.479384
+A234,4,JobBERT-v2 fine-tuned head,0.544788
+A239,4,JobBERT-v2 fine-tuned head,0.05868
+A001,4,JobBERT-v2 fine-tuned cosine,0.23975
+A002,4,JobBERT-v2 fine-tuned cosine,0.376975
+A006,4,JobBERT-v2 fine-tuned cosine,0.078099
+A007,4,JobBERT-v2 fine-tuned cosine,0.268803
+A008,4,JobBERT-v2 fine-tuned cosine,0.61212
+A017,4,JobBERT-v2 fine-tuned cosine,0.318844
+A025,4,JobBERT-v2 fine-tuned cosine,0.109564
+A031,4,JobBERT-v2 fine-tuned cosine,0.526657
+A033,4,JobBERT-v2 fine-tuned cosine,-0.012474
+A040,4,JobBERT-v2 fine-tuned cosine,0.385343
+A043,4,JobBERT-v2 fine-tuned cosine,0.431377
+A046,4,JobBERT-v2 fine-tuned cosine,0.026216
+A049,4,JobBERT-v2 fine-tuned cosine,0.905519
+A058,4,JobBERT-v2 fine-tuned cosine,0.002149
+A077,4,JobBERT-v2 fine-tuned cosine,0.891306
+A082,4,JobBERT-v2 fine-tuned cosine,-0.074305
+A085,4,JobBERT-v2 fine-tuned cosine,0.858485
+A093,4,JobBERT-v2 fine-tuned cosine,0.063113
+A097,4,JobBERT-v2 fine-tuned cosine,0.716062
+A102,4,JobBERT-v2 fine-tuned cosine,0.007174
+A111,4,JobBERT-v2 fine-tuned cosine,0.224553
+A120,4,JobBERT-v2 fine-tuned cosine,0.879932
+A129,4,JobBERT-v2 fine-tuned cosine,0.043619
+A130,4,JobBERT-v2 fine-tuned cosine,0.165186
+A135,4,JobBERT-v2 fine-tuned cosine,0.021303
+A140,4,JobBERT-v2 fine-tuned cosine,0.950096
+A142,4,JobBERT-v2 fine-tuned cosine,-0.027867
+A145,4,JobBERT-v2 fine-tuned cosine,0.000755
+A149,4,JobBERT-v2 fine-tuned cosine,0.304057
+A150,4,JobBERT-v2 fine-tuned cosine,0.804249
+A152,4,JobBERT-v2 fine-tuned cosine,0.75651
+A166,4,JobBERT-v2 fine-tuned cosine,-0.022668
+A169,4,JobBERT-v2 fine-tuned cosine,0.3597
+A174,4,JobBERT-v2 fine-tuned cosine,0.104904
+A183,4,JobBERT-v2 fine-tuned cosine,-0.012003
+A184,4,JobBERT-v2 fine-tuned cosine,0.033656
+A188,4,JobBERT-v2 fine-tuned cosine,0.136129
+A194,4,JobBERT-v2 fine-tuned cosine,-0.031763
+A202,4,JobBERT-v2 fine-tuned cosine,0.077802
+A204,4,JobBERT-v2 fine-tuned cosine,0.475134
+A205,4,JobBERT-v2 fine-tuned cosine,0.240784
+A208,4,JobBERT-v2 fine-tuned cosine,0.209952
+A210,4,JobBERT-v2 fine-tuned cosine,0.166762
+A212,4,JobBERT-v2 fine-tuned cosine,0.915484
+A218,4,JobBERT-v2 fine-tuned cosine,0.366756
+A231,4,JobBERT-v2 fine-tuned cosine,0.422433
+A234,4,JobBERT-v2 fine-tuned cosine,0.468794
+A239,4,JobBERT-v2 fine-tuned cosine,0.061046

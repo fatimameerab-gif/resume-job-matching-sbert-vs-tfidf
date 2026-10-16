@@ -1,0 +1,2 @@
+The perturbation lexicon (robustness.py, CORE_PAIRS) is curated but NOT human-validated.
+Report these results as 'curated, unvalidated lexicon' until annotation_kit/robustness_lexicon_validation_sheet.csv has been rated by two people.

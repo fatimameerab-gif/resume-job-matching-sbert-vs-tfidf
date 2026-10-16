@@ -1,0 +1,5 @@
+baseline,accuracy,tuned_threshold,f1_score
+majority_class,0.6666666666666666,,
+job_only,0.48,,
+cosine_only,0.8266666666666667,0.06,
+full_pair_tfidf_lr,0.84,,0.7692307692307693

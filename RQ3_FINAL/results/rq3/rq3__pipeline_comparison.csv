@@ -1,0 +1,54 @@
+model,family,auc,hit1,mrr,mrr_per_resume,hit1_per_resume,acc_at_own_threshold
+Hybrid TF-IDF + SBERT-mpnet-base-v2 fine-tuned (weighted),RQ1 run,0.9753,0.956,0.9767,0.9803,0.9627,0.9373
+SBERT-mpnet-base-v2 fine-tuned head,RQ1 run,0.9709,0.952,0.9733,0.9789,0.9615,0.9307
+SBERT-mpnet-base-v2 fine-tuned cosine,RQ1 run,0.9703,0.948,0.9713,0.977,0.9578,
+Hybrid TF-IDF + e5-base-v2 fine-tuned (weighted),RQ1 run,0.9649,0.94,0.9687,0.968,0.938,0.908
+Hybrid TF-IDF + SBERT-mpnet-base-v2 fine-tuned (RRF),RQ1 run,0.9625,0.94,0.9687,0.9692,0.9405,
+Hybrid TF-IDF + bge-base-en-v1.5 fine-tuned (weighted),RQ1 run,0.9718,0.94,0.968,0.9688,0.9405,0.9133
+bge-base-en-v1.5 fine-tuned head,RQ1 run,0.9662,0.936,0.966,0.9713,0.9454,0.9107
+Hybrid TF-IDF + bge-base-en-v1.5 fine-tuned (RRF),RQ1 run,0.96,0.936,0.966,0.9671,0.9374,
+Hybrid TF-IDF + JobBERT-v2 fine-tuned (RRF),RQ1 run,0.9609,0.936,0.9653,0.9627,0.9291,
+e5-base-v2 fine-tuned head,RQ1 run,0.9602,0.932,0.9653,0.9684,0.938,0.8987
+e5-base-v2 fine-tuned cosine,RQ1 run,0.9602,0.932,0.9647,0.9678,0.938,
+Hybrid TF-IDF + JobBERT-v2 fine-tuned (weighted),RQ1 run,0.9704,0.932,0.964,0.9645,0.9316,0.92
+Hybrid TF-IDF + e5-base-v2 fine-tuned (RRF),RQ1 run,0.9552,0.932,0.964,0.9658,0.9349,
+JobBERT-v2 fine-tuned cosine,RQ1 run,0.9677,0.932,0.9633,0.9622,0.9281,
+JobBERT-v2 fine-tuned head,RQ1 run,0.9678,0.932,0.9633,0.9622,0.9281,0.9187
+Hybrid TF-IDF + gte-base fine-tuned (weighted),RQ1 run,0.9635,0.924,0.9607,0.9618,0.9257,0.916
+Hybrid TF-IDF + gte-base fine-tuned (RRF),RQ1 run,0.9555,0.92,0.9587,0.9584,0.9189,
+bge-base-en-v1.5 fine-tuned cosine,RQ1 run,0.9644,0.92,0.958,0.9626,0.9281,
+gte-base fine-tuned head,RQ1 run,0.9546,0.908,0.952,0.9532,0.9096,0.9027
+gte-base fine-tuned cosine,RQ1 run,0.95,0.904,0.95,0.9519,0.9072,
+Hybrid TF-IDF + SBERT-MiniLM-L6-v2 fine-tuned (weighted),RQ1 run,0.9456,0.9,0.948,0.9504,0.9038,0.8867
+Hybrid TF-IDF + JobBERT-v2 frozen (weighted),RQ1 run,0.9293,0.9,0.9473,0.9455,0.8964,0.86
+Hybrid TF-IDF + SBERT-MiniLM-L6-v2 fine-tuned (RRF),RQ1 run,0.9474,0.896,0.946,0.9519,0.9075,
+Hybrid TF-IDF + JobBERT-v2 frozen (RRF),RQ1 run,0.9392,0.892,0.9427,0.9473,0.9014,
+SBERT-MiniLM-L6-v2 fine-tuned head,RQ1 run,0.9458,0.888,0.9393,0.9441,0.8948,0.8853
+SBERT-MiniLM-L6-v2 fine-tuned cosine,RQ1 run,0.943,0.888,0.9393,0.9416,0.8899,
+TF-IDF + tuned GradientBoosting (RQ3),RQ3 tuned head,0.9011,0.884,0.936,0.9343,0.8821,
+LSA + tuned RBF-SVM (RQ3),RQ3 tuned head,0.9164,0.852,0.92,0.9084,0.8312,
+JobBERT-v2 frozen head,RQ1 run,0.9072,0.848,0.92,0.9213,0.8504,0.8267
+TF-IDF cosine (zero-shot),RQ1 run,0.8668,0.856,0.9185,0.9167,0.8512,
+Hybrid TF-IDF + SBERT-mpnet-base-v2 frozen (weighted),RQ1 run,0.9066,0.84,0.914,0.9179,0.847,0.8333
+Hybrid TF-IDF + gte-base frozen (weighted),RQ1 run,0.8953,0.836,0.9127,0.9059,0.8211,0.82
+Hybrid TF-IDF + SBERT-mpnet-base-v2 frozen (RRF),RQ1 run,0.9061,0.836,0.912,0.9161,0.8433,
+Hybrid TF-IDF + gte-base frozen (RRF),RQ1 run,0.9057,0.832,0.9107,0.9067,0.8223,
+Hybrid TF-IDF + bge-base-en-v1.5 frozen (weighted),RQ1 run,0.8903,0.832,0.9087,0.9022,0.8174,0.8227
+Hybrid TF-IDF + bge-base-en-v1.5 frozen (RRF),RQ1 run,0.9012,0.832,0.9087,0.9079,0.8285,
+Hybrid TF-IDF + SBERT-MiniLM-L6-v2 frozen (weighted),RQ1 run,0.8969,0.824,0.9067,0.9093,0.8298,0.8307
+JobBERT-v2 frozen cosine (zero-shot),RQ1 run,0.8838,0.82,0.9047,0.9033,0.8177,
+Hybrid TF-IDF + SBERT-MiniLM-L6-v2 frozen (RRF),RQ1 run,0.8923,0.812,0.9007,0.9068,0.8248,
+Hybrid TF-IDF + e5-base-v2 frozen (weighted),RQ1 run,0.8713,0.808,0.8953,0.8919,0.8001,0.8053
+Hybrid TF-IDF + e5-base-v2 frozen (RRF),RQ1 run,0.8611,0.804,0.8907,0.8902,0.8014,
+TF-IDF head,RQ1 run,0.8749,0.792,0.89,0.8835,0.7791,0.8053
+gte-base frozen head,RQ1 run,0.8256,0.784,0.8827,0.8805,0.7781,0.7587
+SBERT-mpnet-base-v2 frozen head,RQ1 run,0.834,0.764,0.8707,0.87,0.7619,0.7653
+gte-base frozen cosine (zero-shot),RQ1 run,0.8006,0.76,0.8673,0.8645,0.7516,
+SBERT-MiniLM-L6-v2 frozen head,RQ1 run,0.8092,0.752,0.8647,0.8631,0.7491,0.7467
+bge-base-en-v1.5 frozen head,RQ1 run,0.8091,0.748,0.8607,0.8551,0.7352,0.7613
+SBERT-mpnet-base-v2 frozen cosine (zero-shot),RQ1 run,0.7951,0.728,0.8467,0.837,0.7069,
+SBERT-MiniLM-L6-v2 frozen cosine (zero-shot),RQ1 run,0.7812,0.7,0.8353,0.8287,0.6868,
+bge-base-en-v1.5 frozen cosine (zero-shot),RQ1 run,0.7808,0.7,0.834,0.8287,0.6893,
+e5-base-v2 frozen head,RQ1 run,0.7356,0.644,0.804,0.803,0.6409,0.6853
+e5-base-v2 frozen cosine (zero-shot),RQ1 run,0.724,0.64,0.8,0.8049,0.6473,
+cross-encoder/ms-marco-MiniLM-L-6-v2 (zero-shot cross-encoder),cross-encoder,0.6391,0.576,0.7613,,,

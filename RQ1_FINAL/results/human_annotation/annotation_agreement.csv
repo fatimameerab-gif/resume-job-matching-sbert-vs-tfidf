@@ -1,0 +1,9 @@
+metric,value,ci95_low,ci95_high
+kappa_unweighted_0_1_2,0.8445,0.7719,0.905
+kappa_quadratic_weighted_0_1_2,0.9099,0.8642,0.9464
+kappa_binary_fit_vs_nofit(>=1),0.8686,0.8014,0.9295
+kappa_binary_good_fit(==2),0.8903,0.7767,0.9755
+exact_agreement,0.9167,,
+n_items,240.0,,
+n_disagreements,20.0,,
+n_disagreements_by_2,0.0,,

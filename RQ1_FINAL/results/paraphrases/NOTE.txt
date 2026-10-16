@@ -1,0 +1,4 @@
+Paraphrases: model microsoft/Phi-3.5-mini-instruct, greedy decoding (attempt 1), one retry with sampling T=0.7 (attempt 2); original chunk kept if both attempts were rejected.
+Acceptance rules: length ratio (0.6, 1.5), Jaccard distance (0.15, 0.85), protected-token retention >= 0.85.
+Chunks: 2344; accepted: 1425 (60.8%). Texts: 575; mean share of words paraphrased: resumes 0.621, jobs 0.599.
+The automatic rules do NOT prove that meaning is preserved: a human check of a random sample is required (paraphrase_human_check.py) and its result must be reported next to every paraphrase number.

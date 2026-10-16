@@ -1,0 +1,25 @@
+model,kind,param,side,acc_clean,dacc,dacc_sd,flip,flip_sd,dscore_z,dhit1,dmrr,dmrr_sd,resumes_changed,jobs_changed,n_cells
+JobBERT-v2 fine-tuned head,esco_all,0.5,both,0.9173,-0.0011,0.0108,0.0152,0.0082,0.0355,-0.006,-0.003,0.0081,0.9272,0.8488,50
+JobBERT-v2 fine-tuned head,esco_all,0.5,job_only,0.9173,-0.0004,0.0067,0.0063,0.0055,0.0173,-0.0004,-0.0002,0.0032,0.0,0.8488,50
+JobBERT-v2 fine-tuned head,esco_all,0.5,resume_only,0.9173,-0.0004,0.0077,0.0129,0.0086,0.0261,-0.004,-0.002,0.0076,0.9272,0.0,50
+JobBERT-v2 fine-tuned head,esco_all,1.0,both,0.9173,-0.0024,0.0118,0.0248,0.0101,0.0661,-0.006,-0.0031,0.0094,0.968,0.9541,50
+JobBERT-v2 fine-tuned head,esco_all,1.0,job_only,0.9173,-0.002,0.0066,0.0121,0.0076,0.0347,0.0008,0.0004,0.0045,0.0,0.9541,50
+JobBERT-v2 fine-tuned head,esco_all,1.0,resume_only,0.9173,-0.0011,0.0117,0.0208,0.0096,0.0463,-0.0084,-0.0043,0.0108,0.968,0.0,50
+JobBERT-v2 fine-tuned head,esco_multiword,0.5,both,0.9173,0.0017,0.0061,0.0065,0.0058,0.0171,-0.0016,-0.0008,0.004,0.6832,0.5517,50
+JobBERT-v2 fine-tuned head,esco_multiword,0.5,job_only,0.9173,0.002,0.0043,0.0031,0.0036,0.0083,-0.0004,-0.0002,0.0014,0.0,0.5517,50
+JobBERT-v2 fine-tuned head,esco_multiword,0.5,resume_only,0.9173,0.0007,0.0043,0.0041,0.0052,0.0111,-0.0004,-0.0002,0.0043,0.6832,0.0,50
+JobBERT-v2 fine-tuned head,esco_multiword,1.0,both,0.9173,0.0009,0.0066,0.0116,0.0086,0.0294,-0.0036,-0.0018,0.0063,0.792,0.7334,50
+JobBERT-v2 fine-tuned head,esco_multiword,1.0,job_only,0.9173,0.0023,0.0037,0.0041,0.0048,0.0148,-0.0032,-0.0016,0.0037,0.0,0.7334,50
+JobBERT-v2 fine-tuned head,esco_multiword,1.0,resume_only,0.9173,0.0007,0.0062,0.0092,0.0085,0.0199,0.0,0.0,0.0049,0.792,0.0,50
+JobBERT-v2 fine-tuned head,reorder,1.0,both,0.9173,0.0003,0.0067,0.0115,0.0103,0.0384,-0.0024,-0.0007,0.0037,0.8592,0.8241,50
+JobBERT-v2 fine-tuned head,reorder,1.0,job_only,0.9173,0.0031,0.0039,0.0033,0.0036,0.0178,-0.0032,-0.0013,0.004,0.0,0.8241,50
+JobBERT-v2 fine-tuned head,reorder,1.0,resume_only,0.9173,0.0011,0.0073,0.0099,0.0093,0.0292,-0.0016,-0.0005,0.003,0.8592,0.0,50
+JobBERT-v2 fine-tuned head,typo,0.05,both,0.9173,0.0016,0.0069,0.0088,0.0079,0.028,0.0,0.0003,0.0068,0.9652,0.929,50
+JobBERT-v2 fine-tuned head,typo,0.05,job_only,0.9173,-0.0003,0.0065,0.0048,0.0054,0.0173,-0.0016,-0.0007,0.0045,0.0,0.929,50
+JobBERT-v2 fine-tuned head,typo,0.05,resume_only,0.9173,0.0027,0.0062,0.0061,0.0071,0.0175,0.002,0.0012,0.0055,0.9652,0.0,50
+JobBERT-v2 fine-tuned head,typo,0.1,both,0.9173,-0.0004,0.0086,0.0153,0.0108,0.044,-0.0024,-0.001,0.007,0.99,0.9787,50
+JobBERT-v2 fine-tuned head,typo,0.1,job_only,0.9173,-0.0013,0.0088,0.0099,0.01,0.0287,-0.004,-0.0018,0.0055,0.0,0.9787,50
+JobBERT-v2 fine-tuned head,typo,0.1,resume_only,0.9173,0.0028,0.0071,0.0108,0.0084,0.0273,0.0024,0.0013,0.0033,0.99,0.0,50
+JobBERT-v2 fine-tuned head,typo,0.2,both,0.9173,-0.0052,0.0111,0.0255,0.0142,0.0763,-0.0136,-0.007,0.01,0.9968,0.995,50
+JobBERT-v2 fine-tuned head,typo,0.2,job_only,0.9173,-0.0037,0.0092,0.0165,0.0143,0.0513,-0.0096,-0.0052,0.0071,0.0,0.995,50
+JobBERT-v2 fine-tuned head,typo,0.2,resume_only,0.9173,0.0011,0.0094,0.0184,0.0101,0.0459,-0.0036,-0.0016,0.0059,0.9968,0.0,50

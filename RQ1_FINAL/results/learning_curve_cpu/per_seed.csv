@@ -1,0 +1,321 @@
+seed,fraction,n_train_resumes,n_train_pairs,encoder,model,acc,bal_acc,auc
+0,0.1,12,36,TF-IDF,TF-IDF head,0.6067,0.555,0.5828
+0,0.1,12,36,TF-IDF,TF-IDF head (validation threshold),0.62,0.55,0.5828
+0,0.1,12,36,TF-IDF,TF-IDF cosine (zero-shot),0.6333,0.67,0.7673
+0,0.1,12,36,none,majority class,0.6667,0.5,0.5
+0,0.1,12,36,SBERT-MiniLM-L6-v2,frozen head,0.6667,0.665,0.7176
+0,0.1,12,36,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.7067,0.67,0.758
+0,0.1,12,36,SBERT-mpnet-base-v2,frozen head,0.72,0.705,0.7698
+0,0.1,12,36,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.7333,0.68,0.7908
+0,0.1,12,36,e5-base-v2,frozen head,0.62,0.485,0.5904
+0,0.1,12,36,e5-base-v2,frozen cosine (zero-shot),0.7267,0.7,0.7358
+0,0.1,12,36,bge-base-en-v1.5,frozen head,0.6667,0.6,0.707
+0,0.1,12,36,bge-base-en-v1.5,frozen cosine (zero-shot),0.68,0.705,0.7882
+0,0.1,12,36,gte-base,frozen head,0.68,0.6,0.6728
+0,0.1,12,36,gte-base,frozen cosine (zero-shot),0.6867,0.7,0.8012
+0,0.1,12,36,JobBERT-v2,frozen head,0.78,0.79,0.9022
+0,0.1,12,36,JobBERT-v2,frozen cosine (zero-shot),0.8067,0.79,0.8998
+0,0.25,29,87,TF-IDF,TF-IDF head,0.72,0.7,0.709
+0,0.25,29,87,TF-IDF,TF-IDF head (validation threshold),0.6933,0.64,0.709
+0,0.25,29,87,TF-IDF,TF-IDF cosine (zero-shot),0.8333,0.78,0.8615
+0,0.25,29,87,none,majority class,0.6667,0.5,0.5
+0,0.25,29,87,SBERT-MiniLM-L6-v2,frozen head,0.6733,0.655,0.7494
+0,0.25,29,87,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.7267,0.645,0.758
+0,0.25,29,87,SBERT-mpnet-base-v2,frozen head,0.7,0.685,0.7884
+0,0.25,29,87,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.6733,0.7,0.7908
+0,0.25,29,87,e5-base-v2,frozen head,0.6667,0.64,0.6814
+0,0.25,29,87,e5-base-v2,frozen cosine (zero-shot),0.74,0.685,0.7358
+0,0.25,29,87,bge-base-en-v1.5,frozen head,0.74,0.7,0.7698
+0,0.25,29,87,bge-base-en-v1.5,frozen cosine (zero-shot),0.7333,0.725,0.7882
+0,0.25,29,87,gte-base,frozen head,0.7533,0.7,0.7708
+0,0.25,29,87,gte-base,frozen cosine (zero-shot),0.7267,0.725,0.8012
+0,0.25,29,87,JobBERT-v2,frozen head,0.8,0.785,0.904
+0,0.25,29,87,JobBERT-v2,frozen cosine (zero-shot),0.8067,0.79,0.8998
+0,0.5,58,174,TF-IDF,TF-IDF head,0.8,0.775,0.836
+0,0.5,58,174,TF-IDF,TF-IDF head (validation threshold),0.7667,0.71,0.836
+0,0.5,58,174,TF-IDF,TF-IDF cosine (zero-shot),0.84,0.8,0.8946
+0,0.5,58,174,none,majority class,0.6667,0.5,0.5
+0,0.5,58,174,SBERT-MiniLM-L6-v2,frozen head,0.7067,0.69,0.7722
+0,0.5,58,174,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.6867,0.54,0.758
+0,0.5,58,174,SBERT-mpnet-base-v2,frozen head,0.7,0.7,0.8066
+0,0.5,58,174,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.74,0.625,0.7908
+0,0.5,58,174,e5-base-v2,frozen head,0.7333,0.715,0.7304
+0,0.5,58,174,e5-base-v2,frozen cosine (zero-shot),0.6733,0.525,0.7358
+0,0.5,58,174,bge-base-en-v1.5,frozen head,0.7333,0.715,0.8088
+0,0.5,58,174,bge-base-en-v1.5,frozen cosine (zero-shot),0.7133,0.6,0.7882
+0,0.5,58,174,gte-base,frozen head,0.7533,0.72,0.8248
+0,0.5,58,174,gte-base,frozen cosine (zero-shot),0.7533,0.645,0.8012
+0,0.5,58,174,JobBERT-v2,frozen head,0.8267,0.82,0.9126
+0,0.5,58,174,JobBERT-v2,frozen cosine (zero-shot),0.7133,0.57,0.8998
+0,1.0,116,348,TF-IDF,TF-IDF head,0.7933,0.785,0.8556
+0,1.0,116,348,TF-IDF,TF-IDF head (validation threshold),0.7267,0.77,0.8556
+0,1.0,116,348,TF-IDF,TF-IDF cosine (zero-shot),0.8467,0.795,0.8898
+0,1.0,116,348,none,majority class,0.6667,0.5,0.5
+0,1.0,116,348,SBERT-MiniLM-L6-v2,frozen head,0.7333,0.71,0.7782
+0,1.0,116,348,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.72,0.67,0.758
+0,1.0,116,348,SBERT-mpnet-base-v2,frozen head,0.7133,0.695,0.81
+0,1.0,116,348,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.7533,0.67,0.7908
+0,1.0,116,348,e5-base-v2,frozen head,0.7,0.69,0.706
+0,1.0,116,348,e5-base-v2,frozen cosine (zero-shot),0.72,0.685,0.7358
+0,1.0,116,348,bge-base-en-v1.5,frozen head,0.7667,0.745,0.8142
+0,1.0,116,348,bge-base-en-v1.5,frozen cosine (zero-shot),0.76,0.735,0.7882
+0,1.0,116,348,gte-base,frozen head,0.76,0.735,0.8164
+0,1.0,116,348,gte-base,frozen cosine (zero-shot),0.7667,0.715,0.8012
+0,1.0,116,348,JobBERT-v2,frozen head,0.82,0.8,0.9148
+0,1.0,116,348,JobBERT-v2,frozen cosine (zero-shot),0.8467,0.8,0.8998
+1,0.1,12,36,TF-IDF,TF-IDF head,0.6933,0.645,0.6916
+1,0.1,12,36,TF-IDF,TF-IDF head (validation threshold),0.6267,0.655,0.6916
+1,0.1,12,36,TF-IDF,TF-IDF cosine (zero-shot),0.74,0.76,0.8021
+1,0.1,12,36,none,majority class,0.6667,0.5,0.5
+1,0.1,12,36,SBERT-MiniLM-L6-v2,frozen head,0.74,0.68,0.759
+1,0.1,12,36,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.7,0.705,0.7596
+1,0.1,12,36,SBERT-mpnet-base-v2,frozen head,0.7067,0.655,0.7386
+1,0.1,12,36,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.64,0.675,0.762
+1,0.1,12,36,e5-base-v2,frozen head,0.64,0.545,0.587
+1,0.1,12,36,e5-base-v2,frozen cosine (zero-shot),0.64,0.68,0.7172
+1,0.1,12,36,bge-base-en-v1.5,frozen head,0.6933,0.595,0.7092
+1,0.1,12,36,bge-base-en-v1.5,frozen cosine (zero-shot),0.6467,0.68,0.7472
+1,0.1,12,36,gte-base,frozen head,0.7067,0.615,0.7252
+1,0.1,12,36,gte-base,frozen cosine (zero-shot),0.5467,0.625,0.7614
+1,0.1,12,36,JobBERT-v2,frozen head,0.7733,0.695,0.837
+1,0.1,12,36,JobBERT-v2,frozen cosine (zero-shot),0.4867,0.6,0.837
+1,0.25,29,87,TF-IDF,TF-IDF head,0.7267,0.685,0.7504
+1,0.25,29,87,TF-IDF,TF-IDF head (validation threshold),0.6467,0.69,0.7504
+1,0.25,29,87,TF-IDF,TF-IDF cosine (zero-shot),0.7267,0.605,0.8152
+1,0.25,29,87,none,majority class,0.6667,0.5,0.5
+1,0.25,29,87,SBERT-MiniLM-L6-v2,frozen head,0.7,0.68,0.757
+1,0.25,29,87,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.7267,0.645,0.7596
+1,0.25,29,87,SBERT-mpnet-base-v2,frozen head,0.7267,0.71,0.7698
+1,0.25,29,87,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.7133,0.625,0.762
+1,0.25,29,87,e5-base-v2,frozen head,0.5933,0.58,0.6596
+1,0.25,29,87,e5-base-v2,frozen cosine (zero-shot),0.6667,0.685,0.7172
+1,0.25,29,87,bge-base-en-v1.5,frozen head,0.7133,0.685,0.7276
+1,0.25,29,87,bge-base-en-v1.5,frozen cosine (zero-shot),0.7,0.695,0.7472
+1,0.25,29,87,gte-base,frozen head,0.6867,0.655,0.7442
+1,0.25,29,87,gte-base,frozen cosine (zero-shot),0.7267,0.69,0.7614
+1,0.25,29,87,JobBERT-v2,frozen head,0.8133,0.805,0.844
+1,0.25,29,87,JobBERT-v2,frozen cosine (zero-shot),0.7667,0.68,0.837
+1,0.5,58,174,TF-IDF,TF-IDF head,0.7467,0.735,0.8082
+1,0.5,58,174,TF-IDF,TF-IDF head (validation threshold),0.7333,0.73,0.8082
+1,0.5,58,174,TF-IDF,TF-IDF cosine (zero-shot),0.7933,0.78,0.8336
+1,0.5,58,174,none,majority class,0.6667,0.5,0.5
+1,0.5,58,174,SBERT-MiniLM-L6-v2,frozen head,0.7267,0.715,0.7804
+1,0.5,58,174,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.74,0.67,0.7596
+1,0.5,58,174,SBERT-mpnet-base-v2,frozen head,0.7267,0.72,0.7804
+1,0.5,58,174,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.72,0.62,0.762
+1,0.5,58,174,e5-base-v2,frozen head,0.6333,0.64,0.7086
+1,0.5,58,174,e5-base-v2,frozen cosine (zero-shot),0.6867,0.61,0.7172
+1,0.5,58,174,bge-base-en-v1.5,frozen head,0.7067,0.69,0.7486
+1,0.5,58,174,bge-base-en-v1.5,frozen cosine (zero-shot),0.7,0.59,0.7472
+1,0.5,58,174,gte-base,frozen head,0.72,0.715,0.7808
+1,0.5,58,174,gte-base,frozen cosine (zero-shot),0.74,0.65,0.7614
+1,0.5,58,174,JobBERT-v2,frozen head,0.8067,0.8,0.8582
+1,0.5,58,174,JobBERT-v2,frozen cosine (zero-shot),0.8067,0.785,0.837
+1,1.0,116,348,TF-IDF,TF-IDF head,0.78,0.775,0.8704
+1,1.0,116,348,TF-IDF,TF-IDF head (validation threshold),0.7933,0.74,0.8704
+1,1.0,116,348,TF-IDF,TF-IDF cosine (zero-shot),0.7733,0.685,0.8505
+1,1.0,116,348,none,majority class,0.6667,0.5,0.5
+1,1.0,116,348,SBERT-MiniLM-L6-v2,frozen head,0.7533,0.74,0.8094
+1,1.0,116,348,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.7333,0.665,0.7596
+1,1.0,116,348,SBERT-mpnet-base-v2,frozen head,0.7533,0.755,0.8008
+1,1.0,116,348,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.7133,0.63,0.762
+1,1.0,116,348,e5-base-v2,frozen head,0.64,0.665,0.7226
+1,1.0,116,348,e5-base-v2,frozen cosine (zero-shot),0.7067,0.58,0.7172
+1,1.0,116,348,bge-base-en-v1.5,frozen head,0.7333,0.73,0.7734
+1,1.0,116,348,bge-base-en-v1.5,frozen cosine (zero-shot),0.7067,0.6,0.7472
+1,1.0,116,348,gte-base,frozen head,0.7333,0.74,0.7884
+1,1.0,116,348,gte-base,frozen cosine (zero-shot),0.7333,0.66,0.7614
+1,1.0,116,348,JobBERT-v2,frozen head,0.8,0.795,0.8644
+1,1.0,116,348,JobBERT-v2,frozen cosine (zero-shot),0.7933,0.78,0.837
+2,0.1,12,36,TF-IDF,TF-IDF head,0.6733,0.635,0.721
+2,0.1,12,36,TF-IDF,TF-IDF head (validation threshold),0.64,0.64,0.721
+2,0.1,12,36,TF-IDF,TF-IDF cosine (zero-shot),0.7733,0.775,0.8468
+2,0.1,12,36,none,majority class,0.6667,0.5,0.5
+2,0.1,12,36,SBERT-MiniLM-L6-v2,frozen head,0.7133,0.715,0.798
+2,0.1,12,36,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.76,0.72,0.8206
+2,0.1,12,36,SBERT-mpnet-base-v2,frozen head,0.6733,0.685,0.7682
+2,0.1,12,36,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.7333,0.69,0.7844
+2,0.1,12,36,e5-base-v2,frozen head,0.5867,0.595,0.6728
+2,0.1,12,36,e5-base-v2,frozen cosine (zero-shot),0.7333,0.68,0.7628
+2,0.1,12,36,bge-base-en-v1.5,frozen head,0.7267,0.695,0.781
+2,0.1,12,36,bge-base-en-v1.5,frozen cosine (zero-shot),0.7733,0.74,0.8132
+2,0.1,12,36,gte-base,frozen head,0.78,0.745,0.8118
+2,0.1,12,36,gte-base,frozen cosine (zero-shot),0.7533,0.74,0.8204
+2,0.1,12,36,JobBERT-v2,frozen head,0.8133,0.795,0.899
+2,0.1,12,36,JobBERT-v2,frozen cosine (zero-shot),0.8133,0.745,0.8896
+2,0.25,29,87,TF-IDF,TF-IDF head,0.7667,0.74,0.7844
+2,0.25,29,87,TF-IDF,TF-IDF head (validation threshold),0.7,0.71,0.7844
+2,0.25,29,87,TF-IDF,TF-IDF cosine (zero-shot),0.7,0.76,0.9004
+2,0.25,29,87,none,majority class,0.6667,0.5,0.5
+2,0.25,29,87,SBERT-MiniLM-L6-v2,frozen head,0.7267,0.72,0.8014
+2,0.25,29,87,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.7667,0.735,0.8206
+2,0.25,29,87,SBERT-mpnet-base-v2,frozen head,0.7067,0.705,0.7762
+2,0.25,29,87,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.6667,0.69,0.7844
+2,0.25,29,87,e5-base-v2,frozen head,0.6133,0.63,0.6998
+2,0.25,29,87,e5-base-v2,frozen cosine (zero-shot),0.7467,0.69,0.7628
+2,0.25,29,87,bge-base-en-v1.5,frozen head,0.76,0.745,0.7816
+2,0.25,29,87,bge-base-en-v1.5,frozen cosine (zero-shot),0.7133,0.73,0.8132
+2,0.25,29,87,gte-base,frozen head,0.7733,0.755,0.8216
+2,0.25,29,87,gte-base,frozen cosine (zero-shot),0.6133,0.68,0.8204
+2,0.25,29,87,JobBERT-v2,frozen head,0.8067,0.79,0.8952
+2,0.25,29,87,JobBERT-v2,frozen cosine (zero-shot),0.8133,0.765,0.8896
+2,0.5,58,174,TF-IDF,TF-IDF head,0.7533,0.755,0.8128
+2,0.5,58,174,TF-IDF,TF-IDF head (validation threshold),0.7933,0.705,0.8128
+2,0.5,58,174,TF-IDF,TF-IDF cosine (zero-shot),0.8267,0.845,0.9022
+2,0.5,58,174,none,majority class,0.6667,0.5,0.5
+2,0.5,58,174,SBERT-MiniLM-L6-v2,frozen head,0.7267,0.73,0.8074
+2,0.5,58,174,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.7667,0.715,0.8206
+2,0.5,58,174,SBERT-mpnet-base-v2,frozen head,0.6867,0.695,0.7836
+2,0.5,58,174,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.74,0.68,0.7844
+2,0.5,58,174,e5-base-v2,frozen head,0.6533,0.68,0.7164
+2,0.5,58,174,e5-base-v2,frozen cosine (zero-shot),0.7467,0.685,0.7628
+2,0.5,58,174,bge-base-en-v1.5,frozen head,0.72,0.72,0.7946
+2,0.5,58,174,bge-base-en-v1.5,frozen cosine (zero-shot),0.78,0.715,0.8132
+2,0.5,58,174,gte-base,frozen head,0.7467,0.755,0.8248
+2,0.5,58,174,gte-base,frozen cosine (zero-shot),0.7467,0.735,0.8204
+2,0.5,58,174,JobBERT-v2,frozen head,0.8,0.79,0.904
+2,0.5,58,174,JobBERT-v2,frozen cosine (zero-shot),0.76,0.65,0.8896
+2,1.0,116,348,TF-IDF,TF-IDF head,0.8467,0.815,0.9126
+2,1.0,116,348,TF-IDF,TF-IDF head (validation threshold),0.8533,0.795,0.9126
+2,1.0,116,348,TF-IDF,TF-IDF cosine (zero-shot),0.8467,0.855,0.905
+2,1.0,116,348,none,majority class,0.6667,0.5,0.5
+2,1.0,116,348,SBERT-MiniLM-L6-v2,frozen head,0.7533,0.76,0.8332
+2,1.0,116,348,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.7667,0.735,0.8206
+2,1.0,116,348,SBERT-mpnet-base-v2,frozen head,0.78,0.78,0.82
+2,1.0,116,348,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.74,0.71,0.7844
+2,1.0,116,348,e5-base-v2,frozen head,0.6933,0.685,0.7662
+2,1.0,116,348,e5-base-v2,frozen cosine (zero-shot),0.76,0.675,0.7628
+2,1.0,116,348,bge-base-en-v1.5,frozen head,0.76,0.755,0.831
+2,1.0,116,348,bge-base-en-v1.5,frozen cosine (zero-shot),0.7733,0.69,0.8132
+2,1.0,116,348,gte-base,frozen head,0.7533,0.75,0.8438
+2,1.0,116,348,gte-base,frozen cosine (zero-shot),0.7733,0.705,0.8204
+2,1.0,116,348,JobBERT-v2,frozen head,0.8067,0.79,0.9078
+2,1.0,116,348,JobBERT-v2,frozen cosine (zero-shot),0.82,0.78,0.8896
+3,0.1,12,36,TF-IDF,TF-IDF head,0.6867,0.61,0.7244
+3,0.1,12,36,TF-IDF,TF-IDF head (validation threshold),0.6733,0.625,0.7244
+3,0.1,12,36,TF-IDF,TF-IDF cosine (zero-shot),0.7867,0.68,0.7777
+3,0.1,12,36,none,majority class,0.6667,0.5,0.5
+3,0.1,12,36,SBERT-MiniLM-L6-v2,frozen head,0.76,0.715,0.7962
+3,0.1,12,36,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.8,0.725,0.7984
+3,0.1,12,36,SBERT-mpnet-base-v2,frozen head,0.7867,0.775,0.8278
+3,0.1,12,36,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.78,0.755,0.843
+3,0.1,12,36,e5-base-v2,frozen head,0.66,0.615,0.6622
+3,0.1,12,36,e5-base-v2,frozen cosine (zero-shot),0.7733,0.67,0.7208
+3,0.1,12,36,bge-base-en-v1.5,frozen head,0.7133,0.695,0.7924
+3,0.1,12,36,bge-base-en-v1.5,frozen cosine (zero-shot),0.68,0.685,0.7876
+3,0.1,12,36,gte-base,frozen head,0.8,0.76,0.8272
+3,0.1,12,36,gte-base,frozen cosine (zero-shot),0.76,0.73,0.8396
+3,0.1,12,36,JobBERT-v2,frozen head,0.8533,0.815,0.9034
+3,0.1,12,36,JobBERT-v2,frozen cosine (zero-shot),0.7467,0.79,0.9024
+3,0.25,29,87,TF-IDF,TF-IDF head,0.76,0.715,0.8474
+3,0.25,29,87,TF-IDF,TF-IDF head (validation threshold),0.7467,0.765,0.8474
+3,0.25,29,87,TF-IDF,TF-IDF cosine (zero-shot),0.7933,0.78,0.8364
+3,0.25,29,87,none,majority class,0.6667,0.5,0.5
+3,0.25,29,87,SBERT-MiniLM-L6-v2,frozen head,0.7467,0.715,0.812
+3,0.25,29,87,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.8,0.72,0.7984
+3,0.25,29,87,SBERT-mpnet-base-v2,frozen head,0.7867,0.775,0.8566
+3,0.25,29,87,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.7733,0.7,0.843
+3,0.25,29,87,e5-base-v2,frozen head,0.6867,0.63,0.7044
+3,0.25,29,87,e5-base-v2,frozen cosine (zero-shot),0.66,0.64,0.7208
+3,0.25,29,87,bge-base-en-v1.5,frozen head,0.7667,0.74,0.8092
+3,0.25,29,87,bge-base-en-v1.5,frozen cosine (zero-shot),0.68,0.685,0.7876
+3,0.25,29,87,gte-base,frozen head,0.7867,0.755,0.84
+3,0.25,29,87,gte-base,frozen cosine (zero-shot),0.8,0.745,0.8396
+3,0.25,29,87,JobBERT-v2,frozen head,0.8533,0.83,0.9114
+3,0.25,29,87,JobBERT-v2,frozen cosine (zero-shot),0.8533,0.815,0.9024
+3,0.5,58,174,TF-IDF,TF-IDF head,0.7667,0.745,0.797
+3,0.5,58,174,TF-IDF,TF-IDF head (validation threshold),0.7667,0.76,0.797
+3,0.5,58,174,TF-IDF,TF-IDF cosine (zero-shot),0.84,0.8,0.8756
+3,0.5,58,174,none,majority class,0.6667,0.5,0.5
+3,0.5,58,174,SBERT-MiniLM-L6-v2,frozen head,0.7467,0.73,0.8038
+3,0.5,58,174,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.74,0.695,0.7984
+3,0.5,58,174,SBERT-mpnet-base-v2,frozen head,0.7667,0.76,0.8286
+3,0.5,58,174,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.78,0.755,0.843
+3,0.5,58,174,e5-base-v2,frozen head,0.6267,0.63,0.6772
+3,0.5,58,174,e5-base-v2,frozen cosine (zero-shot),0.7533,0.64,0.7208
+3,0.5,58,174,bge-base-en-v1.5,frozen head,0.7,0.7,0.7902
+3,0.5,58,174,bge-base-en-v1.5,frozen cosine (zero-shot),0.7067,0.685,0.7876
+3,0.5,58,174,gte-base,frozen head,0.7533,0.735,0.8204
+3,0.5,58,174,gte-base,frozen cosine (zero-shot),0.8067,0.73,0.8396
+3,0.5,58,174,JobBERT-v2,frozen head,0.8533,0.84,0.9162
+3,0.5,58,174,JobBERT-v2,frozen cosine (zero-shot),0.8467,0.82,0.9024
+3,1.0,116,348,TF-IDF,TF-IDF head,0.8133,0.785,0.8698
+3,1.0,116,348,TF-IDF,TF-IDF head (validation threshold),0.82,0.78,0.8698
+3,1.0,116,348,TF-IDF,TF-IDF cosine (zero-shot),0.82,0.81,0.8708
+3,1.0,116,348,none,majority class,0.6667,0.5,0.5
+3,1.0,116,348,SBERT-MiniLM-L6-v2,frozen head,0.7667,0.755,0.8278
+3,1.0,116,348,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.7333,0.695,0.7984
+3,1.0,116,348,SBERT-mpnet-base-v2,frozen head,0.82,0.805,0.8768
+3,1.0,116,348,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.7733,0.755,0.843
+3,1.0,116,348,e5-base-v2,frozen head,0.6933,0.66,0.7584
+3,1.0,116,348,e5-base-v2,frozen cosine (zero-shot),0.7333,0.665,0.7208
+3,1.0,116,348,bge-base-en-v1.5,frozen head,0.74,0.73,0.827
+3,1.0,116,348,bge-base-en-v1.5,frozen cosine (zero-shot),0.7333,0.69,0.7876
+3,1.0,116,348,gte-base,frozen head,0.7667,0.74,0.854
+3,1.0,116,348,gte-base,frozen cosine (zero-shot),0.7867,0.75,0.8396
+3,1.0,116,348,JobBERT-v2,frozen head,0.8467,0.835,0.9288
+3,1.0,116,348,JobBERT-v2,frozen cosine (zero-shot),0.8533,0.835,0.9024
+4,0.1,12,36,TF-IDF,TF-IDF head,0.6667,0.585,0.6278
+4,0.1,12,36,TF-IDF,TF-IDF head (validation threshold),0.7067,0.6,0.6278
+4,0.1,12,36,TF-IDF,TF-IDF cosine (zero-shot),0.56,0.6,0.6917
+4,0.1,12,36,none,majority class,0.6667,0.5,0.5
+4,0.1,12,36,SBERT-MiniLM-L6-v2,frozen head,0.6467,0.645,0.7206
+4,0.1,12,36,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.6333,0.67,0.7696
+4,0.1,12,36,SBERT-mpnet-base-v2,frozen head,0.7133,0.7,0.815
+4,0.1,12,36,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.5867,0.66,0.7952
+4,0.1,12,36,e5-base-v2,frozen head,0.6533,0.59,0.5876
+4,0.1,12,36,e5-base-v2,frozen cosine (zero-shot),0.6733,0.61,0.6832
+4,0.1,12,36,bge-base-en-v1.5,frozen head,0.74,0.705,0.7684
+4,0.1,12,36,bge-base-en-v1.5,frozen cosine (zero-shot),0.6067,0.655,0.7678
+4,0.1,12,36,gte-base,frozen head,0.7533,0.7,0.7754
+4,0.1,12,36,gte-base,frozen cosine (zero-shot),0.6133,0.66,0.7802
+4,0.1,12,36,JobBERT-v2,frozen head,0.86,0.82,0.9048
+4,0.1,12,36,JobBERT-v2,frozen cosine (zero-shot),0.84,0.815,0.8902
+4,0.25,29,87,TF-IDF,TF-IDF head,0.7533,0.665,0.7754
+4,0.25,29,87,TF-IDF,TF-IDF head (validation threshold),0.7067,0.69,0.7754
+4,0.25,29,87,TF-IDF,TF-IDF cosine (zero-shot),0.8,0.77,0.8151
+4,0.25,29,87,none,majority class,0.6667,0.5,0.5
+4,0.25,29,87,SBERT-MiniLM-L6-v2,frozen head,0.6933,0.7,0.7734
+4,0.25,29,87,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.7133,0.695,0.7696
+4,0.25,29,87,SBERT-mpnet-base-v2,frozen head,0.7333,0.74,0.8164
+4,0.25,29,87,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.7333,0.72,0.7952
+4,0.25,29,87,e5-base-v2,frozen head,0.66,0.615,0.6778
+4,0.25,29,87,e5-base-v2,frozen cosine (zero-shot),0.6667,0.62,0.6832
+4,0.25,29,87,bge-base-en-v1.5,frozen head,0.76,0.725,0.7786
+4,0.25,29,87,bge-base-en-v1.5,frozen cosine (zero-shot),0.76,0.72,0.7678
+4,0.25,29,87,gte-base,frozen head,0.7733,0.725,0.8028
+4,0.25,29,87,gte-base,frozen cosine (zero-shot),0.7733,0.72,0.7802
+4,0.25,29,87,JobBERT-v2,frozen head,0.86,0.825,0.9068
+4,0.25,29,87,JobBERT-v2,frozen cosine (zero-shot),0.8333,0.81,0.8902
+4,0.5,58,174,TF-IDF,TF-IDF head,0.7333,0.675,0.7718
+4,0.5,58,174,TF-IDF,TF-IDF head (validation threshold),0.7667,0.675,0.7718
+4,0.5,58,174,TF-IDF,TF-IDF cosine (zero-shot),0.7933,0.69,0.8293
+4,0.5,58,174,none,majority class,0.6667,0.5,0.5
+4,0.5,58,174,SBERT-MiniLM-L6-v2,frozen head,0.7333,0.72,0.778
+4,0.5,58,174,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.74,0.63,0.7696
+4,0.5,58,174,SBERT-mpnet-base-v2,frozen head,0.78,0.76,0.836
+4,0.5,58,174,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.7533,0.65,0.7952
+4,0.5,58,174,e5-base-v2,frozen head,0.6733,0.63,0.6852
+4,0.5,58,174,e5-base-v2,frozen cosine (zero-shot),0.7067,0.585,0.6832
+4,0.5,58,174,bge-base-en-v1.5,frozen head,0.7933,0.75,0.7876
+4,0.5,58,174,bge-base-en-v1.5,frozen cosine (zero-shot),0.72,0.59,0.7678
+4,0.5,58,174,gte-base,frozen head,0.7667,0.71,0.8126
+4,0.5,58,174,gte-base,frozen cosine (zero-shot),0.7133,0.6,0.7802
+4,0.5,58,174,JobBERT-v2,frozen head,0.84,0.79,0.9092
+4,0.5,58,174,JobBERT-v2,frozen cosine (zero-shot),0.7733,0.66,0.8902
+4,1.0,116,348,TF-IDF,TF-IDF head,0.7933,0.76,0.866
+4,1.0,116,348,TF-IDF,TF-IDF head (validation threshold),0.7867,0.695,0.866
+4,1.0,116,348,TF-IDF,TF-IDF cosine (zero-shot),0.8333,0.8,0.8181
+4,1.0,116,348,none,majority class,0.6667,0.5,0.5
+4,1.0,116,348,SBERT-MiniLM-L6-v2,frozen head,0.7267,0.72,0.7972
+4,1.0,116,348,SBERT-MiniLM-L6-v2,frozen cosine (zero-shot),0.7,0.69,0.7696
+4,1.0,116,348,SBERT-mpnet-base-v2,frozen head,0.76,0.765,0.8624
+4,1.0,116,348,SBERT-mpnet-base-v2,frozen cosine (zero-shot),0.7467,0.63,0.7952
+4,1.0,116,348,e5-base-v2,frozen head,0.7,0.665,0.725
+4,1.0,116,348,e5-base-v2,frozen cosine (zero-shot),0.6733,0.62,0.6832
+4,1.0,116,348,bge-base-en-v1.5,frozen head,0.8067,0.78,0.7998
+4,1.0,116,348,bge-base-en-v1.5,frozen cosine (zero-shot),0.7267,0.64,0.7678
+4,1.0,116,348,gte-base,frozen head,0.78,0.755,0.8254
+4,1.0,116,348,gte-base,frozen cosine (zero-shot),0.7667,0.71,0.7802
+4,1.0,116,348,JobBERT-v2,frozen head,0.86,0.83,0.92
+4,1.0,116,348,JobBERT-v2,frozen cosine (zero-shot),0.8533,0.82,0.8902

@@ -1,0 +1,9 @@
+lexicon,direction,side,n_unique_texts,n_texts_with_match,pct_texts_with_match,total_matches,mean_matches_per_text
+CORE,abbr_to_full,resume,135,85,63.0,318,2.36
+CORE,abbr_to_full,job,440,130,29.5,278,0.63
+CORE,full_to_abbr,resume,135,64,47.4,260,1.93
+CORE,full_to_abbr,job,440,125,28.4,233,0.53
+CORE+RISKY,abbr_to_full,resume,135,92,68.1,357,2.64
+CORE+RISKY,abbr_to_full,job,440,141,32.0,353,0.8
+CORE+RISKY,full_to_abbr,resume,135,70,51.9,323,2.39
+CORE+RISKY,full_to_abbr,job,440,155,35.2,352,0.8

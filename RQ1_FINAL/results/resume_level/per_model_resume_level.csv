@@ -1,0 +1,60 @@
+model,n_unique_test_resumes,resume_level_acc
+Category classifiers (JobBERT-v2),135,0.891
+Category classifiers (SBERT-MiniLM-L6-v2),135,0.8416
+Category classifiers (SBERT-mpnet-base-v2),135,0.8539
+Category classifiers (TF-IDF),135,0.8226
+Category classifiers (bge-base-en-v1.5),135,0.8355
+Category classifiers (e5-base-v2),135,0.7633
+Category classifiers (gte-base),135,0.8019
+Hybrid TF-IDF + JobBERT-v2 fine-tuned (weighted),135,0.9169
+Hybrid TF-IDF + JobBERT-v2 frozen (weighted),135,0.851
+Hybrid TF-IDF + JobBERT-v2 frozen (weighted) [run B],135,0.851
+Hybrid TF-IDF + SBERT-MiniLM-L6-v2 fine-tuned (weighted),135,0.8861
+Hybrid TF-IDF + SBERT-MiniLM-L6-v2 frozen (weighted),135,0.8267
+Hybrid TF-IDF + SBERT-mpnet-base-v2 fine-tuned (weighted),135,0.939
+Hybrid TF-IDF + SBERT-mpnet-base-v2 frozen (weighted),135,0.8314
+Hybrid TF-IDF + bge-base-en-v1.5 fine-tuned (weighted),135,0.914
+Hybrid TF-IDF + bge-base-en-v1.5 frozen (weighted),135,0.8117
+Hybrid TF-IDF + bge-base-en-v1.5 frozen (weighted) [run B],135,0.8117
+Hybrid TF-IDF + e5-base-v2 fine-tuned (weighted),135,0.9081
+Hybrid TF-IDF + e5-base-v2 frozen (weighted),135,0.7979
+Hybrid TF-IDF + e5-base-v2 frozen (weighted) [run B],135,0.7979
+Hybrid TF-IDF + gte-base fine-tuned (weighted),135,0.9124
+Hybrid TF-IDF + gte-base frozen (weighted),135,0.8134
+Hybrid TF-IDF + gte-base frozen (weighted) [run B],135,0.8134
+JobBERT-v2 fine-tuned cosine,135,0.9105
+JobBERT-v2 fine-tuned head,135,0.9169
+JobBERT-v2 frozen cosine (zero-shot),135,0.8341
+JobBERT-v2 frozen cosine (zero-shot) [run B],135,0.8341
+JobBERT-v2 frozen head,135,0.8271
+JobBERT-v2 frozen head [run B],135,0.8271
+SBERT-MiniLM-L6-v2 fine-tuned cosine,135,0.8698
+SBERT-MiniLM-L6-v2 fine-tuned head,135,0.8883
+SBERT-MiniLM-L6-v2 frozen cosine (zero-shot),135,0.7303
+SBERT-MiniLM-L6-v2 frozen head,135,0.744
+SBERT-mpnet-base-v2 fine-tuned cosine,135,0.9272
+SBERT-mpnet-base-v2 fine-tuned head,135,0.9314
+SBERT-mpnet-base-v2 frozen cosine (zero-shot),135,0.7379
+SBERT-mpnet-base-v2 frozen head,135,0.759
+TF-IDF cosine (zero-shot),135,0.8202
+TF-IDF cosine (zero-shot) [run B],135,0.8202
+TF-IDF head,135,0.7967
+TF-IDF head [run B],135,0.7967
+bge-base-en-v1.5 fine-tuned cosine,135,0.9141
+bge-base-en-v1.5 fine-tuned head,135,0.9091
+bge-base-en-v1.5 frozen cosine (zero-shot),135,0.7283
+bge-base-en-v1.5 frozen cosine (zero-shot) [run B],135,0.7283
+bge-base-en-v1.5 frozen head,135,0.7547
+bge-base-en-v1.5 frozen head [run B],135,0.7547
+e5-base-v2 fine-tuned cosine,135,0.8905
+e5-base-v2 fine-tuned head,135,0.9019
+e5-base-v2 frozen cosine (zero-shot),135,0.7159
+e5-base-v2 frozen cosine (zero-shot) [run B],135,0.7159
+e5-base-v2 frozen head,135,0.6826
+e5-base-v2 frozen head [run B],135,0.6826
+gte-base fine-tuned cosine,135,0.8784
+gte-base fine-tuned head,135,0.8992
+gte-base frozen cosine (zero-shot),135,0.7627
+gte-base frozen cosine (zero-shot) [run B],135,0.7627
+gte-base frozen head,135,0.7589
+gte-base frozen head [run B],135,0.7589

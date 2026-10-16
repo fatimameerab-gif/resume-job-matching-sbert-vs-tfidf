@@ -1,0 +1,2 @@
+representation,metric,n_blocks,n_classifiers,friedman_chi2,friedman_p,nemenyi_cd
+gte-base,auc,5,8,23.377990430621995,0.001464468493120122,4.695416703894232

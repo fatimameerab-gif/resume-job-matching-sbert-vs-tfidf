@@ -1,0 +1,19 @@
+a,b,metric,mean_diff,ci_lo,ci_hi,n_queries_better,n_queries
+JobBERT-v2 fine-tuned cosine,TF-IDF cosine,map,0.0139,-0.0319,0.0598,5,10
+JobBERT-v2 fine-tuned cosine,TF-IDF cosine,ndcg@100,0.0051,-0.0132,0.0235,4,10
+JobBERT-v2 fine-tuned cosine,TF-IDF cosine,mrr,0.0,-0.0,0.0,1,10
+JobBERT-v2 fine-tuned cosine,JobBERT-v2 frozen cosine,map,-0.0016,-0.0256,0.0224,4,10
+JobBERT-v2 fine-tuned cosine,JobBERT-v2 frozen cosine,ndcg@100,0.0009,-0.0049,0.0067,4,10
+JobBERT-v2 fine-tuned cosine,JobBERT-v2 frozen cosine,mrr,0.0,-0.0,0.0,1,10
+SBERT-MiniLM-L6-v2 fine-tuned cosine,TF-IDF cosine,map,-0.011,-0.0535,0.0316,4,10
+SBERT-MiniLM-L6-v2 fine-tuned cosine,TF-IDF cosine,ndcg@100,-0.0023,-0.0227,0.018,2,10
+SBERT-MiniLM-L6-v2 fine-tuned cosine,TF-IDF cosine,mrr,0.0,-0.0,0.0,1,10
+SBERT-MiniLM-L6-v2 fine-tuned cosine,SBERT-MiniLM-L6-v2 frozen cosine,map,-0.0007,-0.0854,0.084,7,10
+SBERT-MiniLM-L6-v2 fine-tuned cosine,SBERT-MiniLM-L6-v2 frozen cosine,ndcg@100,-0.0132,-0.0618,0.0355,5,10
+SBERT-MiniLM-L6-v2 fine-tuned cosine,SBERT-MiniLM-L6-v2 frozen cosine,mrr,-0.08,-0.261,0.101,0,10
+SBERT-mpnet-base-v2 fine-tuned cosine,TF-IDF cosine,map,-0.016,-0.0703,0.0382,4,10
+SBERT-mpnet-base-v2 fine-tuned cosine,TF-IDF cosine,ndcg@100,0.0017,-0.0181,0.0215,3,10
+SBERT-mpnet-base-v2 fine-tuned cosine,TF-IDF cosine,mrr,0.0228,-0.0287,0.0743,1,10
+SBERT-mpnet-base-v2 fine-tuned cosine,SBERT-mpnet-base-v2 frozen cosine,map,-0.0145,-0.0509,0.0218,4,10
+SBERT-mpnet-base-v2 fine-tuned cosine,SBERT-mpnet-base-v2 frozen cosine,ndcg@100,-0.013,-0.0408,0.0147,3,10
+SBERT-mpnet-base-v2 fine-tuned cosine,SBERT-mpnet-base-v2 frozen cosine,mrr,-0.0572,-0.1867,0.0722,0,10

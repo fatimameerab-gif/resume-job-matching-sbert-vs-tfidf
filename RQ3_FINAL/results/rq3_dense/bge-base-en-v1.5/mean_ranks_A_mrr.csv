@@ -1,0 +1,9 @@
+representation,metric,classifier,mean_rank,mean_metric
+bge-base-en-v1.5,mrr,CosineThreshold,4.7,0.8340000000000002
+bge-base-en-v1.5,mrr,GradientBoosting,6.8,0.8086666666666666
+bge-base-en-v1.5,mrr,LR,3.2,0.8746666666666668
+bge-base-en-v1.5,mrr,LinearSVM,3.3,0.8746666666666666
+bge-base-en-v1.5,mrr,MLP,6.7,0.8133333333333332
+bge-base-en-v1.5,mrr,RBF-SVM,1.6,0.884
+bge-base-en-v1.5,mrr,RandomForest,4.4,0.8473333333333333
+bge-base-en-v1.5,mrr,kNN,5.3,0.8313333333333333

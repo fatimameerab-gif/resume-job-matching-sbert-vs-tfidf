@@ -1,0 +1,4 @@
+Fine-tuned encoders scored on the 240 human-annotated pairs by cross-fitting: each annotated pair is scored by a model whose training data
+contain neither its resume nor its job text (GroupKFold by resume, 5 folds, fold seed 0, train seed 0). Recipe as in script 5 (3 epochs, batch 8, lr 2e-5).
+Metric: ROC AUC of the raw score against human fit (mean of two annotators >= 1) and against the weak label; 95% CIs from a resume-clustered bootstrap (2000 resamples).
+One fold seed and one training seed only: the intervals do not include training randomness. The negatives of the sample are random pairs from other categories.

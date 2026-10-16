@@ -1,0 +1,4 @@
+tier,unique_neg_jobs_test,n_neg_test,max_neg_reuse_test,share_data_science_neg_test,neg_same_text_as_positive
+hard_mined,82.9,100.0,3.0,0.184,0.052
+random_other_category,91.4,100.0,2.6,0.05,0.066
+same_family,91.9,100.0,2.5,0.055,0.078

@@ -1,0 +1,25 @@
+model,kind,param,side,acc_clean,dacc,dacc_sd,flip,flip_sd,dscore_z,dhit1,dmrr,dmrr_sd,resumes_changed,jobs_changed,n_cells
+SBERT-MiniLM-L6-v2 frozen head,esco_all,0.5,both,0.7467,-0.0064,0.0135,0.0456,0.0144,0.1251,-0.0096,-0.0067,0.014,0.9272,0.8488,50
+SBERT-MiniLM-L6-v2 frozen head,esco_all,0.5,job_only,0.7467,-0.0059,0.0119,0.0299,0.0107,0.0734,-0.0068,-0.0047,0.0154,0.0,0.8488,50
+SBERT-MiniLM-L6-v2 frozen head,esco_all,0.5,resume_only,0.7467,-0.0063,0.0138,0.0345,0.0134,0.0877,-0.0036,-0.0024,0.0134,0.9272,0.0,50
+SBERT-MiniLM-L6-v2 frozen head,esco_all,1.0,both,0.7467,-0.0116,0.0148,0.0617,0.0174,0.1857,-0.014,-0.0091,0.0143,0.968,0.9541,50
+SBERT-MiniLM-L6-v2 frozen head,esco_all,1.0,job_only,0.7467,-0.0135,0.0131,0.0503,0.0148,0.1182,-0.0108,-0.0078,0.0192,0.0,0.9541,50
+SBERT-MiniLM-L6-v2 frozen head,esco_all,1.0,resume_only,0.7467,-0.0065,0.015,0.0484,0.0199,0.1273,-0.0028,-0.0023,0.0129,0.968,0.0,50
+SBERT-MiniLM-L6-v2 frozen head,esco_multiword,0.5,both,0.7467,0.0003,0.0118,0.024,0.0092,0.0526,-0.0068,-0.0042,0.0167,0.6832,0.5517,50
+SBERT-MiniLM-L6-v2 frozen head,esco_multiword,0.5,job_only,0.7467,0.0015,0.0088,0.0124,0.009,0.0296,-0.0044,-0.0026,0.0119,0.0,0.5517,50
+SBERT-MiniLM-L6-v2 frozen head,esco_multiword,0.5,resume_only,0.7467,-0.0033,0.0099,0.0161,0.0069,0.0322,-0.0064,-0.0032,0.0106,0.6832,0.0,50
+SBERT-MiniLM-L6-v2 frozen head,esco_multiword,1.0,both,0.7467,-0.0015,0.0166,0.0329,0.0092,0.0807,-0.0112,-0.0074,0.0195,0.792,0.7334,50
+SBERT-MiniLM-L6-v2 frozen head,esco_multiword,1.0,job_only,0.7467,0.0005,0.0122,0.02,0.009,0.0505,-0.0184,-0.0102,0.0167,0.0,0.7334,50
+SBERT-MiniLM-L6-v2 frozen head,esco_multiword,1.0,resume_only,0.7467,-0.0027,0.0123,0.0221,0.0077,0.0494,0.002,0.0005,0.0101,0.792,0.0,50
+SBERT-MiniLM-L6-v2 frozen head,reorder,1.0,both,0.7467,-0.004,0.0201,0.0885,0.0197,0.2063,-0.0128,-0.0066,0.0174,0.8592,0.8241,50
+SBERT-MiniLM-L6-v2 frozen head,reorder,1.0,job_only,0.7467,-0.0027,0.0143,0.06,0.0146,0.1272,-0.0068,-0.0041,0.0179,0.0,0.8241,50
+SBERT-MiniLM-L6-v2 frozen head,reorder,1.0,resume_only,0.7467,-0.0047,0.0204,0.0631,0.0178,0.1435,-0.004,-0.0026,0.0145,0.8592,0.0,50
+SBERT-MiniLM-L6-v2 frozen head,typo,0.05,both,0.7467,-0.0285,0.0161,0.0704,0.0147,0.1787,-0.0216,-0.0131,0.0128,0.9652,0.929,50
+SBERT-MiniLM-L6-v2 frozen head,typo,0.05,job_only,0.7467,-0.0249,0.0121,0.0511,0.0145,0.1313,-0.0136,-0.0088,0.0135,0.0,0.929,50
+SBERT-MiniLM-L6-v2 frozen head,typo,0.05,resume_only,0.7467,-0.0052,0.0156,0.0404,0.01,0.0973,-0.0188,-0.0112,0.0116,0.9652,0.0,50
+SBERT-MiniLM-L6-v2 frozen head,typo,0.1,both,0.7467,-0.0488,0.0212,0.1139,0.0253,0.2934,-0.0236,-0.0157,0.0219,0.99,0.9787,50
+SBERT-MiniLM-L6-v2 frozen head,typo,0.1,job_only,0.7467,-0.0425,0.0195,0.0831,0.0192,0.2089,-0.0236,-0.0145,0.0161,0.0,0.9787,50
+SBERT-MiniLM-L6-v2 frozen head,typo,0.1,resume_only,0.7467,-0.0056,0.0146,0.0525,0.017,0.1358,-0.0176,-0.0114,0.0111,0.99,0.0,50
+SBERT-MiniLM-L6-v2 frozen head,typo,0.2,both,0.7467,-0.0907,0.0373,0.1912,0.0386,0.4802,-0.0316,-0.0189,0.0227,0.9968,0.995,50
+SBERT-MiniLM-L6-v2 frozen head,typo,0.2,job_only,0.7467,-0.0588,0.0213,0.1247,0.025,0.3135,-0.036,-0.0211,0.0165,0.0,0.995,50
+SBERT-MiniLM-L6-v2 frozen head,typo,0.2,resume_only,0.7467,-0.0087,0.0205,0.0676,0.0175,0.1807,-0.0184,-0.0117,0.0138,0.9968,0.0,50

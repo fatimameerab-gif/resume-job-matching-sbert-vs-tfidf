@@ -1,0 +1,382 @@
+model,resume_category,job_category,SBERT only,TF-IDF only
+SBERT-MiniLM-L6-v2 fine-tuned head,Advocate,Arts,2,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Advocate,Business Analyst,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Advocate,Data Science,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Advocate,DevOps Engineer,2,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Advocate,DotNet Developer,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Advocate,Electrical Engineering,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Advocate,Java Developer,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Advocate,Operations Manager,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Advocate,Python Developer,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Advocate,Testing,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Arts,Advocate,3,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Arts,Automation Testing,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Arts,Electrical Engineering,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Arts,Operations Manager,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Automation Testing,Java Developer,0,1
+SBERT-MiniLM-L6-v2 fine-tuned head,Automation Testing,Python Developer,1,1
+SBERT-MiniLM-L6-v2 fine-tuned head,Business Analyst,Automation Testing,0,1
+SBERT-MiniLM-L6-v2 fine-tuned head,Business Analyst,Database,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Business Analyst,DevOps Engineer,0,1
+SBERT-MiniLM-L6-v2 fine-tuned head,Business Analyst,Operations Manager,1,1
+SBERT-MiniLM-L6-v2 fine-tuned head,Business Analyst,PMO,0,1
+SBERT-MiniLM-L6-v2 fine-tuned head,Business Analyst,Testing,0,1
+SBERT-MiniLM-L6-v2 fine-tuned head,Civil Engineer,Mechanical Engineer,0,1
+SBERT-MiniLM-L6-v2 fine-tuned head,Data Science,Automation Testing,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Data Science,Operations Manager,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Data Science,Python Developer,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Database,Automation Testing,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Database,Blockchain,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Database,ETL Developer,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Database,Python Developer,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,DevOps Engineer,Advocate,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,DevOps Engineer,Arts,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,DevOps Engineer,DotNet Developer,0,1
+SBERT-MiniLM-L6-v2 fine-tuned head,DevOps Engineer,Java Developer,0,1
+SBERT-MiniLM-L6-v2 fine-tuned head,DevOps Engineer,PMO,0,2
+SBERT-MiniLM-L6-v2 fine-tuned head,DotNet Developer,Business Analyst,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,DotNet Developer,Java Developer,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,DotNet Developer,Web Designing,0,2
+SBERT-MiniLM-L6-v2 fine-tuned head,ETL Developer,DotNet Developer,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,HR,Arts,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,HR,Database,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,HR,DevOps Engineer,3,0
+SBERT-MiniLM-L6-v2 fine-tuned head,HR,Java Developer,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,HR,Operations Manager,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,HR,SAP Developer,0,1
+SBERT-MiniLM-L6-v2 fine-tuned head,Hadoop,Business Analyst,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Hadoop,DevOps Engineer,0,1
+SBERT-MiniLM-L6-v2 fine-tuned head,Hadoop,ETL Developer,0,1
+SBERT-MiniLM-L6-v2 fine-tuned head,Hadoop,HR,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Hadoop,Java Developer,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Hadoop,Python Developer,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Health and fitness,Advocate,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Health and fitness,Data Science,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Health and fitness,Database,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Health and fitness,Sales,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Mechanical Engineer,Database,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Network Security Engineer,Health and fitness,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Operations Manager,Electrical Engineering,0,1
+SBERT-MiniLM-L6-v2 fine-tuned head,Operations Manager,PMO,1,1
+SBERT-MiniLM-L6-v2 fine-tuned head,Python Developer,Data Science,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Python Developer,Hadoop,0,1
+SBERT-MiniLM-L6-v2 fine-tuned head,Python Developer,Java Developer,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,SAP Developer,Data Science,0,1
+SBERT-MiniLM-L6-v2 fine-tuned head,SAP Developer,ETL Developer,0,1
+SBERT-MiniLM-L6-v2 fine-tuned head,SAP Developer,Java Developer,1,1
+SBERT-MiniLM-L6-v2 fine-tuned head,Sales,Arts,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Sales,Business Analyst,0,1
+SBERT-MiniLM-L6-v2 fine-tuned head,Sales,Database,0,1
+SBERT-MiniLM-L6-v2 fine-tuned head,Sales,Health and fitness,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Web Designing,DotNet Developer,1,0
+SBERT-MiniLM-L6-v2 fine-tuned head,Web Designing,Network Security Engineer,1,0
+SBERT-MiniLM-L6-v2 frozen head,Advocate,Arts,2,0
+SBERT-MiniLM-L6-v2 frozen head,Advocate,Business Analyst,1,0
+SBERT-MiniLM-L6-v2 frozen head,Advocate,Data Science,1,0
+SBERT-MiniLM-L6-v2 frozen head,Advocate,DevOps Engineer,2,0
+SBERT-MiniLM-L6-v2 frozen head,Advocate,DotNet Developer,1,0
+SBERT-MiniLM-L6-v2 frozen head,Advocate,Electrical Engineering,1,1
+SBERT-MiniLM-L6-v2 frozen head,Advocate,Java Developer,1,1
+SBERT-MiniLM-L6-v2 frozen head,Advocate,Operations Manager,1,0
+SBERT-MiniLM-L6-v2 frozen head,Advocate,Python Developer,1,0
+SBERT-MiniLM-L6-v2 frozen head,Advocate,Testing,1,0
+SBERT-MiniLM-L6-v2 frozen head,Arts,Advocate,3,0
+SBERT-MiniLM-L6-v2 frozen head,Arts,Automation Testing,1,0
+SBERT-MiniLM-L6-v2 frozen head,Arts,Electrical Engineering,1,0
+SBERT-MiniLM-L6-v2 frozen head,Arts,HR,0,1
+SBERT-MiniLM-L6-v2 frozen head,Arts,Operations Manager,1,0
+SBERT-MiniLM-L6-v2 frozen head,Automation Testing,Database,0,1
+SBERT-MiniLM-L6-v2 frozen head,Automation Testing,Java Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Automation Testing,Network Security Engineer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Automation Testing,Python Developer,1,2
+SBERT-MiniLM-L6-v2 frozen head,Blockchain,Mechanical Engineer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Blockchain,Testing,0,1
+SBERT-MiniLM-L6-v2 frozen head,Business Analyst,Advocate,0,1
+SBERT-MiniLM-L6-v2 frozen head,Business Analyst,Civil Engineer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Business Analyst,Database,1,0
+SBERT-MiniLM-L6-v2 frozen head,Business Analyst,DevOps Engineer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Business Analyst,ETL Developer,0,2
+SBERT-MiniLM-L6-v2 frozen head,Business Analyst,Electrical Engineering,0,1
+SBERT-MiniLM-L6-v2 frozen head,Business Analyst,Hadoop,0,1
+SBERT-MiniLM-L6-v2 frozen head,Business Analyst,Operations Manager,1,1
+SBERT-MiniLM-L6-v2 frozen head,Business Analyst,PMO,0,1
+SBERT-MiniLM-L6-v2 frozen head,Business Analyst,Testing,0,1
+SBERT-MiniLM-L6-v2 frozen head,Civil Engineer,Business Analyst,0,1
+SBERT-MiniLM-L6-v2 frozen head,Civil Engineer,DevOps Engineer,0,2
+SBERT-MiniLM-L6-v2 frozen head,Civil Engineer,Java Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Civil Engineer,Mechanical Engineer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Data Science,Automation Testing,1,0
+SBERT-MiniLM-L6-v2 frozen head,Data Science,Database,1,0
+SBERT-MiniLM-L6-v2 frozen head,Data Science,HR,0,1
+SBERT-MiniLM-L6-v2 frozen head,Data Science,Health and fitness,0,1
+SBERT-MiniLM-L6-v2 frozen head,Data Science,Operations Manager,1,0
+SBERT-MiniLM-L6-v2 frozen head,Data Science,Python Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Data Science,Testing,0,1
+SBERT-MiniLM-L6-v2 frozen head,Database,Automation Testing,1,0
+SBERT-MiniLM-L6-v2 frozen head,Database,Blockchain,1,0
+SBERT-MiniLM-L6-v2 frozen head,Database,Business Analyst,0,1
+SBERT-MiniLM-L6-v2 frozen head,Database,DotNet Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Database,ETL Developer,1,0
+SBERT-MiniLM-L6-v2 frozen head,Database,HR,0,1
+SBERT-MiniLM-L6-v2 frozen head,Database,Java Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Database,Network Security Engineer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Database,PMO,0,1
+SBERT-MiniLM-L6-v2 frozen head,Database,Python Developer,1,0
+SBERT-MiniLM-L6-v2 frozen head,Database,Web Designing,0,1
+SBERT-MiniLM-L6-v2 frozen head,DevOps Engineer,Advocate,1,0
+SBERT-MiniLM-L6-v2 frozen head,DevOps Engineer,Arts,1,0
+SBERT-MiniLM-L6-v2 frozen head,DevOps Engineer,DotNet Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,DevOps Engineer,Java Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,DevOps Engineer,Network Security Engineer,0,1
+SBERT-MiniLM-L6-v2 frozen head,DevOps Engineer,Operations Manager,0,1
+SBERT-MiniLM-L6-v2 frozen head,DevOps Engineer,PMO,0,2
+SBERT-MiniLM-L6-v2 frozen head,DevOps Engineer,Python Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,DevOps Engineer,SAP Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,DotNet Developer,Hadoop,0,1
+SBERT-MiniLM-L6-v2 frozen head,DotNet Developer,Java Developer,1,0
+SBERT-MiniLM-L6-v2 frozen head,DotNet Developer,PMO,0,1
+SBERT-MiniLM-L6-v2 frozen head,DotNet Developer,Testing,0,2
+SBERT-MiniLM-L6-v2 frozen head,DotNet Developer,Web Designing,0,1
+SBERT-MiniLM-L6-v2 frozen head,ETL Developer,DotNet Developer,1,0
+SBERT-MiniLM-L6-v2 frozen head,ETL Developer,Java Developer,1,0
+SBERT-MiniLM-L6-v2 frozen head,ETL Developer,PMO,0,1
+SBERT-MiniLM-L6-v2 frozen head,ETL Developer,Testing,0,1
+SBERT-MiniLM-L6-v2 frozen head,Electrical Engineering,Java Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Electrical Engineering,SAP Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,HR,Arts,1,0
+SBERT-MiniLM-L6-v2 frozen head,HR,Civil Engineer,0,1
+SBERT-MiniLM-L6-v2 frozen head,HR,DevOps Engineer,2,0
+SBERT-MiniLM-L6-v2 frozen head,HR,DotNet Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,HR,ETL Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,HR,Java Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,HR,Operations Manager,1,0
+SBERT-MiniLM-L6-v2 frozen head,HR,PMO,0,1
+SBERT-MiniLM-L6-v2 frozen head,HR,SAP Developer,0,2
+SBERT-MiniLM-L6-v2 frozen head,Hadoop,Business Analyst,1,0
+SBERT-MiniLM-L6-v2 frozen head,Hadoop,Database,1,0
+SBERT-MiniLM-L6-v2 frozen head,Hadoop,DevOps Engineer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Hadoop,ETL Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Hadoop,HR,1,0
+SBERT-MiniLM-L6-v2 frozen head,Hadoop,PMO,0,1
+SBERT-MiniLM-L6-v2 frozen head,Hadoop,Python Developer,1,1
+SBERT-MiniLM-L6-v2 frozen head,Health and fitness,Advocate,1,0
+SBERT-MiniLM-L6-v2 frozen head,Health and fitness,Data Science,1,0
+SBERT-MiniLM-L6-v2 frozen head,Health and fitness,Database,1,0
+SBERT-MiniLM-L6-v2 frozen head,Health and fitness,Sales,1,0
+SBERT-MiniLM-L6-v2 frozen head,Java Developer,Hadoop,0,1
+SBERT-MiniLM-L6-v2 frozen head,Java Developer,Health and fitness,0,1
+SBERT-MiniLM-L6-v2 frozen head,Java Developer,SAP Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Java Developer,Testing,0,1
+SBERT-MiniLM-L6-v2 frozen head,Mechanical Engineer,Automation Testing,1,0
+SBERT-MiniLM-L6-v2 frozen head,Mechanical Engineer,Database,1,0
+SBERT-MiniLM-L6-v2 frozen head,Network Security Engineer,Data Science,0,1
+SBERT-MiniLM-L6-v2 frozen head,Network Security Engineer,DotNet Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Network Security Engineer,Health and fitness,1,0
+SBERT-MiniLM-L6-v2 frozen head,Network Security Engineer,Java Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Operations Manager,Civil Engineer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Operations Manager,Electrical Engineering,0,1
+SBERT-MiniLM-L6-v2 frozen head,Operations Manager,PMO,0,1
+SBERT-MiniLM-L6-v2 frozen head,Operations Manager,SAP Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,PMO,ETL Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,PMO,Network Security Engineer,0,1
+SBERT-MiniLM-L6-v2 frozen head,PMO,SAP Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Python Developer,Data Science,1,1
+SBERT-MiniLM-L6-v2 frozen head,Python Developer,ETL Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Python Developer,Hadoop,0,1
+SBERT-MiniLM-L6-v2 frozen head,SAP Developer,Business Analyst,0,1
+SBERT-MiniLM-L6-v2 frozen head,SAP Developer,Data Science,0,1
+SBERT-MiniLM-L6-v2 frozen head,SAP Developer,DevOps Engineer,0,1
+SBERT-MiniLM-L6-v2 frozen head,SAP Developer,Java Developer,1,1
+SBERT-MiniLM-L6-v2 frozen head,SAP Developer,Operations Manager,0,1
+SBERT-MiniLM-L6-v2 frozen head,SAP Developer,Testing,0,1
+SBERT-MiniLM-L6-v2 frozen head,Sales,Arts,1,0
+SBERT-MiniLM-L6-v2 frozen head,Sales,Business Analyst,0,2
+SBERT-MiniLM-L6-v2 frozen head,Sales,Civil Engineer,0,2
+SBERT-MiniLM-L6-v2 frozen head,Sales,Data Science,0,1
+SBERT-MiniLM-L6-v2 frozen head,Sales,DotNet Developer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Testing,Network Security Engineer,0,1
+SBERT-MiniLM-L6-v2 frozen head,Web Designing,DotNet Developer,1,0
+SBERT-MiniLM-L6-v2 frozen head,Web Designing,Network Security Engineer,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Advocate,Arts,2,0
+SBERT-mpnet-base-v2 fine-tuned head,Advocate,Business Analyst,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Advocate,Data Science,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Advocate,DevOps Engineer,2,0
+SBERT-mpnet-base-v2 fine-tuned head,Advocate,DotNet Developer,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Advocate,Electrical Engineering,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Advocate,Java Developer,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Advocate,Operations Manager,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Advocate,Python Developer,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Advocate,Testing,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Arts,Advocate,3,0
+SBERT-mpnet-base-v2 fine-tuned head,Arts,Automation Testing,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Arts,Electrical Engineering,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Arts,Operations Manager,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Automation Testing,Python Developer,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Business Analyst,Automation Testing,0,1
+SBERT-mpnet-base-v2 fine-tuned head,Business Analyst,Database,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Business Analyst,Operations Manager,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Business Analyst,Testing,0,1
+SBERT-mpnet-base-v2 fine-tuned head,Data Science,Automation Testing,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Data Science,Operations Manager,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Data Science,Python Developer,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Database,Automation Testing,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Database,Blockchain,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Database,ETL Developer,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Database,Python Developer,1,0
+SBERT-mpnet-base-v2 fine-tuned head,DevOps Engineer,Advocate,1,0
+SBERT-mpnet-base-v2 fine-tuned head,DevOps Engineer,Arts,1,0
+SBERT-mpnet-base-v2 fine-tuned head,DevOps Engineer,DotNet Developer,0,1
+SBERT-mpnet-base-v2 fine-tuned head,DevOps Engineer,Testing,1,0
+SBERT-mpnet-base-v2 fine-tuned head,DotNet Developer,Business Analyst,1,0
+SBERT-mpnet-base-v2 fine-tuned head,DotNet Developer,ETL Developer,1,0
+SBERT-mpnet-base-v2 fine-tuned head,DotNet Developer,Hadoop,1,0
+SBERT-mpnet-base-v2 fine-tuned head,DotNet Developer,Web Designing,0,2
+SBERT-mpnet-base-v2 fine-tuned head,ETL Developer,DotNet Developer,1,0
+SBERT-mpnet-base-v2 fine-tuned head,ETL Developer,Java Developer,1,0
+SBERT-mpnet-base-v2 fine-tuned head,HR,Arts,1,0
+SBERT-mpnet-base-v2 fine-tuned head,HR,Database,1,0
+SBERT-mpnet-base-v2 fine-tuned head,HR,DevOps Engineer,3,0
+SBERT-mpnet-base-v2 fine-tuned head,HR,ETL Developer,0,1
+SBERT-mpnet-base-v2 fine-tuned head,HR,Java Developer,1,0
+SBERT-mpnet-base-v2 fine-tuned head,HR,Operations Manager,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Hadoop,Business Analyst,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Hadoop,Database,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Hadoop,DevOps Engineer,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Hadoop,DotNet Developer,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Hadoop,HR,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Hadoop,Java Developer,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Hadoop,Python Developer,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Health and fitness,Advocate,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Health and fitness,Data Science,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Health and fitness,Database,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Mechanical Engineer,Automation Testing,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Mechanical Engineer,Database,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Network Security Engineer,Health and fitness,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Operations Manager,Advocate,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Operations Manager,Electrical Engineering,0,1
+SBERT-mpnet-base-v2 fine-tuned head,Operations Manager,PMO,2,0
+SBERT-mpnet-base-v2 fine-tuned head,PMO,Business Analyst,2,0
+SBERT-mpnet-base-v2 fine-tuned head,Python Developer,Data Science,1,1
+SBERT-mpnet-base-v2 fine-tuned head,Python Developer,DotNet Developer,0,1
+SBERT-mpnet-base-v2 fine-tuned head,Python Developer,Java Developer,1,0
+SBERT-mpnet-base-v2 fine-tuned head,SAP Developer,Java Developer,1,1
+SBERT-mpnet-base-v2 fine-tuned head,Sales,Arts,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Sales,Health and fitness,1,0
+SBERT-mpnet-base-v2 fine-tuned head,Web Designing,Network Security Engineer,1,0
+SBERT-mpnet-base-v2 frozen head,Advocate,Arts,2,0
+SBERT-mpnet-base-v2 frozen head,Advocate,Business Analyst,1,1
+SBERT-mpnet-base-v2 frozen head,Advocate,Data Science,1,0
+SBERT-mpnet-base-v2 frozen head,Advocate,DevOps Engineer,2,0
+SBERT-mpnet-base-v2 frozen head,Advocate,DotNet Developer,1,0
+SBERT-mpnet-base-v2 frozen head,Advocate,Electrical Engineering,1,0
+SBERT-mpnet-base-v2 frozen head,Advocate,Java Developer,1,0
+SBERT-mpnet-base-v2 frozen head,Advocate,Operations Manager,1,0
+SBERT-mpnet-base-v2 frozen head,Advocate,Python Developer,1,0
+SBERT-mpnet-base-v2 frozen head,Advocate,Testing,1,0
+SBERT-mpnet-base-v2 frozen head,Arts,Advocate,3,0
+SBERT-mpnet-base-v2 frozen head,Arts,Automation Testing,1,0
+SBERT-mpnet-base-v2 frozen head,Arts,Operations Manager,1,0
+SBERT-mpnet-base-v2 frozen head,Automation Testing,Database,0,1
+SBERT-mpnet-base-v2 frozen head,Automation Testing,Java Developer,0,1
+SBERT-mpnet-base-v2 frozen head,Automation Testing,Python Developer,0,1
+SBERT-mpnet-base-v2 frozen head,Automation Testing,Web Designing,0,1
+SBERT-mpnet-base-v2 frozen head,Blockchain,Sales,0,1
+SBERT-mpnet-base-v2 frozen head,Business Analyst,Automation Testing,1,0
+SBERT-mpnet-base-v2 frozen head,Business Analyst,Database,1,0
+SBERT-mpnet-base-v2 frozen head,Business Analyst,DevOps Engineer,0,1
+SBERT-mpnet-base-v2 frozen head,Business Analyst,ETL Developer,0,2
+SBERT-mpnet-base-v2 frozen head,Business Analyst,Hadoop,0,1
+SBERT-mpnet-base-v2 frozen head,Business Analyst,Operations Manager,1,1
+SBERT-mpnet-base-v2 frozen head,Business Analyst,Python Developer,0,2
+SBERT-mpnet-base-v2 frozen head,Civil Engineer,DevOps Engineer,0,1
+SBERT-mpnet-base-v2 frozen head,Civil Engineer,Java Developer,0,1
+SBERT-mpnet-base-v2 frozen head,Civil Engineer,Mechanical Engineer,0,1
+SBERT-mpnet-base-v2 frozen head,Civil Engineer,Network Security Engineer,0,1
+SBERT-mpnet-base-v2 frozen head,Data Science,Automation Testing,1,0
+SBERT-mpnet-base-v2 frozen head,Data Science,Database,1,1
+SBERT-mpnet-base-v2 frozen head,Data Science,DotNet Developer,0,1
+SBERT-mpnet-base-v2 frozen head,Data Science,HR,0,1
+SBERT-mpnet-base-v2 frozen head,Data Science,Operations Manager,1,0
+SBERT-mpnet-base-v2 frozen head,Data Science,Python Developer,0,1
+SBERT-mpnet-base-v2 frozen head,Data Science,Testing,0,1
+SBERT-mpnet-base-v2 frozen head,Database,Automation Testing,1,0
+SBERT-mpnet-base-v2 frozen head,Database,Blockchain,1,0
+SBERT-mpnet-base-v2 frozen head,Database,Business Analyst,0,2
+SBERT-mpnet-base-v2 frozen head,Database,Network Security Engineer,0,1
+SBERT-mpnet-base-v2 frozen head,Database,Python Developer,1,0
+SBERT-mpnet-base-v2 frozen head,Database,Web Designing,0,1
+SBERT-mpnet-base-v2 frozen head,DevOps Engineer,Advocate,1,0
+SBERT-mpnet-base-v2 frozen head,DevOps Engineer,Arts,1,0
+SBERT-mpnet-base-v2 frozen head,DevOps Engineer,Business Analyst,0,1
+SBERT-mpnet-base-v2 frozen head,DevOps Engineer,DotNet Developer,0,2
+SBERT-mpnet-base-v2 frozen head,DevOps Engineer,Java Developer,0,1
+SBERT-mpnet-base-v2 frozen head,DevOps Engineer,Network Security Engineer,0,1
+SBERT-mpnet-base-v2 frozen head,DevOps Engineer,PMO,0,1
+SBERT-mpnet-base-v2 frozen head,DevOps Engineer,Python Developer,0,1
+SBERT-mpnet-base-v2 frozen head,DevOps Engineer,SAP Developer,0,1
+SBERT-mpnet-base-v2 frozen head,DotNet Developer,DevOps Engineer,0,1
+SBERT-mpnet-base-v2 frozen head,DotNet Developer,Electrical Engineering,0,1
+SBERT-mpnet-base-v2 frozen head,DotNet Developer,Java Developer,1,1
+SBERT-mpnet-base-v2 frozen head,DotNet Developer,PMO,0,1
+SBERT-mpnet-base-v2 frozen head,DotNet Developer,Testing,0,2
+SBERT-mpnet-base-v2 frozen head,DotNet Developer,Web Designing,0,1
+SBERT-mpnet-base-v2 frozen head,ETL Developer,DotNet Developer,1,0
+SBERT-mpnet-base-v2 frozen head,ETL Developer,Java Developer,1,0
+SBERT-mpnet-base-v2 frozen head,Electrical Engineering,Business Analyst,0,1
+SBERT-mpnet-base-v2 frozen head,Electrical Engineering,DevOps Engineer,0,1
+SBERT-mpnet-base-v2 frozen head,Electrical Engineering,Java Developer,0,1
+SBERT-mpnet-base-v2 frozen head,HR,Arts,1,0
+SBERT-mpnet-base-v2 frozen head,HR,Business Analyst,0,2
+SBERT-mpnet-base-v2 frozen head,HR,Database,1,0
+SBERT-mpnet-base-v2 frozen head,HR,DevOps Engineer,2,0
+SBERT-mpnet-base-v2 frozen head,HR,ETL Developer,0,1
+SBERT-mpnet-base-v2 frozen head,HR,Hadoop,0,1
+SBERT-mpnet-base-v2 frozen head,HR,Java Developer,0,1
+SBERT-mpnet-base-v2 frozen head,HR,Operations Manager,1,0
+SBERT-mpnet-base-v2 frozen head,HR,PMO,0,2
+SBERT-mpnet-base-v2 frozen head,HR,SAP Developer,0,2
+SBERT-mpnet-base-v2 frozen head,Hadoop,Data Science,1,0
+SBERT-mpnet-base-v2 frozen head,Hadoop,Database,1,0
+SBERT-mpnet-base-v2 frozen head,Hadoop,ETL Developer,0,1
+SBERT-mpnet-base-v2 frozen head,Hadoop,HR,1,0
+SBERT-mpnet-base-v2 frozen head,Hadoop,Java Developer,1,0
+SBERT-mpnet-base-v2 frozen head,Hadoop,Python Developer,1,1
+SBERT-mpnet-base-v2 frozen head,Health and fitness,Advocate,1,0
+SBERT-mpnet-base-v2 frozen head,Health and fitness,Data Science,1,0
+SBERT-mpnet-base-v2 frozen head,Health and fitness,Database,1,0
+SBERT-mpnet-base-v2 frozen head,Health and fitness,Sales,1,0
+SBERT-mpnet-base-v2 frozen head,Java Developer,PMO,0,1
+SBERT-mpnet-base-v2 frozen head,Java Developer,SAP Developer,0,1
+SBERT-mpnet-base-v2 frozen head,Mechanical Engineer,Automation Testing,1,0
+SBERT-mpnet-base-v2 frozen head,Mechanical Engineer,Database,1,1
+SBERT-mpnet-base-v2 frozen head,Mechanical Engineer,Network Security Engineer,0,1
+SBERT-mpnet-base-v2 frozen head,Mechanical Engineer,Python Developer,0,1
+SBERT-mpnet-base-v2 frozen head,Mechanical Engineer,SAP Developer,0,1
+SBERT-mpnet-base-v2 frozen head,Network Security Engineer,DotNet Developer,0,1
+SBERT-mpnet-base-v2 frozen head,Network Security Engineer,Health and fitness,1,0
+SBERT-mpnet-base-v2 frozen head,Network Security Engineer,Java Developer,0,1
+SBERT-mpnet-base-v2 frozen head,Network Security Engineer,Web Designing,0,1
+SBERT-mpnet-base-v2 frozen head,Operations Manager,ETL Developer,0,1
+SBERT-mpnet-base-v2 frozen head,Operations Manager,Electrical Engineering,0,1
+SBERT-mpnet-base-v2 frozen head,Operations Manager,Mechanical Engineer,0,1
+SBERT-mpnet-base-v2 frozen head,Operations Manager,PMO,1,1
+SBERT-mpnet-base-v2 frozen head,Operations Manager,SAP Developer,0,1
+SBERT-mpnet-base-v2 frozen head,PMO,ETL Developer,0,1
+SBERT-mpnet-base-v2 frozen head,PMO,SAP Developer,0,1
+SBERT-mpnet-base-v2 frozen head,Python Developer,Data Science,0,1
+SBERT-mpnet-base-v2 frozen head,Python Developer,DevOps Engineer,0,1
+SBERT-mpnet-base-v2 frozen head,Python Developer,DotNet Developer,0,2
+SBERT-mpnet-base-v2 frozen head,Python Developer,ETL Developer,0,1
+SBERT-mpnet-base-v2 frozen head,Python Developer,Hadoop,0,1
+SBERT-mpnet-base-v2 frozen head,SAP Developer,Business Analyst,0,1
+SBERT-mpnet-base-v2 frozen head,SAP Developer,Data Science,0,1
+SBERT-mpnet-base-v2 frozen head,SAP Developer,Java Developer,0,1
+SBERT-mpnet-base-v2 frozen head,SAP Developer,Operations Manager,0,1
+SBERT-mpnet-base-v2 frozen head,SAP Developer,Testing,0,1
+SBERT-mpnet-base-v2 frozen head,Sales,Arts,1,0
+SBERT-mpnet-base-v2 frozen head,Sales,Business Analyst,0,1
+SBERT-mpnet-base-v2 frozen head,Sales,Civil Engineer,0,1
+SBERT-mpnet-base-v2 frozen head,Sales,DotNet Developer,0,1
+SBERT-mpnet-base-v2 frozen head,Sales,Testing,0,1
+SBERT-mpnet-base-v2 frozen head,Testing,Operations Manager,0,1
+SBERT-mpnet-base-v2 frozen head,Web Designing,Network Security Engineer,1,0

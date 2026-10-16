@@ -1,0 +1,9 @@
+model,kind,SBERT only,TF-IDF only
+SBERT-MiniLM-L6-v2 fine-tuned head,positive pair,49,22
+SBERT-MiniLM-L6-v2 fine-tuned head,random_other_category,58,25
+SBERT-MiniLM-L6-v2 frozen head,positive pair,41,44
+SBERT-MiniLM-L6-v2 frozen head,random_other_category,53,94
+SBERT-mpnet-base-v2 fine-tuned head,positive pair,53,16
+SBERT-mpnet-base-v2 fine-tuned head,random_other_category,67,10
+SBERT-mpnet-base-v2 frozen head,positive pair,41,35
+SBERT-mpnet-base-v2 frozen head,random_other_category,51,87

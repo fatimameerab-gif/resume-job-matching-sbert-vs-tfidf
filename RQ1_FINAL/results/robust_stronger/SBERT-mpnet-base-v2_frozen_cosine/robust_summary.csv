@@ -1,0 +1,25 @@
+model,kind,param,side,acc_clean,dacc,dacc_sd,flip,flip_sd,dscore_z,dhit1,dmrr,dmrr_sd,resumes_changed,jobs_changed,n_cells
+SBERT-mpnet-base-v2 frozen cosine,esco_all,0.5,both,0.7453,0.0039,0.0099,0.03,0.0136,0.1021,0.0028,0.0032,0.0113,0.9272,0.8488,50
+SBERT-mpnet-base-v2 frozen cosine,esco_all,0.5,job_only,0.7453,0.0085,0.0091,0.0139,0.0086,0.0543,0.0028,0.0023,0.0124,0.0,0.8488,50
+SBERT-mpnet-base-v2 frozen cosine,esco_all,0.5,resume_only,0.7453,-0.0013,0.0096,0.0203,0.0124,0.0714,-0.0024,0.0013,0.0075,0.9272,0.0,50
+SBERT-mpnet-base-v2 frozen cosine,esco_all,1.0,both,0.7453,0.0044,0.0147,0.0423,0.0143,0.1515,-0.0004,0.0025,0.0163,0.968,0.9541,50
+SBERT-mpnet-base-v2 frozen cosine,esco_all,1.0,job_only,0.7453,0.0077,0.0132,0.0269,0.0102,0.0879,-0.0024,-0.001,0.0094,0.0,0.9541,50
+SBERT-mpnet-base-v2 frozen cosine,esco_all,1.0,resume_only,0.7453,-0.0007,0.0094,0.0244,0.015,0.1069,0.0008,0.0033,0.0108,0.968,0.0,50
+SBERT-mpnet-base-v2 frozen cosine,esco_multiword,0.5,both,0.7453,0.0012,0.0082,0.0116,0.0089,0.046,0.0024,0.0025,0.0107,0.6832,0.5517,50
+SBERT-mpnet-base-v2 frozen cosine,esco_multiword,0.5,job_only,0.7453,0.0037,0.0056,0.0048,0.0057,0.0229,-0.0024,-0.0009,0.0077,0.0,0.5517,50
+SBERT-mpnet-base-v2 frozen cosine,esco_multiword,0.5,resume_only,0.7453,-0.0013,0.0071,0.0088,0.0073,0.029,0.0012,0.0021,0.0057,0.6832,0.0,50
+SBERT-mpnet-base-v2 frozen cosine,esco_multiword,1.0,both,0.7453,0.0008,0.0099,0.0163,0.0084,0.0716,0.0088,0.0057,0.0147,0.792,0.7334,50
+SBERT-mpnet-base-v2 frozen cosine,esco_multiword,1.0,job_only,0.7453,0.0056,0.0064,0.0099,0.0075,0.0417,0.0008,0.0005,0.0094,0.0,0.7334,50
+SBERT-mpnet-base-v2 frozen cosine,esco_multiword,1.0,resume_only,0.7453,-0.0039,0.009,0.0116,0.0081,0.0423,0.0036,0.0038,0.0091,0.792,0.0,50
+SBERT-mpnet-base-v2 frozen cosine,reorder,1.0,both,0.7453,0.0024,0.0169,0.0781,0.0282,0.2449,-0.01,-0.0036,0.0185,0.8592,0.8241,50
+SBERT-mpnet-base-v2 frozen cosine,reorder,1.0,job_only,0.7453,0.0007,0.0139,0.0388,0.0142,0.1086,-0.0132,-0.0041,0.0156,0.0,0.8241,50
+SBERT-mpnet-base-v2 frozen cosine,reorder,1.0,resume_only,0.7453,0.0019,0.0206,0.0624,0.0263,0.1981,-0.0028,-0.0009,0.0125,0.8592,0.0,50
+SBERT-mpnet-base-v2 frozen cosine,typo,0.05,both,0.7453,-0.0024,0.0134,0.0384,0.0171,0.1231,-0.0088,-0.0027,0.0137,0.9652,0.929,50
+SBERT-mpnet-base-v2 frozen cosine,typo,0.05,job_only,0.7453,-0.0,0.012,0.0272,0.0139,0.0881,-0.0092,-0.0032,0.014,0.0,0.929,50
+SBERT-mpnet-base-v2 frozen cosine,typo,0.05,resume_only,0.7453,-0.0025,0.009,0.0228,0.0154,0.0746,-0.0084,-0.0025,0.0118,0.9652,0.0,50
+SBERT-mpnet-base-v2 frozen cosine,typo,0.1,both,0.7453,-0.0076,0.0216,0.0631,0.0185,0.1899,-0.0204,-0.0084,0.0163,0.99,0.9787,50
+SBERT-mpnet-base-v2 frozen cosine,typo,0.1,job_only,0.7453,-0.0001,0.0162,0.0473,0.0192,0.1474,-0.016,-0.0067,0.0144,0.0,0.9787,50
+SBERT-mpnet-base-v2 frozen cosine,typo,0.1,resume_only,0.7453,-0.0064,0.0113,0.0339,0.015,0.1056,-0.01,-0.0026,0.0145,0.99,0.0,50
+SBERT-mpnet-base-v2 frozen cosine,typo,0.2,both,0.7453,-0.0224,0.0286,0.1029,0.0235,0.2945,-0.0268,-0.0121,0.018,0.9968,0.995,50
+SBERT-mpnet-base-v2 frozen cosine,typo,0.2,job_only,0.7453,-0.0099,0.0233,0.08,0.022,0.2356,-0.024,-0.0107,0.0179,0.0,0.995,50
+SBERT-mpnet-base-v2 frozen cosine,typo,0.2,resume_only,0.7453,-0.0055,0.017,0.0428,0.0188,0.1429,-0.0092,-0.0022,0.0161,0.9968,0.0,50

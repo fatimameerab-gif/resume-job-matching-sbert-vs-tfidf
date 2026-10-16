@@ -1,0 +1,2 @@
+representation,metric,n_blocks,n_classifiers,friedman_chi2,friedman_p,nemenyi_cd
+SBERT-mpnet-base-v2,mrr,5,8,24.27007299270073,0.0010212470707732962,4.695416703894232

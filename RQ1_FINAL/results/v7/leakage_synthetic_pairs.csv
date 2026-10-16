@@ -1,0 +1,5 @@
+dataset,split_a,split_b,resume_id_overlap,resume_text_overlap,job_id_overlap,job_text_overlap,n_pairs_a,n_pairs_b,n_unique_job_ids,n_unique_job_texts,job_ids_minus_unique_texts,note
+synthetic_pairs_v2,test,train,0,0,25,25,75.0,348.0,,,,
+synthetic_pairs_v2,test,val,0,0,11,11,75.0,75.0,,,,
+synthetic_pairs_v2,train,val,0,0,25,25,348.0,75.0,,,,
+synthetic_pairs_v2,ALL,ALL,0,0,0,0,,,329.0,326.0,3.0,"job_id is assigned after dedup on (text_clean, mapped_category); identical text with two categories counts as two job_ids."

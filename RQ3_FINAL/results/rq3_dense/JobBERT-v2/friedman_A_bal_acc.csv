@@ -1,0 +1,2 @@
+representation,metric,n_blocks,n_classifiers,friedman_chi2,friedman_p,nemenyi_cd
+JobBERT-v2,bal_acc,5,8,23.350364963503644,0.0014808381672566447,4.695416703894232

@@ -1,0 +1,12 @@
+model,job_source,SBERT only,TF-IDF only
+SBERT-MiniLM-L6-v2 fine-tuned head,esco,25,5
+SBERT-MiniLM-L6-v2 fine-tuned head,kaggle_672,0,1
+SBERT-MiniLM-L6-v2 fine-tuned head,seek_australia,32,15
+SBERT-MiniLM-L6-v2 frozen head,esco,24,10
+SBERT-MiniLM-L6-v2 frozen head,kaggle_672,0,1
+SBERT-MiniLM-L6-v2 frozen head,seek_australia,26,60
+SBERT-mpnet-base-v2 fine-tuned head,esco,29,5
+SBERT-mpnet-base-v2 fine-tuned head,seek_australia,34,7
+SBERT-mpnet-base-v2 frozen head,esco,26,10
+SBERT-mpnet-base-v2 frozen head,kaggle_672,0,1
+SBERT-mpnet-base-v2 frozen head,seek_australia,21,55

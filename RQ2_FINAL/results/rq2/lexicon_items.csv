@@ -1,0 +1,132 @@
+item_id,direction,original,replacement,in_main_lexicon,rater1_preserved,rater2_preserved,both_preserved
+R001,abbr_to_full,,support vector machine,1,1,1,1
+R002,abbr_to_full,,return on investment,1,1,1,1
+R003,full_to_abbr,,ai,1,1,1,1
+R004,full_to_abbr,,sdlc,1,1,1,1
+R005,abbr_to_full,,search engine optimization,1,1,1,1
+R006,abbr_to_full,,programmable logic controller,1,1,1,1
+R007,abbr_to_full,,business intelligence,0,1,1,1
+R008,abbr_to_full,,supervisory control and data acquisition,1,1,1,1
+R009,abbr_to_full,,microsoft word,1,1,1,1
+R010,abbr_to_full,,database,1,1,1,1
+R011,full_to_abbr,,ml,0,1,1,1
+R012,abbr_to_full,,natural language processing,1,1,1,1
+R013,abbr_to_full,,enterprise resource planning,1,1,1,1
+R014,full_to_abbr,,gcp,1,1,1,1
+R015,abbr_to_full,,application programming interface,1,1,1,1
+R016,abbr_to_full,,extract transform load,1,1,1,1
+R017,full_to_abbr,,crm,1,1,1,1
+R018,full_to_abbr,,nlp,1,1,1,1
+R019,abbr_to_full,,microsoft office,1,1,1,1
+R020,abbr_to_full,,microsoft word,1,1,1,1
+R021,abbr_to_full,,customer relationship management,1,1,1,1
+R022,abbr_to_full,,machine learning,0,1,1,1
+R023,abbr_to_full,,quality assurance,1,1,1,1
+R024,abbr_to_full,,customer relationship management,1,1,1,1
+R025,abbr_to_full,,user interface,1,1,1,1
+R026,abbr_to_full,,key performance indicator,1,1,1,1
+R027,full_to_abbr,,tf,0,1,0,0
+R028,full_to_abbr,,bi,0,1,1,1
+R029,abbr_to_full,,graphical user interface,1,1,1,1
+R030,abbr_to_full,,tensorflow,0,0,0,0
+R031,full_to_abbr,,ms office,1,1,1,1
+R032,full_to_abbr,,k8s,1,1,1,1
+R033,abbr_to_full,,scikit-learn,1,1,1,1
+R034,abbr_to_full,,continuous integration,0,1,1,1
+R035,full_to_abbr,,db,1,1,1,1
+R036,abbr_to_full,,relational database management system,1,1,1,1
+R037,abbr_to_full,,artificial intelligence,1,1,1,1
+R038,full_to_abbr,,nlp,1,1,1,1
+R039,full_to_abbr,,ux,1,1,1,1
+R040,full_to_abbr,,ms office,1,1,1,1
+R041,abbr_to_full,,microsoft office,1,1,1,1
+R042,abbr_to_full,,business intelligence,0,1,1,1
+R043,abbr_to_full,,natural language processing,1,1,1,1
+R044,full_to_abbr,,gcp,1,1,1,1
+R045,abbr_to_full,,javascript,1,0,1,0
+R046,full_to_abbr,,db,1,1,1,1
+R047,abbr_to_full,,business to business,1,1,1,1
+R048,full_to_abbr,,ci,0,1,1,1
+R049,full_to_abbr,,dl,0,1,1,1
+R050,full_to_abbr,,svm,1,1,1,1
+R051,abbr_to_full,,user experience,1,1,1,1
+R052,abbr_to_full,,management information system,0,1,1,1
+R053,abbr_to_full,,database management system,1,1,1,1
+R054,full_to_abbr,,qa,1,1,1,1
+R055,abbr_to_full,,application programming interface,1,1,1,1
+R056,full_to_abbr,,crm,1,1,1,1
+R057,full_to_abbr,,js,1,1,1,1
+R058,full_to_abbr,,js,1,1,1,1
+R059,full_to_abbr,,tf,0,1,0,0
+R060,abbr_to_full,,amazon web services,1,1,0,0
+R061,full_to_abbr,,dbms,1,1,1,1
+R062,abbr_to_full,,return on investment,1,1,1,1
+R063,abbr_to_full,,internet of things,1,1,1,1
+R064,abbr_to_full,,object oriented programming,1,1,1,1
+R065,full_to_abbr,,dbms,1,1,1,1
+R066,full_to_abbr,,aws,1,1,1,1
+R067,abbr_to_full,,amazon web services,1,1,1,1
+R068,abbr_to_full,,google cloud platform,1,1,1,1
+R069,abbr_to_full,,database management system,1,1,1,1
+R070,abbr_to_full,,microsoft excel,1,1,1,1
+R071,abbr_to_full,,google cloud platform,1,1,1,1
+R072,abbr_to_full,,javascript,1,0,1,0
+R073,full_to_abbr,,aws,1,1,1,1
+R074,full_to_abbr,,sdlc,1,1,1,1
+R075,abbr_to_full,,internet of things,1,1,1,1
+R076,abbr_to_full,,supervisory control and data acquisition,1,1,1,1
+R077,abbr_to_full,,management information system,0,1,1,1
+R078,abbr_to_full,,object oriented programming,1,1,1,1
+R079,abbr_to_full,,machine learning,0,1,1,1
+R080,abbr_to_full,,virtual private network,1,1,1,1
+R081,abbr_to_full,,quality assurance,1,1,1,1
+R082,abbr_to_full,,user experience,1,1,1,1
+R083,abbr_to_full,,heating ventilation and air conditioning,1,1,1,1
+R084,full_to_abbr,,postgres,1,1,1,1
+R085,abbr_to_full,,software development life cycle,1,1,1,1
+R086,full_to_abbr,,oop,1,1,1,1
+R087,full_to_abbr,,oop,1,1,1,1
+R088,abbr_to_full,,heating ventilation and air conditioning,1,1,1,1
+R089,full_to_abbr,,postgres,1,1,1,1
+R090,abbr_to_full,,artificial intelligence,1,1,1,1
+R091,full_to_abbr,,ai,1,1,1,1
+R092,abbr_to_full,,computer aided design,0,1,1,1
+R093,abbr_to_full,,programmable logic controller,1,1,1,1
+R094,abbr_to_full,,user interface,1,1,1,1
+R095,full_to_abbr,,qa,1,1,1,1
+R096,full_to_abbr,,ms excel,1,1,1,1
+R097,abbr_to_full,,continuous integration,0,1,1,1
+R098,full_to_abbr,,etl,1,1,1,1
+R099,full_to_abbr,,ml,0,1,1,1
+R100,abbr_to_full,,postgresql,1,1,1,1
+R101,full_to_abbr,,ms word,1,1,1,1
+R102,abbr_to_full,,computer aided design,0,0,0,0
+R103,full_to_abbr,,ux,1,1,1,1
+R104,abbr_to_full,,search engine optimization,1,1,1,1
+R105,abbr_to_full,,convolutional neural network,0,1,1,1
+R106,abbr_to_full,,database,1,1,1,1
+R107,abbr_to_full,,microsoft excel,1,1,1,1
+R108,full_to_abbr,,ms word,1,1,1,1
+R109,full_to_abbr,,erp,1,1,1,1
+R110,abbr_to_full,,relational database management system,1,1,1,1
+R111,full_to_abbr,,bi,0,1,1,1
+R112,abbr_to_full,,key performance indicator,1,1,0,0
+R113,full_to_abbr,,ui,1,1,1,1
+R114,abbr_to_full,,business to business,1,1,1,1
+R115,abbr_to_full,,software development life cycle,1,1,1,1
+R116,abbr_to_full,,scikit-learn,1,1,1,1
+R117,full_to_abbr,,roi,1,1,1,1
+R118,full_to_abbr,,svm,1,1,1,1
+R119,abbr_to_full,,postgresql,1,1,1,1
+R120,full_to_abbr,,dl,0,1,1,1
+R121,abbr_to_full,,virtual private network,1,1,1,1
+R122,full_to_abbr,,ci,0,1,1,1
+R123,abbr_to_full,,enterprise resource planning,1,1,1,1
+R124,full_to_abbr,,ms excel,1,1,1,1
+R125,abbr_to_full,,support vector machine,1,1,1,1
+R126,full_to_abbr,,ui,1,1,1,1
+R127,full_to_abbr,,iot,1,1,1,1
+R128,full_to_abbr,,k8s,1,1,1,1
+R129,abbr_to_full,,graphical user interface,1,1,1,1
+R130,full_to_abbr,,erp,1,1,1,1
+R131,abbr_to_full,,extract transform load,1,1,1,1

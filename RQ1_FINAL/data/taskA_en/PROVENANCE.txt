@@ -1,0 +1,67 @@
+TaskA (data/taskA_en/) -- PROVENANCE            (revised 2026-09-30)
+Status legend: [DONE-owner] = done by the project owner (reported, not independently verified by the assistant)
+               [DONE-checked] = checked by the assistant against a primary source on 2026-09-30
+               [OPEN] = still needs a human
+
+1. Identified source                                                        [DONE-checked + DONE-owner]
+   TalentCLEF 2026, Task A "Contextualized Job-Person Matching", English DEVELOPMENT set.
+   - Overview paper, Table 1: Development / English / 10 queries / 472 corpus (Test: 40 queries / 476 corpus).
+     Gasco, L., et al. "Overview of the TalentCLEF 2026: Skill and Job Title Intelligence for Human Capital
+     Management." arXiv:2606.31692v1 (30 Jun 2026). https://arxiv.org/abs/2606.31692
+   - Repo check: 10 query files, 472 corpus files, qrels.tsv with 472 rows; 483 data files in total.
+   - [DONE-owner] All 483 files were compared by SHA-256 with the uploaded TalentCLEF 2026 Task A archive: all matched.
+     [OPEN] Record here: archive file name = ________, Zenodo version = ________, download date = ________.
+     Note: the Zenodo record's file listing shows the folder "corpus_elements/", this repo uses "corpus/";
+     hashes must have been compared per file content, not per path -- record the mapping you used.
+
+2. Dataset record and licence                                               [DONE-owner for licence]
+   Zenodo, "TalentCLEF 2026 corpus: Skill and Job Title Intelligence for Human Capital Management".
+   Concept DOI (cited by the overview paper for BOTH Task A and Task B): 10.5281/zenodo.17625261 (resolves to latest).
+   Version seen 2026-09-29: v0.3.0, DOI 10.5281/zenodo.19652670 -- [OPEN] confirm it is the version you hashed against.
+   That record page also announces the Task A/B TEST-set release (evaluation on Codabench); only the development
+   split is used in this project.
+   Licence on the record: Creative Commons Attribution 4.0 International (CC BY 4.0) -- confirmed by the owner.
+   Authors on the record: Gasco, Fabregat Marcos, Estrella, Garcia-Sardina, Carrino, Deniz, Zbib, Decorte, De Lange,
+   Veys, Rodrigo (Avature, TechWolf, UNED).
+   Obligations under CC BY 4.0 (credit, licence link, indicate changes): see ../../NOTICE.md.
+
+3. Nature of the data (how the paper must describe it)                     [DONE-checked]
+   Primary sources agree:
+   - Overview paper Sec. 2.1 / 2.1.1: a "manually-annotated synthetic corpus"; both partitions were synthetically
+     generated, guided by statistical evidence on job-skill co-occurrence extracted from REAL resumes and job
+     descriptions in an internal database (footnote: real data was used for generation; the statistical evidence was
+     manually reviewed to avoid data leakage); candidate-job pairs were reviewed and manually annotated by expert annotators.
+   - Lab description paper (ECIR 2026, arXiv:2607.20009): documents are synthetically generated from structured data
+     originally derived from real job descriptions and resumes, to be realistic while preserving privacy.
+   => Correct wording: "human-annotated, synthetically generated corpus (guided by statistics from real-world data)".
+      NOT "real postings/resumes", and NOT "purely synthetic with no real-data basis".
+   => TalentCLEF 2025 is a DIFFERENT dataset (job-TITLE matching, built from real anonymised applications per its
+      abstract). Do not reuse 2025 wording for the 2026 resume-job data, and do not cite 2025 as the source of this data.
+   Labels: qrels.tsv holds only relevance = 1 rows (472 rows, 420 distinct resumes). Pairs not listed are UNJUDGED.
+   [OPEN] Read the Task A extended overview for how unlisted pairs are scored, then state it (the project code treats
+   them as assumed-negative -- see taskA_loader.py; say so explicitly).
+
+4. Citations                                                                 [BibTeX must be copied from publisher pages]
+   (a) Dataset: Gasco, L., et al. TalentCLEF 2026 corpus. Zenodo. doi:10.5281/zenodo.17625261;
+       also give the version DOI you used + access date.
+   (b) Overview: Gasco, L., et al. Overview of the TalentCLEF 2026 ... arXiv:2606.31692 (only the arXiv preprint was
+       found on 2026-09-30; re-check for a CLEF/LNCS version at submission time).
+   (c) Task A extended overview: Fabregat, H., Garcia-Sardina, L., Estrella, P., Gasco, L., Carrino, C. P., Deniz Cerpa, D.,
+       Rodrigo, A., Zbib, R. (2026). Overview of TalentCLEF 2026: Task A -- Contextualized Job-Person Matching. CLEF Working
+       Notes. It is listed in the overview's references and holds the generation/annotation details. [OPEN] not found
+       online on 2026-09-30 -- cite once available.
+   (d) Optional: Gasco, L., et al. (2026). TalentCLEF at CLEF2026 ... ECIR 2026 (arXiv:2607.20009).
+
+5. Draft paper sentence (edit after the [OPEN] items are resolved)
+   "We use the English development split of TalentCLEF 2026 Task A (contextualized job-person matching) [dataset DOI;
+   overview; task overview]: 10 job descriptions (queries) and 472 resumes. The corpus was synthetically generated by
+   the organisers, guided by statistics from real-world resumes and job descriptions, and candidate-job pairs were
+   manually annotated by expert annotators. Only positive judgments are distributed; unlisted pairs are treated as
+   [non-relevant -- confirm]. The data are released under CC BY 4.0. Only the development split is used, so our scores are
+   not comparable with the official test-set leaderboard."
+
+6. Remaining checklist
+   [DONE-owner] 1 byte-identity (SHA-256, 483/483)     [OPEN] 2 record version + date
+   [DONE-owner] 3 licence read on record page          [DONE-checked] 4 "synthetic" + "manually annotated" wording
+   [DONE] 5 2025-vs-2026 distinction documented above  [OPEN] 6 CLEF 2026 participation/usage terms beyond the Zenodo
+   licence -- no such terms appeared in any source read on 2026-09-30, but the terms page itself was not read.

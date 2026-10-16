@@ -1,0 +1,59 @@
+Tran Linh
+linh.tran.2005@gmail.com | +84 903 456 789 | 45 Nguyen Hue Street, District 1, Ho Chi Minh City | linkedin.com/in/linhtrannguyen
+
+EDUCATION
+
+Bachelor of Science in Electrical Engineering
+Ho Chi Minh University of Technology, Ho Chi Minh City
+Expected Graduation: May 2026
+GPA: 3.7/4.0
+Relevant Coursework: Digital Systems Design, Embedded Systems, Circuit Analysis, Microcontroller Applications, VLSI Design, Computer Architecture
+
+WORK EXPERIENCE
+
+Product Engineer - Intern
+TechVision Electronics, Ho Chi Minh City
+June 2024 - Present
+
+• Design and verify printed circuit boards for IoT-enabled consumer electronics products, utilizing computer-aided design tools to optimize component placement and routing for manufacturability
+• Develop and execute comprehensive design verification test plans using SystemVerilog and Universal Verification Methodology, achieving 95% functional coverage on FPGA prototypes
+• Collaborate with cross-functional teams to identify and resolve bottlenecks in product development cycles, reducing time-to-market by 15% through process improvements
+• Implement fault injection testing frameworks to validate firmware robustness and hardware resilience under adverse conditions
+• Document design specifications, test procedures, and technical reports to support manufacturing transition and quality assurance processes
+
+Hardware Engineering Intern
+Innovate Systems Solutions, Hanoi
+May 2023 - August 2023
+
+• Assisted in the development of embedded systems prototypes using Arduino and custom microcontrollers for proof-of-concept demonstrations
+• Performed timing closure analysis on FPGA designs using Xilinx tools, resolving critical path violations to meet 100 MHz clock requirements
+• Conducted electronic assembly and testing of prototype boards, troubleshooting hardware issues and implementing design modifications
+• Utilized ModelSim for VHDL simulation and verification of digital logic designs, identifying and documenting bugs through systematic tracking processes
+• Supported data analysis efforts to evaluate product performance metrics and inform design optimization decisions
+
+TECHNICAL SKILLS
+
+Hardware Design: Printed Circuit Board Design, FPGA Development, Microcontrollers, Arduino, Electronic Assembly, Timing Closure
+HDL & Verification: SystemVerilog, VHDL, Universal Verification Methodology, Design Verification, ModelSim, Fault Injection
+Tools & Platforms: Xilinx, Computer-aided Design Tools, Bug Tracking Systems
+Programming: Python, Firmware Development
+Protocols & Interfaces: Asynchronous Serial Communication, Internet of Things
+Engineering Practices: Design Engineering, Product Design, Testing, Data Analysis, Model-based System Engineering
+
+PROJECTS
+
+Smart Home Automation System | Personal Project
+• Designed and implemented an IoT-based home automation system using Arduino microcontrollers and custom PCB design
+• Developed Python-based control software with asynchronous serial communication for device coordination
+• Integrated multiple sensors and actuators to create a functional prototype demonstrating remote monitoring capabilities
+
+FPGA-based Digital Signal Processor | Academic Project
+• Implemented a custom digital filter on Xilinx FPGA using VHDL, achieving real-time processing of audio signals
+• Performed comprehensive verification using SystemVerilog testbenches and achieved timing closure at 125 MHz
+• Documented complete design flow from specification through synthesis and hardware validation
+
+ACTIVITIES & CERTIFICATIONS
+
+Member, Institute of Electrical and Electronics Engineers (IEEE) Student Branch
+Participant, Hardware Hackathon 2024 - Finalist Team
+Certified: Introduction to Embedded Systems Design (Online Course)

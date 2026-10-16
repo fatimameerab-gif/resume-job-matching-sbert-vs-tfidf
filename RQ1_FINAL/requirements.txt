@@ -1,0 +1,33 @@
+# Pinned exact versions (review S3 point 14 / S4.12: TruncatedSVD's randomised
+# solver is version-dependent -- unpinned scikit-learn made the LSA number
+# non-reproducible, 0.653 saved vs 0.680 on scikit-learn 1.8). Reproduce this
+# project ONLY with these exact versions.
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+scipy==1.13.0
+sentence-transformers==2.7.0
+statsmodels==0.14.2
+rank-bm25==0.2.2
+gensim==4.3.3   # 4.3.2 is incompatible with scipy==1.13.0 (ImportError: triu); 4.3.3 fixes it
+matplotlib==3.8.4
+scikit-posthocs==0.9.0
+
+# torch/transformers are sentence-transformers' actual encoding/fine-tuning
+# engine (review S4.12: "requirements.txt doesn't pin torch/transformers,
+# so a re-run can silently get a different backend"). Versions below match
+# what sentence-transformers==2.7.0 was built/tested against; on Colab,
+# prefer whatever CUDA build the runtime ships (don't force-reinstall CPU
+# torch over Colab's own GPU build -- install the packages ABOVE this line
+# only, and leave torch/transformers/accelerate/datasets to Colab's
+# preinstalled versions, recording them via environment_freeze.txt instead
+# of pinning, since a GPU-build pin here would break local CPU-only runs).
+torch==2.3.0        # LOCAL/CPU runs only -- do not force this on Colab, see note above
+transformers==4.41.2  # ditto
+accelerate==0.30.1    # needed by newer sentence-transformers .fit() (Colab fine-tuning)
+datasets==2.19.1      # ditto
+
+# Record `pip freeze > results/environment_freeze.txt` alongside every
+# results run (review S4.12), so future re-runs can diagnose drift like the
+# LSA number above. A snapshot from the environment that produced the
+# current results/ folder is checked in at results/environment_freeze.txt.

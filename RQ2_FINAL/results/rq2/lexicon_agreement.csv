@@ -1,0 +1,2 @@
+n_items,raw_agreement,cohen_kappa,kappa_ci_low,kappa_ci_high,pabak,preserved_rater1,preserved_rater2,both_preserved,either_flagged,both_flagged,n_main_lexicon,main_both_preserved,n_extra_entries,extra_both_preserved
+131,0.9542,0.3772,-0.0235,0.7434,0.9084,0.9695,0.9542,123,8,2,109,105,22,18

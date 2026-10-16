@@ -1,0 +1,4 @@
+Thresholds / fusion weights were chosen on a validation split (by resume) of the training pairs, never on test.
+Fine-tuning: CosineSimilarityLoss on (resume, job, label), 3 epochs, batch 8, lr 2e-05; training texts are cut at 256 tokens (or the model limit if smaller), mixed precision, inference uses chunk pooling (ON).
+The 5 seeds re-use the same resumes: do NOT treat seed-level t-intervals as independent; use paired_vs_tfidf.csv per seed. Labels are weak (resume category == job category).
+RRF rows: the validation-chosen threshold does not transfer (RRF scores are rank-based and the validation and test sets differ in size), so use their AUC only, not their accuracy.

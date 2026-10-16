@@ -1,0 +1,16 @@
+MISMATCH pandas                 pinned=2.2.2      installed=3.0.2
+MISMATCH numpy                  pinned=1.26.4     installed=2.4.4
+MISMATCH scikit-learn           pinned=1.4.2      installed=1.8.0
+MISMATCH scipy                  pinned=1.13.0     installed=1.17.1
+MISMATCH sentence-transformers  pinned=2.7.0      installed=5.7.0
+MISMATCH statsmodels            pinned=0.14.2     installed=0.15.0
+OK       rank-bm25              pinned=0.2.2      installed=0.2.2
+MISMATCH gensim                 pinned=4.3.3      installed=4.4.0
+MISMATCH matplotlib             pinned=3.8.4      installed=3.10.9
+MISMATCH scikit-posthocs        pinned=0.9.0      installed=0.17.0
+MISMATCH torch                  pinned=2.3.0      installed=2.14.1
+MISMATCH transformers           pinned=4.41.2     installed=5.19.0
+MISMATCH accelerate             pinned=0.30.1     installed=NOT INSTALLED
+MISMATCH datasets               pinned=2.19.1     installed=NOT INSTALLED
+
+13 mismatch(es). Python 3.11.15

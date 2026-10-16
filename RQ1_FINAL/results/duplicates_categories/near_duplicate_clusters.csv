@@ -1,0 +1,5 @@
+kind,threshold,n_texts,n_clusters,texts_in_multi_member_clusters,largest_cluster
+resume TF-IDF,0.9,166,166,0,1
+resume mpnet,0.9,166,166,0,1
+job TF-IDF,0.9,751,731,36,3
+job mpnet,0.9,751,704,80,6

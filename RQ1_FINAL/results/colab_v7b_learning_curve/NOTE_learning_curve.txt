@@ -1,0 +1,2 @@
+Nested resume subsets per seed; thresholds chosen on a validation split of the SAME subset; test = full 150 pairs of the seed. Seeds share resumes -> seed SDs are descriptive only. Weak labels (category equality).
+Each model is compared with the TF-IDF head at the SAME fraction. 'Crossing point' = smallest fraction where fine-tuned > TF-IDF head by more than the seed SD.

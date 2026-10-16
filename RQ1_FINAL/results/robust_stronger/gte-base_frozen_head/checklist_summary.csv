@@ -1,0 +1,5 @@
+model,test,n_pairs,n_resumes,passes,pass_rate,ci_lo,ci_hi,pass_rate_fixed_tol_0p02,mean_dscore_z,tolerance
+gte-base frozen head,DIR_down_foreign,250,135,96,0.384,0.317,0.449,0.384,0.01,sign
+gte-base frozen head,DIR_up_copy_job,750,135,745,0.993,0.987,0.999,0.993,0.265,sign
+gte-base frozen head,INV_filler,750,135,618,0.824,0.77,0.874,0.989,0.039,0.1 x SD
+gte-base frozen head,INV_punct,750,135,430,0.573,0.527,0.624,0.984,0.003,0.1 x SD

@@ -1,0 +1,25 @@
+model,kind,param,side,acc_clean,dacc,dacc_sd,flip,flip_sd,dscore_z,dhit1,dmrr,dmrr_sd,resumes_changed,jobs_changed,n_cells
+SBERT-MiniLM-L6-v2 fine-tuned head,esco_all,0.5,both,0.8853,0.0024,0.0167,0.0288,0.0124,0.0802,-0.006,-0.0026,0.0143,0.9272,0.8488,50
+SBERT-MiniLM-L6-v2 fine-tuned head,esco_all,0.5,job_only,0.8853,-0.0003,0.012,0.0187,0.0081,0.0456,-0.0004,-0.0001,0.0121,0.0,0.8488,50
+SBERT-MiniLM-L6-v2 fine-tuned head,esco_all,0.5,resume_only,0.8853,0.0004,0.0114,0.0177,0.0081,0.0565,-0.0132,-0.006,0.0102,0.9272,0.0,50
+SBERT-MiniLM-L6-v2 fine-tuned head,esco_all,1.0,both,0.8853,-0.0007,0.0157,0.0423,0.0108,0.1227,-0.0004,0.0013,0.0143,0.968,0.9541,50
+SBERT-MiniLM-L6-v2 fine-tuned head,esco_all,1.0,job_only,0.8853,-0.0013,0.0126,0.0277,0.0103,0.0738,-0.0024,-0.0009,0.0145,0.0,0.9541,50
+SBERT-MiniLM-L6-v2 fine-tuned head,esco_all,1.0,resume_only,0.8853,0.0008,0.0152,0.0312,0.0092,0.0869,-0.006,-0.0018,0.0109,0.968,0.0,50
+SBERT-MiniLM-L6-v2 fine-tuned head,esco_multiword,0.5,both,0.8853,0.0015,0.0105,0.0105,0.0069,0.0322,-0.0092,-0.0043,0.0097,0.6832,0.5517,50
+SBERT-MiniLM-L6-v2 fine-tuned head,esco_multiword,0.5,job_only,0.8853,0.0019,0.0063,0.0069,0.0055,0.0183,-0.0104,-0.0051,0.0091,0.0,0.5517,50
+SBERT-MiniLM-L6-v2 fine-tuned head,esco_multiword,0.5,resume_only,0.8853,0.0016,0.0064,0.0051,0.005,0.0195,-0.0084,-0.0038,0.006,0.6832,0.0,50
+SBERT-MiniLM-L6-v2 fine-tuned head,esco_multiword,1.0,both,0.8853,0.0024,0.015,0.0163,0.0079,0.0516,-0.0076,-0.0032,0.0121,0.792,0.7334,50
+SBERT-MiniLM-L6-v2 fine-tuned head,esco_multiword,1.0,job_only,0.8853,0.0019,0.0087,0.0117,0.0051,0.0321,-0.0092,-0.0045,0.01,0.0,0.7334,50
+SBERT-MiniLM-L6-v2 fine-tuned head,esco_multiword,1.0,resume_only,0.8853,0.0039,0.0084,0.0073,0.0056,0.0326,-0.0072,-0.0029,0.0093,0.792,0.0,50
+SBERT-MiniLM-L6-v2 fine-tuned head,reorder,1.0,both,0.8853,0.0039,0.0109,0.034,0.0126,0.1098,0.0048,0.0037,0.0179,0.8592,0.8241,50
+SBERT-MiniLM-L6-v2 fine-tuned head,reorder,1.0,job_only,0.8853,0.0049,0.0107,0.0193,0.0095,0.0659,0.0056,0.0041,0.0138,0.0,0.8241,50
+SBERT-MiniLM-L6-v2 fine-tuned head,reorder,1.0,resume_only,0.8853,0.0025,0.0117,0.0215,0.0095,0.0727,-0.0,-0.0002,0.0171,0.8592,0.0,50
+SBERT-MiniLM-L6-v2 fine-tuned head,typo,0.05,both,0.8853,0.0043,0.0125,0.0224,0.0101,0.0738,-0.0056,-0.0023,0.0136,0.9652,0.929,50
+SBERT-MiniLM-L6-v2 fine-tuned head,typo,0.05,job_only,0.8853,0.0024,0.0127,0.0189,0.0088,0.0503,-0.0076,-0.0029,0.013,0.0,0.929,50
+SBERT-MiniLM-L6-v2 fine-tuned head,typo,0.05,resume_only,0.8853,0.0024,0.0101,0.016,0.0073,0.0468,-0.0024,-0.0014,0.01,0.9652,0.0,50
+SBERT-MiniLM-L6-v2 fine-tuned head,typo,0.1,both,0.8853,0.0012,0.0128,0.0316,0.0114,0.1066,-0.0052,-0.0019,0.0181,0.99,0.9787,50
+SBERT-MiniLM-L6-v2 fine-tuned head,typo,0.1,job_only,0.8853,0.0016,0.0119,0.0259,0.0107,0.0734,-0.0052,-0.0019,0.0142,0.0,0.9787,50
+SBERT-MiniLM-L6-v2 fine-tuned head,typo,0.1,resume_only,0.8853,0.0044,0.0122,0.0215,0.0087,0.0657,-0.0064,-0.0033,0.0164,0.99,0.0,50
+SBERT-MiniLM-L6-v2 fine-tuned head,typo,0.2,both,0.8853,-0.0117,0.0138,0.0472,0.019,0.156,-0.0088,-0.0045,0.016,0.9968,0.995,50
+SBERT-MiniLM-L6-v2 fine-tuned head,typo,0.2,job_only,0.8853,-0.0019,0.0144,0.0397,0.0112,0.1101,-0.0192,-0.0096,0.0155,0.0,0.995,50
+SBERT-MiniLM-L6-v2 fine-tuned head,typo,0.2,resume_only,0.8853,-0.0025,0.0119,0.0265,0.0134,0.0903,-0.0064,-0.0031,0.0164,0.9968,0.0,50

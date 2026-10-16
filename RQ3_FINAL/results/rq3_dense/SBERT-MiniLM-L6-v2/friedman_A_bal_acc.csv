@@ -1,0 +1,2 @@
+representation,metric,n_blocks,n_classifiers,friedman_chi2,friedman_p,nemenyi_cd
+SBERT-MiniLM-L6-v2,bal_acc,5,8,22.420289855072458,0.0021492687778913036,4.695416703894232

@@ -1,0 +1,73 @@
+Adekunle Kamara
+
+adekunle.kamara@email.com | +232 76 445 821 | 15 Wilkinson Road, Freetown | https://linkedin.com/in/adekunlekamara
+
+PROFESSIONAL SUMMARY
+
+Accomplished Staff Engineer with 12+ years of experience in embedded systems design, FPGA development, and hardware-software co-design. Proven expertise in architecting complex digital systems, from concept through production, with focus on signal processing, control systems, and cyber-physical systems. Strong background in VLSI design, firmware development, and real-time embedded applications across telecommunications and IoT domains.
+
+PROFESSIONAL EXPERIENCE
+
+Staff Engineer
+Nextel Technologies, Lagos, Nigeria
+January 2021 – Present
+
+• Lead architecture and design of FPGA-based signal processing systems for satellite communications applications, achieving 40% improvement in data throughput through optimized baseband processor implementations
+• Architect embedded control systems utilizing Kalman filtering algorithms for real-time telemetry processing, reducing latency by 35% and improving system reliability to 99.7% uptime
+• Direct cross-functional team of 8 engineers in development of ASIC designs for IoT applications, managing full lifecycle from RTL design through tape-out and production validation
+• Implement energy-efficient FPGA designs using Xilinx platforms, reducing power consumption by 28% while maintaining performance requirements for distributed sensor networks
+• Develop and maintain Verilog/VHDL codebases for VLSI implementations, establishing design patterns and reusable IP blocks that accelerated project delivery by 25%
+• Mentor junior engineers on design-for-test methodologies, FPGA design best practices, and embedded systems architecture
+
+Senior Embedded Systems Engineer
+Spectrum Communications Ltd, Accra, Ghana
+March 2017 – December 2020
+
+• Designed and implemented firmware for industrial control systems utilizing C++ and embedded Linux, supporting real-time control loops with sub-millisecond response times
+• Developed digital signal processing algorithms for baseband processors in satellite communication systems, optimizing data compression techniques to achieve 3:1 compression ratios
+• Created FPGA prototypes for ASIC validation, reducing design iteration cycles by 40% and identifying critical timing issues pre-silicon
+• Collaborated with software teams to implement hardware abstraction layers for Android-based embedded platforms, enabling rapid application development
+• Performed architectural design and system modeling using Simulink for cyber-physical systems, validating control system designs before hardware implementation
+• Led design-for-testing initiatives that improved test coverage from 72% to 94% and reduced post-production defect rates by 60%
+
+Embedded Systems Engineer
+Pinnacle Digital Systems, Dakar, Senegal
+June 2013 – February 2017
+
+• Developed embedded firmware for IoT devices using C++ and Linux, implementing efficient data storage mechanisms for resource-constrained environments
+• Designed FPGA-based prototypes for telecommunications equipment, focusing on energy efficiency and thermal management
+• Implemented distributed systems architecture for networked sensor applications, ensuring reliable data telemetry across unreliable communication channels
+• Created test frameworks and validation environments for embedded systems, improving testing efficiency by 45%
+• Contributed to architectural design reviews and participated in cross-functional design optimization efforts
+
+EDUCATION
+
+Master of Science in Electrical Engineering
+University of Cape Coast, Cape Coast, Ghana
+Graduated: May 2013
+Focus: VLSI Design and Embedded Systems
+
+Bachelor of Science in Electronics Engineering
+Fourah Bay College, Freetown, Sierra Leone
+Graduated: May 2011
+
+TECHNICAL SKILLS
+
+Hardware Design: FPGA Design, Verilog, VHDL, ASIC Design, VLSI, Xilinx Platforms, Design for Testing
+Embedded Systems: Firmware Development, Embedded Linux, Real-Time Systems, Baseband Processors, Digital Signal Processors
+Programming Languages: C++, Scala, Verilog, VHDL
+Signal Processing: Kalman Filtering, Digital Signal Processing, Data Compression, Telemetry
+Systems & Platforms: Simulink, Android, Distributed Systems, IoT
+Domains: Satellite Communications, Industrial Control Systems, Cyber-Physical Systems, Control Systems Design
+Other: Prototyping, Model Making, Machine Learning, Architectural Design, Software Design, Energy Efficiency
+
+ACHIEVEMENTS
+
+• Patent holder for novel FPGA-based signal processing architecture for satellite communications (Patent Pending)
+• Reduced product development cycle time by 30% through implementation of automated testing and validation frameworks
+• Recipient of Engineering Excellence Award at Nextel Technologies for outstanding contributions to ASIC design project (2022)
+
+PROFESSIONAL DEVELOPMENT
+
+• Xilinx Certified FPGA Developer
+• Member, IEEE Solid-State Circuits Society

@@ -1,0 +1,74 @@
+Wei Chen
+Shanghai, China
++86 138-2847-5963 | wei.chen.engineer@email.com
+https://github.com/weichen-eng
+
+PROFESSIONAL SUMMARY
+
+Results-driven Associate Product/Test Engineer with hands-on experience in product validation, test development, and quality assurance. Proven ability to design and execute comprehensive test strategies, analyze failure modes, and collaborate with cross-functional teams to enhance product reliability and manufacturing yield. Skilled in leveraging automation tools and version control systems to streamline testing processes and ensure robust production support.
+
+WORK EXPERIENCE
+
+Associate Product / Test Engineer
+Precision Electronics Manufacturing Ltd., Shenzhen, Guangdong
+June 2023 – Present
+
+• Develop and execute test plans for new product introductions, ensuring compliance with qualification testing standards and customer specifications
+• Design automated test scripts and frameworks using Jenkins to reduce manual testing time by 35% and improve test coverage across multiple product lines
+• Perform root cause analysis and failure mode and effects analysis (FMEA) on defective units, identifying design weaknesses and recommending corrective actions that improved product reliability by 18%
+• Collaborate with product engineering teams to implement poka-yoke mechanisms in test fixtures, reducing operator error rates and enhancing first-pass yield
+• Maintain detailed documentation of test procedures, failure analysis reports, and bug tracking using internal systems, ensuring traceability and continuous improvement
+• Support production teams by troubleshooting test equipment issues and providing technical guidance to resolve yield-limiting defects
+
+Test Engineering Intern
+Integrated Circuit Solutions Co., Suzhou, Jiangsu
+January 2023 – May 2023
+
+• Assisted in the development of functional and qualification test procedures for electronic assemblies and components
+• Conducted software testing and validation activities, documenting defects and collaborating with development teams to resolve issues
+• Utilized Git and Concurrent Versions System (CVS) for version control of test scripts and documentation
+• Supported yield improvement initiatives by analyzing test data and identifying trends in product failures
+• Participated in design reviews and provided input on testability and manufacturability considerations
+
+Quality Assurance Technician
+Dongfeng Technology Manufacturing, Wuhan, Hubei
+June 2021 – December 2022
+
+• Performed incoming inspection and testing of electronic components and subassemblies to ensure adherence to quality standards
+• Executed routine and ad-hoc testing protocols, documenting results and escalating non-conformances to engineering teams
+• Assisted in failure analysis activities by isolating defective units and preparing samples for further investigation
+• Maintained calibration records and ensured test equipment compliance with industry standards
+• Contributed to process improvement projects focused on reducing defect rates and enhancing production efficiency
+
+EDUCATION
+
+Bachelor of Science in Electronic Engineering
+Huazhong University of Science and Technology, Wuhan, Hubei
+Graduated: May 2021
+
+Relevant Coursework: Digital Systems Design, Circuit Analysis, Embedded Systems, Quality Control and Reliability Engineering, Software Engineering Fundamentals
+
+TECHNICAL SKILLS
+
+Test & Product Engineering: Test Development, Qualification Testing, Failure Analysis, FMEA, Production Support, Yield Optimization, Poka-Yoke Implementation
+
+Software & Tools: Git, Jenkins, Concurrent Versions System (CVS), Bug Tracking Systems, Software Testing Frameworks
+
+Technical Expertise: Electronics, Electronic Engineering, Reliability Engineering, Software Testing
+
+Communication: Written Communication, Technical Documentation, Cross-functional Collaboration
+
+CERTIFICATIONS
+
+• Certified Quality Engineer (CQE) – In Progress
+• IPC-A-610 Acceptability of Electronic Assemblies
+
+PROJECTS
+
+Automated Test Framework Development
+• Led the design and implementation of a Python-based automated test framework integrated with Jenkins for continuous integration testing of firmware updates
+• Reduced regression testing cycle time from 3 days to 8 hours, enabling faster product releases
+
+Yield Improvement Initiative
+• Analyzed production test data to identify recurring failure modes in a high-volume product line
+• Collaborated with design and manufacturing teams to implement design changes and process improvements, resulting in a 12% increase in manufacturing yield

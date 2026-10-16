@@ -1,0 +1,86 @@
+seed,model,diff_pp,ci_lo,ci_hi,only_candidate_right,only_tfidf_right,mcnemar_p
+0,TF-IDF cosine (zero-shot),5.3333,-2.0,12.6667,21,13,0.2295
+0,e5-base-v2 frozen head,-9.3333,-18.0,-0.6667,18,32,0.0649
+0,e5-base-v2 frozen cosine (zero-shot),-7.3333,-16.6667,2.0,19,30,0.1524
+0,Hybrid TF-IDF + e5-base-v2 frozen (weighted),-0.6667,-2.6667,1.3333,1,2,1.0
+0,Hybrid TF-IDF + e5-base-v2 frozen (RRF),-8.0,-14.6667,-0.6667,18,30,0.1114
+0,bge-base-en-v1.5 frozen head,-2.6667,-11.3333,5.3333,20,24,0.6516
+0,bge-base-en-v1.5 frozen cosine (zero-shot),-3.3333,-11.3333,5.3333,19,24,0.5424
+0,Hybrid TF-IDF + bge-base-en-v1.5 frozen (weighted),0.0,0.0,0.0,0,0,1.0
+0,Hybrid TF-IDF + bge-base-en-v1.5 frozen (RRF),4.0,-2.0,10.6667,17,11,0.3449
+0,gte-base frozen head,-3.3333,-10.6667,5.3333,19,24,0.5424
+0,gte-base frozen cosine (zero-shot),-2.6667,-10.6667,5.3333,18,22,0.6358
+0,Hybrid TF-IDF + gte-base frozen (weighted),1.3333,-2.0,4.6667,5,3,0.7266
+0,Hybrid TF-IDF + gte-base frozen (RRF),0.6667,-5.3333,7.3333,16,15,1.0
+0,JobBERT-v2 frozen head,2.6667,-5.3333,11.3333,20,16,0.6177
+0,JobBERT-v2 frozen cosine (zero-shot),5.3333,-3.3333,14.0,23,15,0.2559
+0,Hybrid TF-IDF + JobBERT-v2 frozen (weighted),2.0,-0.6667,5.3333,4,1,0.375
+0,Hybrid TF-IDF + JobBERT-v2 frozen (RRF),0.0,-7.3333,7.3333,16,16,1.0
+1,TF-IDF cosine (zero-shot),-0.6667,-6.0,5.3333,21,22,1.0
+1,e5-base-v2 frozen head,-14.0,-21.3333,-6.0,17,38,0.0065
+1,e5-base-v2 frozen cosine (zero-shot),-7.3333,-14.0,0.0,23,34,0.1849
+1,Hybrid TF-IDF + e5-base-v2 frozen (weighted),-1.3333,-4.0,1.3333,1,3,0.625
+1,Hybrid TF-IDF + e5-base-v2 frozen (RRF),-7.3333,-12.6833,-1.3333,21,32,0.169
+1,bge-base-en-v1.5 frozen head,-4.6667,-12.0,2.6667,25,32,0.427
+1,bge-base-en-v1.5 frozen cosine (zero-shot),-7.3333,-14.0,0.0,22,33,0.177
+1,Hybrid TF-IDF + bge-base-en-v1.5 frozen (weighted),2.0,-3.3333,7.3333,12,9,0.6636
+1,Hybrid TF-IDF + bge-base-en-v1.5 frozen (RRF),-1.3333,-7.3333,4.0,20,22,0.8776
+1,gte-base frozen head,-4.6667,-12.0,4.0,25,32,0.427
+1,gte-base frozen cosine (zero-shot),-4.6667,-10.6667,2.6667,23,30,0.4101
+1,Hybrid TF-IDF + gte-base frozen (weighted),4.0,-0.6667,8.6667,13,7,0.2632
+1,Hybrid TF-IDF + gte-base frozen (RRF),-4.0,-10.0,2.6667,21,27,0.4709
+1,JobBERT-v2 frozen head,2.0,-4.6667,8.6667,23,20,0.7608
+1,JobBERT-v2 frozen cosine (zero-shot),1.3333,-5.3333,8.6667,24,22,0.883
+1,Hybrid TF-IDF + JobBERT-v2 frozen (weighted),4.6667,-1.3333,10.6667,21,14,0.3105
+1,Hybrid TF-IDF + JobBERT-v2 frozen (RRF),-0.6667,-6.0167,5.3333,19,20,1.0
+2,TF-IDF cosine (zero-shot),0.0,-6.0167,6.0167,14,14,1.0
+2,e5-base-v2 frozen head,-15.3333,-22.0,-8.6667,11,34,0.0008
+2,e5-base-v2 frozen cosine (zero-shot),-8.6667,-15.3333,-2.0,12,25,0.047
+2,Hybrid TF-IDF + e5-base-v2 frozen (weighted),-8.0,-14.6667,-1.3333,10,22,0.0501
+2,Hybrid TF-IDF + e5-base-v2 frozen (RRF),-2.6667,-8.6667,3.3333,10,14,0.5413
+2,bge-base-en-v1.5 frozen head,-8.6667,-14.6667,-2.0,11,24,0.041
+2,bge-base-en-v1.5 frozen cosine (zero-shot),-7.3333,-14.6667,0.6667,12,23,0.0895
+2,Hybrid TF-IDF + bge-base-en-v1.5 frozen (weighted),-2.6667,-8.6667,4.0,10,14,0.5413
+2,Hybrid TF-IDF + bge-base-en-v1.5 frozen (RRF),-3.3333,-9.3333,2.6667,9,14,0.4049
+2,gte-base frozen head,-9.3333,-16.0,-1.9833,10,24,0.0243
+2,gte-base frozen cosine (zero-shot),-7.3333,-13.35,-0.6667,10,21,0.0708
+2,Hybrid TF-IDF + gte-base frozen (weighted),-6.0,-12.0,0.0167,10,19,0.136
+2,Hybrid TF-IDF + gte-base frozen (RRF),-2.0,-7.3333,3.3333,8,11,0.6476
+2,JobBERT-v2 frozen head,-4.0,-12.0,3.3333,14,20,0.3915
+2,JobBERT-v2 frozen cosine (zero-shot),-2.6667,-9.3333,4.6667,14,18,0.5966
+2,Hybrid TF-IDF + JobBERT-v2 frozen (weighted),4.0,-0.6667,9.3333,12,6,0.2379
+2,Hybrid TF-IDF + JobBERT-v2 frozen (RRF),-2.0,-6.6667,3.3333,7,10,0.6291
+3,TF-IDF cosine (zero-shot),0.6667,-6.0,7.3333,18,17,1.0
+3,e5-base-v2 frozen head,-12.0,-18.6667,-5.3333,12,30,0.0079
+3,e5-base-v2 frozen cosine (zero-shot),-8.0,-15.3333,-0.65,17,29,0.1038
+3,Hybrid TF-IDF + e5-base-v2 frozen (weighted),2.0,-2.0,7.3333,7,4,0.5488
+3,Hybrid TF-IDF + e5-base-v2 frozen (RRF),-4.0,-9.3333,2.0,12,18,0.3616
+3,bge-base-en-v1.5 frozen head,-7.3333,-16.0,0.6667,18,29,0.1439
+3,bge-base-en-v1.5 frozen cosine (zero-shot),-8.0,-14.6833,-0.6667,17,29,0.1038
+3,Hybrid TF-IDF + bge-base-en-v1.5 frozen (weighted),0.6667,-4.6667,5.3333,12,11,1.0
+3,Hybrid TF-IDF + bge-base-en-v1.5 frozen (RRF),0.6667,-4.0,4.6833,12,11,1.0
+3,gte-base frozen head,-4.6667,-12.0,2.0,16,23,0.3368
+3,gte-base frozen cosine (zero-shot),-2.6667,-10.0,4.6667,18,22,0.6358
+3,Hybrid TF-IDF + gte-base frozen (weighted),2.0,-4.0,8.0,15,12,0.7011
+3,Hybrid TF-IDF + gte-base frozen (RRF),0.6667,-4.6667,6.6667,14,13,1.0
+3,JobBERT-v2 frozen head,3.3333,-3.3333,10.6667,18,13,0.4731
+3,JobBERT-v2 frozen cosine (zero-shot),4.0,-2.6667,10.6667,19,13,0.3771
+3,Hybrid TF-IDF + JobBERT-v2 frozen (weighted),5.3333,-0.6667,11.3333,17,9,0.1686
+3,Hybrid TF-IDF + JobBERT-v2 frozen (RRF),0.0,-5.3333,5.3333,13,13,1.0
+4,TF-IDF cosine (zero-shot),4.0,-4.0,12.0,23,17,0.4296
+4,e5-base-v2 frozen head,-9.3333,-18.0,-0.6667,21,35,0.0814
+4,e5-base-v2 frozen cosine (zero-shot),-12.0,-21.3333,-2.0,22,40,0.03
+4,Hybrid TF-IDF + e5-base-v2 frozen (weighted),8.0,2.0,14.6667,16,4,0.0118
+4,Hybrid TF-IDF + e5-base-v2 frozen (RRF),2.6667,-3.3333,9.3333,17,13,0.5847
+4,bge-base-en-v1.5 frozen head,1.3333,-6.0,10.0,24,22,0.883
+4,bge-base-en-v1.5 frozen cosine (zero-shot),-6.6667,-16.6667,3.3333,20,30,0.2026
+4,Hybrid TF-IDF + bge-base-en-v1.5 frozen (weighted),8.6667,3.3333,14.6667,16,3,0.0044
+4,Hybrid TF-IDF + bge-base-en-v1.5 frozen (RRF),-2.6667,-8.6667,2.6833,14,18,0.5966
+4,gte-base frozen head,-1.3333,-10.6833,7.3333,23,25,0.8854
+4,gte-base frozen cosine (zero-shot),-2.6667,-10.6667,5.3333,22,26,0.6655
+4,Hybrid TF-IDF + gte-base frozen (weighted),6.0,0.0,12.0167,14,5,0.0636
+4,Hybrid TF-IDF + gte-base frozen (RRF),-2.6667,-8.6667,2.6667,14,18,0.5966
+4,JobBERT-v2 frozen head,6.6667,-2.0,15.3333,26,16,0.1641
+4,JobBERT-v2 frozen cosine (zero-shot),6.0,-2.6667,14.0,26,17,0.2221
+4,Hybrid TF-IDF + JobBERT-v2 frozen (weighted),11.3333,4.0,18.0,23,6,0.0023
+4,Hybrid TF-IDF + JobBERT-v2 frozen (RRF),3.3333,-2.0,9.3333,15,10,0.4244

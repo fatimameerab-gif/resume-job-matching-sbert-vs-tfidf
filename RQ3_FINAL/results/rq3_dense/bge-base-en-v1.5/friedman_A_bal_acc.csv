@@ -1,0 +1,2 @@
+representation,metric,n_blocks,n_classifiers,friedman_chi2,friedman_p,nemenyi_cd
+bge-base-en-v1.5,bal_acc,5,8,18.274038461538456,0.010792913314410759,4.695416703894232

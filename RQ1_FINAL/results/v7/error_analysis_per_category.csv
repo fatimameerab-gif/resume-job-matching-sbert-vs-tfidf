@@ -1,0 +1,19 @@
+resume_category,n_pairs,accuracy,f1_score
+DevOps Engineer,3,0.6666666666666666,0.0
+Advocate,6,0.3333333333333333,0.3333333333333333
+ETL Developer,6,0.8333333333333334,0.6666666666666666
+HR,9,0.7777777777777778,0.6666666666666666
+Health and fitness,6,0.8333333333333334,0.6666666666666666
+Operations Manager,3,0.6666666666666666,0.6666666666666666
+Web Designing,3,0.6666666666666666,0.6666666666666666
+SAP Developer,6,0.8333333333333334,0.8
+Civil Engineer,3,1.0,1.0
+Database,3,1.0,1.0
+Blockchain,3,1.0,1.0
+Business Analyst,3,1.0,1.0
+Hadoop,3,1.0,1.0
+Electrical Engineering,6,1.0,1.0
+Network Security Engineer,3,1.0,1.0
+Arts,3,1.0,1.0
+Python Developer,3,1.0,1.0
+Sales,3,1.0,1.0

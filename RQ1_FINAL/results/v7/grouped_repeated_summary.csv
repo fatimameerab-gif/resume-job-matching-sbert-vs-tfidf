@@ -1,0 +1,4 @@
+representation,n_seeds,mean_test_pairs_per_seed,total_test_pair_evals,acc_mean,acc_sd,acc_ci_lo,acc_ci_hi,bal_acc_mean,bal_acc_sd,bal_acc_ci_lo,bal_acc_ci_hi,auc_mean,auc_sd,auc_ci_lo,auc_ci_hi,acc_pooled,acc_pooled_cluster_ci_lo,acc_pooled_cluster_ci_hi
+BM25,20,69.0,1380,0.5901,0.0493,0.567,0.6132,0.5676,0.0371,0.5502,0.5849,0.5946,0.0252,0.5828,0.6064,0.5891,0.5581,0.6205
+LSA (TruncatedSVD-100d),20,69.0,1380,0.6647,0.0431,0.6445,0.6849,0.7381,0.0358,0.7214,0.7549,0.9163,0.0284,0.903,0.9296,0.6645,0.626,0.7028
+TF-IDF,20,69.0,1380,0.8485,0.0508,0.8248,0.8723,0.8253,0.0598,0.7973,0.8533,0.9139,0.0388,0.8957,0.9321,0.8486,0.8239,0.8712

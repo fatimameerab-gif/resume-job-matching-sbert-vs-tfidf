@@ -1,0 +1,8 @@
+# Pinned environment for ALL GPU numbers of the revised paper (Colab T4 as of Oct 2026 shipped these versions; Kaggle T4 works too).
+# Do NOT force-reinstall sentence-transformers to 2.7.0: that version cannot encode plain strings with JobBERT-v2 (its Asym module needs dict input).
+# On Colab keep the preinstalled torch/transformers and add only:
+sentence-transformers==5.7.0
+rank_bm25
+scikit-learn
+scikit-posthocs
+# expected from Colab: torch 2.11.x, transformers 5.17.x, python 3.13. gpu_env.py writes the real versions to results/ENVIRONMENT.txt.

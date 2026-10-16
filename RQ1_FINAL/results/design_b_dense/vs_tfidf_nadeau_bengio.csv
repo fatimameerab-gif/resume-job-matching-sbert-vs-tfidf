@@ -1,0 +1,19 @@
+model,metric,k_splits,mean_diff_vs_tfidf,ci_lo,ci_hi,t,p_nadeau_bengio,splits_better,p_holm
+JobBERT-v2 fine-tuned head,acc,20,0.0757,0.0223,0.1291,2.9685,0.0079,19,0.0289
+JobBERT-v2 fine-tuned head,auc,20,0.0581,0.0196,0.0967,3.1537,0.0052,18,0.0209
+JobBERT-v2 frozen head,acc,20,-0.0186,-0.0764,0.0393,-0.6717,0.5099,6,0.5099
+JobBERT-v2 frozen head,auc,20,-0.0071,-0.0595,0.0452,-0.2853,0.7785,9,0.7785
+SBERT-MiniLM-L6-v2 fine-tuned head,acc,20,0.034,-0.0207,0.0887,1.2999,0.2092,12,0.4184
+SBERT-MiniLM-L6-v2 fine-tuned head,auc,20,0.0356,-0.0069,0.0781,1.7548,0.0954,16,0.1908
+SBERT-MiniLM-L6-v2 frozen head,acc,20,-0.1218,-0.176,-0.0677,-4.7064,0.0002,0,0.0011
+SBERT-MiniLM-L6-v2 frozen head,auc,20,-0.1155,-0.1809,-0.0501,-3.6937,0.0015,0,0.0123
+SBERT-mpnet-base-v2 fine-tuned head,acc,20,0.0746,0.0227,0.1265,3.0085,0.0072,19,0.0289
+SBERT-mpnet-base-v2 fine-tuned head,auc,20,0.0582,0.0223,0.0942,3.389,0.0031,19,0.0154
+SBERT-mpnet-base-v2 frozen head,acc,20,-0.12,-0.1714,-0.0685,-4.8815,0.0001,0,0.0008
+SBERT-mpnet-base-v2 frozen head,auc,20,-0.0933,-0.1471,-0.0395,-3.6284,0.0018,1,0.0125
+bge-base-en-v1.5 frozen head,acc,20,-0.1094,-0.1723,-0.0465,-3.6411,0.0017,0,0.0104
+bge-base-en-v1.5 frozen head,auc,20,-0.1015,-0.1608,-0.0421,-3.5777,0.002,2,0.0125
+e5-base-v2 frozen head,acc,20,-0.1879,-0.2584,-0.1173,-5.5732,0.0,0,0.0002
+e5-base-v2 frozen head,auc,20,-0.1708,-0.2338,-0.1078,-5.6742,0.0,0,0.0002
+gte-base frozen head,acc,20,-0.102,-0.1644,-0.0396,-3.4206,0.0029,2,0.0143
+gte-base frozen head,auc,20,-0.0832,-0.1417,-0.0246,-2.9721,0.0078,1,0.0235

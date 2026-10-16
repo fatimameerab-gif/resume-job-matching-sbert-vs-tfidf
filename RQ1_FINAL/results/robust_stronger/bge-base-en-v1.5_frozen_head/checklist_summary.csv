@@ -1,0 +1,5 @@
+model,test,n_pairs,n_resumes,passes,pass_rate,ci_lo,ci_hi,pass_rate_fixed_tol_0p02,mean_dscore_z,tolerance
+bge-base-en-v1.5 frozen head,DIR_down_foreign,250,135,97,0.388,0.319,0.458,0.388,0.007,sign
+bge-base-en-v1.5 frozen head,DIR_up_copy_job,750,135,745,0.993,0.987,0.999,0.993,0.249,sign
+bge-base-en-v1.5 frozen head,INV_filler,750,135,523,0.697,0.635,0.762,0.883,0.076,0.1 x SD
+bge-base-en-v1.5 frozen head,INV_punct,750,135,393,0.524,0.474,0.577,0.8,0.038,0.1 x SD

@@ -1,0 +1,9 @@
+representation,metric,classifier,mean_rank,mean_metric
+gte-base,auc,CosineThreshold,5.5,0.8005599999999999
+gte-base,auc,GradientBoosting,6.4,0.7884800000000001
+gte-base,auc,LR,1.5,0.84328
+gte-base,auc,LinearSVM,2.3,0.8425600000000001
+gte-base,auc,MLP,5.4,0.7975200000000001
+gte-base,auc,RBF-SVM,3.0,0.83604
+gte-base,auc,RandomForest,4.9,0.8067599999999999
+gte-base,auc,kNN,7.0,0.76938

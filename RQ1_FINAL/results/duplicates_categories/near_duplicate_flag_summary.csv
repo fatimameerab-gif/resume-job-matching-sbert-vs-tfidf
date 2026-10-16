@@ -1,0 +1,11 @@
+seed,kind,n_test_items,n_flagged
+0,job,128,59
+0,resume,50,0
+1,job,129,56
+1,resume,50,0
+2,job,135,59
+2,resume,50,0
+3,job,129,52
+3,resume,50,0
+4,job,135,64
+4,resume,50,0

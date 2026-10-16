@@ -1,0 +1,17 @@
+representation,metric,classifier,mean_rank,mean_metric
+LSA,auc,CosineThreshold,6.475,0.8787
+LSA,auc,GradientBoosting,6.0,0.88696
+LSA,auc,LR,3.175,0.9057299999999999
+LSA,auc,LinearSVM,3.125,0.9053100000000001
+LSA,auc,MLP,7.725,0.78591
+LSA,auc,RBF-SVM,1.4,0.91791
+LSA,auc,RandomForest,4.0,0.9009549999999997
+LSA,auc,kNN,4.1,0.8989900000000001
+TF-IDF,auc,CosineThreshold,3.15,0.89387
+TF-IDF,auc,GradientBoosting,1.65,0.91709
+TF-IDF,auc,LR,3.35,0.8903399999999998
+TF-IDF,auc,LinearSVM,4.2,0.88759
+TF-IDF,auc,MLP,8.0,0.50342
+TF-IDF,auc,RBF-SVM,2.65,0.89803
+TF-IDF,auc,RandomForest,6.0,0.819005
+TF-IDF,auc,kNN,7.0,0.73289

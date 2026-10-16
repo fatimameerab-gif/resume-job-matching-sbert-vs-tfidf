@@ -1,0 +1,5 @@
+representation,accuracy,f1,n_test,pairs_file
+TF-IDF,0.84,0.7692307692307693,75,data/resume_job_pairs_v3.csv
+LSA (TruncatedSVD-100d),0.76,0.7272727272727273,75,data/resume_job_pairs_v3.csv
+BM25,0.6266666666666667,0.44,75,data/resume_job_pairs_v3.csv
+Static-word2vec-local-100d,0.4666666666666667,0.42857142857142855,75,data/resume_job_pairs_v3.csv

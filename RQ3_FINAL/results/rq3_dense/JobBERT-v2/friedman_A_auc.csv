@@ -1,0 +1,2 @@
+representation,metric,n_blocks,n_classifiers,friedman_chi2,friedman_p,nemenyi_cd
+JobBERT-v2,auc,5,8,21.933333333333337,0.0026085141823618966,4.695416703894232

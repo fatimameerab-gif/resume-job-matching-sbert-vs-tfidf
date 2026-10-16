@@ -1,0 +1,1 @@
+Strategies fixed in advance, frozen encoders, no tuning. section_aware falls back to head when fewer than 2 headings are found (resume text is lower-cased). Differences of ~1-2 pp are within seed noise; report mean +- SD.

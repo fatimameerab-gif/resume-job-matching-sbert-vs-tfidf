@@ -1,0 +1,7 @@
+rep_a,rep_b,wilcoxon_stat,p_raw,mean_diff,cliffs_delta,p_holm_adjusted,significant_at_0.05_holm
+TF-IDF,LSA (TruncatedSVD-100d),0.0,0.001953125,-0.7963983050847459,1.0,0.01171875,True
+TF-IDF,BM25,0.0,0.00390625,-0.06864406779661025,0.63,0.01171875,True
+TF-IDF,Static-word2vec-local-100d,0.0,0.001953125,-0.125,0.8,0.01171875,True
+LSA (TruncatedSVD-100d),BM25,0.0,0.001953125,0.7277542372881356,-1.0,0.01171875,True
+LSA (TruncatedSVD-100d),Static-word2vec-local-100d,0.0,0.001953125,0.6713983050847459,-1.0,0.01171875,True
+BM25,Static-word2vec-local-100d,8.0,0.048828125,-0.05635593220338975,0.44,0.048828125,True

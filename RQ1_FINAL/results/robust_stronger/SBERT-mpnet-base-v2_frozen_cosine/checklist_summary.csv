@@ -1,0 +1,5 @@
+model,test,n_pairs,n_resumes,passes,pass_rate,ci_lo,ci_hi,pass_rate_fixed_tol_0p02,mean_dscore_z,tolerance
+SBERT-mpnet-base-v2 frozen cosine,DIR_down_foreign,250,135,101,0.404,0.329,0.472,0.404,-0.0,sign
+SBERT-mpnet-base-v2 frozen cosine,DIR_up_copy_job,750,135,745,0.993,0.987,0.999,0.993,0.289,sign
+SBERT-mpnet-base-v2 frozen cosine,INV_filler,750,135,508,0.677,0.606,0.751,0.741,0.062,0.1 x SD
+SBERT-mpnet-base-v2 frozen cosine,INV_punct,750,135,400,0.533,0.471,0.59,0.648,0.005,0.1 x SD

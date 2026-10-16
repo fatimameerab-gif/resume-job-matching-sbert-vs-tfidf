@@ -1,0 +1,1 @@
+One number per resume (mean correctness over its 3 test pairs and over the seeds where it is a test resume). CI = percentile bootstrap over resumes; p = exact-style sign-flip permutation test on per-resume differences (20,000 flips); Holm over the listed family. Seeds overlap, so these intervals are still optimistic about generalisation to NEW resumes beyond the 166 available.

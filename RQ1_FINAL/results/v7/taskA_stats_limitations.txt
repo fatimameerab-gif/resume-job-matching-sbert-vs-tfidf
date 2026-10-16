@@ -1,0 +1,2 @@
+Exact Wilcoxon two-sided p with n=10 cannot be smaller than 2/1024=0.001953. Holm over 45 tests therefore cannot reject at 0.05 even if every sign agrees. Permutation p-values are reported with Holm (FWER) and BH (FDR). MDE is the paired-t approximation; it is a planning quantity, not a significance claim.
+n_comparisons=6 n_queries=10

@@ -1,0 +1,9 @@
+representation,metric,classifier,mean_rank,mean_metric
+SBERT-MiniLM-L6-v2,bal_acc,CosineThreshold,6.6,0.6990000000000001
+SBERT-MiniLM-L6-v2,bal_acc,GradientBoosting,6.2,0.7
+SBERT-MiniLM-L6-v2,bal_acc,LR,2.8,0.7390000000000001
+SBERT-MiniLM-L6-v2,bal_acc,LinearSVM,2.5,0.737
+SBERT-MiniLM-L6-v2,bal_acc,MLP,6.9,0.658
+SBERT-MiniLM-L6-v2,bal_acc,RBF-SVM,2.0,0.745
+SBERT-MiniLM-L6-v2,bal_acc,RandomForest,4.9,0.711
+SBERT-MiniLM-L6-v2,bal_acc,kNN,4.1,0.718

@@ -1,0 +1,9 @@
+representation,metric,classifier,mean_rank,mean_metric
+e5-base-v2,mrr,CosineThreshold,3.8,0.8
+e5-base-v2,mrr,GradientBoosting,5.4,0.7893333333333333
+e5-base-v2,mrr,LR,2.4,0.8379999999999999
+e5-base-v2,mrr,LinearSVM,2.2,0.8399999999999999
+e5-base-v2,mrr,MLP,6.7,0.7473333333333334
+e5-base-v2,mrr,RBF-SVM,4.6,0.8106666666666668
+e5-base-v2,mrr,RandomForest,4.8,0.7971999999999999
+e5-base-v2,mrr,kNN,6.1,0.7593333333333333

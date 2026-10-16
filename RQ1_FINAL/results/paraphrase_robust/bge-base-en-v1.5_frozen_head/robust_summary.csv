@@ -1,0 +1,4 @@
+model,kind,param,side,acc_clean,dacc,dacc_sd,flip,flip_sd,dscore_z,dhit1,dmrr,dmrr_sd,resumes_changed,jobs_changed,n_cells
+bge-base-en-v1.5 frozen head,paraphrase,1.0,both,0.7613,-0.0333,0.0211,0.1267,0.0176,0.3105,0.0,0.0047,0.0069,0.848,0.895,5
+bge-base-en-v1.5 frozen head,paraphrase,1.0,job_only,0.7613,0.004,0.0174,0.0627,0.013,0.1762,0.02,0.012,0.0243,0.0,0.895,5
+bge-base-en-v1.5 frozen head,paraphrase,1.0,resume_only,0.7613,-0.028,0.0331,0.0787,0.0159,0.2077,0.016,0.01,0.0286,0.848,0.0,5

@@ -1,0 +1,2 @@
+model,n_docs,sec_per_1k_docs,fit_once_seconds,dim,index_MB_per_100k_docs,hardware
+"TF-IDF (1-2 grams, 3000 features)",176,0.187,0.272,3000,177.6,"x86_64, 2 CPU cores, no GPU"

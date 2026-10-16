@@ -1,0 +1,16 @@
+model_a,model_b,n_unique_test_resumes,acc_a,acc_b,diff,ci_lo,ci_hi,p_signflip,resumes_a_better,resumes_b_better,resumes_tied,p_holm
+SBERT-mpnet-base-v2 fine-tuned head,TF-IDF head,135,0.9314,0.7967,0.1347,0.1001,0.1699,0.0,70,9,56,0.0007
+SBERT-MiniLM-L6-v2 fine-tuned head,TF-IDF head,135,0.8883,0.7967,0.0916,0.0595,0.1247,0.0,62,17,56,0.0007
+JobBERT-v2 fine-tuned head,TF-IDF head,135,0.9169,0.7967,0.1202,0.0865,0.1537,0.0,65,12,58,0.0007
+JobBERT-v2 frozen head,TF-IDF head,135,0.8271,0.7967,0.0304,-0.0079,0.0683,0.1259,49,36,50,0.5036
+SBERT-mpnet-base-v2 frozen head,TF-IDF head,135,0.759,0.7967,-0.0377,-0.0809,0.0047,0.0867,34,53,48,0.4629
+SBERT-MiniLM-L6-v2 frozen head,TF-IDF head,135,0.744,0.7967,-0.0527,-0.0928,-0.0121,0.0105,28,63,44,0.0735
+TF-IDF cosine (zero-shot),TF-IDF head,135,0.8202,0.7967,0.0235,-0.0082,0.0566,0.1636,41,29,65,0.5036
+Category classifiers (SBERT-mpnet-base-v2),TF-IDF head,135,0.8539,0.7967,0.0572,0.0205,0.0954,0.0027,49,23,63,0.0216
+Category classifiers (JobBERT-v2),TF-IDF head,135,0.891,0.7967,0.0943,0.0576,0.1316,0.0,59,17,59,0.0007
+Category classifiers (TF-IDF),TF-IDF head,135,0.8226,0.7967,0.0258,-0.0121,0.0637,0.1886,49,37,49,0.5036
+SBERT-mpnet-base-v2 fine-tuned head,Category classifiers (SBERT-mpnet-base-v2),135,0.9314,0.8539,0.0775,0.0506,0.1049,0.0,46,11,78,0.0007
+SBERT-mpnet-base-v2 fine-tuned head,Category classifiers (TF-IDF),135,0.9314,0.8226,0.1088,0.0753,0.1436,0.0,62,18,55,0.0007
+JobBERT-v2 fine-tuned head,Category classifiers (JobBERT-v2),135,0.9169,0.891,0.0259,-0.0016,0.0543,0.0771,32,21,82,0.4629
+SBERT-mpnet-base-v2 fine-tuned head,Category classifiers (JobBERT-v2),135,0.9314,0.891,0.0404,0.0149,0.0652,0.0023,35,13,87,0.0207
+JobBERT-v2 fine-tuned head,SBERT-mpnet-base-v2 fine-tuned head,135,0.9169,0.9314,-0.0145,-0.0347,0.0041,0.1548,14,20,101,0.5036

@@ -1,0 +1,9 @@
+representation,metric,classifier,mean_rank,mean_metric
+gte-base,bal_acc,CosineThreshold,4.7,0.737
+gte-base,bal_acc,GradientBoosting,6.5,0.7150000000000001
+gte-base,bal_acc,LR,3.7,0.7549999999999999
+gte-base,bal_acc,LinearSVM,2.5,0.7609999999999999
+gte-base,bal_acc,MLP,4.9,0.7320000000000001
+gte-base,bal_acc,RBF-SVM,2.8,0.7609999999999999
+gte-base,bal_acc,RandomForest,4.4,0.736
+gte-base,bal_acc,kNN,6.5,0.7090000000000002

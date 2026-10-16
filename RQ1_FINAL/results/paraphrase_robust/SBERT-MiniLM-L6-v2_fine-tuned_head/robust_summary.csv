@@ -1,0 +1,4 @@
+model,kind,param,side,acc_clean,dacc,dacc_sd,flip,flip_sd,dscore_z,dhit1,dmrr,dmrr_sd,resumes_changed,jobs_changed,n_cells
+SBERT-MiniLM-L6-v2 fine-tuned head,paraphrase,1.0,both,0.8853,-0.0027,0.0198,0.0373,0.0089,0.1507,-0.012,-0.006,0.0174,0.848,0.895,5
+SBERT-MiniLM-L6-v2 fine-tuned head,paraphrase,1.0,job_only,0.8853,0.0133,0.0156,0.0293,0.0153,0.0919,-0.008,-0.0047,0.0173,0.0,0.895,5
+SBERT-MiniLM-L6-v2 fine-tuned head,paraphrase,1.0,resume_only,0.8853,-0.0067,0.0194,0.028,0.011,0.1045,-0.02,-0.01,0.0235,0.848,0.0,5

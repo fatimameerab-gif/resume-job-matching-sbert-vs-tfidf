@@ -1,0 +1,5 @@
+model,test,n_pairs,n_resumes,passes,pass_rate,ci_lo,ci_hi,pass_rate_fixed_tol_0p02,mean_dscore_z,tolerance
+e5-base-v2 frozen head,DIR_down_foreign,250,135,78,0.312,0.247,0.379,0.312,0.035,sign
+e5-base-v2 frozen head,DIR_up_copy_job,750,135,736,0.981,0.967,0.993,0.981,0.25,sign
+e5-base-v2 frozen head,INV_filler,750,135,605,0.807,0.749,0.862,0.997,-0.009,0.1 x SD
+e5-base-v2 frozen head,INV_punct,750,135,336,0.448,0.392,0.503,0.985,0.085,0.1 x SD

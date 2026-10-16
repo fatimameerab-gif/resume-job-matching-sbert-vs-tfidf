@@ -1,0 +1,7 @@
+rep_a,rep_b,wilcoxon_stat,p_raw,mean_diff,cliffs_delta,paired,note,p_holm_adjusted,significant_at_0.05_holm
+TF-IDF,LSA (TruncatedSVD-100d),0.0,0.0625,-0.10133333333333339,0.96,False,seeds use different test pairs; Wilcoxon is descriptive only; min p=0.0625 with n=5,0.375,False
+TF-IDF,BM25,0.0,0.0625,-0.2306666666666667,1.0,False,seeds use different test pairs; Wilcoxon is descriptive only; min p=0.0625 with n=5,0.375,False
+TF-IDF,Static-word2vec-local-100d,0.0,0.0625,-0.256,1.0,False,seeds use different test pairs; Wilcoxon is descriptive only; min p=0.0625 with n=5,0.375,False
+LSA (TruncatedSVD-100d),BM25,0.0,0.0625,-0.1293333333333333,1.0,False,seeds use different test pairs; Wilcoxon is descriptive only; min p=0.0625 with n=5,0.375,False
+LSA (TruncatedSVD-100d),Static-word2vec-local-100d,0.0,0.0625,-0.15466666666666662,1.0,False,seeds use different test pairs; Wilcoxon is descriptive only; min p=0.0625 with n=5,0.375,False
+BM25,Static-word2vec-local-100d,0.0,0.0625,-0.02533333333333332,0.76,False,seeds use different test pairs; Wilcoxon is descriptive only; min p=0.0625 with n=5,0.375,False

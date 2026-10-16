@@ -1,0 +1,251 @@
+model,resume_category,mean,size
+Category classifiers (JobBERT-v2),Advocate,0.98,51
+Category classifiers (JobBERT-v2),Arts,0.917,24
+Category classifiers (JobBERT-v2),Automation Testing,0.933,30
+Category classifiers (JobBERT-v2),Blockchain,0.722,18
+Category classifiers (JobBERT-v2),Business Analyst,0.944,36
+Category classifiers (JobBERT-v2),Civil Engineer,1.0,24
+Category classifiers (JobBERT-v2),Data Science,0.875,48
+Category classifiers (JobBERT-v2),Database,0.972,36
+Category classifiers (JobBERT-v2),DevOps Engineer,0.767,30
+Category classifiers (JobBERT-v2),DotNet Developer,0.833,48
+Category classifiers (JobBERT-v2),ETL Developer,0.944,18
+Category classifiers (JobBERT-v2),Electrical Engineering,0.917,24
+Category classifiers (JobBERT-v2),HR,0.912,57
+Category classifiers (JobBERT-v2),Hadoop,0.897,39
+Category classifiers (JobBERT-v2),Health and fitness,1.0,27
+Category classifiers (JobBERT-v2),Java Developer,0.952,42
+Category classifiers (JobBERT-v2),Mechanical Engineer,0.769,39
+Category classifiers (JobBERT-v2),Network Security Engineer,0.958,24
+Category classifiers (JobBERT-v2),Operations Manager,0.667,18
+Category classifiers (JobBERT-v2),PMO,0.889,9
+Category classifiers (JobBERT-v2),Python Developer,0.778,27
+Category classifiers (JobBERT-v2),SAP Developer,0.963,27
+Category classifiers (JobBERT-v2),Sales,0.958,24
+Category classifiers (JobBERT-v2),Testing,0.905,21
+Category classifiers (JobBERT-v2),Web Designing,0.556,9
+Category classifiers (SBERT-mpnet-base-v2),Advocate,0.98,51
+Category classifiers (SBERT-mpnet-base-v2),Arts,0.875,24
+Category classifiers (SBERT-mpnet-base-v2),Automation Testing,0.8,30
+Category classifiers (SBERT-mpnet-base-v2),Blockchain,0.778,18
+Category classifiers (SBERT-mpnet-base-v2),Business Analyst,0.722,36
+Category classifiers (SBERT-mpnet-base-v2),Civil Engineer,0.958,24
+Category classifiers (SBERT-mpnet-base-v2),Data Science,0.854,48
+Category classifiers (SBERT-mpnet-base-v2),Database,0.972,36
+Category classifiers (SBERT-mpnet-base-v2),DevOps Engineer,0.767,30
+Category classifiers (SBERT-mpnet-base-v2),DotNet Developer,0.812,48
+Category classifiers (SBERT-mpnet-base-v2),ETL Developer,0.833,18
+Category classifiers (SBERT-mpnet-base-v2),Electrical Engineering,0.875,24
+Category classifiers (SBERT-mpnet-base-v2),HR,0.93,57
+Category classifiers (SBERT-mpnet-base-v2),Hadoop,0.846,39
+Category classifiers (SBERT-mpnet-base-v2),Health and fitness,0.963,27
+Category classifiers (SBERT-mpnet-base-v2),Java Developer,0.929,42
+Category classifiers (SBERT-mpnet-base-v2),Mechanical Engineer,0.744,39
+Category classifiers (SBERT-mpnet-base-v2),Network Security Engineer,0.917,24
+Category classifiers (SBERT-mpnet-base-v2),Operations Manager,0.611,18
+Category classifiers (SBERT-mpnet-base-v2),PMO,1.0,9
+Category classifiers (SBERT-mpnet-base-v2),Python Developer,0.593,27
+Category classifiers (SBERT-mpnet-base-v2),SAP Developer,0.963,27
+Category classifiers (SBERT-mpnet-base-v2),Sales,0.833,24
+Category classifiers (SBERT-mpnet-base-v2),Testing,0.857,21
+Category classifiers (SBERT-mpnet-base-v2),Web Designing,0.556,9
+Category classifiers (TF-IDF),Advocate,0.961,51
+Category classifiers (TF-IDF),Arts,0.792,24
+Category classifiers (TF-IDF),Automation Testing,0.833,30
+Category classifiers (TF-IDF),Blockchain,0.722,18
+Category classifiers (TF-IDF),Business Analyst,0.75,36
+Category classifiers (TF-IDF),Civil Engineer,0.917,24
+Category classifiers (TF-IDF),Data Science,0.896,48
+Category classifiers (TF-IDF),Database,0.944,36
+Category classifiers (TF-IDF),DevOps Engineer,0.733,30
+Category classifiers (TF-IDF),DotNet Developer,0.896,48
+Category classifiers (TF-IDF),ETL Developer,0.722,18
+Category classifiers (TF-IDF),Electrical Engineering,0.792,24
+Category classifiers (TF-IDF),HR,0.912,57
+Category classifiers (TF-IDF),Hadoop,0.821,39
+Category classifiers (TF-IDF),Health and fitness,0.815,27
+Category classifiers (TF-IDF),Java Developer,0.881,42
+Category classifiers (TF-IDF),Mechanical Engineer,0.692,39
+Category classifiers (TF-IDF),Network Security Engineer,0.917,24
+Category classifiers (TF-IDF),Operations Manager,0.667,18
+Category classifiers (TF-IDF),PMO,0.667,9
+Category classifiers (TF-IDF),Python Developer,0.815,27
+Category classifiers (TF-IDF),SAP Developer,0.667,27
+Category classifiers (TF-IDF),Sales,0.792,24
+Category classifiers (TF-IDF),Testing,0.905,21
+Category classifiers (TF-IDF),Web Designing,0.556,9
+JobBERT-v2 fine-tuned head,Advocate,0.98,51
+JobBERT-v2 fine-tuned head,Arts,0.875,24
+JobBERT-v2 fine-tuned head,Automation Testing,1.0,30
+JobBERT-v2 fine-tuned head,Blockchain,0.944,18
+JobBERT-v2 fine-tuned head,Business Analyst,0.889,36
+JobBERT-v2 fine-tuned head,Civil Engineer,0.958,24
+JobBERT-v2 fine-tuned head,Data Science,0.917,48
+JobBERT-v2 fine-tuned head,Database,0.972,36
+JobBERT-v2 fine-tuned head,DevOps Engineer,0.767,30
+JobBERT-v2 fine-tuned head,DotNet Developer,0.938,48
+JobBERT-v2 fine-tuned head,ETL Developer,1.0,18
+JobBERT-v2 fine-tuned head,Electrical Engineering,1.0,24
+JobBERT-v2 fine-tuned head,HR,0.895,57
+JobBERT-v2 fine-tuned head,Hadoop,0.923,39
+JobBERT-v2 fine-tuned head,Health and fitness,0.889,27
+JobBERT-v2 fine-tuned head,Java Developer,0.881,42
+JobBERT-v2 fine-tuned head,Mechanical Engineer,0.974,39
+JobBERT-v2 fine-tuned head,Network Security Engineer,0.958,24
+JobBERT-v2 fine-tuned head,Operations Manager,0.722,18
+JobBERT-v2 fine-tuned head,PMO,0.778,9
+JobBERT-v2 fine-tuned head,Python Developer,0.852,27
+JobBERT-v2 fine-tuned head,SAP Developer,1.0,27
+JobBERT-v2 fine-tuned head,Sales,0.875,24
+JobBERT-v2 fine-tuned head,Testing,0.857,21
+JobBERT-v2 fine-tuned head,Web Designing,1.0,9
+JobBERT-v2 frozen head,Advocate,0.902,51
+JobBERT-v2 frozen head,Arts,0.792,24
+JobBERT-v2 frozen head,Automation Testing,0.867,30
+JobBERT-v2 frozen head,Blockchain,0.833,18
+JobBERT-v2 frozen head,Business Analyst,0.806,36
+JobBERT-v2 frozen head,Civil Engineer,0.917,24
+JobBERT-v2 frozen head,Data Science,0.833,48
+JobBERT-v2 frozen head,Database,0.833,36
+JobBERT-v2 frozen head,DevOps Engineer,0.733,30
+JobBERT-v2 frozen head,DotNet Developer,0.854,48
+JobBERT-v2 frozen head,ETL Developer,0.889,18
+JobBERT-v2 frozen head,Electrical Engineering,0.958,24
+JobBERT-v2 frozen head,HR,0.702,57
+JobBERT-v2 frozen head,Hadoop,0.795,39
+JobBERT-v2 frozen head,Health and fitness,0.926,27
+JobBERT-v2 frozen head,Java Developer,0.881,42
+JobBERT-v2 frozen head,Mechanical Engineer,0.846,39
+JobBERT-v2 frozen head,Network Security Engineer,0.958,24
+JobBERT-v2 frozen head,Operations Manager,0.556,18
+JobBERT-v2 frozen head,PMO,0.667,9
+JobBERT-v2 frozen head,Python Developer,0.667,27
+JobBERT-v2 frozen head,SAP Developer,0.852,27
+JobBERT-v2 frozen head,Sales,0.792,24
+JobBERT-v2 frozen head,Testing,0.857,21
+JobBERT-v2 frozen head,Web Designing,0.889,9
+SBERT-MiniLM-L6-v2 fine-tuned head,Advocate,0.961,51
+SBERT-MiniLM-L6-v2 fine-tuned head,Arts,0.875,24
+SBERT-MiniLM-L6-v2 fine-tuned head,Automation Testing,0.933,30
+SBERT-MiniLM-L6-v2 fine-tuned head,Blockchain,0.889,18
+SBERT-MiniLM-L6-v2 fine-tuned head,Business Analyst,0.806,36
+SBERT-MiniLM-L6-v2 fine-tuned head,Civil Engineer,0.917,24
+SBERT-MiniLM-L6-v2 fine-tuned head,Data Science,0.896,48
+SBERT-MiniLM-L6-v2 fine-tuned head,Database,1.0,36
+SBERT-MiniLM-L6-v2 fine-tuned head,DevOps Engineer,0.733,30
+SBERT-MiniLM-L6-v2 fine-tuned head,DotNet Developer,0.833,48
+SBERT-MiniLM-L6-v2 fine-tuned head,ETL Developer,0.944,18
+SBERT-MiniLM-L6-v2 fine-tuned head,Electrical Engineering,1.0,24
+SBERT-MiniLM-L6-v2 fine-tuned head,HR,0.86,57
+SBERT-MiniLM-L6-v2 fine-tuned head,Hadoop,0.795,39
+SBERT-MiniLM-L6-v2 fine-tuned head,Health and fitness,0.963,27
+SBERT-MiniLM-L6-v2 fine-tuned head,Java Developer,0.952,42
+SBERT-MiniLM-L6-v2 fine-tuned head,Mechanical Engineer,0.923,39
+SBERT-MiniLM-L6-v2 fine-tuned head,Network Security Engineer,0.958,24
+SBERT-MiniLM-L6-v2 fine-tuned head,Operations Manager,0.722,18
+SBERT-MiniLM-L6-v2 fine-tuned head,PMO,0.778,9
+SBERT-MiniLM-L6-v2 fine-tuned head,Python Developer,0.852,27
+SBERT-MiniLM-L6-v2 fine-tuned head,SAP Developer,0.852,27
+SBERT-MiniLM-L6-v2 fine-tuned head,Sales,0.875,24
+SBERT-MiniLM-L6-v2 fine-tuned head,Testing,0.762,21
+SBERT-MiniLM-L6-v2 fine-tuned head,Web Designing,1.0,9
+SBERT-mpnet-base-v2 fine-tuned head,Advocate,0.98,51
+SBERT-mpnet-base-v2 fine-tuned head,Arts,0.917,24
+SBERT-mpnet-base-v2 fine-tuned head,Automation Testing,1.0,30
+SBERT-mpnet-base-v2 fine-tuned head,Blockchain,0.944,18
+SBERT-mpnet-base-v2 fine-tuned head,Business Analyst,0.833,36
+SBERT-mpnet-base-v2 fine-tuned head,Civil Engineer,0.958,24
+SBERT-mpnet-base-v2 fine-tuned head,Data Science,0.958,48
+SBERT-mpnet-base-v2 fine-tuned head,Database,0.972,36
+SBERT-mpnet-base-v2 fine-tuned head,DevOps Engineer,0.867,30
+SBERT-mpnet-base-v2 fine-tuned head,DotNet Developer,0.917,48
+SBERT-mpnet-base-v2 fine-tuned head,ETL Developer,0.944,18
+SBERT-mpnet-base-v2 fine-tuned head,Electrical Engineering,1.0,24
+SBERT-mpnet-base-v2 fine-tuned head,HR,0.912,57
+SBERT-mpnet-base-v2 fine-tuned head,Hadoop,0.949,39
+SBERT-mpnet-base-v2 fine-tuned head,Health and fitness,0.926,27
+SBERT-mpnet-base-v2 fine-tuned head,Java Developer,0.929,42
+SBERT-mpnet-base-v2 fine-tuned head,Mechanical Engineer,0.974,39
+SBERT-mpnet-base-v2 fine-tuned head,Network Security Engineer,0.958,24
+SBERT-mpnet-base-v2 fine-tuned head,Operations Manager,0.833,18
+SBERT-mpnet-base-v2 fine-tuned head,PMO,0.889,9
+SBERT-mpnet-base-v2 fine-tuned head,Python Developer,0.852,27
+SBERT-mpnet-base-v2 fine-tuned head,SAP Developer,0.963,27
+SBERT-mpnet-base-v2 fine-tuned head,Sales,1.0,24
+SBERT-mpnet-base-v2 fine-tuned head,Testing,0.762,21
+SBERT-mpnet-base-v2 fine-tuned head,Web Designing,0.889,9
+SBERT-mpnet-base-v2 frozen head,Advocate,0.941,51
+SBERT-mpnet-base-v2 frozen head,Arts,0.625,24
+SBERT-mpnet-base-v2 frozen head,Automation Testing,0.767,30
+SBERT-mpnet-base-v2 frozen head,Blockchain,0.778,18
+SBERT-mpnet-base-v2 frozen head,Business Analyst,0.806,36
+SBERT-mpnet-base-v2 frozen head,Civil Engineer,0.75,24
+SBERT-mpnet-base-v2 frozen head,Data Science,0.812,48
+SBERT-mpnet-base-v2 frozen head,Database,0.778,36
+SBERT-mpnet-base-v2 frozen head,DevOps Engineer,0.667,30
+SBERT-mpnet-base-v2 frozen head,DotNet Developer,0.708,48
+SBERT-mpnet-base-v2 frozen head,ETL Developer,0.889,18
+SBERT-mpnet-base-v2 frozen head,Electrical Engineering,0.792,24
+SBERT-mpnet-base-v2 frozen head,HR,0.737,57
+SBERT-mpnet-base-v2 frozen head,Hadoop,0.821,39
+SBERT-mpnet-base-v2 frozen head,Health and fitness,0.889,27
+SBERT-mpnet-base-v2 frozen head,Java Developer,0.81,42
+SBERT-mpnet-base-v2 frozen head,Mechanical Engineer,0.795,39
+SBERT-mpnet-base-v2 frozen head,Network Security Engineer,0.833,24
+SBERT-mpnet-base-v2 frozen head,Operations Manager,0.5,18
+SBERT-mpnet-base-v2 frozen head,PMO,0.556,9
+SBERT-mpnet-base-v2 frozen head,Python Developer,0.593,27
+SBERT-mpnet-base-v2 frozen head,SAP Developer,0.778,27
+SBERT-mpnet-base-v2 frozen head,Sales,0.625,24
+SBERT-mpnet-base-v2 frozen head,Testing,0.667,21
+SBERT-mpnet-base-v2 frozen head,Web Designing,0.889,9
+TF-IDF cosine (zero-shot),Advocate,0.843,51
+TF-IDF cosine (zero-shot),Arts,0.667,24
+TF-IDF cosine (zero-shot),Automation Testing,0.767,30
+TF-IDF cosine (zero-shot),Blockchain,0.889,18
+TF-IDF cosine (zero-shot),Business Analyst,0.778,36
+TF-IDF cosine (zero-shot),Civil Engineer,0.958,24
+TF-IDF cosine (zero-shot),Data Science,0.792,48
+TF-IDF cosine (zero-shot),Database,0.806,36
+TF-IDF cosine (zero-shot),DevOps Engineer,0.667,30
+TF-IDF cosine (zero-shot),DotNet Developer,0.854,48
+TF-IDF cosine (zero-shot),ETL Developer,0.944,18
+TF-IDF cosine (zero-shot),Electrical Engineering,0.958,24
+TF-IDF cosine (zero-shot),HR,0.825,57
+TF-IDF cosine (zero-shot),Hadoop,0.923,39
+TF-IDF cosine (zero-shot),Health and fitness,0.889,27
+TF-IDF cosine (zero-shot),Java Developer,0.833,42
+TF-IDF cosine (zero-shot),Mechanical Engineer,0.897,39
+TF-IDF cosine (zero-shot),Network Security Engineer,0.917,24
+TF-IDF cosine (zero-shot),Operations Manager,0.667,18
+TF-IDF cosine (zero-shot),PMO,0.444,9
+TF-IDF cosine (zero-shot),Python Developer,0.704,27
+TF-IDF cosine (zero-shot),SAP Developer,0.815,27
+TF-IDF cosine (zero-shot),Sales,0.875,24
+TF-IDF cosine (zero-shot),Testing,0.81,21
+TF-IDF cosine (zero-shot),Web Designing,0.778,9
+TF-IDF head,Advocate,0.725,51
+TF-IDF head,Arts,0.625,24
+TF-IDF head,Automation Testing,0.867,30
+TF-IDF head,Blockchain,0.833,18
+TF-IDF head,Business Analyst,0.889,36
+TF-IDF head,Civil Engineer,0.917,24
+TF-IDF head,Data Science,0.729,48
+TF-IDF head,Database,0.861,36
+TF-IDF head,DevOps Engineer,0.633,30
+TF-IDF head,DotNet Developer,0.792,48
+TF-IDF head,ETL Developer,0.722,18
+TF-IDF head,Electrical Engineering,0.958,24
+TF-IDF head,HR,0.825,57
+TF-IDF head,Hadoop,0.795,39
+TF-IDF head,Health and fitness,0.815,27
+TF-IDF head,Java Developer,0.881,42
+TF-IDF head,Mechanical Engineer,0.897,39
+TF-IDF head,Network Security Engineer,0.875,24
+TF-IDF head,Operations Manager,0.778,18
+TF-IDF head,PMO,0.556,9
+TF-IDF head,Python Developer,0.852,27
+TF-IDF head,SAP Developer,0.815,27
+TF-IDF head,Sales,0.792,24
+TF-IDF head,Testing,0.81,21
+TF-IDF head,Web Designing,0.556,9

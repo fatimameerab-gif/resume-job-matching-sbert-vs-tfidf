@@ -1,0 +1,9 @@
+representation,metric,classifier,mean_rank,mean_metric
+e5-base-v2,bal_acc,CosineThreshold,4.8,0.6540000000000001
+e5-base-v2,bal_acc,GradientBoosting,5.4,0.658
+e5-base-v2,bal_acc,LR,2.7,0.6849999999999999
+e5-base-v2,bal_acc,LinearSVM,2.1,0.6890000000000001
+e5-base-v2,bal_acc,MLP,6.5,0.6279999999999999
+e5-base-v2,bal_acc,RBF-SVM,4.7,0.6759999999999999
+e5-base-v2,bal_acc,RandomForest,3.9,0.675
+e5-base-v2,bal_acc,kNN,5.9,0.641
