@@ -45,4 +45,6 @@ python RQ1_FINAL/check_environment.py
 GPU steps (fine-tuning, embeddings) were run on a Kaggle/Colab T4; the entry points are `run_everything_gpu.py` and `run_v7_local.py` (see `GPU_RUNBOOK.md`). CPU analyses and the unit tests (`RQ1_FINAL/tests/`) run without a GPU.
 
 ## Citation
+Archived release v1.0: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23686674.svg)](https://doi.org/10.5281/zenodo.23686674)
+
 See `CITATION.cff`. Code is MIT-licensed; third-party data keep their own licences (`RQ1_FINAL/NOTICE.md`).
