@@ -34,7 +34,7 @@ Each folder has its own `README.md`, `TECHNICAL_NOTES.md` and `requirements*.txt
 - **Resume texts** and **Kaggle Glassdoor job texts.** Resumes come from the Kaggle "Updated Resume Dataset" (origin undocumented, possibly real personal data), so they are not redistributed. Download the two Kaggle files into `data/` and run `python restore_texts.py` to rebuild the texts (see `RQ1_FINAL/DATA_STATEMENT.md`).
 - **TalentCLEF 2026 Task A** (CC BY 4.0) is included with its provenance file; cite the Zenodo record (DOI 10.5281/zenodo.17625261).
 - **Raw rater sheets and LLM-rewritten texts.** Only anonymised aggregate human-annotation results are included (`RQ1_FINAL/results/human_annotation/`).
-- **Pre-computed embedding files (`*.npz`, ~130 MB).** They are too large for this repository and can be regenerated with the GPU scripts (`RQ1_FINAL/gpu_finetune_export.py`, `RQ1_FINAL/colab_export_embeddings.py`; see `RQ1_FINAL/GPU_RUNBOOK.md`). A copy will be archived on Zenodo.
+- **Pre-computed embedding files (`*.npz`).** They are derived from resume texts that are not redistributed, so they are not included. Regenerate them with the GPU scripts (`RQ1_FINAL/gpu_finetune_export.py`, `RQ1_FINAL/colab_export_embeddings.py`; see `RQ1_FINAL/GPU_RUNBOOK.md`; entry point `run_everything_gpu.py`).
 - SEEK postings (CC BY 4.0) and ESCO files are included with attribution; see `RQ1_FINAL/NOTICE.md`.
 
 ## Reproducing
